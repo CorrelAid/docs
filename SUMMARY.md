@@ -28,7 +28,7 @@
   * [Adjourning des Projektteams](project-handbook/06-adjourning.md)
   * [Projektinfrastruktur](project-handbook/08-projekt-infrastruktur.md)
   * [index](project-handbook/index.md)
-  * [02-ausschreiben](project-handbook/02-ausschreiben.md)
+  * [Ausschreiben des Projektes im Netzwerk](project-handbook/02-ausschreiben.md)
   * [Follow Up \(mit der Partnerorganisation\)](project-handbook/07-follow-up.md)
   * [Workshop](project-handbook/03-workshop.md)
   * [Arbeit im Projektteam](project-handbook/04-arbeit-im-projektteam.md)

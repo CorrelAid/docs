@@ -3,9 +3,9 @@ params:
   emoji: 'yes'
 ---
 
-# 02-ausschreiben
+# Ausschreiben des Projektes im Netzwerk
 
-## Ausschreiben des Projektes im Netzwerk <a id="ausschreiben"></a>
+##  <a id="ausschreiben"></a>
 
 ### Überblick
 
