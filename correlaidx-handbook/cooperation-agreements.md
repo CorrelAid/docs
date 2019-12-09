@@ -12,11 +12,11 @@
 
 ## 2. Relations between local group and CorrelAid Germany
 
-2.1 CorrelAidX  _insert city name_  is part of CorrelAid e.V. and does not exist as a standalone organization. Exceptions are possible, but must be clarified individually with CorrelAid Germany.
+2.1 CorrelAidX _insert city name_ is part of CorrelAid e.V. and does not exist as a standalone organization. Exceptions are possible, but must be clarified individually with CorrelAid Germany.
 
 2.2 If projects are planned with local social organizations, this should be discussed with the Core Team. A possible project is subsequently not mediated and project members are not chosen by the local group but by CorrelAid Germany \(in cooperation with the local group\).
 
-2.3 Contact persons at local level are authorized to communicate on behalf of CorrelAid e.V. for the purpose of project acquisition and the acquisition of interested persons. However, you should use the addition CorrelAidX  _insert city name_ .
+2.3 Contact persons at local level are authorized to communicate on behalf of CorrelAid e.V. for the purpose of project acquisition and the acquisition of interested persons. However, you should use the addition CorrelAidX _insert city name_ .
 
 2.4 The local group communicates all events and local initiatives to CorrelAid Germany.
 

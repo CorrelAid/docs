@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction](./)
 * [Organizational structure](organizational-structure.md)
 * [Style guide](style-guide.md)
 * [Ethics guide](ethics-guide.md)
@@ -10,5 +10,5 @@
 
 ## Wiki
 
-* [Introduction](wiki/introduction.md)
+* [Introduction](https://github.com/CorrelAid/docs/tree/a3a9ab8d81029057311967bf791bad6c989df563/correlaidx-handbook/wiki/introduction.md)
 

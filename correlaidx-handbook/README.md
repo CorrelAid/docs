@@ -1,4 +1,4 @@
-# Introduction
+# CorrelAidX Handbook
 
 ## What is CorrelAidX?
 

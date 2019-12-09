@@ -1,24 +1,23 @@
 ---
-params:
+params: null
 emoji: true
 ---
 
-# Follow Up (mit der Partnerorganisation)
+# Follow Up \(mit der Partnerorganisation\)
 
-```{block, type='blue'}
+\`\`\`{block, type='blue'}
 
 **Ziel** des Follow-Ups ist es folgende Fragen zu beantworten:
-- Wie wurde mit den Ergebnissen unseres Projektes umgegangen?
-- Gab es Probleme mit unseren Ergebnissen?
-- Wie hat unser Projekt der NPO geholfen?
-- Konnten konkrete Verbesserungen festgestellt werden? vielleicht sogar messbare Veränderungen?
-- Kann die Partnerorganisation Testimonials für unsere Öffentlichkeitsarbeit machen?
 
-**Zeitaufwand:** 1 h 
-**Haufigkeit:** min. einmal dem Projekt
-Relevante Ansprechspartner: Auftraggebende Organisation, Projektleiter (im Loop halten)
-```
+* Wie wurde mit den Ergebnissen unseres Projektes umgegangen?
+* Gab es Probleme mit unseren Ergebnissen?
+* Wie hat unser Projekt der NPO geholfen?
+* Konnten konkrete Verbesserungen festgestellt werden? vielleicht sogar messbare Veränderungen?
+* Kann die Partnerorganisation Testimonials für unsere Öffentlichkeitsarbeit machen?
 
+**Zeitaufwand:** 1 h **Haufigkeit:** min. einmal dem Projekt Relevante Ansprechspartner: Auftraggebende Organisation, Projektleiter \(im Loop halten\)
+
+```text
 ## Anleitung
 
 Nach Ende des Projekts sollte es mindestens eine Follow-Up Kommunikation mit der Partnerorganisation geben. Direkt nach der Abgabe von Projektbericht kontaktiert die Projektkoordinatorin Projektleiterin und Ansprechspartnerin von Partnerorganisation, um einen Termin für Feedback-Gespräch zu führen. In der Email schreibt Projektleiterin:
@@ -65,22 +64,23 @@ Muss noch ergänzt werden.
 
 ### Template für Agenda
 
-```{block, type='yellow'}
-| Thema | Concrete Fragen |
-| --- | --- | --- |
-| Fragen an Projektbericht  | Ergebnisse/Methode
-| Feedback an Projekt (Kommunikation, Qualität von Bericht)  | Was läuft gut in der Projektarbeit bzgl. Kommunikation, Projektbericht?
-|| Was sollte verbessert werden?
-| Feedback an CorrelAid (Workshop, Koordination, Unterstützung...)  | Was läuft gut in der Arbeit von CorrelAid?
-|| Was sollte verbessert werden?
-| Öffentlichkeitsarbeit  | wie viel Inhalt von Projekt man fuer Oeffentlichkeitsarbeit benutzen darf.
-|| Testimonial  
-|Follow up| Plant Ihre Organisation, Projektergebnisse umzusetzen? (Falls ja, Termin für die Zukunft, z.B. in drei oder sechs Monate)
-||Möglichkeit weiterer Kooperation
+\`\`\`{block, type='yellow'}
 
-```
+| Thema | Concrete Fragen |
+| :--- | :--- |
+| Fragen an Projektbericht | Ergebnisse/Methode |
+| Feedback an Projekt \(Kommunikation, Qualität von Bericht\) | Was läuft gut in der Projektarbeit bzgl. Kommunikation, Projektbericht? |
+|  | Was sollte verbessert werden? |
+| Feedback an CorrelAid \(Workshop, Koordination, Unterstützung...\) | Was läuft gut in der Arbeit von CorrelAid? |
+|  | Was sollte verbessert werden? |
+| Öffentlichkeitsarbeit | wie viel Inhalt von Projekt man fuer Oeffentlichkeitsarbeit benutzen darf. |
+|  | Testimonial |
+| Follow up | Plant Ihre Organisation, Projektergebnisse umzusetzen? \(Falls ja, Termin für die Zukunft, z.B. in drei oder sechs Monate\) |
+|  | Möglichkeit weiterer Kooperation |
+
+\`\`\`
 
 ### Template für Fragebogen
 
-
 ## Referenzen & Hinweise
+

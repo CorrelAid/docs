@@ -1,55 +1,54 @@
 ---
 params:
-  emoji: yes
+  emoji: 'yes'
 ---
 
-<!-- # ```{r echo=FALSE} -->
-<!-- # library(readr) -->
-<!-- # library(knitr) -->
-<!-- # library(kableExtra) -->
-<!-- # ``` -->
+# 02-ausschreiben
 
-# Ausschreiben des Projektes im Netzwerk {#ausschreiben}
+## Ausschreiben des Projektes im Netzwerk <a id="ausschreiben"></a>
 
-## Überblick
+### Überblick
 
-```{block, type='blue'} 
- - Ziel: Aufstellen eines passenden Projektteams aus dem CorrelAid-Netzwerk
- - Zeitrahmen: 3 Wochen
- - Zeitaufwand: 6-8 h
- - Relevante Akteurinnen: Projektkoordinatorin, Core Team, Auswahlgruppe (wird im Prozess gebildet)
-```
+\`\`\`{block, type='blue'}
 
-## Prozessgrafik
+* Ziel: Aufstellen eines passenden Projektteams aus dem CorrelAid-Netzwerk
+* Zeitrahmen: 3 Wochen
+* Zeitaufwand: 6-8 h
+* Relevante Akteurinnen: Projektkoordinatorin, Core Team, Auswahlgruppe \(wird im Prozess gebildet\)
 
-- Einrichtung des Bewerbungsformulars *Tag 1*
-- Ausschreibung des Projekts per MailChimp *Tag 1*
-- Erneute Versendung der Ausschreibung per MailChimp *Tag 7*
-- Bildung einer Auswahlgruppe *Tag 7*
-- Zusammenfassung der Bewerbungen *Tag 14*
-- Auswahlgruppe wählt Projektteam aus *Tag 15 - 18*
-- Projektkoordinatorin schreibt Ausgewählte an und bittet um Bestätigung *Tag 15 - 20*
-- Projektkoordinatorin verschickt Absagen an weitere Bewerberinnen sobald das Team steht *Tag 21*
-- Projektkoordinatorin schickt eine Begrüßungsmail an das Projektteam *Tag 21*
+  \`\`\`
 
-## Anleitung
+### Prozessgrafik
 
-### Einrichtung des Projekt-Factsheets
+* Einrichtung des Bewerbungsformulars _Tag 1_
+* Ausschreibung des Projekts per MailChimp _Tag 1_
+* Erneute Versendung der Ausschreibung per MailChimp _Tag 7_
+* Bildung einer Auswahlgruppe _Tag 7_
+* Zusammenfassung der Bewerbungen _Tag 14_
+* Auswahlgruppe wählt Projektteam aus _Tag 15 - 18_
+* Projektkoordinatorin schreibt Ausgewählte an und bittet um Bestätigung _Tag 15 - 20_
+* Projektkoordinatorin verschickt Absagen an weitere Bewerberinnen sobald das Team steht _Tag 21_
+* Projektkoordinatorin schickt eine Begrüßungsmail an das Projektteam _Tag 21_
+
+### Anleitung
+
+#### Einrichtung des Projekt-Factsheets
+
 Die Projektleiterin benutzt das Template für Projekt-Factsheet in der CorrelCloud und erstellt ein Projekt-Factsheet. Im Prozess von Projektkoordination bis zum Abschluss von Projekt sollte die Projektleiterin immer daran erinnern, relevante Informationen im Projekt-Fachsheet zu dokumentieren. Nach Projektabschluss veröffentlicht die Projektleiterin das Projekt-Factsheet im Channel "Vorstand" auf Slack. Es dient als Diskussionsvorlage für die Telefonkonferenz. Danach wird das Fachsheet in der CorrelCloud gespeichert.
 
 Das Factsheet umfasst folgende Punkte, die im Laufe des Projektes ergänzt werden:
 
-- Basic Information des Projekts
-    - Projektinhalt
-    - Partnerorganisation
-    - Datum und Dauer
-    - Projektleiterin, Projektkoordinatorin, Projektteammitglieder
-- Zusammenfassung von Koordinationserfahrung
-- Feedback des Projektteams
-- Feedback der Projektleitung
-- Tipps für die Zukunft
+* Basic Information des Projekts
+  * Projektinhalt
+  * Partnerorganisation
+  * Datum und Dauer
+  * Projektleiterin, Projektkoordinatorin, Projektteammitglieder
+* Zusammenfassung von Koordinationserfahrung
+* Feedback des Projektteams
+* Feedback der Projektleitung
+* Tipps für die Zukunft
 
-### Einrichtung des Formulars
+#### Einrichtung des Formulars
 
 Die Projektkoordinatorin erstellt bei MailChimp ein Formular, über das sich Netzwerkmitglieder, die Interesse an der Mitarbeit haben, melden. Als Vorlage dient das Template aus der MailChimp-Vorlage.
 
@@ -57,38 +56,39 @@ Die Projektkoordinatorin definiert mit dem Vorstand und der Projektleitung, welc
 
 Die Projektkoordinatorin teilt den Link zum Formular auf Slack im Channel `#projekte` und erbittet Feedback unter Nennung einer konkreten Deadline für das Feedback - wenige Tage. Die Projektkoordinatorin überarbeitet das Formular auf Basis des Feedbacks. Dazu legt sie bei MailChimp eine neue Kampagne an - als Vorlage dient das Template für Projektausschreibungen.
 
-### Aussendungen über MailChimp
+#### Aussendungen über MailChimp
 
 Die Projektkoordinatorin verschickt die Projektausschreibung über das Netzwerk. Die Ausschreibung enthält einen Link zu dem Formular, über das sich Interessierte für das Projekt melden. Die Projektkoordinatorin macht dies selber oder bittet ein Mitglied des Kernteams mit Zugang zu MailChimp um Hilfe.
 
 Für die Projektausschreibung gibt es ein Template auf MailChimp, das die Projektkoordinatorin dafür nutzen soll. Die Textbausteine des Templates sind auch in diesem Abschnitt des Handbuchs unter Templates aufgeführt.
 
-Die Projektkoordinatorin passt das Python-Skript für automatisierte Bestätigungs-E-Mail an und aktiviert es anschließend. Hierbei können Frie (`@frie`) oder Jan (`@tollpatsch`) um Hilfe gebeten werden. Das Skript prüft täglich, ob es neue Eintragungen in die Liste gab und verschickt an diese eine Bestätgigungs-Email, über den Erhalt der Bewerbung. Der Text dieser E-Mail muss projektspezifisch angepasst werden.
+Die Projektkoordinatorin passt das Python-Skript für automatisierte Bestätigungs-E-Mail an und aktiviert es anschließend. Hierbei können Frie \(`@frie`\) oder Jan \(`@tollpatsch`\) um Hilfe gebeten werden. Das Skript prüft täglich, ob es neue Eintragungen in die Liste gab und verschickt an diese eine Bestätgigungs-Email, über den Erhalt der Bewerbung. Der Text dieser E-Mail muss projektspezifisch angepasst werden.
 
 Die Projektkoordinatorin schickt nach Ablauf einer Woche eine Erinnerung an die Ausschreibung ans Netzwerk. Es handelt sich dabei um den ursprünglichen Ausschreibungstext, der um 1-2 Sätze ergänzt wird, dass es sich um eine Erinnerung an die in einer Woche ablaufende Ausschreibung handelt. Diese Erinnerung kann bei Verschicken der initialen Einschreibung schon versandfertig gemacht und vorgetimet werden.
 
-### Bildung der Auswahlgruppe
+#### Bildung der Auswahlgruppe
 
-Direkt nach Versand der Ausschreibung kümmert sich die Projektkoordinatorin um die Bildung einer Auswahlgruppe, welche aus den Interessentinnen aus dem Netzwerk ein Projektteam auswählen wird. Dazu erstellt die Projektkoordinatorin im Slack-Channel `#general` eine Abstimmung mit der Frage "Möchtest Du an der Auswahlgruppe für das Projekt '[Projektname]'" teilnehmen. Alle Mitglieder des Kernteams (also alle auf Slack) können Teil der Auswahlgruppe werden.
+Direkt nach Versand der Ausschreibung kümmert sich die Projektkoordinatorin um die Bildung einer Auswahlgruppe, welche aus den Interessentinnen aus dem Netzwerk ein Projektteam auswählen wird. Dazu erstellt die Projektkoordinatorin im Slack-Channel `#general` eine Abstimmung mit der Frage "Möchtest Du an der Auswahlgruppe für das Projekt '\[Projektname\]'" teilnehmen. Alle Mitglieder des Kernteams \(also alle auf Slack\) können Teil der Auswahlgruppe werden.
 
-Außerdem legt die Projektkoordinatorin bereits einen Termin für die Telefon- oder appear.in-Konferenz der Auswahlgruppe fest. Die Mitglieder des Kernteams sollen nur "Ja" sagen, wenn sie an diesem Termin können. Der Termin sollte möglichst unmittelbar nach Ablauf der Bewerbungsfrist liegen. 
+Außerdem legt die Projektkoordinatorin bereits einen Termin für die Telefon- oder appear.in-Konferenz der Auswahlgruppe fest. Die Mitglieder des Kernteams sollen nur "Ja" sagen, wenn sie an diesem Termin können. Der Termin sollte möglichst unmittelbar nach Ablauf der Bewerbungsfrist liegen.
 
-Abstimmungen können in Slack über die Polly-Erweiterung erstellt werden. Diese wird jeweils durch den Befehl `/poll` eingeleitet. Darauf folgen der Titel der Abstimmung "Wer möchte am xx.xx. Teil der [Projektname]-Auswahlgruppe sein?" sowie die Antwortmöglichkeiten "Ja :thumbsup:" und "Nein :thumbsdown:" jeweils in Anführungszeichen. 
+Abstimmungen können in Slack über die Polly-Erweiterung erstellt werden. Diese wird jeweils durch den Befehl `/poll` eingeleitet. Darauf folgen der Titel der Abstimmung "Wer möchte am xx.xx. Teil der \[Projektname\]-Auswahlgruppe sein?" sowie die Antwortmöglichkeiten "Ja :thumbsup:" und "Nein :thumbsdown:" jeweils in Anführungszeichen.
 
 Ein Polly-befehl könnte also wie folgt aussehen:
-```
+
+```text
 /Poll "Wer möchte am 23.08. Teil der Ashoka-Auswahlgruppe sein?" "Ja :thumbsup:" "Nein :thumbsdown:"
 ```
 
-#### Die Auswahlgruppe
+**Die Auswahlgruppe**
 
-- 3 Mitglieder
-    + die Projektkoordinatorin
-    + mindestens 2 Mitglieder des Kernteams (zufällig ausgewählt)
-    + bei der Bildung der Auswahlgruppe ist auf die Geschlechterparität zu achten
-- Die Mitgliedschaft in der Auswahlgruppe und eine Bewerbung auf das Projekt schließen sich aus. Ob die Projektleiterin auch Teil der Auswahlgruppe ist, kann je nach Projekt entschieden werden.
+* 3 Mitglieder
+  * die Projektkoordinatorin
+  * mindestens 2 Mitglieder des Kernteams \(zufällig ausgewählt\)
+  * bei der Bildung der Auswahlgruppe ist auf die Geschlechterparität zu achten
+* Die Mitgliedschaft in der Auswahlgruppe und eine Bewerbung auf das Projekt schließen sich aus. Ob die Projektleiterin auch Teil der Auswahlgruppe ist, kann je nach Projekt entschieden werden.
 
-### Auswahl eines Projektteams
+#### Auswahl eines Projektteams
 
 Die Projektkoordinatorin schließt das Formular. Sie exportiert anschließend die Liste aus MailChimp.
 
@@ -105,123 +105,119 @@ Vorschlag für den Ablauf der Telefonkonferenz:
 1. Die Projektkoordinatorin begrüßt alle Teilnehmenden und prüft, ob alle Mitglieder der Auswahlgruppe anwesend sind und, dass niemand dabei ist, die nicht teilnehmen sollte.
 2. Die Projektkoordinatorin erläutert die Grundsätze der Teamauswahl. Sie fragt, ob es dazu Fragen gibt.
 3. Die Projektkoordinatorin geht kurz die Profile der Bewerberinnen durch.
-    - Falls darunter Bewerberinnen sind, die sich bereits erfolglos beworben haben oder schon mal an einem Projekt teilgenommen habe weist sie darauf hin.
+   * Falls darunter Bewerberinnen sind, die sich bereits erfolglos beworben haben oder schon mal an einem Projekt teilgenommen habe weist sie darauf hin.
 4. Die Projektkoordinatorin versucht einen Konsens zu finden, welche Person auf Platz 1 gesehen wird. Und so weiter.
 5. Die Projektkoordinatorin fasst die Auswahl zusammen. Sie rückversichert sich, dass diese Entscheidung von allen Mitglieder der Auswahlgruppe mit getragen wird.
 
-#### Grundsätze der Teamauswahl
+**Grundsätze der Teamauswahl**
 
-- Die Auswahl erfolgt ungeachtet von Staatsangehörigkeit, Hautfarbe, Religion und sexueller Orientierung.
-- Wir achten auf eine angemessen Repräsentation von Frauen in unseren Projektteams.
-- Mindestens 50% der Mitglieder unserer Projektteams sind Frauen.
-- Wir achten auf eine ausgewogene Besetzung der Projektteams nach verschiedenen Levels an Erfahrung.
-- Interessierte, die bereits an einem anderen Projekt mitarbeiten wollten und dort nicht zum Zuge gekommen sind, werden bevorzugt berücksichtigt. Interessierte, die sich erstmals für ein Projekt bewerben, werden gegenüber Interessentinnen, die bereit an einem Projekt teilgenommen haben, bevorzugt berücksichtigt.
-    + Wir führen dazu eine Liste sämtlicher bisheriger Bewerberinnen und Projektteammitglieder. Wir speichern dabei nur Name, E-Mail-Adresse und Geschlecht der Personen.
-    + Diese Liste ist im Vorstandsordner auf der CorrelCloud gespeichert.
-    + Die Projektkoordinatorin bekommt für die Dauer des Auswahlprozesses diese Liste zur Verfügung gestellt mit der Maßgabe sie ergänzt zurückschicken und im Anschluss auf ihrem privaten Rechner zu löschen.
-- Bewerbungsgespräche führen wir nicht durch. Die Auswahlgruppe entscheidet auf Grundlagen der schriftlichen Bewerbungen.
-- Die Auswahlgruppe versucht, nach dem Konsensprinzip zu entscheiden.
-- Ist ein Konsens nicht herzustellen erfolgt eine Mehrheitsentscheidung.
-- Bei Stimmengleichheit gibt die Stimme der Projektkoordinatorin den Ausschlag.
+* Die Auswahl erfolgt ungeachtet von Staatsangehörigkeit, Hautfarbe, Religion und sexueller Orientierung.
+* Wir achten auf eine angemessen Repräsentation von Frauen in unseren Projektteams.
+* Mindestens 50% der Mitglieder unserer Projektteams sind Frauen.
+* Wir achten auf eine ausgewogene Besetzung der Projektteams nach verschiedenen Levels an Erfahrung.
+* Interessierte, die bereits an einem anderen Projekt mitarbeiten wollten und dort nicht zum Zuge gekommen sind, werden bevorzugt berücksichtigt. Interessierte, die sich erstmals für ein Projekt bewerben, werden gegenüber Interessentinnen, die bereit an einem Projekt teilgenommen haben, bevorzugt berücksichtigt.
+  * Wir führen dazu eine Liste sämtlicher bisheriger Bewerberinnen und Projektteammitglieder. Wir speichern dabei nur Name, E-Mail-Adresse und Geschlecht der Personen.
+  * Diese Liste ist im Vorstandsordner auf der CorrelCloud gespeichert.
+  * Die Projektkoordinatorin bekommt für die Dauer des Auswahlprozesses diese Liste zur Verfügung gestellt mit der Maßgabe sie ergänzt zurückschicken und im Anschluss auf ihrem privaten Rechner zu löschen.
+* Bewerbungsgespräche führen wir nicht durch. Die Auswahlgruppe entscheidet auf Grundlagen der schriftlichen Bewerbungen.
+* Die Auswahlgruppe versucht, nach dem Konsensprinzip zu entscheiden.
+* Ist ein Konsens nicht herzustellen erfolgt eine Mehrheitsentscheidung.
+* Bei Stimmengleichheit gibt die Stimme der Projektkoordinatorin den Ausschlag.
 
-### Zusammenstellen des Projektteams
+#### Zusammenstellen des Projektteams
 
 Die Projektkoordinatorin kontaktiert nun sofort die ausgewählten Bewerberinnen und bittet um schnelle Bestätigung. Sagt eine Bewerberin ab, wird die erste Person auf der Nachrückerinnen-Liste angeschrieben. Erst wenn Zusagen von allen Projektteammitgliedern eingegangen sind, werden Absagen an verschickt. Für Zu- und Absagen gibt es ein Template, das genutzt werden kann.
 
-### Begrüßung des neuen Teams
+#### Begrüßung des neuen Teams
 
-Die Projektkoordinatorin sendet eine Begrüßungsemail an das Projektteam (inkl. Projektleiterin). Darin:
+Die Projektkoordinatorin sendet eine Begrüßungsemail an das Projektteam \(inkl. Projektleiterin\). Darin:
 
-- begrüßt sie alle herzlich im Team
-- stellt die Projektleiterin kurz vor
-- stellt alle Teammitglieder kurz vor
-- weist auf den Workshoptermin hin
-- lädt die Teammitglieder zu Slack ein
+* begrüßt sie alle herzlich im Team
+* stellt die Projektleiterin kurz vor
+* stellt alle Teammitglieder kurz vor
+* weist auf den Workshoptermin hin
+* lädt die Teammitglieder zu Slack ein
 
-Die Projektkoordinatorin lädt die Teammitglieder zu Slack sein. 
-Hierfür geht man im Menü des Correlaid-Channels auf die Option "Invite people". In der sich daraufhin öffnenden Maske werden die Mailadressen der jeweiligen Teammitglieder sowie deren Namen eingetragen. 
-Hat die Projektleiterin noch keine Administratorenrechte für Slack haben sollte dies nachgeholt werden. 
+Die Projektkoordinatorin lädt die Teammitglieder zu Slack sein. Hierfür geht man im Menü des Correlaid-Channels auf die Option "Invite people". In der sich daraufhin öffnenden Maske werden die Mailadressen der jeweiligen Teammitglieder sowie deren Namen eingetragen. Hat die Projektleiterin noch keine Administratorenrechte für Slack haben sollte dies nachgeholt werden.
 
 Die Projektkoordinatorin richten einen geschlossenen Channel für das Team ein. Darin sind nur die Projektkoordinatorin, die Projektleiterin und die Projektteammitglieder.
 
 Die Projektkoordinatorin ergänzt die Liste unserer Projekte auf der CorrelCloud um das neue Projekte und die Mitglieder des Projektteams.
 
-### Projektteam über den Workshop informieren
+#### Projektteam über den Workshop informieren
 
-Die Projektkoordinatorin sendet eine separate Email an das Projektteam (inkl. Projektleiterin) zu Workshop. Darin gibt die Projektleiterin folgende Information:
+Die Projektkoordinatorin sendet eine separate Email an das Projektteam \(inkl. Projektleiterin\) zu Workshop. Darin gibt die Projektleiterin folgende Information:
 
-- Ziel von Workshop
-- Ort und Termin von Workshop
-- Teilnehmer von Workshop
-- Organisatorische Arbeit (Transport, Übernachtung)
-- Vorläufiges Workshop-Programm
-- Ansprechspartner_in (Projektkoordinatorin/Projektleiterin), je nachdem wer zuständig für Vorbereitung und Durchsetzung von Projekt ist.
+* Ziel von Workshop
+* Ort und Termin von Workshop
+* Teilnehmer von Workshop
+* Organisatorische Arbeit \(Transport, Übernachtung\)
+* Vorläufiges Workshop-Programm
+* Ansprechspartner\_in \(Projektkoordinatorin/Projektleiterin\), je nachdem wer zuständig für Vorbereitung und Durchsetzung von Projekt ist.
 
-## Checkliste
+### Checkliste
 
-- [ ] Die Ausschreibung ist raus und das Formular online
-- [ ] Die Auswahlgruppe ist zusammengestellt
-- [ ] Das Team ist ausgewählt. Von den Ausgewählten wurde die Zusage eingeholt und den weiteren Bewerberinnen abgesagt.
-- [ ] Das Team wurde begrüßt und zu Slack und der CorrelCloud eingeladen.
+* [ ] Die Ausschreibung ist raus und das Formular online
+* [ ] Die Auswahlgruppe ist zusammengestellt
+* [ ] Das Team ist ausgewählt. Von den Ausgewählten wurde die Zusage eingeholt und den weiteren Bewerberinnen abgesagt.
+* [ ] Das Team wurde begrüßt und zu Slack und der CorrelCloud eingeladen.
 
-## Templates
+### Templates
 
-- Template für Formular
-- Template für Ausschreibung
-- Template für Übersicht über Bewerberinnen
-- Template für Protokoll der Auswahlgruppe
-- Templates für Zu- und Absagen
-- Template für Begrüßungsemail
+* Template für Formular
+* Template für Ausschreibung
+* Template für Übersicht über Bewerberinnen
+* Template für Protokoll der Auswahlgruppe
+* Templates für Zu- und Absagen
+* Template für Begrüßungsemail
 
-### Template Formular
+#### Template Formular
 
-```{block, type='yellow'}
+\`\`\`{block, type='yellow'}
 
-# CorrelAid: Projektausschreibung [Projektname]
+## CorrelAid: Projektausschreibung \[Projektname\]
 
-## Rahmendaten
+### Rahmendaten
 
-**Bewerbungsfrist:** [Datum]
+**Bewerbungsfrist:** \[Datum\]
 
 **Team:** X x DatenanalystInnen
 
 **Projektzeitraum:** Mitte Oktober 2016 bis Ende Dezember 2016
 
-## Formular
+### Formular
 
-Vorname*
+Vorname\*
 
-Name*
+Name\*
 
-E-Mail-Adresse*
+E-Mail-Adresse\*
 
-Gender *
+Gender \*
 
-- Weiblich
-- Männlich
-- Möchte ich nicht angeben/so definieren.
+* Weiblich
+* Männlich
+* Möchte ich nicht angeben/so definieren.
 
-Stadt *
+Stadt \*
 
 Universität/Arbeitgeber
 
-Mit welcher Statistik-Software arbeitest du hauptsächlich?*
+Mit welcher Statistik-Software arbeitest du hauptsächlich?\*
 
-- R
-- Python
-- Andere (siehe Textfeld in der nächsten Zeile)
+* R
+* Python
+* Andere \(siehe Textfeld in der nächsten Zeile\)
 
-Welche weitere Software nutzt du? [Textfeld]
+Welche weitere Software nutzt du? \[Textfeld\]
 
 Meine Einschätzung zu meinen R-Kenntnissen
 
 Projektspezifischen Fragen
 
+\*Pflichtfeld
 
-*Pflichtfeld
-
-```
-
+```text
 ### Template für Ausschreibung
 
 ```{block, type='yellow'}
@@ -234,7 +230,7 @@ Betreff: [CorrelAid] Projektausschreibung: [Projektname]
 **Team:** 1 TeamleiterIn (Name), 3 DatenanalystInnen (Du?)
 **Thema:** 1-2 allgemeine Worte zu den durchzuführenden Analyen
 **Projektzeitraum:** 
- 
+
 ## Das Projekt
 
 Absatz zur Oroganisation
@@ -250,22 +246,19 @@ Wenn ihr an dem Projekt mitarbeiten wollt, solltet ihr mindestens X Stunden pro 
 [Button: Apply now]
 
 Bei Fragen schreibe gerne eine Mail an [E-Mail der Projektkordinatorin]
-
 ```
 
-### Template für Übersicht über Bewerberinnen
+#### Template für Übersicht über Bewerberinnen
 
-```{block, type='yellow'}
+\`\`\`{block, type='yellow'}
 
+| No. | Gender | Stadt | Ausbildung | Relevante berufliche Erfahrung | Statistik-Software | Weitere Software | Einschätzung zu R-Kenntnissen | Projektspezifische Fragen |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bewerber\_in 1 |  |  |  |  |  |  |  |  |
+| Bewerber\_in 2 |  |  |  |  |  |  |  |  |
+| Bewerber\_in 3 |  |  |  |  |  |  |  |  |
 
-| No. | Gender | Stadt | Ausbildung | Relevante berufliche Erfahrung|Statistik-Software| Weitere Software | Einschätzung zu R-Kenntnissen| Projektspezifische Fragen
-| -------- | -------- | -------- | -------- | -------- | -------- |-------- |-------- | -------- |
-| Bewerber_in 1    |      |      |
-| Bewerber_in 2    |      |      |
-| Bewerber_in 3    |      |      |
-
-```
-
+```text
 ### Template für Beurteilungstabelle 
 
 ```{block, type='yellow'}
@@ -275,40 +268,29 @@ Bei Fragen schreibe gerne eine Mail an [E-Mail der Projektkordinatorin]
 | Bewerber_in 1    |      |      |
 | Bewerber_in 2    |      |      |
 | Bewerber_in 3    |      |      |
-
 ```
 
-<!-- # ```{r echo=FALSE, message=FALSE} -->
-<!-- # tab <- read_csv("tables/02_beurteilungstabelle.csv") -->
-<!-- # kable(tab, "html") %>%  -->
-<!-- #   kable_styling() %>%  -->
-<!-- #   scroll_box(width = "800px", height = "300px") -->
-<!-- # ``` -->
+#### Template für Zusage
 
-### Template für Zusage
+\`\`\`{block, type='yellow'}
 
-```{block, type='yellow'}
+Betreff: \[CorrelAid\] Deine Bewerbung auf das Projekt "\[Projektname\]"
 
-Betreff: [CorrelAid] Deine Bewerbung auf das Projekt "[Projektname]"
+Liebe/r \[Name Bewerberin\],
 
-Liebe/r [Name Bewerberin],
-
-vielen Dank für Deine Bereitschaft, an unserem Projekt für [Name Organisation] mitzuwirken. Ich freue mich
-sehr, Dir sagen zu können, dass Du bei unserem Projekt mit dabei bist.
+vielen Dank für Deine Bereitschaft, an unserem Projekt für \[Name Organisation\] mitzuwirken. Ich freue mich sehr, Dir sagen zu können, dass Du bei unserem Projekt mit dabei bist.
 
 Bitte gib mir schnell Bescheid, ob Du nachwievor mitmachen möchtest.
 
-Weitere Details folgen dann in Kürze. Der Projektworkshop findet schon bald und zwar am [Datum] statt. Du erhältst bald mehr Infos dazu. Bitte trage Dir diesen Termin schon mal in Deinem Kalender ein.
+Weitere Details folgen dann in Kürze. Der Projektworkshop findet schon bald und zwar am \[Datum\] statt. Du erhältst bald mehr Infos dazu. Bitte trage Dir diesen Termin schon mal in Deinem Kalender ein.
 
-Unter meiner E-Mail findest Du nochmal zur Erinnerung die
-Projektbeschreibung.
+Unter meiner E-Mail findest Du nochmal zur Erinnerung die Projektbeschreibung.
 
 Herzliche Grüße
 
-[Projektkoordinatorin]
+\[Projektkoordinatorin\]
 
-```
-
+```text
 ### Template für Absage
 
 ```{block, type='yellow'}
@@ -340,38 +322,35 @@ Mit Fragen und Ideen kannst Du Dich auch gerne jederzeit an mich wenden.
 Herzliche Grüße
 
 [Projektkoordinatorin]
-
 ```
 
-### Template für Begrüßung des Projektteams
+#### Template für Begrüßung des Projektteams
 
-```{block, type='yellow'}
+\`\`\`{block, type='yellow'}
 
-Betreff: [CorrelAid] Herzlich willkommen im Projektteam
+Betreff: \[CorrelAid\] Herzlich willkommen im Projektteam
 
-Liebe [alle Namen des Projetteams auflisten]
+Liebe \[alle Namen des Projetteams auflisten\]
 
-herzlich willkommen im Projektteam, das in den nächsten Wochen das Projekt für [Organisation] bearbeiten wird. Ich freue mich sehr, dass ihr mit dabei seid.
+herzlich willkommen im Projektteam, das in den nächsten Wochen das Projekt für \[Organisation\] bearbeiten wird. Ich freue mich sehr, dass ihr mit dabei seid.
 
-Ich bin [Name Projektkordinatorin] und koordiniere dieses Projekt für CorrelAid. Ich kümmere mich um organisatorische Aspekte. 
+Ich bin \[Name Projektkordinatorin\] und koordiniere dieses Projekt für CorrelAid. Ich kümmere mich um organisatorische Aspekte.
 
-Eure Projektleiterin ist [Name Projektleiterin]. [Vorstellung der Projektleiterin]
+Eure Projektleiterin ist \[Name Projektleiterin\]. \[Vorstellung der Projektleiterin\]
 
 Ihr werdet euch alle auf dem Workshop kennenlernen. Hier schon mal mit einem Satz zu jedem wer alles im Team mit dabei ist.
 
-[Vorstellung Teammitglieder]
+\[Vorstellung Teammitglieder\]
 
-Der Workshop wird am [Datum] in [Ort] stattfinden. Orgasachen abfragen.
+Der Workshop wird am \[Datum\] in \[Ort\] stattfinden. Orgasachen abfragen.
 
 Zur Kommunikation im Team nutzen wir das Tool Slack. Dazu erhaltet ihr separat von mir eine Einladung. Ihr könnt euch dort gerne schon vor dem Workshop anmelden und als Team kommunizieren. Auf dem Workshop werden wir das Tool und wie wir es nutzen vorstellen.
 
-Die Projektarbeit mit euch gliedert sich im Folgenden in 3 Phasen: Zunächst kommt der Workshop in dem ihr [die Organisation] sowie die weiteren Projektmitglieder kennenlernt. Hier lernt ihr unsere Tools kennen und erarbeitet ein Vorgehen für eure Projektarbeit. Daran schließt das eigentliche Projekt an welches mit einem Abschlussbericht beendet wird. Dieser Bericht geht anschließend in ein Peer Review Verfahren mit erfahrenen Mitgliedern aus unserem Netzwerk. 
+Die Projektarbeit mit euch gliedert sich im Folgenden in 3 Phasen: Zunächst kommt der Workshop in dem ihr \[die Organisation\] sowie die weiteren Projektmitglieder kennenlernt. Hier lernt ihr unsere Tools kennen und erarbeitet ein Vorgehen für eure Projektarbeit. Daran schließt das eigentliche Projekt an welches mit einem Abschlussbericht beendet wird. Dieser Bericht geht anschließend in ein Peer Review Verfahren mit erfahrenen Mitgliedern aus unserem Netzwerk.
 
-Herzliche Grüße
-Arndt
+Herzliche Grüße Arndt
 
-```
-
+```text
 ### Template für Fact Sheet
 
 ```{block, type='yellow'}
@@ -396,11 +375,11 @@ Arndt
     - Bereitschaft, Vorschläge durchzusetzen
     - Künftige Kooperationsmöglichkeit
 - Tipps für Zukunft
-
 ```
 
-## Referenzen und Hinweise
+### Referenzen und Hinweise
 
-- [MailChimp](http://mailchimp.com/)
-    + Zugang
-- Hinweis wo sich die Liste der bisherigen Projektteammitglieder und BewerberInnen befindet
+* [MailChimp](http://mailchimp.com/)
+  * Zugang
+* Hinweis wo sich die Liste der bisherigen Projektteammitglieder und BewerberInnen befindet
+

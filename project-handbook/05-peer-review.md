@@ -1,5 +1,5 @@
 ---
-params:
+params: null
 emoji: true
 ---
 
@@ -7,19 +7,20 @@ emoji: true
 
 ## Überblick
 
-```{block, type='blue'}
+\`\`\`{block, type='blue'}
 
-  - Ziel:  Mindestens 2 Reviews für das Projektteam einholen.
-  - Zeitspanne: 2 Wochen.
-  - Zeitaufwand: 3-4 Stunden
-  - Relevante Ansprechpersonen: Projektkoordinatorin, Projektteam
-```
+* Ziel:  Mindestens 2 Reviews für das Projektteam einholen.
+* Zeitspanne: 2 Wochen.
+* Zeitaufwand: 3-4 Stunden
+* Relevante Ansprechpersonen: Projektkoordinatorin, Projektteam
+
+  \`\`\`
 
 ## Anleitung
 
 ### Grundsätze der Auswahl der Reviewerinnen
 
-Die Projektkoordinatorin stimmt mit dem Projektteam ab, welche Skills die Peer ReviewerInnen mitbringen sollten. Ziel des Peer-Reviews ist es, ein Feedback zum Abschlussberichts des Projektes von unabhängigen Dritten einzuholen. Uns ist an dieser Stelle wichtig, dass dieses Feedback in konstruktiver Form geschieht und sowohl das Projektteam als auch Peer-Reviewerinnen aus diesem Prozess lernen können. 
+Die Projektkoordinatorin stimmt mit dem Projektteam ab, welche Skills die Peer ReviewerInnen mitbringen sollten. Ziel des Peer-Reviews ist es, ein Feedback zum Abschlussberichts des Projektes von unabhängigen Dritten einzuholen. Uns ist an dieser Stelle wichtig, dass dieses Feedback in konstruktiver Form geschieht und sowohl das Projektteam als auch Peer-Reviewerinnen aus diesem Prozess lernen können.
 
 ### Ablauf des Reviews
 
@@ -27,93 +28,80 @@ Die Projektkoordinatorin erstellt auf Basis des Templates eine Ausschreibung und
 
 Die Projektkoordinatorin richtet ein Mail-Chimp Formular für potentielle Reviewerinnen ein. Die Projektkoordinatorin sendet die Ausschreibung an das Netzwerk. Die Bewerbungsfrist ist eine Woche. Die Projektkoordinatorin lässt sich vom Projektteam den kompletten Projektordner als VeraCrypt-Container schicken.
 
-Unmittelbar nach Fristende wählt die Projektkoordinatorin zwei Reviewerinnen aus. Die Projektkoordinatorin hält dafür in der Regel keine Rücksprache mit dem Core-Team und in keinem Fall bindet sie das Projektteam in die Entscheidung ein. Die Projektkoordinatorin informiert die Reviewerinnen und sagt den restlichen Bewerberinnen ab. Dafür stehen Teamplates bereit (siehe Abschnitt Templates). 
+Unmittelbar nach Fristende wählt die Projektkoordinatorin zwei Reviewerinnen aus. Die Projektkoordinatorin hält dafür in der Regel keine Rücksprache mit dem Core-Team und in keinem Fall bindet sie das Projektteam in die Entscheidung ein. Die Projektkoordinatorin informiert die Reviewerinnen und sagt den restlichen Bewerberinnen ab. Dafür stehen Teamplates bereit \(siehe Abschnitt Templates\).
 
 Die Reviewerinnen erhalten ihre Instruktionen und die Daten. Die Projektkoordinatorin weist insbesondere auf die Feedbackregeln hin und, dass das Review anonym sein soll. Die Daten erhält die ReviewerIn als VeraCrypt-Container. Dieser wird per CorrelCloud als Download bereitgestellt. Das Passwort teilt die Projektkoordination auf einem anderen Kanal als den Downloadlink mit. Das wird in der Regel per SMS sein. Wenn die ReviewerIn GNPUG hat, kann das Passwort auch in einer verschlüsselten Mail mitgeteilt werden. Die Projektkoordinatorin weist daraufhin, dass die Projektdaten nicht außerhalb des VeraCrypt-Containers gespeichert werden dürfen, nur auf einem privaten Rechner geöffnet werden dürfen und nicht in einer Dropbox o.ä. abgelegt werden dürfen.
 
 Die Projektkoordinatorin nimmt die Reviews entgegen. Nötigenfalls erinnert sie an die Frist. Nach Erhalt der Dokumente kontrolliert sie, ob diese tatsächlich anonym sind. Sie achtet dabei auch auf die Dokument-Metadaten. Sie leitet dann die Reviews an das Projektteam weiter.
 
-Das Projektteam ist frei darin, ob und in welcher Form sie die Kommentare der ReviewerInenn aufgreifen. Im Sinne der Transparenz und CorrelAids Feedbackkultur wäre es schön wenn das Projektteam zu dem Review Stellung bzeieht. Dazu zwei Vorschläge: 
+Das Projektteam ist frei darin, ob und in welcher Form sie die Kommentare der ReviewerInenn aufgreifen. Im Sinne der Transparenz und CorrelAids Feedbackkultur wäre es schön wenn das Projektteam zu dem Review Stellung bzeieht. Dazu zwei Vorschläge:
 
 1. Das Projektteam nimmt knapp Stellung zu den beiden Peer-Reviews. Die Stellungnahme wird durch ein Feedback der Projektkoordinatorin ergänzt und an die Reviewer weitergeleitet.
 2. Rückmeldung zu den jeweiligen Kommentaren der Peer-Reviewer durch eine Kommentierungsmatrix. Bzw einfache Kommentierung des Reviews.
 
-Das Feedback für die Peer-Reviewer wird auf Basis der Einschätzung des Projektteams und der Projektkoordinatorin angefertigt und Zeit nah versandt. Dies geschieht formlos. 
+Das Feedback für die Peer-Reviewer wird auf Basis der Einschätzung des Projektteams und der Projektkoordinatorin angefertigt und Zeit nah versandt. Dies geschieht formlos.
 
 ## Prozessgrafik
-Rücksprache mit dem Projektteam  *Tag 1*
-Anpassen des Template + Einrichten des MailChimp Formulars *Tag 3*
-Versenden der Ausschreibung über des Netzwerkverteiler *Tag 4*
-Auswahl von Reviewern durch die Projektkoordinatorin *Tag 11*
-Projektkoordinatorin schreibt Ausgewählte Netzwerkmitglieder an und bittet um Bestätigung *Tag 13*
-Projektkoordinatorin verschickt Absagen an weitere Bewerberinnen *Tag 16*
-Projektkoordniatorin schickt Mail mit Leitlinien zum Peer-Review an die Ausgewählten Netzwerkmitglieder *Tag 16*
-Netzwerkmitglieder erarbeiten Peer-Review (Zeitrahmen abhängig von Projekt) *Tag 17-21/28*
-Anonymisieren des Feedbacks durch die Projektkoordinatorin und Weiterleitung an das Projektteam *Tag 22/29*
-Ende der Überarbeitungsphase für das Projektteam *Tag 25/31*
-Projektkoordinatorin fertigt gemeinsam mit Projektleitung Feedback für die Peer-Reviwerinnen an *Tag 26/32*
+
+Rücksprache mit dem Projektteam _Tag 1_ Anpassen des Template + Einrichten des MailChimp Formulars _Tag 3_ Versenden der Ausschreibung über des Netzwerkverteiler _Tag 4_ Auswahl von Reviewern durch die Projektkoordinatorin _Tag 11_ Projektkoordinatorin schreibt Ausgewählte Netzwerkmitglieder an und bittet um Bestätigung _Tag 13_ Projektkoordinatorin verschickt Absagen an weitere Bewerberinnen _Tag 16_ Projektkoordniatorin schickt Mail mit Leitlinien zum Peer-Review an die Ausgewählten Netzwerkmitglieder _Tag 16_ Netzwerkmitglieder erarbeiten Peer-Review \(Zeitrahmen abhängig von Projekt\) _Tag 17-21/28_ Anonymisieren des Feedbacks durch die Projektkoordinatorin und Weiterleitung an das Projektteam _Tag 22/29_ Ende der Überarbeitungsphase für das Projektteam _Tag 25/31_ Projektkoordinatorin fertigt gemeinsam mit Projektleitung Feedback für die Peer-Reviwerinnen an _Tag 26/32_
 
 ## Checkliste
 
-- Weiß ich, welcher Aufwand mit dem Review verbunden ist?
-- Wird die Aufgabe und der Zeitrahmen in der Ausschreibung klar?
-- Ist das MailChimpFormular getestet und funktioniert einwandfrei?
-- Habe ich alle Bewerber durch Zu/Absagen informiert?
-- Sind den Peer-Reviewerinnen die Grundsätze der Feedback-Kutur klar? Gibt es klare Ansprechpartner bei Fragen?
-- Kann ich innerhalb der Reviews Rückschlüsse auf den Verfasser ziehen? (Name, Metadaten)
-- Haben alle Reviewer eine Rückmeldung zu Ihrem Review bekommen? 
-
-
+* Weiß ich, welcher Aufwand mit dem Review verbunden ist?
+* Wird die Aufgabe und der Zeitrahmen in der Ausschreibung klar?
+* Ist das MailChimpFormular getestet und funktioniert einwandfrei?
+* Habe ich alle Bewerber durch Zu/Absagen informiert?
+* Sind den Peer-Reviewerinnen die Grundsätze der Feedback-Kutur klar? Gibt es klare Ansprechpartner bei Fragen?
+* Kann ich innerhalb der Reviews Rückschlüsse auf den Verfasser ziehen? \(Name, Metadaten\)
+* Haben alle Reviewer eine Rückmeldung zu Ihrem Review bekommen? 
 
 ## Templates
 
 ### Template für Formular
 
-```{block, type='yellow'}
+\`\`\`{block, type='yellow'}
 
 ## Rahmendaten
 
-**Bewerbungsfrist:** [Datum]
+**Bewerbungsfrist:** \[Datum\]
 
 **Gesucht:** X ReviewerInnen
 
-**Zeitraum:** [Zeitraum von 2-3 Tagen]
+**Zeitraum:** \[Zeitraum von 2-3 Tagen\]
 
 ## Formular
 
-Vorname*
+Vorname\*
 
-Name*
+Name\*
 
-E-Mail-Adresse*
+E-Mail-Adresse\*
 
-Gender*
+Gender\*
 
-- Weiblich
-- Männlich
-- Möchte ich nicht angeben/so definieren.
+* Weiblich
+* Männlich
+* Möchte ich nicht angeben/so definieren.
 
-Stadt *
+Stadt \*
 
 Universität/Arbeitgeber
 
-Mit welcher Statistik-Software arbeitest du hauptsächlich?*
+Mit welcher Statistik-Software arbeitest du hauptsächlich?\*
 
-- R
-- Python
-- Andere (siehe Textfeld in der nächsten Zeile)
+* R
+* Python
+* Andere \(siehe Textfeld in der nächsten Zeile\)
 
-Welche weitere Software nutzt du? [Textfeld]
+Welche weitere Software nutzt du? \[Textfeld\]
 
 Meine Einschätzung zu meinen R-Kenntnissen
 
 Projektspezifischen Fragen
 
+\*Pflichtfeld
 
-*Pflichtfeld
-
-```
-
+```text
 ### Template für Ausschreibung im Netzwerk
 
 ```{block, type='yellow'}
@@ -144,30 +132,28 @@ Liebe Grüße
 [Projektkoordinatorin]
 
 Viele KöchInnen verbessern den Brei! Hilf als Peer ReviewerIn, unseren Projektbericht für ... zu verbessern.
-
 ```
 
 ### Template für Zusage
 
-```{bloc, type='yellow'}
+\`\`\`{bloc, type='yellow'}
 
-Liebe/r ...,
-ich danke Dir herzlich, dass Du CorrelAid beim Peer Review unterstützen möchtest und freue mich, Dir mitteilen zu können, dass Du beim Peer Review mit dabei bist. Du wirst wie beim Peer Review üblich nur mit mir Kontakt haben während des ganzen Verfahrens.
+Liebe/r ..., ich danke Dir herzlich, dass Du CorrelAid beim Peer Review unterstützen möchtest und freue mich, Dir mitteilen zu können, dass Du beim Peer Review mit dabei bist. Du wirst wie beim Peer Review üblich nur mit mir Kontakt haben während des ganzen Verfahrens.
 
-Hier nun Informationen zum Peer Review. Melde Dich jederzeit, wenn Du Hilfe brauchst oder Fragen hast. 
+Hier nun Informationen zum Peer Review. Melde Dich jederzeit, wenn Du Hilfe brauchst oder Fragen hast.
 
-Das Projektteam arbeitet unter einem engen Zeitplan, deshalb handelt es sich bei dem vorliegenden Material noch um einen Rohentwurf. Bitte behalte das bei deinem Review im Hinterkopf. Bitte beachten auch die üblichen Feedbackregeln, wie z.B. hier notiert: https://www.uni-goettingen.de/de/document/download/199ce1e3399b4e0ec377de32af5f0f6e.pdf/gutes%20feedback_regeln.pdf
+Das Projektteam arbeitet unter einem engen Zeitplan, deshalb handelt es sich bei dem vorliegenden Material noch um einen Rohentwurf. Bitte behalte das bei deinem Review im Hinterkopf. Bitte beachten auch die üblichen Feedbackregeln, wie z.B. hier notiert: [https://www.uni-goettingen.de/de/document/download/199ce1e3399b4e0ec377de32af5f0f6e.pdf/gutes feedback\_regeln.pdf](https://www.uni-goettingen.de/de/document/download/199ce1e3399b4e0ec377de32af5f0f6e.pdf/gutes%20feedback_regeln.pdf)
 
 **Zeitplan**
 
-- Ausschreibung offen bis: 27. August (Samstag) (abgeschlossen)
-- Übergabe des Projektmaterials an den/die ReviewerIn: 28. August (abgeschlossen)
-- Abgabe des Reviews: 31. August (um einen Tag verlängert)
+* Ausschreibung offen bis: 27. August \(Samstag\) \(abgeschlossen\)
+* Übergabe des Projektmaterials an den/die ReviewerIn: 28. August \(abgeschlossen\)
+* Abgabe des Reviews: 31. August \(um einen Tag verlängert\)
 
 **Aufgabe des/r ReviewerIn**
 
-- Kommentierung des Projektberichts (wie bei einem wissenschaftlichen Review)
-- zusätzlich Prüfung des Codes
+* Kommentierung des Projektberichts \(wie bei einem wissenschaftlichen Review\)
+* zusätzlich Prüfung des Codes
 
 **Was Du fürs Review brauchst und bekommt**
 
@@ -175,7 +161,7 @@ Du bekommst Zugang zu sämtlichen Daten des Projekts. Diese bekommst Du als vers
 
 Ich schicke Dir in einer weiteren Mail einen Downloadlink. Das Passwort für die Daten möchte ich Dir sicherheitshalber auf einem anderen Weg zukommen lassen. Könntest Du mir dafür diene Telefonummer schicken? Dann sende ich Dir das Passwort zu.
 
-Anleitungen zur Software findest Du hier: [Neues Hackmd benötigt]
+Anleitungen zur Software findest Du hier: \[Neues Hackmd benötigt\]
 
 **Datenschutz**
 
@@ -185,9 +171,9 @@ Melde Dich jederzeit, wenn Du Hilfe brauchst oder Fragen hast.
 
 Liebe Grüße
 
-[Projektkoordinatorin]
-```
+\[Projektkoordinatorin\]
 
+```text
 ### Template für Instruktionen
 
 ```{block, type='yellow'}
@@ -227,11 +213,11 @@ Liebe Grüße
 
 ### Template für Absage
 
-```{block, type='yellow'}
+\`\`\`{block, type='yellow'}
 
-Liebe/r [Name],
+Liebe/r \[Name\],
 
-Du hattest Dich bereit erklärt, als Peer Reviewer für unser Projekt ... zu fungieren. Ich möchte Dir ganz herlich danken, dass Du dich gemeldet hast und bereit bist, uns Deine Zeit und Expertise zur Verfügung zu stellen. 
+Du hattest Dich bereit erklärt, als Peer Reviewer für unser Projekt ... zu fungieren. Ich möchte Dir ganz herlich danken, dass Du dich gemeldet hast und bereit bist, uns Deine Zeit und Expertise zur Verfügung zu stellen.
 
 Wir haben viele Rückmeldungen erhalten weshalb wir eine Auswahl treffen mussten. Du warst dieses Mal leider nicht dabei. Bei der Auswahl habe ich insbesondere auch darauf geachtet, dass Personen zum Zuge kommen, die sich bisher noch nicht auf erfolgreich auf eine Ausschreibung gemeldet haben.
 
@@ -239,6 +225,7 @@ Ich hoffe, Du bleibst uns dennoch gewogen. Die nächsten Projekte und Reviews st
 
 Viele Grüße
 
-[Projektkoordinatorin]
-```
+\[Projektkoordinatorin\]
+
+\`\`\`
 
