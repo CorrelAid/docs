@@ -1,0 +1,96 @@
+---
+params:
+emoji: true
+---
+
+# Projektinfrastruktur
+
+Technologie bzw. Software ist wenn nicht das A und O so doch zumindest das A bie CorrelAid. Vor und nach dem Kickoff-Projektworkshop kommunizieren das Team untereinander sowie die Projektkoordinatorin mit dem Team nur digital. Dazu nutzen wir verschiedene Softwarelösungen. Die wichtigsten, weil sie in fast jedem Projekt genutzt werden, stellen wir hier vor.  
+
+Die Projektkoordinatorin legt vor dem Kickoff-Workshop in Absprache mit der Projektleitung fest, welche Softwarelösungen zum Einsatz kommen. Hier gibt es zwei Varianten, die sich im wesentlichen danach unterscheiden welche Software zum Dateiaustausch im Projektteam zum Einsatz kommt. Bei der Auswahl der Lösung sollten sich Projektkoordinatorin und Projektleiterin am technischen Kenntnisstand der Projektleiterin  orientieren. Für viele Projektteammitglieder wird Git neu sein während die meisten schon mit einem Cloud-Storage-Dienst gearbeitet haben werden. Bei der Git-Lösung wird es vor allem an der Projektleiterin Merge-Konflikte und andere "Probleme" zu lösen.
+
+
+| Git                                    | CorrelCloud                        |
+|----------------------------------------|------------------------------------|
+| Slack                                | Slack                            |
+| GNPUG und Enigmail                   | GNPUG und Enigmail               |
+| Verschlüsseltes Heimverzeichnis oder VeraCrypt | Verschlüsseltes Heimverzeichnis oder VeraCrypt |
+| Git (lokal) und Gitlab (Server)      | NextCloud-Client (lokal) und CorrelCloud (Server)  |
+ 
+
+Die Projektleiterin informiert die Projektteammitglieder vor dem Workshop, spätestens in der E-Mail mit der Agenda, über die Softwarelösungen, die zum Einsatz kommen werden und bitte sie, diese Software schon vorab zu installieren. So lässt sich die Zeit, die auf dem Workshop in die Einführung in die Infratstruktur investiert werden muss, verkürzen. Die Projektleiterin weist in dieser E-Mail auch auf dieses Kapitel des Projekthandbuchs hin. Die Projektleiterin schickt den Teilnehmenden des Workshops außerdem die Verpflichtungserklärung zum Datenschutz zu und weist daraufhin, dass die Unterschrift Voraussetzung für die Teilnahme am Projekt ist. Sie bittet die Teammitglieder auch, die in der Verpflichtungserklärung genannten Maßnahmen zu ergreifen (inbesondere Einrichtung eines eigenen CorrelAid-Accounts auf dem privaten Laptop).
+
+## Kommunikation
+
+Auf Paul Watzlawick geht das Diktum "Man kann nicht nicht kommunizieren" zurück und er hat Recht. In einem CorrelAid-Projektteam kann man nicht nicht kommunizieren. Für die regelmäßige Kommunikation im Team kommt Slack zum Einsatz, für die sichere Übertragung sensibler Informationen und Daten verschlüsselte E-Mails und für regelmäßige Besprechungen und Absprachen Telekonferenzen. Die Agenda und das Protokoll für letztere werden, je nachdem welche Lösung das Team für den Dateiaustausch nutzt, auf GitLab oder der CorrelCloud geführt.
+
+### Slack
+
+Slack ist ein Kommunikationstool zur besseren Koordination von Teams. Ein Slack ist in verschiedene thematische Channel eingeteilt. Prinzipiell kannst du es dir wie eine Sammlung von Whatsapp-Gruppenchats vorstellen, angereichert mit einigen nützlichen Features (File-Sharing, Direct Messages, Gifs...).
+
+Unser Slack ist [correlaid.slack.com](https://correlaid.slack.com/). Dort kommuniziert das Core-Team in diversen Channels. Für unsere Projektteam richten wir einige private Channels ein. Diese sind nur für das Projektteam zugänglich. Um einen Channel für dein Projekt einrichten zu lassen wende dich an eine oder einen der Slack-Admins. Das sind momentan unter anderem: @arndt, @jan, @frie, @regina, @scruewell, @thomas, @tollpatsch und @yuzhu.
+
+Alle Teams starten zunächst mit einem Kanal. Sollte im Laufe des Projekts der Bedarf nach mehr Channels entstehen, sag den Slack-Admins Bescheid. Natürlich sind die Projektkoordinatorin und das gesamte Projektteam herzlich willkommen, sich auch in anderen Channels an den Diskussionen zu beteiligen. In die offenen Channels des Slacks können sich alle Mitglieder selbstständig eintragen.
+
+Slack ist sehr intutitiv zu bedienen und erklärt sich schnell von selbst. Wer sich systematischer mit den Möglichkeiten und der Funktionsweise von Slack auseinandersetzen möchte, dem empfehlen wir ein Blick in den ["Features"-Überblick](https://slack.com/intl/de-de/features) auf der Slack-Website. Auf YouTube gibt es auch ein kurzes [Erklärvideo](https://www.youtube.com/watch?v=9RJZMSsH7-g).
+
+### GNUPG
+
+GNUPG ist ein Kryptografie-System mit dem man digitale Signaturen erstellen und Dateien verschlüsseln kann. Auf Linux ist GNUPG meist schon installiert. Wenn nicht, dann installiere das Paket `gnupg2`. Windows- und Mac-NutzerInnen können es hier herunterladen: [https://gnupg.org/download/index.html](https://gnupg.org/download/index.html). Für Windows gibt es auch das Softwarepaket GPG4Win: [http://www.gpg4win.org/](http://www.gpg4win.org/).
+
+Für die Übertragung der Zugangsdaten zu den Daten nutzen wir verschlüsselte E-Mails. GNUPG stellt die Verschlüsselungstechnik bereit. Zusätzlich braucht es noch ein Plugin für Euer E-Mail-Programm. Wir empfehlen die Verwendung des E-Mail-Programms Thunderbird in Verbindung mit dem Plugin Enigmail. Enigmail kann aus dem Add-On-Menü von Thunderbird installiert werden. In vielen Linux-Distributionen kann es auch direkt über den Paketmanager der Distribution installiert werden. Eine Erklärung von PGP und Erläuterung zur Einrichtung mit Enigmail findest Du [hier](https://legacy.thomas-leister.de/pgp-e-mail-verschluesselung-mit-thunderbird-und-enigmail/). Thunderbird, falls du es noch nicht nutzt, kannst Du [hier](https://www.mozilla.org/de/thunderbird/) herunterladen. Und dieses Video erklärt leicht verständlich die Grundprinzipen der sogenannten 
+
+### Pdd
+
+tbc
+
+## Verschlüsselung
+
+Datensicherheit ist von größter Wichtigkeit für CorrelAid. Auch wenn wir in den wenigsten Projekten mit personenbezogenen Daten zu haben, so haben wir es doch meist mit sensiblen, weil organisationsinternen Daten zu tun. Deshalb dürfen Projektdaten nie unverschlüsselt auf euren Rechnern gespeichert werden. Für die Verschlüsselung der Daten gibt es zwei Möglichkeiten. Grundsätzlich müssen Projektteammitglieder immer einen separaten Account auf ihrem Computer für die Arbeit für CorrelAid anlegen. Manche Betriebssysteme erlauben es, das Heimverzeichnis des Benutzerkontos zu verschlüsseln. Hinweise mit welchen Betriebssystemen und wie das geht liefert der nächste Abschnitt. Hast Du diese Möglichkeit mit deinem Betriebssystem nicht, dann nutzt du stattdessen VeraCrypt, das im übernächsten Abschnitt beschrieben wird. Es gibt also hier auch zwei Optionen. Dies sind nutzer- nich teamspezifisch. Verschiedene Teammitglieder können hier je nach technischen Voraussetzungen, die eine oder andere Lösung wählen.
+
+| verschlüsseltes Heimverzeichnis                         | kein verschlüsseltes Heimverzeichnis                    |
+|---------------------------------------------------------|---------------------------------------------------------|
+| VeraCrypt wird nicht benötigt                           | VeraCrypt wird benötigt                                 |
+| anschließende Löschung des Accounts und Heimverzeichnis | anschließende Löschung des Accounts und Heimverzeichnis |
+
+### Verschlüsseltes Heimverzeichnis
+
+Die Projektdaten müssen grundsätzlich verschlüsselt werden, damit sie bei Verlust des Datenträgers nicht von Dritten unbefugt gelesen werden können. Eine Möglichkeit, dies sicherzustellen ist ein verschlüsseltes Heimverzeichnis. Die Ent- bzw. Verschlüsselung geschieht der Daten geschieht dann automatisch beim Ein-/Ausloggen des Benutzers. Ob die Verschlüsselung des Heimverzeichnisses möglich ist, hängt davon ab welches Betriebssystem das Projektteammitglied nutzt.
+
+Wichtig: Das Projektteammitglied muss für die Arbeit an dem CorrelAid-Projekt ein neues passwortgeschütztes Nutzerkonto auf ihrem oder seinem Computer einrichten. Vorgaben dazu macht die Verpflichtungserklärung.
+
+Windows: Eine Verschlüsselung des Heimverzeichnisses ist bei Windows nur in Windows Pro und Enterprise möglich. Windows-Nutzerinnen müssen daher in der Regel auf die Lösung mit VeraCrypt zurückgreifen (nächster Abschnitt).
+
+Mac: Auf Mac OS kann ab Mac-OS X 10.4 mit FileVault das Heimverzeichnis und auch die ganze Festplatte verschlüsselt werden. Vorsicht bei letzterem. Wenn ihr sowohl euer Nutzerpasswort als auch das Wiederherstellungspasswort vergesst oder verliert, dann sind eure Daten unwiderbringlich verloren (verschlüsselt). Anleitungen zu FileValut finden sich [hier](https://www.maceinsteiger.de/how-to/festplatte-verschlusseln/) und [hier](https://www.macwelt.de/ratgeber/macOS-OS-X-sicher-einrichten-Filevault-Backup-2FA-10003258.html). Wichtig: Wenn ihr mit TimeShift Backups macht sollte der für CorrelAid angelegt Account davon entweder ausgenommen werden oder auch verschlüsselt werden.
+
+Linux: In den neueren Versionen der verbreitesten Distributionen sollte man bei der Einrichtung eines neuen Nutzerkontos die Verschlüsselung als zusätzliche Option einfach auswählen können. In den meisten Fällen kommt für die Verschlüsselung die Software `ecryptfs-utils` zum Einsatz. Steht diese Option bei der Einrichtung eines neuen Nutzerkontos nicht zur Verfügung sollte dieser [Artikel](https://wiki.ubuntuusers.de/ecryptfs/Einrichten/) zumindest für Ubuntu-Derivate Hilfe bieten.
+
+
+### VeraCrypt
+
+VeraCrypt ist ein Verschlüsselungsprogramm und TrueCrypt Nachfolger. Mit Hilfe von VeraCrypt lassen sich verschlüsselte Container erstellen. Zum entschlüsseln ("to mount" genannt) wird ein Passwort gebraucht. Ein entschlüsselter ("Mounted") VeraCrypt Container erscheint als ein neues Laufwerk auf dem Rechner. Alle Daten, die auf dieses Laufwerkabgelegt werden, werden automatisch verschlüsselt. Programme können trotzdem auf diese Daten zugreifen, da sie dafür im Arbeitsspeicher entschlüsselt werden. Der Speicherplatz dieses virtuellen Laufwerks bestimmt sich durch die Größe des Containers. Einmal erstellt kann die Größe des Containers nicht mehr angepasst werden. Die Projektleiterin muss deshalb abschätzen, welche Datenmengen gespeichert werden und den Projektteammitgliedern entsprechende Vorgaben zur Erstellung des Containers machen.
+
+AnalystInnen bekommen die Projektdaten als VeraCrypt Container und das dazugehörige Passwort. Zum Arbeiten an den Daten muss der Container entschlüsselt werden. Die Daten dürfen aber nie entschlüsselt auf einem Rechner gespeichert werden. Darum darf z.B. auch der Workspace von R nicht gespeichert werden. Mit VeraCrypt wird der mit dem Programm erstellte Container als Laufwerk ins Betriebssystem eingebunden ("mount"). Während mit den darin gespeicherten Daten gearbeitet wird muss also das Programm im Hintergrund laufen. Abschließend wird das Laufwerk über VeraCrypt wieder ausgehängt ("dismount") und das Programm geschlossen bevor der Computer heruntergefahren werden kann. Es ist wichtig, den VeraCrypt-Container immer unter dem gleichen Laufwerksbuchstaben (Windows) bzw. Pfad (Mac, Linux) einzubinden.
+
+Herunterladen lässt sich VeraCrypt [hier](https://veracrypt.codeplex.com/). Auf der Website findet sich auch eine [Anleitung](https://veracrypt.codeplex.com/wikipage?title=Beginner%27s%20Tutorial). Bitte lies diese aufmerksam durch Für die Arbeit bei CorrelAid reicht es bei allen Schritten die Voreinstellungen zu verwenden.
+
+
+## Datenübertragung und Dateiaustausch
+
+Wie bereits eingangs angesprochen kann der Dateiaustausch im Team entweder über die CorrelCloud oder Git in Verbindung mit einem sogenannten Remote Repository erfolgen.
+
+### CorrelCloud
+
+CorrelAid nutzt die Software NextCloud. Diese besteht aus einer serverseitigen Software, die einen Could-Storage-Dienst ähnlich Dropbox bereitstellt, und einem Client für Endnutzerinnen, der die Daten auf dem Computer der Nutzerin mit den Daten in der Cloud synchronisiert, ähnlich dem Dropbox-Client, den sicher viele Projektteammitglieder kennen. 
+
+Die CorrelCloud, so nennen wir unsere NextCloud-Installation auf unserem Server, ist unter [correlcloud.org](https://correlcloud.org/) erreichbar. Projektteams bekommen auf der CorrelCloud einen eigneen Ordner auf den nur sie Zugriff haben. Einen solchen Account können die CorrelCloud-Admins @arndt, @frie und @tollpatsch einrichten. Die Projektoordinatorin bittet eine oder einen der Admins, um die Einrichtung des Ordners und um die Einrichtung von Nutzerkonten für die Projektteammitglieder. Dazu übermittelt sie die Namen der Projektteammitglieder. Die Projektkoordinatorin bekommt dann von der oder dem Admin die Logins für die CorrelCloud zugeschickt. Diese gibt die Projektkoordinatorin per verschlüsselter Mail, telefonisch oder per Slack individuell an die Projektteammitglieder weiter. Die Projektteammitglieder loggen sich erstmals auf [correlcloud.org](https://correlcloud.org/) und sind angehalten, dann zunächst ihr Passwort zu ändern. Beim ersten Login erscheint eine Begrüßungsnachricht, die u.a. einen [Link zum Download](https://nextcloud.com/install/#install-clients) des NextCloud-Client enthält. NextCloud gibt es für Windows, Mac und Linux.
+
+Wird das Programm NextCloud zum ersten Mal gestartet muss man zunächst den Account einrichten. Zunächst wird nach der Adresse des NextCloud Servers gefragt. Diese ist [https://correlcloud.org](https://correlcloud.org). Danach muss man seine Zugangsdaten für die CorrelCloud angeben. Danach muss man noch weitere Einstellungen zum "Server" und "Local Folder" vornehmen. Die Einstellungen für den Server können bei den Standardeinstellungen belassen werden. Was den Local Folder angeht muss dieser entweder innerhalb des verschlüsselten Heimverzeichnisses angelegt werden! Wird VeraCrypt genutzt muss der CorrelCloud-Ordner innerhalb des durch VeraCrypt eingbundenen virtuellen Laufwerks liegen! Damit die Synchronisierung über die NextCloud problemlos funktioniert muss zuerst VeraCrypt gestartet werden, der Container als Laufwerk eingebunden werden und erst dann NextCloud gestartet werden. Dabei ist es wichtig VeraCrypt immer unter dem gleichen Laufwerksbuchstaben (Windows) beziehungsweise Pfad (Mac, Linux) einzubinden.
+ 
+### Git
+
+folgt demnächst
+
+### Datenlöschung
+
+Nach dem Projekt müssen alle Projektteammitglieder ihren für CorrelAid angelegten Nutzeraccount mitsamt sämtlicher Daten löschen. Die vom Team geschriebenen Skripte dürfen Sie unter Umständen für die Nutzung in anderen Projekte behalten. Dazu ist mit der Projektleiterin abzuklären, welche Dateien behalten werden dürfen.
