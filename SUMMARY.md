@@ -1,8 +1,11 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
 * [Wiki](wiki/README.md)
-  * [Infrastruktur](wiki/01-infra.md)
+  * [Infrastruktur](wiki/01-infra/README.md)
+    * [Slack](wiki/01-infra/slack.md)
+    * [Keybase](wiki/01-infra/keybase.md)
+    * [Password Management](wiki/01-infra/password-management.md)
   * [Local Chapter](wiki/04-local.md)
   * [Projekte](wiki/proj.md)
   * [Öffentlichkeitsarbeit \(Jasmin\)](wiki/oeffarbeit.md)
