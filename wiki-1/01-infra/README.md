@@ -2,7 +2,7 @@
 output: html_document
 ---
 
-# Infrastruktur
+# Infrastructure
 
 ## Passwortmanagement
 
