@@ -15,9 +15,12 @@
 ## Wiki <a id="wiki-1"></a>
 
 * [Infrastructure](wiki-1/01-infra/README.md)
+  * [Social Media](wiki-1/01-infra/social-media.md)
+  * [Cloud](wiki-1/01-infra/cloud.md)
+  * [GitHub and GitLab](wiki-1/01-infra/github-and-gitlab.md)
   * [Slack](wiki-1/01-infra/slack.md)
-  * [Keybase](wiki-1/01-infra/keybase.md)
-  * [Password Management](wiki-1/01-infra/password-management.md)
+  * [Keybase and Password Management](wiki-1/01-infra/keybase.md)
+  * [Calendar](wiki-1/01-infra/calendar.md)
 * [Interne Kommunikation](wiki-1/02-intkom.md)
 * [Local Chapter](wiki-1/05-probe.md)
 * [Öffentlichkeitsarbeit \(Jasmin\)](wiki-1/oeffarbeit.md)
