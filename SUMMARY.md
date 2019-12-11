@@ -2,20 +2,20 @@
 
 * [Welcome](README.md)
 
-## Wiki <a id="wiki-1"></a>
+## Wiki
 
-* [Infrastructure](wiki-1/infrastructure/README.md)
-  * [Social Media](wiki-1/infrastructure/social-media.md)
-  * [Cloud](wiki-1/infrastructure/cloud.md)
-  * [GitHub and GitLab](wiki-1/infrastructure/github-and-gitlab.md)
-  * [Slack](wiki-1/infrastructure/slack.md)
-  * [Keybase and Password Management](wiki-1/infrastructure/keybase-and-password-management.md)
-  * [Calendar](wiki-1/infrastructure/calendar.md)
-* [Interne Kommunikation](wiki-1/interne-kommunikation.md)
-* [Öffentlichkeitsarbeit \(Jasmin\)](wiki-1/oeffentlichkeitsarbeit-jasmin.md)
-* [Projekte](wiki-1/projekte.md)
-* [Design Guide](wiki-1/design-guide.md)
-* [Local Chapter](wiki-1/local-chapter.md)
+* [Infrastructure](wiki/infrastructure/README.md)
+  * [Social Media](wiki/infrastructure/social-media.md)
+  * [Cloud](wiki/infrastructure/cloud.md)
+  * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
+  * [Slack](wiki/infrastructure/slack.md)
+  * [Keybase and Password Management](wiki/infrastructure/keybase-and-password-management.md)
+  * [Calendar](wiki/infrastructure/calendar.md)
+* [Interne Kommunikation](wiki/interne-kommunikation.md)
+* [Öffentlichkeitsarbeit \(Jasmin\)](wiki/oeffentlichkeitsarbeit-jasmin.md)
+* [Projekte](wiki/projekte.md)
+* [Design Guide](wiki/design-guide.md)
+* [Local Chapter](wiki/local-chapter.md)
 
 ## CorrelAidX Manual
 
