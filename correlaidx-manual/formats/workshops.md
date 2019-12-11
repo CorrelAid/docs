@@ -1,7 +1,5 @@
 # Workshops
 
-
-
 The aim of workshops is to increase the professional and content-related competence of CorrelAidX members. This includes both the basic introduction to R and Python, as well as the learning of specific knowledge and packages within both programming languages. Depending on the demand, workshops should always be thought through at the beginning of the semester. This decision should include the level of input of the members and the skills of the teachers.
 
 If there is a basic idea of the upcoming workshops, the planning for the first workshop should be started. Based on this example all following workshops can be planned. Basically one should assume that after 90 minutes learners are hardly able to process new information. Therefore, the planning should be created for about 90 minutes. A workshop session includes a brief conceptual introduction to the current session, collaborative editing of an R or Python script, and self-paced learning by learners.

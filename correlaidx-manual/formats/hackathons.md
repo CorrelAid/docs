@@ -1,7 +1,5 @@
 # Hackathons
 
-
-
 The concept of the hackathon comes originally from the hardware and software development and designates events in which complex problems are to be solved in the best possible way in a relatively short time \(usually in the range of about half to about three days\). The participants of a hackathon ideally form interdisciplinary teams, in which they work together on the task. The competitive situation and the time pressure should promote the development of new and creative solutions. Depending on the size and type of hackathon, the solutions developed at the end of the event will be judged by a jury and, if applicable, awarded. For the context of the CorrelAid Local Chapter, hackathons are a great way to give data science-interested students first-hand insights into practical data analysis.
 
 The first step in planning a hackathon is the question of the scope and format of the event:

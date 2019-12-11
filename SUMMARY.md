@@ -12,11 +12,10 @@
   * [Keybase and Password Management](wiki-1/infrastructure/keybase-and-password-management.md)
   * [Calendar](wiki-1/infrastructure/calendar.md)
 * [Interne Kommunikation](wiki-1/interne-kommunikation.md)
-* [Local Chapter](wiki-1/local-chapter.md)
 * [Öffentlichkeitsarbeit \(Jasmin\)](wiki-1/oeffentlichkeitsarbeit-jasmin.md)
 * [Projekte](wiki-1/projekte.md)
 * [Design Guide](wiki-1/design-guide.md)
-* [Local Chapter](wiki-1/local-chapter-1.md)
+* [Local Chapter](wiki-1/local-chapter.md)
 
 ## CorrelAidX Manual
 
