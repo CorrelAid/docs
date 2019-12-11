@@ -1,4 +1,4 @@
-# Projektinfrastruktur
+# Project infrastructure
 
 ## Projektinfrastruktur
 

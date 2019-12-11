@@ -26,15 +26,7 @@ This manual is permanently beta. We try it out, gain experience and rebuild it o
 
 We wish you successful projects and exciting experiences!
 
-### Who is involved in a CorrelAid project?
-
-* NGO -- our partner organization and client from whom the project comes and for whom we implement it. 
-* CorrelAid -- it's us.
-* Board -- the board of CorrelAid e.V. concludes the agreement with the partner organization
-* Core team -- The organizational team of CorrelAid, de facto everyone who is active on Slack. Always there for your questions.
-* Project Coordinator -- member of the Core Team who oversees the project from the time of acquisition and is responsible for getting updates from the Project Team back to the Core Team.
-* Project Leader -- Leads the implementation of the project as part and primus inter pares of the project team. 
-* Project Team -- Network members of CorrelAid who are involved in the project.
+### 
 
 #### 
 

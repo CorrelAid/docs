@@ -1,5 +1,7 @@
 # Projekte
 
+
+
 CorrelAid vermittelt Freiwillige aus der Data Science Community an gemeinnützige Vereine \(NPOs\). CorrelAid stellt die Infrastruktur zur Verfügung, unterstützt die Teams bei der Verschlüsselung von Datensätzen, der Koordination der Teamarbeit über digitale Projektmanagement-Tools und der Erstellung eines professionellen Abschlussberichts. Je nach Ausrichtung des Projekts lernen Teilnehmer\*innen verschiedene Datenanalyseverfahren kennen \(statistische und text-basierte Analysen, Visualisierung, Machine-Learning, Netzwerkanalyse, etc.\), die mithilfe der open-source Software R an „echten“ Daten eingeübt werden können. Zudem kann CorrelAid Bescheinigungen für die Teilnahme an Datenprojekten ausstellen.
 
 Zur erfolgreichen Durchführung sollte jedes CorrelAid-Projekt im Idealfall die folgenden sechs Planungsphasen durchlaufen:

@@ -1,23 +1,19 @@
-# Ausschreiben des Projektes im Netzwerk
+# Finding the project team
+
+### Overview
+
+{% hint style="info" %}
+* Goal: Compose a project team from CorrelAid volunteers 
+* Average time: 3 weeks
+* Time needed: 6-8 h
+* Relevant actors: project coordinator, core team, team selection committee
+{% endhint %}
+
+### 
+
+### Process
 
 
-
-## Ausschreiben des Projektes im Netzwerk
-
-###  <a id="ausschreiben"></a>
-
-#### Überblick
-
-\`\`\`{block, type='blue'}
-
-* Ziel: Aufstellen eines passenden Projektteams aus dem CorrelAid-Netzwerk
-* Zeitrahmen: 3 Wochen
-* Zeitaufwand: 6-8 h
-* Relevante Akteurinnen: Projektkoordinatorin, Core Team, Auswahlgruppe \(wird im Prozess gebildet\)
-
-  \`\`\`
-
-#### Prozessgrafik
 
 * Einrichtung des Bewerbungsformulars _Tag 1_
 * Ausschreibung des Projekts per MailChimp _Tag 1_
