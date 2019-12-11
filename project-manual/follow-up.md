@@ -1,9 +1,6 @@
----
-params: null
-emoji: true
----
+# Follow up
 
-# Follow Up \(mit der Partnerorganisation\)
+## Follow Up \(mit der Partnerorganisation\)
 
 \`\`\`{block, type='blue'}
 
@@ -62,7 +59,7 @@ In 3 bis 6 Monate (tbd.) kontaktiert die Projektkoordinatorin Partnerorganisatio
 Muss noch ergänzt werden.
 ```
 
-### Template für Agenda
+#### Template für Agenda
 
 \`\`\`{block, type='yellow'}
 
@@ -80,7 +77,7 @@ Muss noch ergänzt werden.
 
 \`\`\`
 
-### Template für Fragebogen
+#### Template für Fragebogen
 
-## Referenzen & Hinweise
+### Referenzen & Hinweise
 
