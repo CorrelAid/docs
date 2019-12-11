@@ -4,19 +4,19 @@
 
 ## Wiki <a id="wiki-1"></a>
 
-* [Infrastructure](wiki-1/01-infra/README.md)
-  * [Social Media](wiki-1/01-infra/social-media.md)
-  * [Cloud](wiki-1/01-infra/cloud.md)
-  * [GitHub and GitLab](wiki-1/01-infra/github-and-gitlab.md)
-  * [Slack](wiki-1/01-infra/slack.md)
-  * [Keybase and Password Management](wiki-1/01-infra/keybase.md)
-  * [Calendar](wiki-1/01-infra/calendar.md)
-* [Interne Kommunikation](wiki-1/02-intkom.md)
-* [Local Chapter](wiki-1/05-probe.md)
-* [Öffentlichkeitsarbeit \(Jasmin\)](wiki-1/oeffarbeit.md)
-* [Projekte](wiki-1/proj.md)
-* [Design Guide](wiki-1/06-design.md)
-* [Local Chapter](wiki-1/04-local.md)
+* [Infrastructure](wiki-1/infrastructure/README.md)
+  * [Social Media](wiki-1/infrastructure/social-media.md)
+  * [Cloud](wiki-1/infrastructure/cloud.md)
+  * [GitHub and GitLab](wiki-1/infrastructure/github-and-gitlab.md)
+  * [Slack](wiki-1/infrastructure/slack.md)
+  * [Keybase and Password Management](wiki-1/infrastructure/keybase-and-password-management.md)
+  * [Calendar](wiki-1/infrastructure/calendar.md)
+* [Interne Kommunikation](wiki-1/interne-kommunikation.md)
+* [Local Chapter](wiki-1/local-chapter.md)
+* [Öffentlichkeitsarbeit \(Jasmin\)](wiki-1/oeffentlichkeitsarbeit-jasmin.md)
+* [Projekte](wiki-1/projekte.md)
+* [Design Guide](wiki-1/design-guide.md)
+* [Local Chapter](wiki-1/local-chapter-1.md)
 
 ## CorrelAidX Manual
 
@@ -35,13 +35,13 @@
 
 ## Project Manual
 
-* [Welcome!](project-manual/index.md)
-* [Ausschreiben des Projektes im Netzwerk](project-manual/02-ausschreiben.md)
-* [Projektinfrastruktur](project-manual/08-projekt-infrastruktur.md)
-* [Workshop](project-manual/03-workshop.md)
-* [Arbeit im Projektteam](project-manual/04-arbeit-im-projektteam.md)
-* [Peer Review](project-manual/05-peer-review.md)
-* [Adjourning des Projektteams](project-manual/06-adjourning/README.md)
-  * [Follow Up \(mit der Partnerorganisation\)](project-manual/06-adjourning/07-follow-up.md)
-* [Anhang/Appendix](project-manual/09-appendix.md)
+* [Welcome!](project-manual/welcome.md)
+* [Ausschreiben des Projektes im Netzwerk](project-manual/ausschreiben-des-projektes-im-netzwerk.md)
+* [Projektinfrastruktur](project-manual/projektinfrastruktur.md)
+* [Workshop](project-manual/workshop.md)
+* [Arbeit im Projektteam](project-manual/arbeit-im-projektteam.md)
+* [Peer Review](project-manual/peer-review.md)
+* [Adjourning des Projektteams](project-manual/adjourning-des-projektteams/README.md)
+  * [Follow Up \(mit der Partnerorganisation\)](project-manual/adjourning-des-projektteams/follow-up-mit-der-partnerorganisation.md)
+* [Anhang/Appendix](project-manual/anhang-appendix.md)
 
