@@ -3,7 +3,7 @@ params:
   emoji: 'yes'
 ---
 
-# index
+# Welcome!
 
 ## Einleitung: Überblick über den Projektablauf <a id="intro"></a>
 

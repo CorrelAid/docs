@@ -1,16 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Project Handbook](project-handbook/README.md)
-  * [Peer Review](project-handbook/05-peer-review.md)
-  * [Adjourning des Projektteams](project-handbook/06-adjourning.md)
-  * [Projektinfrastruktur](project-handbook/08-projekt-infrastruktur.md)
-  * [index](project-handbook/index.md)
-  * [Ausschreiben des Projektes im Netzwerk](project-handbook/02-ausschreiben.md)
-  * [Follow Up \(mit der Partnerorganisation\)](project-handbook/07-follow-up.md)
-  * [Workshop](project-handbook/03-workshop.md)
-  * [Arbeit im Projektteam](project-handbook/04-arbeit-im-projektteam.md)
-  * [Anhang/Appendix](project-handbook/09-appendix.md)
 
 ## Wiki <a id="wiki-1"></a>
 
@@ -28,18 +18,31 @@
 * [Design Guide](wiki-1/06-design.md)
 * [Local Chapter](wiki-1/04-local.md)
 
-## CorrelAidX Handbook <a id="correlaidx-handbook-1"></a>
+## CorrelAidX Manual
 
-* [What is CorrelAidX?](correlaidx-handbook-1/what-is-correlaidx.md)
-* [Role definitions](correlaidx-handbook-1/role-definitions.md)
-* [Formats](correlaidx-handbook-1/formats/README.md)
-  * [Data dialogue](correlaidx-handbook-1/formats/data-dialogue.md)
-  * [Workshops](correlaidx-handbook-1/formats/workshops.md)
-  * [Introducing CorrelAid](correlaidx-handbook-1/formats/introducing-correlaid.md)
-  * [Panel discussion](correlaidx-handbook-1/formats/panel-discussion.md)
-  * [Hackathons](correlaidx-handbook-1/formats/hackathons.md)
-* [Organizational structure](correlaidx-handbook-1/organizational-structure.md)
-* [Style guide](correlaidx-handbook-1/style-guide.md)
-* [Cooperation Agreements](correlaidx-handbook-1/cooperation-agreements.md)
-* [Ethics guide](correlaidx-handbook-1/ethics-guide.md)
+* [What is CorrelAidX?](correlaidx-manual/what-is-correlaidx.md)
+* [Role definitions](correlaidx-manual/role-definitions.md)
+* [Formats](correlaidx-manual/formats/README.md)
+  * [Data dialogue](correlaidx-manual/formats/data-dialogue.md)
+  * [Workshops](correlaidx-manual/formats/workshops.md)
+  * [Introducing CorrelAid](correlaidx-manual/formats/introducing-correlaid.md)
+  * [Panel discussion](correlaidx-manual/formats/panel-discussion.md)
+  * [Hackathons](correlaidx-manual/formats/hackathons.md)
+* [Organizational structure](correlaidx-manual/organizational-structure.md)
+* [Style guide](correlaidx-manual/style-guide.md)
+* [Cooperation Agreements](correlaidx-manual/cooperation-agreements.md)
+* [Ethics guide](correlaidx-manual/ethics-guide.md)
+
+## Project Manual
+
+* [Welcome!](project-manual/index.md)
+* [Projektinfrastruktur](project-manual/08-projekt-infrastruktur.md)
+* [Anhang/Appendix](project-manual/09-appendix.md)
+* [Follow Up \(mit der Partnerorganisation\)](project-manual/07-follow-up.md)
+* [Workshop](project-manual/03-workshop.md)
+* [Arbeit im Projektteam](project-manual/04-arbeit-im-projektteam.md)
+* [Ausschreiben des Projektes im Netzwerk](project-manual/02-ausschreiben.md)
+* [Peer Review](project-manual/05-peer-review.md)
+* [Adjourning des Projektteams](project-manual/06-adjourning.md)
+* [Untitled](project-manual/untitled.md)
 
