@@ -36,13 +36,12 @@
 ## Project Manual
 
 * [Welcome!](project-manual/index.md)
+* [Ausschreiben des Projektes im Netzwerk](project-manual/02-ausschreiben.md)
 * [Projektinfrastruktur](project-manual/08-projekt-infrastruktur.md)
-* [Anhang/Appendix](project-manual/09-appendix.md)
-* [Follow Up \(mit der Partnerorganisation\)](project-manual/07-follow-up.md)
 * [Workshop](project-manual/03-workshop.md)
 * [Arbeit im Projektteam](project-manual/04-arbeit-im-projektteam.md)
-* [Ausschreiben des Projektes im Netzwerk](project-manual/02-ausschreiben.md)
 * [Peer Review](project-manual/05-peer-review.md)
-* [Adjourning des Projektteams](project-manual/06-adjourning.md)
-* [Untitled](project-manual/untitled.md)
+* [Adjourning des Projektteams](project-manual/06-adjourning/README.md)
+  * [Follow Up \(mit der Partnerorganisation\)](project-manual/06-adjourning/07-follow-up.md)
+* [Anhang/Appendix](project-manual/09-appendix.md)
 

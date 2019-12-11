@@ -5,11 +5,15 @@ params:
 
 # Welcome!
 
-## Introduction and overview text 
+Hello! Glad you are here. 
 
-Hello! Glad you are here. This document in front of you is the project manual for CorrelAid project coordinators. Here we have recorded what is important for our projects, plus a lot of tips and tricks that can be useful over the course of your project. We wrote this manual for a purpose: to enable you to carry out your own project! That's why we've made it publicly available and published it under a Creative Commons license. You can use it, change it and adapt it for your purposes. 
+This document in front of you is the project manual for CorrelAid project coordinators. Here we have recorded what is important for our projects, plus a lot of tips and tricks that can be useful over the course of your project. We wrote this manual for a purpose: to enable you to carry out your own project! That's why we've made it publicly available and published it under a Creative Commons license. You can use it, change it and adapt it for your purposes. 
 
-Good project work is not witchcraft, but it doesn't magically _just happen_ either. Especially decentralized teams - as is often the case in CorrelAid projects - pose special challenges to project coordinators. In the following, you will find a description of all project steps of _typical_ CorrelAid projects:
+{% hint style="info" %}
+Good project work is not witchcraft, but it doesn't magically _just happen_ either. Especially decentralized teams - as is often the case in CorrelAid projects - pose special challenges to project coordinators. 
+{% endhint %}
+
+In the following, you will find a description of all project steps of _typical_ CorrelAid projects:
 
 1. Tendering the project in the network 
 2. Kick-off workshop 
@@ -25,11 +29,11 @@ None of the methods and procedures proposed here have to be implemented 1:1. It 
 
 This manual is permanently beta. We try it out, gain experience and rebuild it over and over again. You are welcome to send feedback on the manual to Arndt from the CorrelAid core team. 
 
-We wish you successful projects and exciting experiences, .johannes .arndt .yuhzu .regina .sebastian 
+We wish you successful projects and exciting experiences!
 
 
 
-### Who is involved in a CorrelAid project? 
+## Who is involved in a CorrelAid project? 
 
 
 
