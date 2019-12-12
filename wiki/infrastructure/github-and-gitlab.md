@@ -1,8 +1,25 @@
 # GitHub and GitLab
 
-### GitHub
+## GitHub
 
-* GitHub Organisation: www.github.com/CorrelAid
+We use GitHub for version control of most of our projects, both internal and with non-profit organizations. You can find our organization [here](https://www.github.com/CorrelAid).
+
+{% hint style="info" %}
+Need access or more permissions to a certain repository? Ask Frie \(@frie\) on Slack.
+{% endhint %}
+
+There are different levels of permissions:
+
+Members of the CorrelAid Core Team are **members** of the GitHub organization. Through the GitHub Team _coreteam_ , they have access to a lot of repositories \(except of project repositories\). Some of the members of the organization are also **owners** of the GitHub organization. That means that they can delete 
+
+
+
+
+
+
+
+
+
 * "Core" CoreTeam Mitglieder sind **Members** der GitHub Organisation
   * haben über coreteam GitHub Team "Write" Zugriff auf viele Repositories \(alle außer Projektrepositories\)
   * **können Repositories und Teams erstellen \(aka ein neues Projekt onboarden \(?\)\)**
