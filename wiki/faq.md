@@ -1,4 +1,4 @@
-# FAQ - find the right person!
+# FAQ
 
 ## Can I become who I want to be?
 

@@ -4,7 +4,7 @@
 
 ## Wiki
 
-* [FAQ - find the right person!](wiki/faq-find-the-right-person.md)
+* [FAQ](wiki/faq.md)
 * [Infrastructure](wiki/infrastructure/README.md)
   * [Social Media](wiki/infrastructure/social-media.md)
   * [Cloud](wiki/infrastructure/cloud.md)
