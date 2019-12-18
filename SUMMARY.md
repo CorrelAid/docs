@@ -5,17 +5,21 @@
 ## Wiki
 
 * [FAQ](wiki/faq.md)
+* [Communication channels](wiki/communication/README.md)
+  * [Slack](wiki/communication/slack.md)
+  * [Newsletter](wiki/communication/newsletter.md)
+  * [Social Media](wiki/communication/social-media.md)
+  * [Blog](wiki/communication/blog.md)
 * [Infrastructure](wiki/infrastructure/README.md)
-  * [Social Media](wiki/infrastructure/social-media.md)
-  * [Cloud](wiki/infrastructure/cloud.md)
+  * [Cloud](wiki/infrastructure/cloud/README.md)
+    * [Webspace](wiki/infrastructure/cloud/webspace.md)
+    * [CorrelCloud](wiki/infrastructure/cloud/correlcloud.md)
+    * [Azure](wiki/infrastructure/cloud/azure.md)
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
-  * [Slack](wiki/infrastructure/slack.md)
   * [Keybase and Password Management](wiki/infrastructure/keybase-and-password-management.md)
-  * [Calendar](wiki/infrastructure/calendar.md)
-* [Interne Kommunikation](wiki/interne-kommunikation.md)
-* [Öffentlichkeitsarbeit \(Jasmin\)](wiki/oeffentlichkeitsarbeit-jasmin.md)
-* [Projekte](wiki/projekte.md)
 * [Design Guide](wiki/design-guide.md)
+* [CorrelAid Merch](wiki/correlaid-merch.md)
+* [Projekte](wiki/projekte.md)
 * [Local Chapter](wiki/local-chapter.md)
 
 ## CorrelAidX Manual

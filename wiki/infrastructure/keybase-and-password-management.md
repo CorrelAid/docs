@@ -2,9 +2,49 @@
 
 ### Keybase
 
-CorrelAid has a Keybase _big team_ with the name **wearecorrelaid:** [https://keybase.io/team/wearecorrelaid](https://keybase.io/team/wearecorrelaid). A Keybase _big team_ is more or less like a Slack workspace, e.g. channels can be created etc.
+CorrelAid has a Keybase _big team_ with the name **wearecorrelaid:** [https://keybase.io/team/wearecorrelaid](https://keybase.io/team/wearecorrelaid). A Keybase _big team_ is more or less like a Slack workspace, e.g. channels can be created etc. For more info on what keybase is and does, check the [Keybase and Password Management](keybase-and-password-management.md#keybase-resources) at the bottom of this page.
 
-Within the CorrelAid teams, there is the subteam **wearecorrelaid.chamberofsecrets**. Members of this teams have access to the encrypted git `correlaid_secrets` which contains the kdbx files needed to access passwords of CorrelAid accounts. See Password Management.
+Within the CorrelAid teams, there is the subteam **wearecorrelaid.chamberofsecrets**. Members of this teams have access to the encrypted git `correlaid_secrets` which contains the kdbx files needed to access passwords of CorrelAid accounts. See the following section.
+
+#### 
+
+### Password Management
+
+Good password management is complicated. Thankfully, password managers exist and make it easier **not** to have passwords like "CorrelAidCorrelAid". However, having a password manager solution for more than a few people does get expensive very quickly. Hence, we currently have a setup that might be a bit workaround-y. But it works! Plus, it's open source: **Keybase, git and KeePass**. 
+
+The different logins live in multiple `kdbx` files. `kdbx` is the file extension associated with the open source password manager [KeePass](https://keepass.info/). Don't be scared off by the old-fashioned website - there are pretty cool KeePass clients for every operating system. Check the [downloads](https://keepass.info/download.html) page.
+
+For instance, we might have a `twitter.kdbx` file which just contains the Twitter login credentials. In a similar fashion, we have `kdbx` files for all the other accounts / logins. Each `kdbx` file is also secured with a master password. 
+
+This collection of `kdbx` files is part of an **encrypted git repository** on [keybase](https://keybase.io). This repository is linked to the **wearecorrelaid.chamberofsecrets** subteam \(see [above](keybase-and-password-management.md#keybase)\). This means that only members of this subteam have access to the password files.
+
+Members receive the master password for the file they want to open from Frie in a **private keybase message**. They are obligated to store this master password **at a safe place**, preferably their own private password manager. ****Alternatively, they can store the credentials contained in the file in their private password manager.   
+
+
+{% hint style="warning" %}
+If your private password manager's password is `1234` or if you leave any master passwords laying around on post-its, **this whole thing does not make sense**!
+{% endhint %}
+
+{% hint style="warning" %}
+The system is based on **trust**. Passwords are made accessible only to trustworthy persons. If a person turns out to not be trustworthy, all passwords that they had access to need to be changed.
+{% endhint %}
+
+#### Process with an example
+
+{% hint style="success" %}
+1. Anne wants access to the Twitter account to upload a new episode there because Jasmin is on holiday.
+2. Anne registers for **keybase** and writes Frie her username.
+3. Frie adds Anne to the **wearecorrelaid team** and then to the **chamberofsecrets subteam** and also sends Anne the **master password** for the `twitter.kdbx` file in a private keybase message.
+4. Anne clones the encrypted Git repository called `correlaid_secrets` 
+5. Anne installs a KeePass client for her operating system 
+6. Anne opens `twitter.kdbx`  in her KeePass client and unlocks the file with the master password.
+7. Anne **either** stores the master password in her own private password manager **or** stores the Twitter login details in her private password manager.
+8. Frie adds to the README of the repository that Anne has the master password for `twitter.kdbx.` 
+{% endhint %}
+
+\*\*\*\*
+
+### Links
 
 #### Keybase Resources
 
@@ -14,41 +54,4 @@ Within the CorrelAid teams, there is the subteam **wearecorrelaid.chamberofsecre
 * [What is PGP/GPG Encryption? In 3 Minutes - PGP/GPG Tutorial for Beginners](https://www.youtube.com/watch?v=1-MPcUHhXoc&t=39s)
 * [GPG, Web of Trust, and Keybase.io](https://snorre.io/gpg-web-of-trust-and-keybase-io/)
 * [Enable Sync \(offline access\) for KBFS](https://news.ycombinator.com/item?id=20166010)
-
-### Password Management
-
-### Passwortmanagement
-
-* mehrere kdbx Dateien 
-  * twitter
-  * azure / microsoft admin frie account
-  * correlcloud admin
-  * correlaid.org webadmin
-  * dns server manitu
-  * podcast soundcloud 
-* Ablageort der kdbx Dateien: **encrypted git auf keybase.io, Zugriff für Mitglieder des Subteams "wearecorrelaid.passwords"** \(siehe {\#keybase}\)
-* für jede kdbx Datei braucht man ein Master-Passwort zum Entsperren. Master Passwörter werden über eine private Nachricht in Keybase von Frie geteilt und von Personen in privaten Passwortmanagern oder offline an einem sicheren Ort hinterlegt
-  * -&gt; **nicht** in unverschlüsselten Dateien auf dem PC 
-* System basiert auf **Vertrauen**. Passwörter werden nur an vertrauenswürdige Personen weitergegeben. Wenn sich eine Person als nicht vertrauenswürdig herausstellt, müssen die Passwörter geändert werden, auf die die Person Zugriff hatte. 
-* Zugänge in den kdbx Dateien können gerne auch in privaten Passwortmanagern gespeichert werden
-* Wer im Besitz welcher Master-Passwörter \(und damit Zugängen\) ist, wird im README des Repositories von der Person, die das Master Passwort weitergegeben hat, dokumentiert. 
-
-**Prozess anhand eines Beispiels**
-
-1. Anne möchte Zugriff auf den Soundcloud Account haben, um dort eine neue Podcast Folge hochzuladen, weil Jasmin im Urlaub ist
-2. Sie legt sich einen keybase Account an und teilt Frie ihren Keybase username mit 
-3. Frie fügt Anne zum keybase team "correlaid\_pass" hinzu und schickt Anne über eine Direktnachricht in Keybase das Master-Passwort für `soundcloud.kdbx`
-4. Anne klont das encrypted Git Repository, das "correlaid\_pass" zugeordnet ist
-5. Anne installiert einen keepass client für ihr Betriebssystem \([https://keepass.info/](https://keepass.info/)\) 
-6. Anne öffnet `soundcloud.kdbx` in ihrem keepass client und entsperrt die Datei mit dem Master Passwort.
-
-   7.
-
-7. Anne hinterlegt das **Master Passwort an einem sicheren Ort**, um in Zukunft bei Bedarf `soundcloud.kdbx` entsperren zu können \(offline an einem sicheren Ort oder in ihrem privaten Passwordmanager\).
-8. **oder**: Alternativ kann sie die Soundcloud **Zugangsdaten in ihrem privaten Passwortmanager** abspeichern. Dann braucht sie `soundcloud.kdbx` nicht mehr. 
-9. Frie dokumentiert im README des Repositories, dass Anne das Master-Passwort für `soundcloud.kdbx` hat.
-
-**Anmerkungen**
-
-* wenn euer privater Passwortmanager mit Passwort `1234` abgesichert ist oder ihr Passwörter auf Post-Its auf dem Tisch liegen habt, ergibt das ganze keinen Sinn. :wink: 
 
