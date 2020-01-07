@@ -37,16 +37,3 @@
 * [Cooperation Agreements](correlaidx-manual/cooperation-agreements.md)
 * [Ethics guide](correlaidx-manual/ethics-guide.md)
 
-## Project Manual
-
-* [Welcome!](project-manual/welcome.md)
-* [Who is who](project-manual/who-is-who.md)
-* [Finding the project team](project-manual/ausschreiben-des-projektes-im-netzwerk.md)
-* [Project infrastructure](project-manual/projektinfrastruktur.md)
-* [Workshop](project-manual/workshop.md)
-* [Arbeit im Projektteam](project-manual/arbeit-im-projektteam.md)
-* [Peer Review](project-manual/peer-review.md)
-* [Adjourning des Projektteams](project-manual/adjourning-des-projektteams.md)
-* [Follow up](project-manual/follow-up.md)
-* [Anhang/Appendix](project-manual/anhang-appendix.md)
-
