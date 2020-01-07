@@ -25,7 +25,7 @@
 ## CorrelAidX Manual
 
 * [What is CorrelAidX?](correlaidx-manual/what-is-correlaidx.md)
-* [Contact](correlaidx-manual/contact.md)
+* [Get started!](correlaidx-manual/organizational-structure.md)
 * [Role definitions](correlaidx-manual/role-definitions.md)
 * [Formats](correlaidx-manual/formats/README.md)
   * [Data dialogue](correlaidx-manual/formats/data-dialogue.md)
@@ -33,7 +33,7 @@
   * [Introducing CorrelAid](correlaidx-manual/formats/introducing-correlaid.md)
   * [Panel discussion](correlaidx-manual/formats/panel-discussion.md)
   * [Hackathons](correlaidx-manual/formats/hackathons.md)
-* [Organizational structure](correlaidx-manual/organizational-structure.md)
 * [Cooperation Agreements](correlaidx-manual/cooperation-agreements.md)
 * [Ethics guide](correlaidx-manual/ethics-guide.md)
+* [Contact](correlaidx-manual/contact.md)
 
