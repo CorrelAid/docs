@@ -34,7 +34,6 @@
   * [Panel discussion](correlaidx-manual/formats/panel-discussion.md)
   * [Hackathons](correlaidx-manual/formats/hackathons.md)
 * [Organizational structure](correlaidx-manual/organizational-structure.md)
-* [Style guide](correlaidx-manual/style-guide.md)
 * [Cooperation Agreements](correlaidx-manual/cooperation-agreements.md)
 * [Ethics guide](correlaidx-manual/ethics-guide.md)
 
