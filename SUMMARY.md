@@ -25,6 +25,7 @@
 ## CorrelAidX Manual
 
 * [What is CorrelAidX?](correlaidx-manual/what-is-correlaidx.md)
+* [Contact](correlaidx-manual/contact.md)
 * [Role definitions](correlaidx-manual/role-definitions.md)
 * [Formats](correlaidx-manual/formats/README.md)
   * [Data dialogue](correlaidx-manual/formats/data-dialogue.md)
