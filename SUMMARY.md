@@ -26,6 +26,7 @@
 
 * [What is CorrelAidX?](correlaidx-manual/what-is-correlaidx.md)
 * [Get started!](correlaidx-manual/organizational-structure.md)
+* [Finding a legal form](correlaidx-manual/finding-a-legal-form.md)
 * [Role definitions](correlaidx-manual/role-definitions.md)
 * [Formats](correlaidx-manual/formats/README.md)
   * [Data dialogue](correlaidx-manual/formats/data-dialogue.md)
