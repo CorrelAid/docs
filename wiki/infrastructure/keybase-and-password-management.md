@@ -6,6 +6,8 @@ CorrelAid has a Keybase _big team_ with the name **wearecorrelaid:** [https://ke
 
 Within the CorrelAid teams, there is the subteam **wearecorrelaid.chamberofsecrets**. Members of this teams have access to the encrypted git `correlaid_secrets` which contains the kdbx files needed to access passwords of CorrelAid accounts. See the following section.
 
+#### 
+
 ### Password Management
 
 Good password management is complicated. Thankfully, password managers exist and make it easier **not** to have passwords like "CorrelAidCorrelAid". However, having a password manager solution for more than a few people does get expensive very quickly. Hence, we currently have a setup that might be a bit workaround-y. But it works! Plus, it's open source: **Keybase, git and KeePass**. 

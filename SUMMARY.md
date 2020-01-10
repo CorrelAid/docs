@@ -19,7 +19,7 @@
   * [Keybase and Password Management](wiki/infrastructure/keybase-and-password-management.md)
 * [Design Guide](wiki/design-guide.md)
 * [CorrelAid Merch](wiki/correlaid-merch.md)
-* [Projekte](wiki/projekte.md)
+* [Projects](wiki/projekte.md)
 * [Local Chapter](wiki/local-chapter.md)
 
 ## CorrelAidX Manual
