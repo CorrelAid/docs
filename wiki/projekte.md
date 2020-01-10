@@ -1,24 +1,36 @@
-# Projekte
+# Projects
 
+{% hint style="warning" %}
+This is just a short overview over the project process. We have a full project handbook but it needs to be updated and translated to English. You can find the old version [here](https://correlaid.github.io/projekthandbuch/). Until we have translated the handbook and included it here, feel free to pose any questions in the \#projekte channel in [Slack](faq.md#everything-seems-to-be-on-slack-how-do-i-get-on-there). If you want to help in the process or are interested in volunteering as a project coordinator \(i.e. organizing projects\), contact Manuel Neumann \(@Manuel\) on Slack.
+{% endhint %}
 
+CorrelAid places volunteers from the data science community with non-profit organizations \(NPOs\). CorrelAid provides the infrastructure, supports the teams in encrypting data sets, coordinates teamwork using digital project management tools and produces a professional final report. Depending on the focus of the project, participants\* get to know different data analysis methods \(statistical and text-based analysis, visualization, machine learning, network analysis, etc.\), which can be practiced on "real" data using the open-source software R. CorrelAid can also issue certificates for participation in data projects. 
 
-CorrelAid vermittelt Freiwillige aus der Data Science Community an gemeinnützige Vereine \(NPOs\). CorrelAid stellt die Infrastruktur zur Verfügung, unterstützt die Teams bei der Verschlüsselung von Datensätzen, der Koordination der Teamarbeit über digitale Projektmanagement-Tools und der Erstellung eines professionellen Abschlussberichts. Je nach Ausrichtung des Projekts lernen Teilnehmer\*innen verschiedene Datenanalyseverfahren kennen \(statistische und text-basierte Analysen, Visualisierung, Machine-Learning, Netzwerkanalyse, etc.\), die mithilfe der open-source Software R an „echten“ Daten eingeübt werden können. Zudem kann CorrelAid Bescheinigungen für die Teilnahme an Datenprojekten ausstellen.
+For successful implementation, each CorrelAid project should ideally pass through the following six planning phases:
 
-Zur erfolgreichen Durchführung sollte jedes CorrelAid-Projekt im Idealfall die folgenden sechs Planungsphasen durchlaufen:
+### 1. Phase: Project acquisition
 
-### 1. Phase: Projektaquise
+This phase starts with the initial contact between CorrelAid and the NPO. Over the course of  a couple of weeks, one of the CorrelAid project coordinators and the partner organisation discuss how CorrelAid can help the organisation. Together, they develop a project proposal / call for applications which is then sent out to the CorrelAid network via the email list \(or a sublist, in case of CorrelAidX / local projects\). 
 
-### 2. Phase: Call-for-Applications – Bildung eines Teams
+### 2. Phase: Call for applications – forming a team
+
+Members have usually 2-4 weeks to apply to the project. Application is usually done via a simple web form. After the application deadline, we form a selection committee that is composes a team. During this selection process, data of applicants is \(pseudo-\)anonymized - i.e. email adress and name are replaced by random IDs. CorrelAid strives to compose diverse teams, especially regarding gender and prior project and programming experience. To ensure the former, we enforce a gender quota. 
 
 ### 3. Phase: Kick-off
 
-Anlässlich eines jeden Projekts wird ein Auftakttreffen organisiert, bei dem das Team die Partnerorganisation und deren Fragestellung kennenlernt. Ein\_e Projektkoordinator\_in von CorrelAid organisiert ein Auftakttreffen, über das ihr die NPO und deren Problem- oder Fragestellung kennenlernt. Im Zuge dessen entscheidet das Team gemeinsam mit der NPO, wie sie das Projekt angehen wollen.
+For each project, a kick-off meeting is organised where the team gets to know the partner non-profit organisation and its problems or questions. Organising this kick-off meeting is the task of the project coordinator from CorrelAid. In the course of this meeting, the team decides together with the NPO how they want to approach the project.
 
-### 4. Phase: Projektarbeit
+### 4. Phase: Project work 
 
-### 5. Phase: Finaler Report und Abschlussberichts
+During this phase, the project team works on the project. 
+
+### 5. Phase: Final report 
+
+details coming soon.
 
 ### 6. Phase: Evaluation
 
-\[weiterer Abgleich mit Projekthandbuch folgt\]
+details coming soon.
+
+
 

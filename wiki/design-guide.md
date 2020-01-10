@@ -2,7 +2,7 @@
 
 ### General
 
-The purpose of this short design guideline is to explain the use of our CorrelAid-specific corporate design and to reinforce the consistent use of visual elements in all communication. This includes publications, presentations and all other marketing materials both online and offline. Our Corporate Identity was developed by _Das Gute Ruft - Agentur für öko-soziale Unternehmen und Vereine_ - the information listed here is based on the Design Guide from June 2018. The Guide as well as all logos/ existing designs are available in the [CorrelCloud](infrastructure/cloud/correlcloud.md) in the [PR and Public Relations folder](https://correlcloud.org/index.php/apps/files/?dir=/CorrelCloud/03_pr/01_pr_oeff_arbeit&fileid=13934) or on the CorrelAid Canva account \(see below\).
+The purpose of this short design guideline is to explain the use of our CorrelAid-specific corporate design and to reinforce the consistent use of visual elements in all communication. This includes publications, presentations and all other marketing materials both online and offline. Our Corporate Identity was developed by _Das Gute Ruft - Agentur für öko-soziale Unternehmen und Vereine_ - the information listed here is based on the Design Guide from June 2018. The Guide as well as all logos/ existing designs are available in the [CorrelCloud](infrastructure/correlcloud.md) in the [PR and Public Relations folder](https://correlcloud.org/index.php/apps/files/?dir=/CorrelCloud/03_pr/01_pr_oeff_arbeit&fileid=13934) or on the CorrelAid Canva account \(see below\).
 
 ### Logos
 
@@ -14,11 +14,11 @@ The CorrelAid main logo is the central element of the brand's visual identity. I
 
 _Main Logo_
 
-There are three variations of this main logo which can be used on dark and light ground, with slogan or without. The files are stored as .png and .svg on the [CorrelCloud](infrastructure/cloud/correlcloud.md).
+There are three variations of this main logo which can be used on dark and light ground, with slogan or without. The files are stored as .png and .svg on the [CorrelCloud](infrastructure/correlcloud.md).
 
 #### Local Chapter Logos
 
-The CorrelAidX logos are an adaptation of the main logos. In addition to the "C", the logo also shows the suffix "X" which expresses that CorrelAid is available in various cities. Instead of the claim the city name is inserted in line 2. If you want to customize a logo specifically for your city, please contact Lena Junka \(junka.lena@gmail.com\). The logos are stored as .png and .svg on the [CorrelCloud](infrastructure/cloud/correlcloud.md).
+The CorrelAidX logos are an adaptation of the main logos. In addition to the "C", the logo also shows the suffix "X" which expresses that CorrelAid is available in various cities. Instead of the claim the city name is inserted in line 2. If you want to customize a logo specifically for your city, please contact Lena Junka \(junka.lena@gmail.com\). The logos are stored as .png and .svg on the [CorrelCloud](infrastructure/correlcloud.md).
 
 Here's an example: 
 
