@@ -19,6 +19,6 @@ We also have a GitLab organization: [https://gitlab.com/correlaid](https://gitla
 However, we currently do not use it for much. If you want to work with GitLab in your project for any reason, we can also host the project repository there. No problem. 🙂 
 
 {% hint style="info" %}
-Frie \(@frie\) is the contact person for everything related to GitHub and GitLab. Ping Frie on Slack if you need anything. Please check the relevant questions in the FAQ beforehand.
+Frie \(@frie\) is the contact person for everything related to GitHub and GitLab. Ping Frie on Slack if you need anything. Please check the relevant questions in the [FAQ](../faq.md) beforehand.
 {% endhint %}
 

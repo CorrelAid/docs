@@ -26,6 +26,8 @@ All about how local chapters work, what you can do in a local chapter, different
 
 A manual for project leaders of CorrelAid projects. But might be interesting to everyone else as well! 
 
+{% page-ref page="project-manual/welcome.md" %}
+
 
 
 If you cannot find the answer to your problem, do not hesitate to contact [frie.p@correlaid.org](mailto:frie.p@correlaid.org) or ask your question in \#netzwerk-help on Slack.

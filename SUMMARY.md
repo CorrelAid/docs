@@ -25,7 +25,7 @@
 ## CorrelAidX Manual
 
 * [What is CorrelAidX?](correlaidx-manual/what-is-correlaidx.md)
-* [Get started!](correlaidx-manual/organizational-structure/README.md)
+* [Get started!](correlaidx-manual/organizational-structure.md)
   * [Finding partners](correlaidx-manual/organizational-structure/finding-partners.md)
   * [Room booking and catering](correlaidx-manual/organizational-structure/room-booking-and-catering.md)
 * [Finding a legal form](correlaidx-manual/finding-a-legal-form.md)
