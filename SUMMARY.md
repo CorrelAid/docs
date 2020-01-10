@@ -11,10 +11,9 @@
   * [Social Media](wiki/communication/social-media.md)
   * [Blog](wiki/communication/blog.md)
 * [Infrastructure](wiki/infrastructure/README.md)
-  * [Cloud](wiki/infrastructure/cloud/README.md)
-    * [Webspace](wiki/infrastructure/cloud/webspace.md)
-    * [CorrelCloud](wiki/infrastructure/cloud/correlcloud.md)
-    * [Azure](wiki/infrastructure/cloud/azure.md)
+  * [CorrelCloud](wiki/infrastructure/correlcloud.md)
+  * [Webspace / Email](wiki/infrastructure/webspace.md)
+  * [Azure](wiki/infrastructure/azure.md)
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
   * [Keybase and Password Management](wiki/infrastructure/keybase-and-password-management.md)
 * [Design Guide](wiki/design-guide.md)
@@ -25,7 +24,7 @@
 ## CorrelAidX Manual
 
 * [What is CorrelAidX?](correlaidx-manual/what-is-correlaidx.md)
-* [Get started!](correlaidx-manual/organizational-structure.md)
+* [Get started!](correlaidx-manual/organizational-structure/README.md)
   * [Finding partners](correlaidx-manual/organizational-structure/finding-partners.md)
   * [Room booking and catering](correlaidx-manual/organizational-structure/room-booking-and-catering.md)
 * [Finding a legal form](correlaidx-manual/finding-a-legal-form.md)

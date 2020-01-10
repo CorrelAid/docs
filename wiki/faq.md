@@ -8,15 +8,5 @@ If you want to become part of our Slack, drop an email to [Frie](mailto:frie.p@c
 
 Yes, sure! You can find some of our contacts [on the website](https://correlaid.org/contact). Or in the answer to the question above. 😉 
 
-## I want to create a GitHub / GitLab repository for my project and add my team to it. How do I do it?
 
-Please send a Slack message to Frie \(@frie\) with:
-
-* the name you want the repository to have
-* the GitHub / GitLab user names of the project team members
-* whether the project should be public or private
-
-## I can't push to the Git repository \("access rights" error\). What's up there?
-
-You don't seem to have the correct permissions. Ping Frie and she'll grant you the correct permissions.
 
