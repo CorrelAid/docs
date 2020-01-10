@@ -1,6 +1,6 @@
 # Projects
 
-{% hint style="info" %}
+{% hint style="warning" %}
 This is just a short overview over the project process. We have a full project handbook but it needs to be updated and translated to English. You can find the old version [here](https://correlaid.github.io/projekthandbuch/). Until we have translated the handbook and included it here, feel free to pose any questions in the \#projekte channel in [Slack](faq.md#everything-seems-to-be-on-slack-how-do-i-get-on-there). If you want to help in the process or are interested in volunteering as a project coordinator \(i.e. organizing projects\), contact Manuel Neumann \(@Manuel\) on Slack.
 {% endhint %}
 
