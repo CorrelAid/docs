@@ -12,27 +12,13 @@ There are different levels of permissions:
 
 > Outside collaborators: Repository collaborators can include organization members or outside collaborators. An outside collaborator is a person who has access to one or more organization repositories but is not explicitly a member of the organization, such as a consultant or temporary employee. \([https://help.github.com/en/articles/repository-permission-levels-for-an-organization](https://help.github.com/en/articles/repository-permission-levels-for-an-organization)\)
 
-## GitLab
+### GitLab
 
 We also have a GitLab organization: [https://gitlab.com/correlaid](https://gitlab.com/correlaid). 
 
 However, we currently do not use it for much. If you want to work with GitLab in your project for any reason, we can also host the project repository there. No problem. 🙂 
 
 {% hint style="info" %}
-Frie \(@frie\) is the contact person for everything related to GitHub and GitLab. Ping Frie on Slack if you need anything. Please check the relevant questions in the [FAQ](../faq.md) beforehand.
+Frie \(@frie\) is the contact person for everything related to GitHub and GitLab. Ping Frie on Slack if you need anything. Please check the relevant questions in the FAQ beforehand.
 {% endhint %}
-
-## FAQ
-
-### I want to create a GitHub / GitLab repository for my project and add my team to it. How do I do it?
-
-Please send a Slack message to Frie \(@frie\) with:
-
-* the name you want the repository to have
-* the GitHub / GitLab user names of the project team members
-* whether the project should be public or private
-
-### I can't push to the Git repository \("access rights" error\). What's up there?
-
-You don't seem to have the correct permissions. Ping Frie and she'll grant you the correct permissions.
 

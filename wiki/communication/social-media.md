@@ -1,7 +1,5 @@
 # Social Media
 
-
-
 {% hint style="info" %}
 To get write access to the Facebook page, ask Frie \(@frie in Slack\). 
 
