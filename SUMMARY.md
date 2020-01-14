@@ -31,7 +31,7 @@
   * [Room booking and catering](correlaidx-manual/organizational-structure/room-booking-and-catering.md)
 * [Finding a legal form](correlaidx-manual/finding-a-legal-form.md)
 * [Role definitions](correlaidx-manual/role-definitions.md)
-* [Formats](correlaidx-manual/formats/README.md)
+* [Event formats](correlaidx-manual/formats/README.md)
   * [Data dialogue](correlaidx-manual/formats/data-dialogue.md)
   * [Workshops](correlaidx-manual/formats/workshops.md)
   * [Introducing CorrelAid](correlaidx-manual/formats/introducing-correlaid.md)
