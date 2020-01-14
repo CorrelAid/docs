@@ -1,8 +1,8 @@
 # Blog
 
-Der Blog ist so etwas wie eine große Spielwiese. Natürlich hat er für die Organisation CorrelAid auch eine rein praktische Funktion: Wir veröffentlichen hier Berichte über unsere Meetups, Veranstaltungen, etc., um diese anschließend in den sozialen Medien zu teilen -- klassische Öffentlichkeitsarbeit also. Wenn ihr aus eurem Local Chapter etwas mitteilen wollt \(etwa einen Bericht über einen Hackathon o.Ä.\), schreibt einfach eine E-Mail \(oder meldet euch im Slack unter _\#pr-blog_\)!
+The blog is something like a big playground. Of course, for CorrelAid, it also has a purely practical function: we publish reports about our meetings, events, etc., and then share them on social media -- classic public relations work. So if you want to share something from your local chapter \(like a report about a hackathon or the like\), just write an [email](mailto:blog@correlaid.org) \(or join the slack channel \#pr-blog\)! 
 
-Gleichzeitig bietet der Blog aber auch den CorrelAid-Mitgliedern die Möglichkeit, ihre Ideen oder Analaysen zu teilen. Das kann schon ganz klein anfangen mit einer kleinen Auswertung/Visualisierung oder einem Erklärstück zu einem statistischen Phänomen. Das kann aber auch gehen zu einer großen, umfangreichen Analyse mit verschiedenen, interaktiven Grafiken. Wenn ihr Ideen habt, schreibt einfach eine E-Mail \(oder Slack _\#pr-blog_\).
+At the same time, the blog also offers CorrelAid members the opportunity to share their ideas or analyses. This can start very small with a small evaluation/visualization or an explanation of a statistical phenomenon. But it can also lead to a large, comprehensive analysis with various interactive graphics. If you have ideas, just write an [email](mailto:blog@correlaid.org) \(or slack \#pr-blog\). 
 
-Drittens haben wir, wenn es sich ergibt, auch immer wieder gerne Gastbeiträge oder Crossposts auf unserem Blog. Wer also jemanden außerhalb von CorrelAid kennt \(Wissenschaftler, Aktivisten etc.\), der schickt gerne eine Mail mit dem Vorschlag an blog@correlaid.org.
+Finally, if it turns out, we are always happy to have guest posts or cross posts on our blog. So if you know someone outside of CorrelAid \(scientists, activists etc.\) who we should collaborate with, please send an email with your suggestion to [blog@correlaid.org](mailto:blog@correlaid.org).
 

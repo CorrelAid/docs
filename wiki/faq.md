@@ -1,4 +1,8 @@
-# FAQ
+# General FAQ
+
+{% hint style="info" %}
+You'll find more specific FAQs in the respective pages. 
+{% endhint %}
 
 ## Everything seems to be on Slack! How do I get on there?
 
