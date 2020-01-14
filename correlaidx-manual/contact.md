@@ -6,7 +6,7 @@ Regina is responsible for CorrelAidX. You can write her an email under [regina.s
 
 ### Missing content?
 
-Write an [email](mailto:frie.p@correlaid.org) to Frie or contact her on Slack \(@frie\) with your question. She'll connect you with the right people and will work to include it in the docs as soon as possible.
+Found something that should be in this manual? Write an [email](mailto:frie.p@correlaid.org) to Frie or contact her on Slack \(@frie\) - she will work to include it in the docs as soon as possible.
 
 ### Finances
 
