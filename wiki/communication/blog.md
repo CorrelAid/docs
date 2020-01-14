@@ -6,3 +6,5 @@ At the same time, the blog also offers CorrelAid members the opportunity to shar
 
 Finally, if it turns out, we are always happy to have guest posts or cross posts on our blog. So if you know someone outside of CorrelAid \(scientists, activists etc.\) who we should collaborate with, please send an email with your suggestion to [blog@correlaid.org](mailto:blog@correlaid.org).
 
+
+

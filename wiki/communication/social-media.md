@@ -1,20 +1,12 @@
 # Social Media
 
-
-
-{% hint style="info" %}
-To get write access to the Facebook page, ask Frie \(@frie in Slack\). 
-
-To get access to Twitter, see [password management](keybase.md).
-{% endhint %}
-
-### Twitter
+## Twitter
 
 * twitter.com/CorrelAid
 * username: @CorrelAid 
 * password: see [password management](keybase.md).
 
-### Facebook 
+## Facebook 
 
 * [https://www.facebook.com/WeAreCorrelAid/](https://www.facebook.com/WeAreCorrelAid/)
 * roles
@@ -26,4 +18,20 @@ To get access to Twitter, see [password management](keybase.md).
     * Rahel Becker
     * Arndt Leininger
     * Damon Raeis-Dana
+
+## FAQ
+
+### How do I get access to our Twitter account?
+
+{% hint style="info" %}
+To get access to Twitter, see [password management](keybase.md).
+{% endhint %}
+
+### How do I get access to our Facebook account?
+
+{% hint style="info" %}
+To get write access to the Facebook page, ask Frie \(@frie in Slack\). Please include a link to your Facebook profile. 
+{% endhint %}
+
+
 

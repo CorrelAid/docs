@@ -18,21 +18,21 @@ We also have a GitLab organization: [https://gitlab.com/correlaid](https://gitla
 
 However, we currently do not use it for much. If you want to work with GitLab in your project for any reason, we can also host the project repository there. No problem. 🙂 
 
-{% hint style="info" %}
-Frie \(@frie\) is the contact person for everything related to GitHub and GitLab. Ping Frie on Slack if you need anything. Please check the relevant questions in the [FAQ](../faq.md) beforehand.
-{% endhint %}
-
 ## FAQ
 
 ### I want to create a GitHub / GitLab repository for my project and add my team to it. How do I do it?
 
+{% hint style="info" %}
 Please send a Slack message to Frie \(@frie\) with:
 
 * the name you want the repository to have
 * the GitHub / GitLab user names of the project team members
 * whether the project should be public or private
+{% endhint %}
 
 ### I can't push to the Git repository \("access rights" error\). What's up there?
 
-You don't seem to have the correct permissions. Ping Frie and she'll grant you the correct permissions.
+{% hint style="info" %}
+You don't seem to have the correct permissions. Ping Frie in Slack \(@frie\) and she'll grant you the correct permissions.
+{% endhint %}
 

@@ -1,12 +1,12 @@
 # Keybase and Password Management
 
-### Keybase
+## Keybase
 
 CorrelAid has a Keybase _big team_ with the name **wearecorrelaid:** [https://keybase.io/team/wearecorrelaid](https://keybase.io/team/wearecorrelaid). A Keybase _big team_ is more or less like a Slack workspace, e.g. channels can be created etc. For more info on what keybase is and does, check the [Keybase and Password Management](keybase-and-password-management.md#keybase-resources) at the bottom of this page.
 
 Within the CorrelAid teams, there is the subteam **wearecorrelaid.chamberofsecrets**. Members of this teams have access to the encrypted git `correlaid_secrets` which contains the kdbx files needed to access passwords of CorrelAid accounts. See the following section.
 
-### Password Management
+## Password Management
 
 Good password management is complicated. Thankfully, password managers exist and make it easier **not** to have passwords like "CorrelAidCorrelAid". However, having a password manager solution for more than a few people does get expensive very quickly. Hence, we currently have a setup that might be a bit workaround-y. But it works! Plus, it's open source: **Keybase, git and KeePass**. 
 
@@ -27,7 +27,7 @@ If your private password manager's password is `1234` or if you leave any master
 The system is based on **trust**. Passwords are made accessible only to trustworthy persons. If a person turns out to not be trustworthy, all passwords that they had access to need to be changed.
 {% endhint %}
 
-#### Process with an example
+### Process with an example
 
 {% hint style="success" %}
 1. Anne wants access to the Twitter account to upload a new episode there because Jasmin is on holiday.
@@ -40,7 +40,13 @@ The system is based on **trust**. Passwords are made accessible only to trustwor
 8. Frie adds to the README of the repository that Anne has the master password for `twitter.kdbx.` 
 {% endhint %}
 
-\*\*\*\*
+## FAQ
+
+### I need to be added to the Keybase team. Who can help me?
+
+{% hint style="info" %}
+Ping Frie \(@frie\) on Slack or on Keybase \(@friep\). She'll add you to the Keybase team and  send you the master passwords you need.
+{% endhint %}
 
 ### Links
 

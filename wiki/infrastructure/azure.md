@@ -2,7 +2,11 @@
 
 We have credits for the Microsoft Azure cloud through their [non-profit program](https://nonprofit.microsoft.com/register). We use Azure resources for our projects if necessary / requested by the project team.
 
+## FAQ 
+
+### I need a virtual machine / server for our CorrelAid project. Who can help me?
+
 {% hint style="info" %}
-Need a virtual machine / server or another cloud resource for your project? Want to help administer and maintain our cloud infrastructure? Ping **Frie \(@frie\) or Jan \(@Jan\)** on Slack.
+Ping **Frie \(@frie\) and/or Jan \(@Jan\)** on Slack and we'll help you.
 {% endhint %}
 
