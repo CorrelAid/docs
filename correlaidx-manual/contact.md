@@ -14,5 +14,5 @@ Current finance officer \(board member for finances\): Konstantin \(@konstantin 
 
 ### Local chapters
 
-coming soon. In the meantime, see our [website](https://correlaid.org).
+If you want to contact a specific local chapter, please check the details on our [website](https://correlaid.org).
 
