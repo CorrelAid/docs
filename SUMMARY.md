@@ -39,8 +39,10 @@
 
 ## Project Manual
 
-* [Welcome!](project-manual/welcome.md)
 * [Who is who](project-manual/who-is-who.md)
+* [Project coordination](project-manual/project-coordination/README.md)
+  * [GitHub Repo "projects"](project-manual/project-coordination/github-repo-projects.md)
+* [Welcome!](project-manual/welcome.md)
 * [Finding the project team](project-manual/ausschreiben-des-projektes-im-netzwerk.md)
 * [Project infrastructure](project-manual/projektinfrastruktur.md)
 * [Workshop](project-manual/workshop.md)
