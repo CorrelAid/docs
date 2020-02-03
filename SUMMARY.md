@@ -40,16 +40,17 @@
 ## Project Manual
 
 * [Who is who](project-manual/who-is-who.md)
-* [Project coordination](project-manual/project-coordination/README.md)
+* [Project stages](project-manual/untitled.md)
+* [For project coordinators](project-manual/project-coordination/README.md)
   * [GitHub Repo "projects"](project-manual/project-coordination/github-repo-projects.md)
-* [Untitled](project-manual/untitled.md)
 * [Welcome!](project-manual/welcome.md)
 * [Finding the project team](project-manual/ausschreiben-des-projektes-im-netzwerk.md)
 * [Project infrastructure](project-manual/projektinfrastruktur.md)
 * [Workshop](project-manual/workshop.md)
-* [Arbeit im Projektteam](project-manual/arbeit-im-projektteam.md)
+* [Templates](project-manual/templates.md)
 * [Peer Review](project-manual/peer-review.md)
 * [Adjourning des Projektteams](project-manual/adjourning-des-projektteams.md)
 * [Follow up](project-manual/follow-up.md)
-* [Anhang/Appendix](project-manual/anhang-appendix.md)
+* [Anhang/Appendix](project-manual/anhang-appendix/README.md)
+  * [Arbeit im Projektteam](project-manual/anhang-appendix/arbeit-im-projektteam.md)
 
