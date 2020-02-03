@@ -8,7 +8,7 @@ Each project is stored as a GitHub issue. GitHub issues are usually used in soft
 
 GitHub issues have certain features. Let's look at an [example issue ](https://github.com/pandas-dev/pandas/issues/20110)and let's see how we'll make use of them when keeping track of CorrelAid projects compared to typical software development use cases.
 
-![](../../.gitbook/assets/screenshot-2020-02-03-at-17.22.46.png)
+![](../../../.gitbook/assets/screenshot-2020-02-03-at-17.22.46.png)
 
 | Letter | Name |  software development | CorrelAid project |
 | :--- | :--- | :--- | :--- |
