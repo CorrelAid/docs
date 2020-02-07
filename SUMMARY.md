@@ -13,6 +13,7 @@
   * [Social Media](wiki/communication/social-media.md)
   * [Blog](wiki/communication/blog.md)
 * [Infrastructure](wiki/infrastructure/README.md)
+  * [CorrelAid Calendar](wiki/infrastructure/correlaid-calendar.md)
   * [CorrelCloud](wiki/infrastructure/correlcloud.md)
   * [Webspace / Email](wiki/infrastructure/webspace.md)
   * [Azure](wiki/infrastructure/azure.md)
