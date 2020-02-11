@@ -19,6 +19,11 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Contact person</td>
+      <td style="text-align:left">the contact person at the NPO. Usually we have one or two contact persons
+        who we will talk with.</td>
+    </tr>
+    <tr>
       <td style="text-align:left">CorrelAid</td>
       <td style="text-align:left">CorrelAid as an organization</td>
     </tr>
