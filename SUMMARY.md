@@ -42,3 +42,8 @@
 * [Ethics guide](correlaidx-manual/ethics-guide.md)
 * [Contact](correlaidx-manual/contact.md)
 
+## Project manual
+
+* [Who is who](project-manual/who-is-who.md)
+* [Project stages](project-manual/project-stages.md)
+
