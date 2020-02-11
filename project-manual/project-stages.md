@@ -1,6 +1,6 @@
 # Project stages
 
-A typical CorrelAid project goes through 6 stages.
+A typical CorrelAid project goes through 6 stages. Those are sketched out here to give a first overview. More detailed content will follow. 
 
 ### First contact
 
@@ -34,9 +34,13 @@ If possible: After finding a date with the project team, the project coordinator
 
 ### Project work 
 
-The project team works on the project, with regular feedback loops with the organization. The project team lead 
+The project team works on the project, with regular feedback loops with the organization. The project team leader leads the team as primus inter pares and is responsible for keeping the project running. From time to time, the team gives an update to the project coordinator to ensure that no problems exist and that the project is running smoothly. 
 
 ### Adjourning and Follow-up 
 
+The project team hands over the finished analysis / visualization / .. to the NPO. Feedback is collected by the project coordinator from both the NPO and the project team members. 
+
 ### Finished / Lost 
+
+If the project has been successfully conducted so far, the project is then finished. If we could not finish the project \(e.g. problems with the data, project team problems, we could not help the NPO\), it is declared to be "lost". 
 
