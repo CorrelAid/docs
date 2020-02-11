@@ -46,4 +46,5 @@
 
 * [Who is who](project-manual/who-is-who.md)
 * [Project stages](project-manual/project-stages.md)
+* [For Project Coordinators](project-manual/for-project-coordinators.md)
 
