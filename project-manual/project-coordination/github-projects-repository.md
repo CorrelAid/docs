@@ -24,9 +24,7 @@ _Description of screenshot: Screnshot of a_ [_GitHub issue_](https://github.com/
 | F | project boards | project boards are GitHub's implementation of [Kanban boards](https://en.wikipedia.org/wiki/Kanban_board) --&gt; usually there are at least three "columns" of a project board: "to-do", "in progress" and "done". Issues are then moved to the next stage once completed. E.g. when an work on an issue is started, it's moved from "to-do" to "in progress". | We represent our project progress using a project board. There are several phases a project goes through, from initial aquisition over ideation to project work. All stages are outlined below. |
 | G | milestone | "You can use milestones to track progress on groups of issues or pull requests in a repository." | NA |
 
-### Working with a GitHub Issue <a id="working-with-a-github-issue"></a>
-
-#### Creating a GitHub issue <a id="creating-a-github-issue"></a>
+### Creating a GitHub issue
 
 To create a project, you need to create a GitHub issue. To do that, go to [https://github.com/CorrrelAid/issues](https://github.com/CorrrelAid/issues) and click on "New issue". You'll be prompted to use the issue template which will give you a template with some questions about the organisation to structure your description. But feel free to ignore it!
 
@@ -49,5 +47,19 @@ This video walks through creating a project as a GitHub issue:
 
 {% embed url="https://www.youtube.com/watch?v=LRxjG3NRbbk" %}
 
+### Adding / editing labels
 
+We use GitHub issue labels to store information about CorrelAid projects that can be measured by variables. For example, the language\(s\) used in the project or the local chapter\(s\) the project belongs to.
+
+GitHub issues do not natively support this kind of variable --&gt; value mapping: each label is independent of other labels and there is no such concept as "variables". This is why we have to "trick" the system: the first part of the label is the "variable", followed by a colon, and then the value. For example: `lc:berlin`
+
+Some labels are already created but sometimes you might find that you need to add a new language, a new data type or a new local chapter. Here's how to proceed in that case:
+
+1. Go to [https://github.com/CorrelAid/projects/labels](https://github.com/CorrelAid/projects/labels) . This is where you can add new labels and manage existing labels. 
+2. If you want to add a new value to an existing variable - for example a new local chapter to the `lc` "variable", you need to get the color of the "variable" first. To do so, click "edit" for an existing label of this "variable" \(see screenshot below\) and copy the hex color string to the clipboard \(CTRL+C / CMD+C\).  Cancel the editing view. 
+3. Click "New label" and paste the hex string into the color field. Then add the label name: your "variable", colon, your "value". You can leave the description empty. See the example below.
+
+![Step 2: Screenshot of the GitHub label editing view](../../.gitbook/assets/screenshot-2020-02-12-at-13.40.26%20%281%29.png)
+
+![Step 3: Adding a new label](../../.gitbook/assets/screenshot-2020-02-12-at-13.45.19.png)
 
