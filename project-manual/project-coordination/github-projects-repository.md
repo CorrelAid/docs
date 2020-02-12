@@ -1,8 +1,6 @@
 # GitHub "projects" Repository
 
-For now, we keep track of our projects in a central [GitHub repository](https://github.com/CorrelAid/projects). This repository is private because of the potentially sensitive information stored there. If you need access because you are coordinating a project, then contact Frie \(@frie\) on Slack.
-
-### What is the projects repository? <a id="what-is-the-projects-repository"></a>
+For now, we keep track of our projects in a central [GitHub repository](https://github.com/CorrelAid/projects). There, we manage the projects, update on their progress and keep process information. This repository is private because of the potentially sensitive information stored there. If you need access because you are coordinating a project, then contact Frie \(@frie\) on Slack.
 
 ### Projects as GitHub issues  <a id="projects-as-github-issues"></a>
 
