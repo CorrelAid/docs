@@ -4,10 +4,10 @@
 
 ## Wiki
 
+* [How We work - Hitchhiker's Guide to CorrelAid](wiki/who-is-who.md)
 * [General FAQ](wiki/faq.md)
-* [Who is who](wiki/who-is-who.md)
 * [Communication channels](wiki/communication/README.md)
-  * [Conference calls  ​☎](wiki/communication/conference-calls.md)
+  * [Conference calls  ​☎](wiki/communication/weekly-conference-call.md)
   * [Slack](wiki/communication/slack.md)
   * [Newsletter](wiki/communication/newsletter.md)
   * [Social Media](wiki/communication/social-media.md)
