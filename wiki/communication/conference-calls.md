@@ -4,7 +4,7 @@ The conference calls \(also called "**TelKos**" from German "**Tel**efon**ko**nf
 
 ## Call schedule
 
-Up until 2020, we had a call every week. However, we've found that this is not ideal anymore as we grow and more and more people join the core team. Hence, we've decided on a new call schedule: __Calls are generally on **Monday at 8pm \(UTC + 1\)** until announced otherwise in the \#telko channel. On the 2nd and 4th Monday of each month, the "regular" Core Team call takes place. On the first and third Monday, we take the time to focus on specific groups in our network: CorrelAid "newbies" and our local chapters. 
+Up until 2020, we had a call every week. However, we've found that this is not ideal anymore as we grow and more and more people join the core team. Hence, we've decided on a new call schedule: __Calls are generally on **Monday at 8pm \(UTC + 1\)** until agreed upon otherwise. On the 2nd and 4th Monday of each month, the "regular" Core Team call takes place. On the first and third Monday, we take the time to focus on specific groups in our network: CorrelAid "newbies" and our local chapters. 
 
 Because it's hard to remember such things, we have a [calendar](../infrastructure/correlaid-calendar.md) with all the calls for you to add to your favorite calendar application.
 
