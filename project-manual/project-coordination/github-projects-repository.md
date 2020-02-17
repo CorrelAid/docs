@@ -2,6 +2,12 @@
 
 For now, we keep track of our projects in a central [GitHub repository](https://github.com/CorrelAid/projects). There, we manage the projects, update on their progress and keep process information. This repository is private because of the potentially sensitive information stored there. If you need access because you are coordinating a project, then contact Frie \(@frie\) on Slack.
 
+### What is the CorrelAid/projects repository?
+
+{% embed url="https://www.youtube.com/watch?v=iXGNhDZw4Sc" %}
+
+
+
 ### Projects as GitHub issues  <a id="projects-as-github-issues"></a>
 
 Each project is stored as a GitHub issue. GitHub issues are usually used in software development projects to keep track of to-dos, bugs etc.
