@@ -7,7 +7,7 @@
 * [General FAQ](wiki/faq.md)
 * [Who is who](wiki/who-is-who.md)
 * [Communication channels](wiki/communication/README.md)
-  * [Weekly conference call](wiki/communication/weekly-conference-call.md)
+  * [Conference calls  ​☎](wiki/communication/conference-calls.md)
   * [Slack](wiki/communication/slack.md)
   * [Newsletter](wiki/communication/newsletter.md)
   * [Social Media](wiki/communication/social-media.md)
