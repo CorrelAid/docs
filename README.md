@@ -4,8 +4,6 @@ Hi! Welcome to the CorrelAid docs. Here, we have collected information about how
 
 There are three main sections:
 
-
-
 ### Wiki
 
 How does CorrelAid _internally_ work? Who do I need to talk to if I need xyz?
