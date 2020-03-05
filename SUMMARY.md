@@ -48,4 +48,5 @@
 * [Project stages](project-manual/project-stages.md)
 * [Project Coordination](project-manual/project-coordination/README.md)
   * [GitHub "projects" Repository](project-manual/project-coordination/github-projects-repository.md)
+* [Templates](project-manual/templates.md)
 
