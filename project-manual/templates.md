@@ -1,5 +1,12 @@
 # Templates
 
+## Project Factsheet Template
+
+The template for the project factsheet can be found:
+
+* [German version](https://hackmd.io/GuGLmiJNTYi2TeozNr81YQ)
+* English version
+
 ## Finding a team / Onboarding 
 
 ### Acceptance email
