@@ -44,6 +44,13 @@ Looking at the previous two logos, it becomes clear that there are two different
 
 _Color Segments CorrelAid_
 
+The colors for easier copy+paste:
+
+* green: 96c342
+* blue: 3863a2
+* red: f04451
+* grey: 3c3c3b
+
 The CorrelAid logo picks up the colour spectrum from green to blue. The color red is primarily used in the logo design of CorrelAid X \(cities / regional organizations\). In addition, dark grey is used as a contrast color. Please adhere to the given color values in future designs and representations in order to keep our products combinable.
 
  
