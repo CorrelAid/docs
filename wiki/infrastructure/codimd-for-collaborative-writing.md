@@ -2,7 +2,21 @@
 
 CodiMD is an online markdown editor that allows for live collaborative editing - like Google docs but with Markdown. CodiMD is the open source version of [HackMD](https://hackmd.io). We were long-time users of HackMD but switched to a self-hosted CodiMD for various reasons in early 2020. You can read more about the reasons [below](codimd-for-collaborative-writing.md#reasons-for-switching-to-codimd).
 
-## Getting started 
+{% hint style="warning" %}
+Our self-hosted CodiMD instance is here [ https://pad.correlaid.org](https://pad.correlaid.org). 
+{% endhint %}
+
+## Getting started
+
+Before you can write away, you'll need to do some groundwork by [requesting an account](codimd-for-collaborative-writing.md#requesting-an-account) and [logging in for the first time](codimd-for-collaborative-writing.md#logging-in-for-the-first-time). Afterwards, you should be logged in or able to log into [pad.correlaid.org](https://pad.correlaid.org).
+
+### Write your first note
+
+Click on _"New Note" -_ this will open the editor. Play around by writing content in the left panel - it will appear on the right! Magic, right? You can also check out [this pad](https://pad.correlaid.org/features#)  with all the features CodiMD offers. If you haven't written Markdown before, the [typography section](https://pad.correlaid.org/features?both#typography) is a good place to start.
+
+{% hint style="info" %}
+Please delete your toy note afterwards - in this way our workspace does not get too crowded. 
+{% endhint %}
 
 ## Authentication
 
@@ -17,11 +31,15 @@ Join the \#codimd-users channel on [Slack](../communication/slack.md#i-want-to-g
 
 ### Logging in for the first time
 
-Upon first logging in, you'll be prompted to change your initial passowrd. Please do so! You can also later change it \(see below\). You'll also be prompted to set up 2-Factor-Authentication. We recommend to use the Microsoft Authenticator App \(available for Android and iOS\). If this is not an option for you, please contact Frie \(@frie\) to figure something out. 
+Upon first logging in, you'll be prompted to change your initial passowrd. Please do so! You can also later change it \(see below\). You'll also be prompted to set up _2-Factor-Authentication_. We recommend to use the Microsoft Authenticator App \(available for Android and iOS\). If this is not an option for you for whatever reason \(no access to smarpthone, not enough storage on smartphone, app not available for your phone, ...\), please contact Frie \(@frie\) and we can figure something out! :\) 
 
-### Changing your password 
+### Changing your password later
+
+If you need to change your password later on, log into your account on [login.microsoftonline.com](https://login.microsoftonline.com) and go to [https://portal.office.com/Account\#security](https://portal.office.com/Account#security). There, you can change your password. 
 
 
+
+## Using CodiMD
 
 
 
