@@ -37,9 +37,13 @@ The following permissions are available:
 |  **Protected** | ✔ | ✔ | ✖ | ✖ | ✖ |
 |  **Private** | ✔ | ✖ | ✖ | ✖ | ✖ |
 
-The default permission for all notes is **limited**. This is a sensible permission if only people from the core team are supposed to see and edit the content. 
+The default permission for all notes is **limited** which means that only people with a pad.correlaid.org account can read and edit the note. This is a sensible permission if only people from the core team are supposed to see and edit the content. 
 
 Sometimes you might want to make content read-only for external folks. In this case, **editable** is good. If editing is also wanted for external users, you can set the permission to **freely**. Please make sure that the pad won't contain any sensible information like phone numbers or email addresses. 
+
+The other permissions are useful for more specific scenarios and should not be needed as often:
+
+* **locked**: only you can edit, everyone can read. Good for things that you want
 
 ## Authentication
 
