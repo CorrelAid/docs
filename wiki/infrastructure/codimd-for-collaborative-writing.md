@@ -24,7 +24,7 @@ As the owner of the note, you can set its permission. The permission determines 
 
 * the owner: the person who created the note
 * signed-in users: everyone with an account for pad.correlaid.org, signed into the tool.
-* guests: everyone without an account for pad.correlaid.org
+* guests: everyone with a link to the pad.
 
 The following permissions are available:
 
