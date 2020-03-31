@@ -39,11 +39,13 @@ The following permissions are available:
 
 The default permission for all notes is **limited** which means that only people with a pad.correlaid.org account can read and edit the note. This is a sensible permission if only people from the core team are supposed to see and edit the content. 
 
-Sometimes you might want to make content read-only for external folks. In this case, **editable** is good. If editing is also wanted for external users, you can set the permission to **freely**. Please make sure that the pad won't contain any sensible information like phone numbers or email addresses. 
+Sometimes you might want to make content read-only for external folks. In this case, **editable** is good. If editing is also wanted for external users, you can set the permission to **freely**. _Please make sure that the pad won't contain any sensible information_ like phone numbers or email addresses. 
 
-The other permissions are useful for more specific scenarios and should not be needed as often:
+The other permissions are useful for more specific scenarios and should only be needed rarely:
 
-* **locked**: only you can edit, everyone can read. Good for things that you want
+* **locked**: only you can edit, everyone can read. Could be good for things that specifically only you want to be able to edit, e.g. personal thoughts. 
+* **protected**: similar to locked, but guests cannot read, only logged-in users can. 
+* **private**: only you can read + edit. Please don't use pad.correlaid.org for your personal stuff, [hackmd.io](https://hackmd.io) 's free version is super cool for individuals! 
 
 ## Authentication
 
