@@ -20,7 +20,13 @@ Please delete your toy note afterwards - in this way our workspace does not get 
 
 ### Setting permissions
 
-As the owner of the note, you can set its permission. The permission determines who can read and edit your note. Three roles can be distinguished:
+As the owner of the note, you can set its permission. The permission determines who can read and edit your note. You can change the permission by clicking on "Limited". 
+
+![](../../.gitbook/assets/screenshot-2020-03-31-at-18.26.57.png)
+
+
+
+Three types of users can be distinguished:
 
 * the owner: the person who created the note
 * signed-in users: everyone with an account for pad.correlaid.org, signed into the tool.
@@ -39,13 +45,19 @@ The following permissions are available:
 
 The default permission for all notes is **limited** which means that only people with a pad.correlaid.org account can read and edit the note. This is a sensible permission if only people from the core team are supposed to see and edit the content. 
 
-Sometimes you might want to make content read-only for external folks. In this case, **editable** is good. If editing is also wanted for external users, you can set the permission to **freely**. _Please make sure that the pad won't contain any sensible information_ like phone numbers or email addresses. 
+Sometimes you might want to make content read-only for external folks. In this case, **editable** is good. If editing is also wanted for external users, you can set the permission to **freely**. _Please make sure that the pad won't contain any sensible information_ like phone numbers or email addresses. If your goal is to make something readable for external people, [publishing](codimd.md#publishing-a-note) is a good alternative.
 
 The other permissions are useful for more specific scenarios and should only be needed rarely:
 
 * **locked**: only you can edit, everyone can read. Could be good for things that specifically only you want to be able to edit, e.g. personal thoughts. 
 * **protected**: similar to locked, but guests cannot read, only logged-in users can. 
 * **private**: only you can read + edit. Please don't use pad.correlaid.org for your personal stuff, [hackmd.io](https://hackmd.io) 's free version is super cool for individuals! 
+
+### Publishing a note
+
+You can also **publish** a note. This will create an additional link where only the "read" view is visible - the editor is not.This is perfect for sharing something with a larger audience where people would get confused by too many buttons etc. You can publish a note by clicking "Publish" in the navigation bar.
+
+![](../../.gitbook/assets/screenshot-2020-03-31-at-18.26.57%20%281%29.png)
 
 ## Authentication
 
