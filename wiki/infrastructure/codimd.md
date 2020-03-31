@@ -1,6 +1,6 @@
 # CodiMD for Collaborative Writing
 
-CodiMD is an online markdown editor that allows for live collaborative editing - like Google docs but with Markdown. CodiMD is the open source version of [HackMD](https://hackmd.io). We were long-time users of HackMD but switched to a self-hosted CodiMD for various reasons in early 2020. You can read more about the reasons [below](codimd-for-collaborative-writing.md#reasons-for-switching-to-codimd).
+CodiMD is an online markdown editor that allows for live collaborative editing - like Google docs but with Markdown. CodiMD is the open source version of [HackMD](https://hackmd.io). We were long-time users of HackMD but switched to a self-hosted CodiMD for various reasons in early 2020. You can read more about the reasons [below](codimd.md#reasons-for-switching-to-codimd).
 
 {% hint style="warning" %}
 Our self-hosted CodiMD instance is here [ https://pad.correlaid.org](https://pad.correlaid.org). 
@@ -8,7 +8,7 @@ Our self-hosted CodiMD instance is here [ https://pad.correlaid.org](https://pad
 
 ## Getting started
 
-Before you can write away, you'll need to do some groundwork by [requesting an account](codimd-for-collaborative-writing.md#requesting-an-account) and [logging in for the first time](codimd-for-collaborative-writing.md#logging-in-for-the-first-time). Afterwards, you should be logged in or able to log into [pad.correlaid.org](https://pad.correlaid.org).
+Before you can write away, you'll need to do some groundwork by [requesting an account](codimd.md#requesting-an-account) and [logging in for the first time](codimd.md#logging-in-for-the-first-time). Afterwards, you should be logged in or able to log into [pad.correlaid.org](https://pad.correlaid.org).
 
 ### Write your first note
 
