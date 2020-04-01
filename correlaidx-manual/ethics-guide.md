@@ -40,12 +40,12 @@ This is about trying to not accidentally become Heisenberg, or worse.
     e.g. negative examples from http://neveragain.tech/
  * is the same true for the social graph of the PO's, it's supporters, sponsors, etc.?
 
-####about the project
+#### about the project
 
  * does the project directly impact human lives or decision making?
  * is the project political?
 
- I.e. does it or the organization that is running it have a stated goal and can we agree with it?
+ I.e. does it or the organization that is running it, have a stated goal and can we agree with it?
 
  * in relation to correlaids non-partisanship, could the project be misrepresented to appear partisan?
 
