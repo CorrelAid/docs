@@ -20,6 +20,12 @@ Once you're finished drafting your call for applications and have checked back w
 
 {% embed url="https://youtu.be/wwQIBOydcV4" %}
 
+## FAQ
+
+### I want send the call to applications only to a local chapter. How can I do that?
+
+Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter audience. When building your Mailchimp campaign, you can select a specific segment of the list. Check out [this part](https://youtu.be/wwQIBOydcV4?t=227) of the tutorial video.
+
 {% hint style="info" %}
 As always, if you have any questions, please contact Frie on Slack or post your question in the \#projects Slack channel.
 {% endhint %}
