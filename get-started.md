@@ -26,7 +26,7 @@ Sign up for our newsletter [here](https://correlaid.us12.list-manage.com/subscri
 
 ### CorrelAidX
 
-If you want to network with other data scientists, consider joining one of our CorrelAidX chapters. While CorrelAid is a remote organisation, we also have local chapters that meet in-person regularly. You can find all local chapters along with contact addresses on our [website](https://correlaid.org/en/correlaid-x/).
+If you want to network with other data scientists, consider joining one of our CorrelAidX chapters. While CorrelAid is a remote organisation, we also have local chapters that meet in-person regularly. You can find all local chapters along with contact addresses on our [website](https://correlaid.org/en/correlaid-x/). If you want to start your own chapter, feel free to reach out to [Regina](mailto:regina.s@correlaid.org).
 
 ### Slack
 
@@ -36,15 +36,16 @@ Regardless of whether a local chapter is close to you or not, you can always req
 
 The core team is the organizational team of CorrelAid which keeps us running. From organizing projects and creating educational content to writing grant applications - there is loads to do. The core team is divided into different subteams:
 
-* project coordination team: the project coordination team coordinates the data4good projects, i.e. they talk to the organization, find out how we can help them and sends out the project call for applications. They usually _do not actively code_ for the projects. Relevant Slack channels: \#projects, and a private channel you will be added to if you're interested in becoming a project coordinator.
-* education team: this team creates educational content and organizes projects that benefit our network members. They also aim to create content for NPOs about data organization and simple data analysis skills. Finally, our Podcast [CorrelTalk](https://www.spreaker.com/show/correltalk-the-correlaid-podcast) is  produced by members of the education team. Relevant Slack channels: \#education, \#podcast. 
-* PR team: from filling our blog to posting on social media to designing stickers and other [CorrelAid merch](wiki/correlaid-merch.md). The PR team is responsible for everything that represents CorrelAid to the outside. Relevant channels: \#pr, \#pr-team. 
-* fundraising team: the fundraising team looks out for funding opportunities for CorrelAid, collaborates with other organizations on grant proposals etc. Relevant Slack channels: \#fundraising.
+* **project coordination team**: the project coordination team coordinates the data4good projects, i.e. they talk to the organization, find out how we can help them and sends out the project call for applications. They usually _do not actively code_ for the projects. Relevant Slack channels: \#projects, and a private channel you will be added to if you're interested in becoming a project coordinator.
+* **education team**: this team creates educational content and organizes projects that benefit our network members. They also aim to create content for NPOs about data organization and simple data analysis skills. Finally, our Podcast [CorrelTalk](https://www.spreaker.com/show/correltalk-the-correlaid-podcast) is  produced by members of the education team. Relevant Slack channels: \#education, \#podcast. 
+* **PR team**: from filling our blog to posting on social media to designing stickers and other [CorrelAid merch](wiki/correlaid-merch.md). The PR team is responsible for everything that represents CorrelAid to the outside. Relevant channels: \#pr, \#pr-team. 
+* **fundraising team**: the fundraising team looks out for funding opportunities for CorrelAid, collaborates with other organizations on grant proposals etc. Relevant Slack channels: \#fundraising.
+* **infrastructure team**: the infrastructure team takes care of our hugo website, our cloud resources, the CorrelAid Slackbot, the self-hosted [CodiMD](wiki/infrastructure/codimd.md) and the administration of our NextCloud instance [CorrelCloud](wiki/infrastructure/correlcloud.md). They also actively develop said tools - especially CodiMD and the website - so if you're a \(JS / Python / Frontend\) developer, this is the right place to get involved! 👩💻 👨💻 
 
 If you want to be involved in the core team, it's best to do the following:
 
 1. Write an email to [Frie](mailto:frie.p@correlaid.org) explaining where you'd like to participate. You'll then get an invite to our [Slack](wiki/communication/slack.md). 
-2. You'll probably also need an [CodiMD](wiki/infrastructure/codimd.md) account later on.
+2. You'll probably also need an [CodiMD](wiki/infrastructure/codimd.md) account later on. 
 
 
 
