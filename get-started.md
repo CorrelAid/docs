@@ -5,7 +5,7 @@ How can you get started at CorrelAid?
 Basically, there are three ways to get involved at CorrelAid. We talk through them in this short document.
 
 {% hint style="info" %}
-We have a monthly [open onboarding call](wiki/communication/conference-calls.md#open-onboarding-call-1st-monday) on the first Monday evening of each month where the following information is talked through in more detail. You can find the [calendar event](https://correlcloud.org/index.php/apps/calendar/p/w4ak9WY4T6Ln452r/CorrelAid) in our public calendar. 
+We have a monthly [open onboarding call](wiki/communication/conference-calls.md#open-onboarding-call-1st-monday) on the first Monday evening of each month where the following information is talked through in more detail. You can find the calendar event in our [public calendar](https://correlcloud.org/index.php/apps/calendar/p/w4ak9WY4T6Ln452r/CorrelAid). 
 {% endhint %}
 
 ## Doing data4good projects
