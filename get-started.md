@@ -2,15 +2,21 @@
 
 How can you get started at CorrelAid? 
 
-First of all: we have a monthly [open onboarding call](wiki/communication/conference-calls.md#open-onboarding-call-1st-monday) on the first Monday evening of each month where the following information is talked through in more detail. You can find the calendar event in our public calendar. 
+Basically, there are three ways to get involved at CorrelAid. We talk through them in this short document.
 
-Basically, there are three ways to get involved at CorrelAid. 
+{% hint style="info" %}
+We have a monthly [open onboarding call](wiki/communication/conference-calls.md#open-onboarding-call-1st-monday) on the first Monday evening of each month where the following information is talked through in more detail. You can find the [calendar event](https://correlcloud.org/index.php/apps/calendar/p/w4ak9WY4T6Ln452r/CorrelAid) in our public calendar. 
+{% endhint %}
 
 ## Doing data4good projects
 
 Our data4good projects are probably the main reason why you are thinking about joining CorrelAid. You want to use your skills for the social good? Excellent, you've come to the right place, we've done over 40 projects so far and are constantly talking to new organizations to organize more projects.
 
-At CorrelAid, there's **no fixed pool of data analysts** that have prioritized access to the projects. There's no secret club of CorrelAid data scientists who exclusively get to work on data4good projects. Instead, **applications are collected on a per-project basis**. Project call for applications are sent out to our newsletter email list and you can then apply for a specific project that you consider interesting. 
+It is important to understand that at CorrelAid, there's **no fixed pool of data analysts** who have prioritized access to the projects: There's no secret club of CorrelAid data scientists who exclusively get to work on our data4good projects. Instead, **applications are collected on a per-project basis**. Project call for applications are sent out to our **newsletter email list** and you can **then apply for a specific project** that you consider interesting. 
+
+{% hint style="warning" %}
+There's no need to apply to our info mail with a CV or anything. Just sign up for our [newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) and you'll get all opportunities straight to your inbox. 
+{% endhint %}
 
 So the only thing you need to do to join a CorrelAid data4good project is [sign up for the newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) and wait until a cool project comes around! Depending on the month, we start 1-4 projects per month. 
 
@@ -37,7 +43,7 @@ The core team is the organizational team of CorrelAid which keeps us running. Fr
 
 If you want to be involved in the core team, it's best to do the following:
 
-1. Write an email to Frie explaining where you'd like to participate. You'll then get an invite to our [Slack](wiki/communication/slack.md). 
+1. Write an email to [Frie](mailto:frie.p@correlaid.org) explaining where you'd like to participate. You'll then get an invite to our [Slack](wiki/communication/slack.md). 
 2. You'll probably also need an [CodiMD](wiki/infrastructure/codimd.md) account later on.
 
 
