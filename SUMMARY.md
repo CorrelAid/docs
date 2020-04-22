@@ -15,6 +15,7 @@
   * [Social Media](wiki/communication/social-media.md)
 * [Infrastructure](wiki/infrastructure/README.md)
   * [CodiMD for Collaborative Writing](wiki/infrastructure/codimd.md)
+  * [Gitbook for documentation](wiki/infrastructure/gitbook-for-documentation.md)
   * [CorrelAid Calendar](wiki/infrastructure/correlaid-calendar.md)
   * [CorrelCloud](wiki/infrastructure/correlcloud.md)
   * [Webspace / Email](wiki/infrastructure/webspace.md)
