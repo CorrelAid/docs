@@ -59,5 +59,6 @@
   * [Data security guide](project-manual/for-team-leads/data-security-guide.md)
 * [For team members](project-manual/for-team-members/README.md)
   * [Your role](project-manual/for-team-members/your-role.md)
+  * [Resources](project-manual/for-team-members/resources.md)
 * [Templates](project-manual/templates.md)
 
