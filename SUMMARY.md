@@ -52,5 +52,7 @@
 * [For project coordinators](project-manual/for-project-coordinators/README.md)
   * [GitHub "projects" Repository](project-manual/for-project-coordinators/github-projects-repository.md)
   * [Project call for applications](project-manual/for-project-coordinators/project-call-for-applications.md)
+* [For team leads](project-manual/for-team-leads.md)
+* [For team members](project-manual/for-team-members.md)
 * [Templates](project-manual/templates.md)
 
