@@ -6,6 +6,8 @@
 
 ### Organizing the kickoff
 
+### Organizing the wrap-up
+
 ## Communication & organization
 
 ### Communication with project coordinators
