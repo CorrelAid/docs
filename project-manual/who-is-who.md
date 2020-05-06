@@ -40,7 +40,7 @@
         is responsible for getting updates from the project team.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Project lead</td>
+      <td style="text-align:left">Team lead</td>
       <td style="text-align:left">Leads the implementation of the project as part and primus inter pares
         of the project team.</td>
     </tr>

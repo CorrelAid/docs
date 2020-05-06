@@ -47,12 +47,17 @@
 
 ## Project manual
 
+* [Our data4good projects - core of CorrelAid](project-manual/our-projects-core-of-correlaid.md)
 * [Who is who](project-manual/who-is-who.md)
 * [Project stages](project-manual/project-stages.md)
 * [For project coordinators](project-manual/for-project-coordinators/README.md)
   * [GitHub "projects" Repository](project-manual/for-project-coordinators/github-projects-repository.md)
   * [Project call for applications](project-manual/for-project-coordinators/project-call-for-applications.md)
-* [For team leads](project-manual/for-team-leads.md)
-* [For team members](project-manual/for-team-members.md)
+* [For team leads](project-manual/for-team-leads/README.md)
+  * [Your role](project-manual/for-team-leads/your-role.md)
+  * [Onboarding your team](project-manual/for-team-leads/onboarding-your-team.md)
+  * [Data security guide](project-manual/for-team-leads/data-security-guide.md)
+* [For team members](project-manual/for-team-members/README.md)
+  * [Your role](project-manual/for-team-members/your-role.md)
 * [Templates](project-manual/templates.md)
 
