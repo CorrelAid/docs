@@ -32,6 +32,7 @@
 * [What is CorrelAidX?](correlaidx-manual/what-is-correlaidx.md)
 * [Get started!](correlaidx-manual/get-started/README.md)
   * [Finding partners](correlaidx-manual/get-started/finding-partners.md)
+  * [E-mail template to contact NPOs](correlaidx-manual/get-started/e-mail-template-to-contact-npos.md)
   * [Room booking and catering](correlaidx-manual/get-started/room-booking-and-catering.md)
 * [Finding a legal form](correlaidx-manual/finding-a-legal-form.md)
 * [Role definitions](correlaidx-manual/role-definitions.md)
