@@ -1,32 +1,10 @@
 # CorrelAid Calendar
 
-We have a CorrelAid calendar to keep recurring meetings, special events such as the meetup and events where we will be present. 
+We have a CorrelAid calendar to keep recurring meetings, core team calls, special events such as the meetup and events where we will be present. The calendar is mostly important for the CorrelAid employees to keep an overview over all core team activities but it can of course be referred to by everyone interested in all ongoing core team activities.
 
-The calendar is hosted on the [CorrelCloud](correlcloud.md), our Nextcloud instance, in the account of Frie. The calendar is public to everyone to read \(_read access_\) . People with a [CorrelCloud](correlcloud.md) account can also edit and add events \(_read + write access\)_. 
+It is publicly accessible [here](https://outlook.office365.com/calendar/published/57caf27cdaf24aa3990ca496bd154ded@correlaid.onmicrosoft.com/e9bfdffe05e9417e9ecbb7b9d3168b4215317299690507860520/calendar.html). The ics file can be downloaded [here](https://outlook.office365.com/owa/calendar/57caf27cdaf24aa3990ca496bd154ded@correlaid.onmicrosoft.com/e9bfdffe05e9417e9ecbb7b9d3168b4215317299690507860520/calendar.ics).
 
-### Links
-
-* _read access_: [https://correlcloud.org/index.php/apps/calendar/p/w4ak9WY4T6Ln452r/CorrelAid](https://correlcloud.org/index.php/apps/calendar/p/w4ak9WY4T6Ln452r/CorrelAid)
-* _read + write access_ 
-  * login to your CorrelCloud account
-  * go to the calendar tab on the top left 
-  * click on the three-dot symbol next to the "CorrelAid" calendar. Click on "Link". This is your personal link for read +  write access. It should have the form:`https://correlcloud.org/remote.php/dav/calendars/ + username + /correlaid/` 
-
-### Clients
-
-Nextcloud keeps its calendars in the [CalDAV](https://en.wikipedia.org/wiki/CalDAV) format which has implications how the calendar can be accessed in various clients. The ones tried so far are listed here with instructions or links to instructions. Please let Frie know if something does not work as described here or you have figured out a new OS / client. 
-
-### Linux 
-
-coming soon.
-
-### MacOS
-
-coming soon.
-
-
-
-
+The calendar is curated by the three CorrelAid employees Nina, Frie, and Isabel. If you want to add a call or event yourself, please contact them over Slack.
 
 
 
