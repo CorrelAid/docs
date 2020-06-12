@@ -54,5 +54,12 @@
   * [Templates](project-manual/for-project-coordinators/templates.md)
   * [GitHub "projects" Repository](project-manual/for-project-coordinators/github-projects-repository.md)
   * [Project call for applications](project-manual/for-project-coordinators/project-call-for-applications.md)
-* [For the project team](project-manual/for-the-project-team.md)
+* [For the project team](project-manual/for-the-project-team/README.md)
+  * [Being a Data4Good Data Scientist](project-manual/for-the-project-team/being-a-data4good-data-scientist.md)
+  * [Best practices](project-manual/for-the-project-team/best-practices/README.md)
+    * [Python](project-manual/for-the-project-team/best-practices/python.md)
+    * [R](project-manual/for-the-project-team/best-practices/r.md)
+    * [Collaboration](project-manual/for-the-project-team/best-practices/collaboration.md)
+* [CorrelAid Website](https://correlaid.org/en)
+* [CodiMD](https://pad.correlaid.org)
 
