@@ -51,7 +51,8 @@
 * [Who is who](project-manual/who-is-who.md)
 * [Project stages](project-manual/project-stages.md)
 * [For project coordinators](project-manual/for-project-coordinators/README.md)
+  * [Templates](project-manual/for-project-coordinators/templates.md)
   * [GitHub "projects" Repository](project-manual/for-project-coordinators/github-projects-repository.md)
   * [Project call for applications](project-manual/for-project-coordinators/project-call-for-applications.md)
-* [Templates](project-manual/templates.md)
+* [For the project team](project-manual/for-the-project-team.md)
 
