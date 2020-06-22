@@ -6,85 +6,102 @@ description: >-
 ---
 
 # Data dialogue
+## Goal: Offer NPOs that do not yet have a concrete project idea a format to define their data challenge with dedicated data scienctist volunteers.
 
-The data dialogue is a format that should bring together the community and potential partner organizations. Here, discussion and exchange are in the foreground, but it is also possible that independent projects develop out of the dialogue. The first step for a data dialogue is to identify potential partner organizations in the region of the local group. In this case, it may be appropriate to address different organizations from one area \(e.g. refugee aid\), but a thematic approach is not necessary. Responsible for this step is the project manager at the local level. Templates that can help you with this step can be found in the appendix. In a second step, a suitable date and room must be found. For tips on room booking, look again in the section about organizational structure, there we give some examples. After partner organizations, space and date are chosen, the community comes into play. In order to get enough potential data analysts to come along to support the organizations, a little bit of advertising has to be done. It makes sense to create a Facebook event that can be spread across CorrelAid channels and to send invitations via mailing lists from student councils or other organizations. A template for event texts and invitations can be found in the appendix. If you have the opportunity to print cheap posters, you could also use them as a form of advertising. \[Template?\] If it becomes clear during the dialogue with a specific organization that a joint project would be possible, it would be a good opportunity for the project manager or local managers to stay in touch afterwards. If you have any questions, please keep in close contact with the project manager at CorrelAid.
+## Key Takeaways:
+* NPO: 
+  1) Learn how to think about data challenges (through onboarding and scoping)
+  2) Identify potential of data science for organizational challenges
+  3) Gather possible solutions for data challenges that can lead to an implementation project
+* Data Scientists:
+  1) Learn how to scope projects (project managers)
+  2) Ideate on how to solve social challenges with data science
+  3) Win the pitch and join the project team - if they wish to do so
 
-### How to organize an offline Data Dialogue
+## Commitment
+* NPO (4h):
+  * Preparation of needed material (1h)
+  * Preparation call and contact survey (1h)
+  * Ideation session (1h)
+  * Pitch night (1h)
+* Data Scientist(4-8h)
+  * Preparation of ideation session (1h)
+  * Ideation session (1h)
+  * Pitch creation phase (1-4h over one week)
+  * Pitch night (1h)
+  
+## Roles
+* Project managers: Coordinate onboarding, guide NPOs, train data scientists, launch projects
+* Main moderator: welcome of guests, introduction of the orga team and of CorrelAid, guidance through the event
+* Main host: intro to the meeting tool, technical support, set up of breakout sessions, taking screenshots, keep track of time
+* Co-hosts: Support main hosts in break-out sessions
+* Orga team: Organizes meeting rooms, sets agenda, , photographs the event
+* Participant: Take part in event
 
-#### First steps
+## Timeline
+### Find partners
+* Use public registrees or network associations or research NPOs in your region
+* Contact NPOs using our e-mail template
+* Assess whether interested NPOs have the same thematic topic and can join the same data dialogue
 
-* Identify and contact organizations
-* fix a date
-* look for room, make a reservation
-* set-up an agenda
+### Set time and date
+* Set the time and date of the data dialogue (ideation session and pitch night) according to how NPOs may attend
+* For offline events: Book possible locations
+* For online events: Ask Frie Preu to set up a zoom environment
+* Create/distribute marketing material (Hint: PR [PR ] (mailto:pr@correlaid.org) can help!) _`Flyer`_
 
-#### Advertisment of the event
+### Organize
+* Choose the following responsibilties: Moderator (2P), technical staff (1P)
+* Train moderators using our internal guidances, for example with this [presentation](https://docs.google.com/presentation/d/1fM22bP0fVcKn98R4zB2Z8hhWup6XscoIJ-9L5i-bkBM/edit#slide=id.g884d5274fc_0_68)
+* Set an agenda `Example`, create a presentation and gather necessary surveys
 
-* Creation/distribution of marketing material
-  * Poster / Flyer
-* Advertising to the network \(RSVP/registration?\)
+### Prepare partners
+* Schedule a 1h preparation call
+* Clarify whether the process and goals of the open data dialogue are understood
+* Fill the onboarding [survey](https://www.surveymonkey.de/r/datenreifegrad) with the project partner 
+
+{% hint style="info" %}
+Approach the organization and gain more insights in their data challenge, at the same time, they gain more insights on what information we need to tackle their challenge. It is not necessary to fully define the questions on challenges yet - here you can collect ideas and mark points for clarification during the ideation session.
+{% endhint %}
+
+### Prepare participants
+* Transcribe the data to a call for application format to share with volunteers (Hint: [Frie ] (mailto:frie.p@correlaid.org) can help!)
+* Share invitation in the networks using this form
   * Event \(Facebook\)
   * CorrelAid distributor
   * Student distribution boards
+* Monitor registrations (we have a 50% attendance rate)
+* Assess abilities and prepare matching
+* Send reminder e-mail one week before
 
-#### Eventmanagement
+### Ideation session (1h)
+* Ideally, offer an onboarding session from project managers to volunteers in an hour
+* Ideate on data challenges and solutions with broad focus (collect as many ideas as possible)
+* Gather ideas on post-its or similar digital tools
+* Let the NPO select up to 3 ideas that they want pitches on
+* Form pitch teams using a zoom survey
 
-* Catering
-* partcipant lists 
-* technical equipment / moderation equipment
-* Define roles for the day of the event and brief the responsible people \(Moderator, Photographer, etc.\)
-* Prepare feedback forms
-* send out a reminder email
+### Pitch working phase (1-4h over a week)
+* Pitch teams work on their pitch, incl. a technical proposal, value-add and ressource-time allocation
+* Pitch teams create 5 slides for pitch deck and send those to organiztational team
 
-#### Follow-up
-
-* Follow-up email to thank all participant for coming and to provide insight into the following steps
-* Share your experiences with the community and let others know what they could improve 
-* Write a blog post about the event / record a podcast
-
-#### -----------------------------------------------------------------------------------------------------------------
-
-### How to organize a "remote" Data Dialogue
-
-#### Before the event - Define and contact your target group \(NPOs\)
-
-Identify and approach the organizations: introduce CorrelAid, explain the concept of the data dialogue and what we call a "data challenge" --&gt; _`Email template`_
-
-{% hint style="info" %}
-At one point you can use this [survey](https://www.surveymonkey.de/r/datenreifegrad) to approach the organization and gain more insights in their data challenge, at the same time, they gain more insights on what information we need to tackle their challenge
-{% endhint %}
-
-#### Set up the event
-
-* fix a date and time
-* invite people from the network / experts  _`Flyer`_
-* set an agenda / event format
-  * e.g. intro of CorrelAid, explain the meeting tool you are using, input of the NPOs, break-out rooms for discussion  `Example`
-
-#### Eventmanagement
-
-* moderators needed? They'd need to be briefed, depending on your agenda, you can use/edit this [presentation](https://docs.google.com/presentation/d/1fM22bP0fVcKn98R4zB2Z8hhWup6XscoIJ-9L5i-bkBM/edit#slide=id.g884d5274fc_0_68)
-* should the NPOs provide their input in a specific format? Provide a template for them or send them some guiding questions
-* send a reminder a few days before the event, include a RSVP to know how many will attend
-* prepare a feedbacksurvey for after the event or use these two that we prepared for you 
+### Pitch night (1h)
+* Pitch teams present their data challenges + possible solutions followed by Q&A (5+ 5min)
+* NPO representatives and project managers consult on which ideas can be selected (10min)
+* Final decision and allocation of groups (10min)
+* Feedback: Interviews with NPOs and sending out of surveys (10min)
   * for [NPOs ](https://www.surveymonkey.de/r/correlaideventextern)
   * for [volunteers](https://www.surveymonkey.de/r/correlaideventintern)
-* speaking of feedback, right after the event you can do short interviews with your guests and record them in Zoom, therefore you'd need to prepare some interview questions  
-* set some **roles for the day of the event**
-  * main moderator: welcome of guests, introduction of the orga team and of CorrelAid, guidance through the event
-  * main host: intro to the meeting tool, technical support, set up of breakout sessions, taking screenshots, keep track of time
-  * breakout session moderators \(+ interviews\)
-  * social media tasks?
-
-#### After the event
-
-* Follow-up email: thanks for joining, next steps \(also in collaboration with Frie, our project coordinator\)
-* Share your experiences with the community and let others know what they could improve 
-* Write a blog post about the event / record a podcast  `Example`
+  
+### Follow-up
+* Send reminder for feedback surveys and thank you notes
+* Launch projects 
+* Gather lessons learned
+* Present your open data dialogue on our blog and the lc call! `Example`
 
 {% hint style="info" %}
 In this [CorrelAid Cloud file](https://correlcloud.org/index.php/s/6ApdEk3aiKiKqFM) you can find all relevant documents
 
-Any questions about the above? Ask [Frie ](mailto:frie.p@correlaid.org)or [Isabel](mailto:isabel.w@correlaid.org) or get support from the [\#lc-team](https://correlaid.slack.com/archives/C7MR1UREE) channel
+Any questions about the above? Ask [Nina ](mailto:nina.h@correlaid.org), [Frie ](mailto:frie.p@correlaid.org)or [Isabel](mailto:isabel.w@correlaid.org) or get support from the [\#lc-team](https://correlaid.slack.com/archives/C7MR1UREE) channel
 {% endhint %}
 
