@@ -31,9 +31,9 @@ The data dialogue is a format that should bring together the community and poten
 
 * Catering
 * partcipant lists 
-* technical equipment / moderation equipment
-* Define roles for the day of the event and brief the responsible people \(Moderator, Photographer, etc.\)
-* Prepare feedback forms
+* technical equipment / moderation equipment / CorrelAid branding equipment 
+* Define roles for the day of the event and brief the responsible people \(Moderator, Photographer, Social Media, etc.\)
+* Prepare feedback forms / define a person who collects testimonials right after the event
 * send out a reminder email
 
 #### Follow-up
@@ -48,7 +48,8 @@ The data dialogue is a format that should bring together the community and poten
 
 #### Before the event - Define and contact your target group \(NPOs\)
 
-Identify and approach the organizations: introduce CorrelAid, explain the concept of the data dialogue and what we call a "data challenge" --&gt; _`Email template`_
+Identify and approach the organizations: introduce CorrelAid, explain the concept of the data dialogue and what we call a "data challenge", expectations should be aligned --&gt; _`Email template`_   
+
 
 {% hint style="info" %}
 At one point you can use this [survey](https://www.surveymonkey.de/r/datenreifegrad) to approach the organization and gain more insights in their data challenge, at the same time, they gain more insights on what information we need to tackle their challenge
@@ -58,13 +59,15 @@ At one point you can use this [survey](https://www.surveymonkey.de/r/datenreifeg
 
 * fix a date and time
 * invite people from the network / experts  _`Flyer`_
+  * use social media: Facebook and Twitter \(create a hashtag and tag the NPOs\)  / meet-up
 * set an agenda / event format
-  * e.g. intro of CorrelAid, explain the meeting tool you are using, input of the NPOs, break-out rooms for discussion  `Example`
+  * e.g. intro of CorrelAid, explain the meeting tool you are using, input of the NPOs, break-out rooms for discussion 
+  * Brief the NPOs to make sure their input fits the event concept
 
 #### Eventmanagement
 
 * moderators needed? They'd need to be briefed, depending on your agenda, you can use/edit this [presentation](https://docs.google.com/presentation/d/1fM22bP0fVcKn98R4zB2Z8hhWup6XscoIJ-9L5i-bkBM/edit#slide=id.g884d5274fc_0_68)
-* should the NPOs provide their input in a specific format? Provide a template for them or send them some guiding questions
+* should the NPOs provide their input in a specific format? Provide a [template](https://correlcloud.org/index.php/s/6ApdEk3aiKiKqFM) for them or send them some guiding questions
 * send a reminder a few days before the event, include a RSVP to know how many will attend
 * prepare a feedbacksurvey for after the event or use these two that we prepared for you 
   * for [NPOs ](https://www.surveymonkey.de/r/correlaideventextern)
@@ -80,7 +83,7 @@ At one point you can use this [survey](https://www.surveymonkey.de/r/datenreifeg
 
 * Follow-up email: thanks for joining, next steps \(also in collaboration with Frie, our project coordinator\)
 * Share your experiences with the community and let others know what they could improve 
-* Write a blog post about the event / record a podcast  `Example`
+* Write a blog post about the event / record a podcast  
 
 {% hint style="info" %}
 In this [CorrelAid Cloud file](https://correlcloud.org/index.php/s/6ApdEk3aiKiKqFM) you can find all relevant documents

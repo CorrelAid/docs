@@ -60,6 +60,9 @@
     * [Python](project-manual/project-team/best-practices/python.md)
     * [R](project-manual/project-team/best-practices/r.md)
     * [Collaboration](project-manual/project-team/best-practices/collaboration.md)
+
+---
+
 * [CorrelAid Website](https://correlaid.org/en)
 * [CodiMD](https://pad.correlaid.org)
 
