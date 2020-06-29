@@ -48,7 +48,7 @@
 
 ## Project manual
 
-* [CorrelAid Data4Good projects](project-manual/who-is-who.md)
+* [CorrelAid Data4Good projects](project-manual/data4good-projects.md)
 * [For project coordinators](project-manual/project-coordinators/README.md)
   * [GitHub "projects" Repository](project-manual/project-coordinators/github-projects-repository.md)
   * [Project stages](project-manual/project-coordinators/project-stages.md)
