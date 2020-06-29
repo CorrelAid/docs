@@ -52,7 +52,7 @@ German or English? This depends on the project. To be as inclusive as possible, 
 
 ### Add project to surveymonkey form
 
-For project applications, we have a surveymonkey form that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form. In order to do so, please contact either Nina  \(@Nina Hauser\), Isabel \(@Isabel Willmann\), or Frie \(@frie\) on Slack as they have access to surveymonkey. 
+For project applications, we have a [surveymonkey form](https://www.surveymonkey.de/r/correlaid_project_apply) that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form. In order to do so, please contact either Nina  \(@Nina Hauser\), Isabel \(@Isabel Willmann\), or Frie \(@frie\) on Slack as they have access to surveymonkey. 
 
 ### Send with Mailchimp
 
