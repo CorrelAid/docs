@@ -1,20 +1,60 @@
 # Ideation / Finding a team / Onboarding
 
-One of your central tasks as a project coordinator is drafting and sending out the project call for applications \(de: Projektausschreibung\) to our network. The call for applications is the central way how we announce our projects and how we collect applications from our network. 
+## Ideation and Call for applications
 
-## Drafting with CodiMD
+#### **Goals**
 
-During the [ideation]() phase, you should take notes \(best on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md)\) that summarize what you have discussed with the NPO in-person, or over email and/or phone. 
+1. decide **whether** we should do a project with the organization
+2. if yes, scope the project
+3. draft and send out call for applications
 
-Once you have a clear idea of the scope and content of the project, you can start drafting the project call for applications on CodiMD. In order to make this as easy as possible for you, we provide [German](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both) and [English](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both) templates for this that closely mirror the structure of the Mailchimp template. 
+#### **Checklist**
+
+{% hint style="success" %}
+* [ ] decide to do project with NPO
+* [ ] draft call for applications on CodiMD
+* [ ] get approval for call for applications from NPO
+* [ ] add project to surveymonkey dropdown question
+* [ ] send out call for applications to newsletter
+* [ ] \(if necessary\), send out reminder to newsletter
+{% endhint %}
+
+### Ideation with NPOs
+
+In the ideation phase, you should aim to communicate regularly and repeatedly with the NPO to make sure that we a\) really want to do a project with them and b\) can define a project which will work for both the NPO and the CorrelAid team. Usually, 2-4 iterations over 1-4 weeks are necessary to define a project so that we can send it out via our newsletter. 
+
+#### Communication mode
+
+In principle, you are free how you communicate with the NPO: email, phone, video call or in-person are all valid choices. However, aim for at least one personal conversation \(i.e. not email\). Ideally, you have a mix of personal formats with follow-up emails with a short protocol summarizing what you discussed on the phone, in the video call or in-person. This way you can make sure that you and the organization had the same take-aways from the call and that you have a written, agreed-upon record to come back to.
+
+You can take notes on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md). If you note down very sensitive information in the process, consider changing the permission of the pad to "private" \(see [here](../../wiki/infrastructure/codimd.md#setting-permissions)\) or take notes offline.
+
+#### Discussion points
+
+{% hint style="warning" %}
+coming soon
+{% endhint %}
+
+### Draft the call for applications on CodiMD
+
+Once you have decided together with the NPO that a project makes sense and you have a clear idea of the scope and content of the project, you can start drafting the call for applications \(de: Projektausschreibung\). The call for applications is the central way how we announce our projects and how we collect applications from our network. 
+
+You can draft the call for applications on CodiMD. In order to make this as easy as possible for you, we provide [German](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both) and [English](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both) templates for this that closely mirror the structure of the Mailchimp template that you'll use later to send it out to the network.
+
+* 🇩🇪 the [German template  ](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both)
+* 🇬🇧 the [English template](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both)
+
+**Copy the content of the CodiMD into a new pad and rename it to reflect your project's name.** Then you can start filling in the necessary information.
 
 {% hint style="info" %}
 German or English? This depends on the project. To be as inclusive as possible, the English one should be the default. However, if your project will be in German only and it is _really_ not possible to participate without good German skills \(i.e. because of the nature of the data\), choose the German one.
 {% endhint %}
 
-Copy the content of the CodiMD into a new pad and rename it to reflect your project's name. Then you can start filling in the necessary information.
+### Add project to surveymonkey form
 
-## Sending with Mailchimp
+For project applications, we have a surveymonkey form that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form. In order to do so, please contact either Nina  \(@Nina Hauser\), Isabel \(@Isabel Willmann\), or Frie \(@frie\) on Slack as they have access to surveymonkey. 
+
+### Send with Mailchimp
 
 Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our Mailchimp newsletter list. The following video shows how to do this:
 
@@ -28,15 +68,34 @@ Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter a
 
 ## Team selection 
 
+#### **Goals**
+
+1. find a diverse, capable team
+2. onboard the team to Slack, GitHub etc.
+
+#### Checklist
+
+{% hint style="success" %}
+* [ ] find a selection commitee 
+* [ ] anonymize applications \(names, email adresses\) 
+* [ ] share applications with committee
+* [ ] team selection call
+* [ ] confirm team members & send out rejection emails 
+* [ ] invite team members to Slack channel 
+* [ ] create GitHub repository
+{% endhint %}
+
+### Find a selection committee
 
 
-## Confirming team members
+
+### Confirming team members
 
 Before you send out rejection emails to all those applicants who were not selected for the team you should make sure that everyone is still interested in participating in the project. After all, 1-3 weeks might have passed since they applied and they could've changed their minds. You can use the acceptance email template to get the confirmation.
 
 After everyone has confirmed their interest, you can send out the emails to the applicants who could not be considered. You can use the rejection email template to do this. If you want to send out multiple rejections at once, please make sure to use blind copy \(BCC\). 
 
-### Acceptance Email 
+#### Acceptance Email 
 
 {% tabs %}
 {% tab title="🇬🇧" %}
@@ -76,7 +135,7 @@ Viele Grüße,
 {% endtab %}
 {% endtabs %}
 
-### Rejection Email
+#### Rejection Email
 
 {% tabs %}
 {% tab title="🇬🇧 " %}
