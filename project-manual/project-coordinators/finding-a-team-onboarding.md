@@ -26,6 +26,10 @@ Once you're finished drafting your call for applications and have checked back w
 Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter audience. When building your Mailchimp campaign, you can select a specific segment of the list. Check out [this part](https://youtu.be/wwQIBOydcV4?t=227) of the tutorial video.
 {% endhint %}
 
+## Team selection 
+
+
+
 ## Confirming team members
 
 Before you send out rejection emails to all those applicants who were not selected for the team you should make sure that everyone is still interested in participating in the project. After all, 1-3 weeks might have passed since they applied and they could've changed their minds. You can use the acceptance email template to get the confirmation.
@@ -71,8 +75,6 @@ Viele Grüße,
 \[Projektkoordinator:in\]
 {% endtab %}
 {% endtabs %}
-
-
 
 ### Rejection Email
 
