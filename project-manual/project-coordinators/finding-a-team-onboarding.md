@@ -87,7 +87,9 @@ Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter a
 
 ### Find a selection committee
 
-
+{% hint style="warning" %}
+coming soon
+{% endhint %}
 
 ### Confirming team members
 
