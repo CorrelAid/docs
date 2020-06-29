@@ -58,6 +58,10 @@ For project applications, we have a [surveymonkey form](https://www.surveymonkey
 
 Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our Mailchimp newsletter list. The following video shows how to do this:
 
+{% hint style="warning" %}
+this video is not up to date: the editing of the buttons is not necessary anymore because we now have the surveymonkey form. 
+{% endhint %}
+
 {% embed url="https://youtu.be/wwQIBOydcV4" %}
 
 {% hint style="info" %}
