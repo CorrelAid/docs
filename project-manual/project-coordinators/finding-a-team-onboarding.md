@@ -20,6 +20,12 @@ Once you're finished drafting your call for applications and have checked back w
 
 {% embed url="https://youtu.be/wwQIBOydcV4" %}
 
+{% hint style="info" %}
+**Sending only to a CorrelAidX Chapter**
+
+Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter audience. When building your Mailchimp campaign, you can select a specific segment of the list. Check out [this part](https://youtu.be/wwQIBOydcV4?t=227) of the tutorial video.
+{% endhint %}
+
 ## Confirming team members
 
 Before you send out rejection emails to all those applicants who were not selected for the team you should make sure that everyone is still interested in participating in the project. After all, 1-3 weeks might have passed since they applied and they could've changed their minds. You can use the acceptance email template to get the confirmation.
@@ -111,10 +117,6 @@ In der Zwischenzeit kannst du dich gerne jederzeit an mich wenden.
 {% endtabs %}
 
 ## FAQ
-
-### I want send the call to applications only to a local chapter. How can I do that?
-
-Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter audience. When building your Mailchimp campaign, you can select a specific segment of the list. Check out [this part](https://youtu.be/wwQIBOydcV4?t=227) of the tutorial video.
 
 {% hint style="info" %}
 As always, if you have any questions, please ask in the \#projects channel on Slack.
