@@ -99,6 +99,7 @@ Approach the organization and gain more insights in their data challenge, at the
 * Gather lessons learned
 * Present your open data dialogue on our blog and the lc call! `Example`
 
+
 {% hint style="info" %}
 In this [CorrelAid Cloud file](https://correlcloud.org/index.php/s/6ApdEk3aiKiKqFM) you can find all relevant documents
 

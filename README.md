@@ -20,7 +20,7 @@ All about how local chapters work, how you can start your own, what you can do i
 
 A manual for coordinators and leads of CorrelAid projects. But might be interesting to everyone else as well! This is still a work-in-progress.
 
-{% page-ref page="project-manual/project-stages.md" %}
+{% page-ref page="project-manual/project-coordinators/project-stages.md" %}
 
 If you cannot find the answer to your problem, do not hesitate to contact [frie.p@correlaid.org](mailto:frie.p@correlaid.org) or ask your question in \#help on Slack.
 

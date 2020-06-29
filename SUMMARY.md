@@ -49,17 +49,20 @@
 ## Project manual
 
 * [Who is who](project-manual/who-is-who.md)
-* [Project stages](project-manual/project-stages.md)
 * [For project coordinators](project-manual/project-coordinators/README.md)
-  * [Templates](project-manual/project-coordinators/templates.md)
+  * [Project stages](project-manual/project-coordinators/project-stages.md)
   * [GitHub "projects" Repository](project-manual/project-coordinators/github-projects-repository.md)
   * [Project call for applications](project-manual/project-coordinators/project-call-for-applications.md)
+  * [Templates](project-manual/project-coordinators/templates.md)
 * [For the project team](project-manual/project-team/README.md)
   * [Being a Data4Good Data Scientist](project-manual/project-team/being-a-data4good-data-scientist.md)
   * [Best practices](project-manual/project-team/best-practices/README.md)
     * [Python](project-manual/project-team/best-practices/python.md)
     * [R](project-manual/project-team/best-practices/r.md)
     * [Collaboration](project-manual/project-team/best-practices/collaboration.md)
+
+---
+
 * [CorrelAid Website](https://correlaid.org/en)
 * [CodiMD](https://pad.correlaid.org)
 
