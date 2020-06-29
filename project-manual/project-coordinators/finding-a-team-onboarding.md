@@ -4,7 +4,7 @@ One of your central tasks as a project coordinator is drafting and sending out t
 
 ## Drafting with CodiMD
 
-During the [ideation](project-stages.md#ideation) phase, you should take notes \(best on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md)\) that summarize what you have discussed with the NPO in-person, or over email and/or phone. 
+During the [ideation]() phase, you should take notes \(best on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md)\) that summarize what you have discussed with the NPO in-person, or over email and/or phone. 
 
 Once you have a clear idea of the scope and content of the project, you can start drafting the project call for applications on CodiMD. In order to make this as easy as possible for you, we provide [German](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both) and [English](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both) templates for this that closely mirror the structure of the Mailchimp template. 
 
