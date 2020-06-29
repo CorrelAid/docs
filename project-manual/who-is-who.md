@@ -1,4 +1,10 @@
-# Who is who
+# CorrelAid Data4Good projects
+
+Our Data4Good projects are at the core of our work. In our skilled volunteering projects, we connect data scientist volunteers from our network network of over 1300 volunteers with nonprofit organisations. Through the projects, our volunteers have the opportunity to apply their existing skills and gain new knowledge. At the same time, they support nonprofit organisations with solving their data-related challenges. Over 2-6 months and in teams from 2-7 data scientists, CorrelAid volunteers have tackled diverse data challenges of nonprofits: from data collection, data visualization and exploratory data analysis to automation, reporting and advanced statistical analyses using machine learning and deep learning techniques.
+
+## Who is Who
+
+Several actors are involved in a CorrelAid Data4Good project. Here is a small overview with the most important terminology.
 
 <table>
   <thead>

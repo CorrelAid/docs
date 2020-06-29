@@ -48,10 +48,10 @@
 
 ## Project manual
 
-* [Who is who](project-manual/who-is-who.md)
+* [CorrelAid Data4Good projects](project-manual/who-is-who.md)
 * [For project coordinators](project-manual/project-coordinators/README.md)
-  * [Project stages](project-manual/project-coordinators/project-stages.md)
   * [GitHub "projects" Repository](project-manual/project-coordinators/github-projects-repository.md)
+  * [Project stages](project-manual/project-coordinators/project-stages.md)
   * [Finding a team / Onboarding](project-manual/project-coordinators/finding-a-team-onboarding.md)
   * [Project Kickoff](project-manual/project-coordinators/project-kickoff.md)
 * [For the project team](project-manual/project-team/README.md)
