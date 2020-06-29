@@ -20,9 +20,13 @@ The project coordinator has established communication with the organization and 
 * is it realistic that CorrelAid can help them?
 * what's the scope of the project 
 
-Based on this information, the project coordinator develops the project proposal in close coordination with the contact person\(s\) of the NPO.
+Based on this information, the project coordinator develops the project call for applications in close coordination with the contact person\(s\) of the NPO.
 
-At the end of this phase, the project coordinator sends the project proposal over our Mailchimp email list.
+At the end of this phase, the project coordinator sends the project call for applications over our Mailchimp email list.
+
+{% page-ref page="project-call-for-applications.md" %}
+
+
 
 ### Finding a team / onboarding
 
@@ -30,7 +34,7 @@ The project coordinator collects the applications. Once the application deadline
 
 The project coordinator sends out the confirmation and declination emails to the applicants and establishes a first communication channel for the team, e.g. by inviting them to Slack and creating a private channel.
 
-If possible: After finding a date with the project team, the project coordinator and the project team lead contact the NPO to organize the kick-off workshop where project team and NPO have the opportunity to meet and exchange about the project. 
+If possible: After finding a date with the project team, the project coordinator and the project team lead contact the NPO to organize the **kick-off workshop** where project team and NPO have the opportunity to meet and exchange about the project. 
 
 ### Project work 
 

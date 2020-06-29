@@ -6,5 +6,3 @@ Those pages contain information for project coordinators. Project coordinators a
 Want to become a project coordinator? Ask Frie \(@frie\) in Slack, she'll be happy to answer any questions you might have. She can also add you to the team and give you an introduction to the tasks, the process and the tools! 
 {% endhint %}
 
-
-
