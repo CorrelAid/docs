@@ -51,7 +51,7 @@
 * [CorrelAid Data4Good projects](project-manual/data4good-projects.md)
 * [For project coordinators](project-manual/project-coordinators/README.md)
   * [GitHub "projects" Repository](project-manual/project-coordinators/github-projects-repository.md)
-  * [Finding a team / Onboarding](project-manual/project-coordinators/finding-a-team-onboarding.md)
+  * [Ideation / Finding a team / Onboarding](project-manual/project-coordinators/finding-a-team-onboarding.md)
   * [Project Kickoff](project-manual/project-coordinators/project-kickoff.md)
 * [For the project team](project-manual/project-team/README.md)
   * [Being a Data4Good Data Scientist](project-manual/project-team/being-a-data4good-data-scientist.md)

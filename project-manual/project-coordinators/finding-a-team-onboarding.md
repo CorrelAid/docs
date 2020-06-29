@@ -1,4 +1,4 @@
-# Finding a team / Onboarding
+# Ideation / Finding a team / Onboarding
 
 One of your central tasks as a project coordinator is drafting and sending out the project call for applications \(de: Projektausschreibung\) to our network. The call for applications is the central way how we announce our projects and how we collect applications from our network. 
 
