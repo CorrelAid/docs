@@ -56,7 +56,7 @@ For project applications, we have a [surveymonkey form](https://www.surveymonkey
 
 ### Send with Mailchimp
 
-Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our Mailchimp newsletter list. The following video shows how to do this:
+Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our Mailchimp newsletter list. If you do not have access to Mailchimp, ask in \#projects for support. The following video shows how to do send out a project call for applications via Mailchimp:
 
 {% hint style="warning" %}
 this video is not up to date: the editing of the buttons is not necessary anymore because we now have the surveymonkey form. 
@@ -86,14 +86,59 @@ Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter a
 * [ ] team selection call
 * [ ] confirm team members & send out rejection emails 
 * [ ] invite team members to Slack channel 
-* [ ] create GitHub repository
+* [ ] create [Git](../../wiki/infrastructure/github-and-gitlab.md) repository and invite members as collaborators
 {% endhint %}
 
 ### Find a selection committee
 
-{% hint style="warning" %}
-coming soon
-{% endhint %}
+After the call for applications is sent out to the network, you can start looking for a team selection committee. Usually a team selection committee consists of 3-4 members: 
+
+* the project coordinator\(s\)
+* 1-2 people from the core team 
+* the future team lead \(if available\)
+
+The selection committee should be comprised so that gender partiy is respected. In addition, it makes sense to include people with differing levels of experience. At least 1-2 of the members should be able to judge applications with regards to technical skills. People who have applied to the project cannot be part of the team selection committee. 
+
+You can find members for your committee by posting on Slack in \#general or \#projects. Best include some information about the project. For example: 
+
+> Do you want to be part of the team selection committee for \[PROJECT NAME\]? The project will be about training a model to do XX. It will be in Python.
+
+### Anonymization of applications
+
+Once the deadline has expired, you should request the application data from either Nina, Frie or Isabel. They will share the data with you in a secure way, i.e. either via a password-protected CorrelCloud folder or an encrypted email. 
+
+You should then anonymize the data before sharing them with the team selection committee. In practice, this means:
+
+1. create an csv \(or Excel file\) with two columns: a simple numeric id, and the email addresses of the applications. Keep this mapping on your local machine, do not share it with the committee
+2. in the surveymonkey export, add the id column. 
+
+### Share with the team selection committee
+
+Share the _anonymized_ version with the project team. For that, we typically use a collaborative tool like Google Sheets or [cryptpad.fr](https://cryptpad.fr). Ideally, you already group the applications by gender, e.g. by creating  "sheets" for the different genders in the online document and an additional sheet "team" where you can note down the ids of the most promising candidates.
+
+### Team selection call
+
+Once you have found 2-4 people, arrange with them for a video call.
+
+Everyone should have a look at the applications before the call so that decisions can be made quicker. 
+
+Team selection criteria:
+
+* technical and statistical skills
+* interest in topic / motivation for the project
+* can the person learn something on the project?
+
+One spot in the team is reserved for a "beginner". 
+
+**Principles of team selection:**
+
+* no discrimation based on gender, gender identity and expression, sexual orientation, disability, mental illness, neuro\(a\)typicality, physical appearance, body size, age, race, ethnicity, nationality or religion.
+* at least 50% of team seats are filled with applicants who are not cisgender men \(cisgender = people whose gender identity matches their sex assigned at birth\)
+* applicants belonging to groups currently underrepresented in tech should be preferred whenever possible
+* people who have unsuccessfully applied to a project in the past should be preferably considered whenever possible 
+* people who apply for the first time should be preferably considered compared to people who have already particpated in a project 
+* unless in specific circumstances, interviews with applicants are not conducted 
+* the selection committee tries to come to a consensus decision. If a consensus cannot be reached, the majority decides. If there is no majority, the project coordinator decides. 
 
 ### Confirming team members
 
