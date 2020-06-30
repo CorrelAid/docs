@@ -45,7 +45,7 @@ At the end of this phase, the project coordinator sends the project call for app
 
 The project coordinator collects the applications. Once the application deadline has passed, the project coordinator looks for 1-3 suitable people to join the selection committee and they arrange for a call to decide who should join the project team. 
 
-The project coordinator sends out the confirmation and declination emails to the applicants and establishes a first communication channel for the team, e.g. by inviting them to Slack and creating a private channel.
+The project coordinator sends out the confirmation and declination emails to the applicants and establishes a first communication channel for the team, e.g. by inviting them to Slack and creating a private channel. 
 
 If possible: After finding a date with the project team, the project coordinator and the project team lead contact the NPO to organize the **kick-off workshop** where project team and NPO have the opportunity to meet and exchange about the project. 
 
