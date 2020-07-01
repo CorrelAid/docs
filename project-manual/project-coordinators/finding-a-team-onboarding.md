@@ -26,7 +26,12 @@ You can take notes on our CodiMD instance [pad.correlaid.org](../../wiki/infrast
 
 ### Topics
 
-There are several things you need to discuss with the NPO over the course of the ideation phase: 1. content and scope of the project 2. expectation management & organization commitments 3. data security / privacy & data access
+There are several things you need to discuss with the NPO over the course of the ideation phase: 
+
+1. content and scope of the project 
+2. expectation management & organization commitments 
+3. data security / privacy & data access
+4. timeline & team
 
 #### Content and scope of the project
 
@@ -43,7 +48,11 @@ Hence, it is important to get as good a picture of the situation as possible. Wh
 
 * a catalogue of possibly helpful questions can be found in the [ideation phase template](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#question-collection).
 * you can also draw from the data maturity framework from the [_Center of Data Science & Public Policy_](http://www.datasciencepublicpolicy.org/home/resources/datamaturity/). It has a "Data and Tech Readiness Scorecard" and a "Organizational Readiness Scorecard". They can be downloaded [here](http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/Data_Maturity_Framework_4.28.16.pdf).
-* we have adapted both scorecards into German. They can be downloaded [here](https://correlaid.org/material/datenreifegradmodell.pdf) and [here](https://correlaid.org/material/organisationsreifegradmodell.pdf)
+* we have adapted both scorecards into German. They can be downloaded [here](https://correlaid.org/material/datenreifegradmodell.pdf) and [here](https://correlaid.org/material/organisationsreifegradmodell.pdf).
+
+{% hint style="danger" %}
+While coming to an agreement on the content and scope of the project is important, you should leave enough room so that goals can be adjusted later on in the project if necessary. Avoid going into too much technical detail in the project description. Focus on **what** the organization needs and fix the rough technologies \(Python or R? Data Visualization or Machine Learning Model?\), and leave the more detailed **how** to the project team. 
+{% endhint %}
 
 #### Expectation management & Organization commitments
 
@@ -61,13 +70,9 @@ In addition to those "soft" expectation management issues, you should also get t
 
 #### Data security / privacy & data access
 
-### Guidelines
+#### Timeline & Team
 
-* project length: plan approximately
 
-{% hint style="warning" %}
-coming soon
-{% endhint %}
 
 ## Call for Applications
 
