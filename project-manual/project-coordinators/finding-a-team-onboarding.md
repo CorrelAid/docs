@@ -1,41 +1,68 @@
 # Ideation / Finding a team / Onboarding
 
-## Ideation and Call for applications
+## Ideation
 
 #### **Goals**
 
 1. decide **whether** we should do a project with the organization
 2. if yes, scope the project
-3. draft and send out call for applications
 
 #### **Checklist**
 
 {% hint style="success" %}
+* [ ] talk to NPO
 * [ ] decide to do project with NPO
-* [ ] draft call for applications on CodiMD
-* [ ] get approval for call for applications from NPO
-* [ ] add project to surveymonkey dropdown question
-* [ ] send out call for applications to newsletter
-* [ ] \(if necessary\), send out reminder to newsletter
+* [ ] scope the project
+* [ ] get information on data security / privacy & data access 
 {% endhint %}
 
-### Ideation with NPOs and scoping the project
 
-#### Communication 
+### Communication Mode 
 
 In the ideation phase, you should aim to communicate regularly and repeatedly with the NPO to make sure that we a\) really want to do a project with them and b\) can define a project which will work for both the NPO and the CorrelAid team. Usually, 2-4 iterations over 1-4 weeks are necessary to define a project so that we can send it out via our newsletter. 
 
-In principle, you are free how you communicate with the NPO: email, phone, video call or in-person are all valid choices. However, aim for at least one personal conversation \(i.e. not email\). Ideally, you have a mix of personal formats with follow-up emails with a short protocol summarizing what you discussed on the phone, in the video call or in-person. This way you can make sure that you and the organization had the same take-aways from the call and that you have a written, agreed-upon record to come back to.
+In principle, you are free in how you communicate with the NPO: email, phone, video call or in-person are all valid choices. However, aim for at least one personal conversation \(i.e. not email\). Ideally, you have a mix of personal formats with follow-up emails with a short protocol summarizing what you discussed on the phone, in the video call or in-person. This way you can make sure that you and the organization had the same take-aways from the call and that you have a written, agreed-upon record to come back to.
 
 You can take notes on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md). If you note down very sensitive information in the process, consider changing the permission of the pad to "private" \(see [here](../../wiki/infrastructure/codimd.md#setting-permissions)\) or take notes offline.
 
-#### Discussion questions
+### Topics
+There are several things you need to discuss with the NPO over the course of the ideation phase:
+1. content and scope of the project 
+2. expectation management & organization commitments
+3. data security / privacy & data access 
 
-Here are some points to consider when discussing a potential project with an NPO: 
+#### Content and scope of the project 
+This is arguably the most interesting part. Here, you and the NPO should elaborate together what should be part of the project and how CorrelAid volunteers can help the NPO while at the same time having a good learning experience. 
+
+{% hint style="info" %}
+A good CorrelAid project is a win-win situation: our volunteers can apply and expand their knowledge and the NPO gets help with their data challenge. If you find out during the ideation process that the project would be extremely lop-sided in either direction, you can (and probably should) politely say no. 
+Examples would be:
+- a project which would only be "cool" for the volunteers, but there would be no real positive gain for the NPO. Every CorrelAid project should be of use to the partner organization. In this case, you could also do an internal project. 
+- a project where CorrelAid volunteers would be used for free labor which is not rewarding in any way, e.g. a project consisting *only* of mundane data entry tasks. Every CorrelAid project should entail opportunities to apply and learn useful data science skills. 
+{% endhint %}
+
+Hence, it is important to get as good a picture of the situation as possible. While this process is not standardized, here are some resources: 
+- a catalogue of possibly helpful questions can be found in the [ideation phase template](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#question-collection).
+- you can also draw from the data maturity framework from the [_Center of Data Science & Public Policy_](http://www.datasciencepublicpolicy.org/home/resources/datamaturity/). It has a "Data and Tech Readiness Scorecard" and a "Organizational Readiness Scorecard". They can be downloaded [here](http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/Data_Maturity_Framework_4.28.16.pdf).
+- we have adapted both scorecards into German. They can be downloaded [here](https://correlaid.org/material/datenreifegradmodell.pdf) and [here](https://correlaid.org/material/organisationsreifegradmodell.pdf)
 
 
+#### Expectation management & Organization commitments
+Another important part of the ideation phase is expectation management.
+You should make clear that:
+- ... CorrelAid is a volunteer-based organization. That means that the project team members are volunteers who will usually spend 3-5 hours per week on the project. It also means that rarely volunteers might drop out of the project because they're suddenly faced with other, unforeseen challenges in their life. 
+- ... CorrelAid projects do not only serve the NPO but also our volunteers by providing learning opportunites (see info box above). This also means that our project teams are diverse such that we do reserve at least one spot for a less experienced data scientist.
 
-#### Guidelines
+Fortunately, almost all NPOs will totally understand those points because they know also rely on volunteering in their work. :) 
+
+In addition to those "soft" expectation management issues, you should also get the OK from the organization that they are willing and able to:
+- support the project team over the course of the project, i.e. they will be available for regular calls / email communication / meetings to answer questions and give feedback 
+- provide a room for the kickoff and pay for travel and accomodation for project team members. Those costs usually amount to ~500-1000 euro. If the kick-off workshop is virtual, they are willing to participate online. 
+
+
+#### Data security / privacy & data access
+ 
+### Guidelines
 
 * project length: plan approximately
 
@@ -43,7 +70,18 @@ Here are some points to consider when discussing a potential project with an NPO
 coming soon
 {% endhint %}
 
-### 
+## Call for Applications 
+
+#### Goals 
+
+{% hint style="success" %}
+* [ ] draft call for applications on CodiMD
+* [ ] get approval for call for applications from NPO
+* [ ] add project to surveymonkey dropdown question
+* [ ] send out call for applications to newsletter
+* [ ] \(if necessary\), send out reminder to newsletter
+{% endhint %}
+
 
 ### Draft the call for applications on CodiMD
 
@@ -59,6 +97,7 @@ German or English? This depends on the project. To be as inclusive as possible, 
 {% endhint %}
 
 **Copy the content of the CodiMD into a new pad and rename it to reflect your project's name.** Then you can start filling in the necessary information.
+If you want the NPO to be able to review the document, you can set the permission to "editable". 
 
 
 
