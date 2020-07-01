@@ -24,7 +24,7 @@ In principle, you are free in how you communicate with the NPO: email, phone, vi
 
 You can take notes on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md). If you note down very sensitive information in the process, consider changing the permission of the pad to "private" \(see [here](../../wiki/infrastructure/codimd.md#setting-permissions)\) or take notes offline.
 
-### Topics
+### Topics to discuss
 
 There are several things you need to discuss with the NPO over the course of the ideation phase: 
 
@@ -70,9 +70,58 @@ In addition to those "soft" expectation management issues, you should also get t
 
 #### Data security / privacy & data access
 
+{% hint style="warning" %}
+coming soon
+{% endhint %}
+
 #### Timeline & Team
 
+Finally, you should also agree on a rough **timeline**. A usual project can look like:
 
+| Phase | Approximate Duration |
+| :--- | :--- |
+| _Send out call for applications_ |  |
+| Collecting applications | 1.5-2 weeks |
+| Team selection | 1 week |
+| Onboarding + coordination of kickoff | 1-3 weeks |
+| _Kickoff workshop_ | _either online \(1-3 hours\) or a in-person weekend_ |
+| Project work | 1-6 months |
+| _Handover workshop_ | _either online \(1-3 hours\) or a in-person meeting \(1-3 hours\)_ |
+| Follow-up | immediately after handover workshop and after several months |
+
+Please always add in a bit of buffer. Holidays etc. are a thing, so you shouldn't plan with all volunteers working 3-5 hours on the project all weeks. 
+
+{% hint style="info" %}
+If the organization has a certain **deadline** \(e.g. the launch of a new website, their annual members meeting\), use it to mark the end of the project. This way, the project team has a clear goal to work towards!
+{% endhint %}
+
+A project needs a **team**. Before you send out the call for applications, you should define roughly how you would like the team to look like. 
+
+Usually, CorrelAid teams consist of 4-6 people, but there can also be smaller teams \(e.g. a two-person team\) or larger teams if the project is very comprehensive and there are several sub-projects that can be worked on simultaneously. 
+
+{% hint style="warning" %}
+Previous experience has shown that there is usually a "loss" of 1-2 people over the course of a project. Hence, if in doubt whether you want `x` or `x+1` people on the team, rather go with `x+1`. **Rather overstaff than understaff!**
+{% endhint %}
+
+With regards to skills, it can be useful to think of different "roles" that you want to fill. In a typical CorrelAid project, there are three types of team roles:
+
+* project lead / team lead: The project lead is a team member that has some additional responsibilities such as coordination of the team, being the primary contact person of the organization, and reporting back to the project coordinator \(aka you\). Usually, the project lead is also a more experienced data scientist who can help others with technical problems but this doesn't have to be the case. The project lead can also be someone who is very knowledgable and has high domain expertise. 
+* team member: "regular" team member: upper beginner level, mid-level and experienced data scientists / data analysts.
+* team trainee: at least one position in every CorrelAid project is reserved for less experienced data scientists who are just at the start of their data science journey. 
+
+A usual CorrelAid project team looks like this:
+
+* 1 project lead
+* 2-4 team members
+* 1 team trainee
+
+Depending on the project, you can also define two project leads or team trainees, or have more "regular" team members. 
+
+{% hint style="warning" %}
+Ideally, you have the position of the team lead filled before sending out the call for applications. This way, they can participate in the team selection process and can already be involved in some communication with the NPO. In addition, if you know the team lead personally, they will probably be more committed to the project's success.
+
+If you don't know anyone who could be a candidate, ask around in the core team whether someone knows someone who could be interested in the project. In CorrelAidX contexts, ask people who have attended several meetups / who you know personally.
+{% endhint %}
 
 ## Call for Applications
 
@@ -148,7 +197,7 @@ After the call for applications is sent out to the network, you can start lookin
 * 1-2 people from the core team 
 * the future team lead \(if available\)
 
-The selection committee should be comprised so that gender partiy is respected. In addition, it makes sense to include people with differing levels of experience. At least 1-2 of the members should be able to judge applications with regards to technical skills. People who have applied to the project cannot be part of the team selection committee.
+The selection committee should be comprised so that gender parity is respected. In addition, it makes sense to include people with differing levels of experience. At least 1-2 of the members should be able to judge applications with regards to technical skills. People who have applied to the project cannot be part of the team selection committee.
 
 You can find members for your committee by posting on Slack in \#general or \#projects. Best include some information about the project. For example:
 
@@ -180,6 +229,19 @@ Team selection criteria:
 * can the person learn something on the project?
 
 One spot in the team is reserved for a "beginner".
+
+{% hint style="info" %}
+When making a selection, the selection committee should aim to select people who have different areas of expertise so that they can help out each other. Here are some unofficial team "roles" that can be useful to think about when selecting team members \(they are not mandatory to fill, just a tool to help you think about the requirements of a project\):
+
+* methods specialist: this is someone who has a high \(theoretical\) expertise in statistical and machine learning methods that are relevant to the project. They can give input when deciding on which model to use for specific use case. 
+* programmer: they are quite experienced in the programming language used for the project and know different tooling and best practices that will help with code quality \(e.g. how to setup a Python project\). Ideally, this person is also quite good at git and can help other team members with merge conflicts and other git problems.
+* domain specialist: this person already knows a lot about the domain of the project \(e.g. they've worked a lot with environmental data\). They can give valuable input about the intricacies of the problem at hand. 
+* data wrangler: this person is quite good at and enjoys cleaning and wrangling all sorts of data. They can speed up the process in the beginning of the project to get to a state where  analysis / modelling / visualization can be done.
+
+**Things to look for in all applications:**
+
+* motivation: is the sole motivation the technical challenge? Ideally, project members should also be intrinsically motivated to help the NPO.
+{% endhint %}
 
 **Principles of team selection:**
 
@@ -276,6 +338,8 @@ Herzliche Grüße
 \[Projektkoordinatorin\]
 {% endtab %}
 {% endtabs %}
+
+## Onboarding 
 
 ## FAQ
 
