@@ -19,21 +19,31 @@
 * [ ] \(if necessary\), send out reminder to newsletter
 {% endhint %}
 
-### Ideation with NPOs
+### Ideation with NPOs and scoping the project
+
+#### Communication 
 
 In the ideation phase, you should aim to communicate regularly and repeatedly with the NPO to make sure that we a\) really want to do a project with them and b\) can define a project which will work for both the NPO and the CorrelAid team. Usually, 2-4 iterations over 1-4 weeks are necessary to define a project so that we can send it out via our newsletter. 
-
-#### Communication mode
 
 In principle, you are free how you communicate with the NPO: email, phone, video call or in-person are all valid choices. However, aim for at least one personal conversation \(i.e. not email\). Ideally, you have a mix of personal formats with follow-up emails with a short protocol summarizing what you discussed on the phone, in the video call or in-person. This way you can make sure that you and the organization had the same take-aways from the call and that you have a written, agreed-upon record to come back to.
 
 You can take notes on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md). If you note down very sensitive information in the process, consider changing the permission of the pad to "private" \(see [here](../../wiki/infrastructure/codimd.md#setting-permissions)\) or take notes offline.
 
-#### Discussion points
+#### Discussion questions
+
+Here are some points to consider when discussing a potential project with an NPO: 
+
+
+
+#### Guidelines
+
+* project length: plan approximately
 
 {% hint style="warning" %}
 coming soon
 {% endhint %}
+
+### 
 
 ### Draft the call for applications on CodiMD
 
@@ -44,11 +54,13 @@ You can draft the call for applications on CodiMD. In order to make this as easy
 * 🇩🇪 the [German template  ](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both)
 * 🇬🇧 the [English template](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both)
 
-**Copy the content of the CodiMD into a new pad and rename it to reflect your project's name.** Then you can start filling in the necessary information.
-
 {% hint style="info" %}
 German or English? This depends on the project. To be as inclusive as possible, the English one should be the default. However, if your project will be in German only and it is _really_ not possible to participate without good German skills \(i.e. because of the nature of the data\), choose the German one.
 {% endhint %}
+
+**Copy the content of the CodiMD into a new pad and rename it to reflect your project's name.** Then you can start filling in the necessary information.
+
+
 
 ### Add project to surveymonkey form
 
