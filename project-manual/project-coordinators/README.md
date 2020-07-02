@@ -39,7 +39,7 @@ Based on this information, the project coordinator develops the project call for
 
 At the end of this phase, the project coordinator sends the project call for applications over our Mailchimp email list.
 
-{% page-ref page="finding-a-team-onboarding.md" %}
+{% page-ref page="ideation-finding-a-team.md" %}
 
 ### Finding a team / onboarding
 

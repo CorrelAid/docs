@@ -1,4 +1,4 @@
-# Ideation / Finding a team / Onboarding
+# Ideation & Finding a team
 
 ## Ideation
 
@@ -338,8 +338,6 @@ Herzliche Grüße
 \[Projektkoordinatorin\]
 {% endtab %}
 {% endtabs %}
-
-## Onboarding 
 
 ## FAQ
 
