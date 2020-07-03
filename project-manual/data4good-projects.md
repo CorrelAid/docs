@@ -17,7 +17,7 @@ Several actors are involved in a CorrelAid Data4Good project. Here is a small ov
     <tr>
       <td style="text-align:left">
         <p></p>
-        <p>NPO</p>
+        <p>NPO / the organization</p>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -46,14 +46,18 @@ Several actors are involved in a CorrelAid Data4Good project. Here is a small ov
         is responsible for getting updates from the project team.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Project lead</td>
+      <td style="text-align:left">Project lead / team lead</td>
       <td style="text-align:left">Leads the implementation of the project as part and primus inter pares
         of the project team.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Project team</td>
+      <td style="text-align:left">Project team / team members</td>
       <td style="text-align:left">Volunteers of the CorrelAid network who are involved in the implementation
         of the project</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">team trainee</td>
+      <td style="text-align:left">a team member who is not as experienced yet.</td>
     </tr>
   </tbody>
 </table>

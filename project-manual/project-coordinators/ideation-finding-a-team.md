@@ -14,6 +14,7 @@
 * [ ] decide to do project with NPO
 * [ ] scope the project
 * [ ] get information on data security / privacy & data access 
+* [ ] if possible, find a prospective team lead and involve them early into the process
 {% endhint %}
 
 ### Communication Mode
@@ -22,18 +23,17 @@ In the ideation phase, you should aim to communicate regularly and repeatedly wi
 
 In principle, you are free in how you communicate with the NPO: email, phone, video call or in-person are all valid choices. However, aim for at least one personal conversation \(i.e. not email\). Ideally, you have a mix of personal formats with follow-up emails with a short protocol summarizing what you discussed on the phone, in the video call or in-person. This way you can make sure that you and the organization had the same take-aways from the call and that you have a written, agreed-upon record to come back to.
 
-You can take notes on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md). If you note down very sensitive information in the process, consider changing the permission of the pad to "private" \(see [here](../../wiki/infrastructure/codimd.md#setting-permissions)\) or take notes offline.
-
-### Topics to discuss
+You can take notes on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md). You can copy the [ideation phase template](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#question-collection) which includes a rough structure and some helpful questions \(see below\). If you note down very sensitive information in the process, consider changing the permission of the pad to "private" \(see [here](../../wiki/infrastructure/codimd.md#setting-permissions)\) or take notes offline.
 
 There are several things you need to discuss with the NPO over the course of the ideation phase: 
 
 1. content and scope of the project 
 2. expectation management & organization commitments 
 3. data security / privacy & data access
-4. timeline & team
+4. timeline 
+5. team size & composition
 
-#### Content and scope of the project
+### Content and scope of the project
 
 This is arguably the most interesting part. Here, you and the NPO should elaborate together what should be part of the project and how CorrelAid volunteers can help the NPO while at the same time having a good learning experience.
 
@@ -54,7 +54,7 @@ Hence, it is important to get as good a picture of the situation as possible. Wh
 While coming to an agreement on the content and scope of the project is important, you should leave enough room so that goals can be adjusted later on in the project if necessary. Avoid going into too much technical detail in the project description. Focus on **what** the organization needs and fix the rough technologies \(Python or R? Data Visualization or Machine Learning Model?\), and leave the more detailed **how** to the project team. 
 {% endhint %}
 
-#### Expectation management & Organization commitments
+### Expectation management & Organization commitments
 
 Another important part of the ideation phase is expectation management. You should make clear that:
 
@@ -68,13 +68,15 @@ In addition to those "soft" expectation management issues, you should also get t
 * support the project team over the course of the project, i.e. they will be available for regular calls / email communication / meetings to answer questions and give feedback 
 * provide a room for the kickoff and pay for travel and accomodation for project team members. Those costs usually amount to ~500-1000 euro. If the kick-off workshop is virtual, they are willing to participate online. 
 
-#### Data security / privacy & data access
+### Data security / privacy & data access
+
+
 
 {% hint style="warning" %}
 coming soon
 {% endhint %}
 
-#### Timeline & Team
+### Timeline 
 
 Finally, you should also agree on a rough **timeline**. A usual project can look like:
 
@@ -95,13 +97,19 @@ Please always add in a bit of buffer. Holidays etc. are a thing, so you shouldn'
 If the organization has a certain **deadline** \(e.g. the launch of a new website, their annual members meeting\), use it to mark the end of the project. This way, the project team has a clear goal to work towards!
 {% endhint %}
 
+### Team
+
 A project needs a **team**. Before you send out the call for applications, you should define roughly how you would like the team to look like. 
+
+#### Size
 
 Usually, CorrelAid teams consist of 4-6 people, but there can also be smaller teams \(e.g. a two-person team\) or larger teams if the project is very comprehensive and there are several sub-projects that can be worked on simultaneously. 
 
 {% hint style="warning" %}
 Previous experience has shown that there is usually a "loss" of 1-2 people over the course of a project. Hence, if in doubt whether you want `x` or `x+1` people on the team, rather go with `x+1`. **Rather overstaff than understaff!**
 {% endhint %}
+
+#### Roles
 
 With regards to skills, it can be useful to think of different "roles" that you want to fill. In a typical CorrelAid project, there are **three types of team roles:**
 
@@ -116,6 +124,8 @@ A usual CorrelAid project team looks like this:
 * 1 team trainee
 
 Depending on the project, you can also define two project leads or team trainees, or have more "regular" team members. 
+
+#### Find a team lead early!
 
 {% hint style="warning" %}
 Ideally, you have the position of the team lead filled before sending out the call for applications. This way, they can participate in the team selection process and can already be involved in some communication with the NPO. In addition, if you know the team lead personally, they will probably be more committed to the project's success.
