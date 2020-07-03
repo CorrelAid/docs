@@ -1,11 +1,11 @@
 ---
 description: >-
-  As a project coordinator, you're responsible for coordinating and managing a
-  project from the first point of contact until the last feedback is collected
-  as part of the follow-up.
+  This section explains how CorrelAid projects are coordinated and describes the
+  relevant processes. The content is relevant for project coordinators and
+  project leads.
 ---
 
-# For project coordinators
+# Project coordination
 
 Those pages contain information for project coordinators. Project coordinators are most important at the first stages of a project, from the first contact of the organization with CorrelAid up until a team has been formed and it has started working. During the project work phase, the project coordinator gets updates from the project team to ensure that the project is running smoothly. After the project has been successfully implemented, the project coordinator is responsible for the follow-up with the organization and the project team.
 
