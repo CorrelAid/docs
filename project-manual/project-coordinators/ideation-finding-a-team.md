@@ -26,9 +26,9 @@
 
 ### Communication Mode
 
-In the ideation phase, you should aim to communicate regularly and repeatedly with the NPO to make sure that we a\) really want to do a project with them and b\) can define a project which will work for both the NPO and the CorrelAid team. Usually, 2-4 iterations over 1-4 weeks are necessary to define a project so that we can send it out via our newsletter.
+In the ideation phase, you should aim to communicate regularly and repeatedly with the NPO to make sure that we a\) really want to do a project with them and b\) can define a project which will work for both the NPO and the CorrelAid team. Usually, **2-4 iterations over 1-4 weeks** are necessary to define a project so that we can send it out via our newsletter.
 
-In principle, you are free in how you communicate with the NPO: email, phone, video call or in-person are all valid choices. However, aim for at least one personal conversation \(i.e. not email\). Ideally, you have a mix of personal formats with follow-up emails with a short protocol summarizing what you discussed on the phone, in the video call or in-person. This way you can make sure that you and the organization had the same take-aways from the call and that you have a written, agreed-upon record to come back to.
+In principle, you are free in how you communicate with the NPO: email, phone, video call or in-person are all valid choices. However, aim for **at least one personal conversation** \(i.e. not email\). Ideally, you have a mix of personal formats with follow-up emails with a short protocol summarizing what you discussed on the phone, in the video call or in-person. This way you can make sure that you and the organization had the same take-aways from the call and that you have a written, agreed-upon record to come back to.
 
 You can take notes on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md). You can copy the [ideation phase template](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#question-collection) which includes a rough structure and some helpful questions \(see below\). If you note down very sensitive information in the process, consider changing the permission of the pad to "private" \(see [here](../../wiki/infrastructure/codimd.md#setting-permissions)\) or take notes offline.
 
@@ -59,7 +59,7 @@ Hence, it is important to get as good a picture of the situation as possible. Wh
 * you can also draw from the data maturity framework from the [_Center of Data Science & Public Policy_](http://www.datasciencepublicpolicy.org/home/resources/datamaturity/). It has a "Data and Tech Readiness Scorecard" and a "Organizational Readiness Scorecard". They can be downloaded [here](http://www.datasciencepublicpolicy.org/wp-content/uploads/2018/05/Data_Maturity_Framework_4.28.16.pdf).
 * we have adapted both scorecards into German. They can be downloaded [here](https://correlaid.org/material/datenreifegradmodell.pdf) and [here](https://correlaid.org/material/organisationsreifegradmodell.pdf).
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 While coming to an agreement on the content and scope of the project is important, you should leave enough room so that goals can be adjusted later on in the project if necessary. Avoid going into too much technical detail in the project description. Focus on **what** the organization needs and fix the rough technologies \(Python or R? Data Visualization or Machine Learning Model?\), and leave the more detailed **how** to the project team. 
 {% endhint %}
 
