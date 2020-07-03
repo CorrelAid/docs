@@ -45,6 +45,8 @@ There are several things you need to discuss with the NPO over the course of the
 This is arguably the most interesting part. Here, you and the NPO should elaborate together what should be part of the project and how CorrelAid volunteers can help the NPO while at the same time having a good learning experience.
 
 {% hint style="info" %}
+**What's a "good" CorrelAid project? When shouldn't we do a project?**
+
 A good CorrelAid project is a win-win situation: our volunteers can apply and expand their knowledge and the NPO gets help with their data challenge. If you find out during the ideation process that the project would be extremely lop-sided in either direction, you can \(and probably should\) politely say no. Examples would be:
 
 * a project which would only be "cool" for the volunteers, but there would be no real positive gain for the NPO. Every CorrelAid project should be of use to the partner organization. In this case, you could also do an internal project. 
@@ -101,6 +103,8 @@ Finally, you should also agree on a rough **timeline**. A usual project can look
 Please always add in a bit of buffer. Holidays etc. are a thing, so you shouldn't plan with all volunteers working 3-5 hours on the project all weeks. 
 
 {% hint style="info" %}
+**Deadlines can be helpful!**
+
 If the organization has a certain **deadline** \(e.g. the launch of a new website, their annual members meeting\), use it to mark the end of the project. This way, the project team has a clear goal to work towards!
 {% endhint %}
 
@@ -113,6 +117,8 @@ A project needs a **team**. Before you send out the call for applications, you s
 Usually, CorrelAid teams consist of 4-6 people, but there can also be smaller teams \(e.g. a two-person team\) or larger teams if the project is very comprehensive and there are several sub-projects that can be worked on simultaneously. 
 
 {% hint style="warning" %}
+**Team size - always overstaff!**
+
 Previous experience has shown that there is usually a "loss" of 1-2 people over the course of a project. Hence, if in doubt whether you want `x` or `x+1` people on the team, rather go with `x+1`. **Rather overstaff than understaff!**
 {% endhint %}
 
@@ -135,6 +141,8 @@ Depending on the project, you can also define two project leads or team trainees
 #### Find a team lead early!
 
 {% hint style="warning" %}
+**When and how to find a team lead**
+
 Ideally, you have the position of the team lead filled before sending out the call for applications. This way, they can participate in the team selection process and can already be involved in some communication with the NPO. In addition, if you know the team lead personally, they will probably be more committed to the project's success.
 
 If you don't know anyone who could be a candidate, ask around in the core team whether someone knows someone who could be interested in the project. In CorrelAidX contexts, ask people who have attended several meetups / who you know personally.
