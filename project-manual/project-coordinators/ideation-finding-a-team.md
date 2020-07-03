@@ -83,7 +83,7 @@ Finally, you should also agree on a rough **timeline**. A usual project can look
 | _Send out call for applications_ |  |
 | Collecting applications | 1.5-2 weeks |
 | Team selection | 1 week |
-| Onboarding + coordination of kickoff | 1-3 weeks |
+| Onboarding + coordination of kickoff | 1-5 weeks |
 | _Kickoff workshop_ | _either online \(1-3 hours\) or a in-person weekend_ |
 | Project work | 1-6 months |
 | _Handover workshop_ | _either online \(1-3 hours\) or a in-person meeting \(1-3 hours\)_ |
@@ -103,7 +103,7 @@ Usually, CorrelAid teams consist of 4-6 people, but there can also be smaller te
 Previous experience has shown that there is usually a "loss" of 1-2 people over the course of a project. Hence, if in doubt whether you want `x` or `x+1` people on the team, rather go with `x+1`. **Rather overstaff than understaff!**
 {% endhint %}
 
-With regards to skills, it can be useful to think of different "roles" that you want to fill. In a typical CorrelAid project, there are three types of team roles:
+With regards to skills, it can be useful to think of different "roles" that you want to fill. In a typical CorrelAid project, there are **three types of team roles:**
 
 * project lead / team lead: The project lead is a team member that has some additional responsibilities such as coordination of the team, being the primary contact person of the organization, and reporting back to the project coordinator \(aka you\). Usually, the project lead is also a more experienced data scientist who can help others with technical problems but this doesn't have to be the case. The project lead can also be someone who is very knowledgable and has high domain expertise. 
 * team member: "regular" team member: upper beginner level, mid-level and experienced data scientists / data analysts.
@@ -125,7 +125,7 @@ If you don't know anyone who could be a candidate, ask around in the core team w
 
 ## Call for Applications
 
-#### Goals
+#### Checklist
 
 {% hint style="success" %}
 * [ ] draft call for applications on CodiMD
@@ -175,7 +175,6 @@ Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter a
 #### **Goals**
 
 1. find a diverse, capable team
-2. onboard the team to Slack, GitHub etc.
 
 #### Checklist
 
