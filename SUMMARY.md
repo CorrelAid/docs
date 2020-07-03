@@ -52,7 +52,7 @@
 * [Project coordination](project-manual/project-coordinators/README.md)
   * [GitHub "projects" Repository](project-manual/project-coordinators/github-projects-repository.md)
   * [Ideation & Finding a team](project-manual/project-coordinators/ideation-finding-a-team.md)
-  * [Onboarding & Project Kickoff](project-manual/project-coordinators/project-kickoff.md)
+  * [Onboarding & Kickoff](project-manual/project-coordinators/project-kickoff.md)
 * [For the project team](project-manual/project-team/README.md)
   * [Being a Data4Good Data Scientist](project-manual/project-team/being-a-data4good-data-scientist.md)
   * [Best practices](project-manual/project-team/best-practices/README.md)

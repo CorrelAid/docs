@@ -1,4 +1,4 @@
-# Onboarding & Project Kickoff
+# Onboarding & Kickoff
 
 ## Onboarding 
 

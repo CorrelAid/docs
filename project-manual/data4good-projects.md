@@ -2,7 +2,7 @@
 
 Our Data4Good projects are at the core of our work. In our skilled volunteering projects, we connect data scientist volunteers from our network network of over 1300 volunteers with nonprofit organisations. Through the projects, our volunteers have the opportunity to apply their existing skills and gain new knowledge. At the same time, they support nonprofit organisations with solving their data-related challenges. Over 2-6 months and in teams from 2-7 data scientists, CorrelAid volunteers have tackled diverse data challenges of nonprofits: from data collection, data visualization and exploratory data analysis to automation, reporting and advanced statistical analyses using machine learning and deep learning techniques.
 
-## Who is Who
+## Actors
 
 Several actors are involved in a CorrelAid Data4Good project. Here is a small overview with the most important terminology.
 
@@ -62,5 +62,59 @@ Several actors are involved in a CorrelAid Data4Good project. Here is a small ov
   </tbody>
 </table>
 
+## Project phases
 
+A typical CorrelAid project goes through 6 stages. Those are sketched out here to give a high-level overview. More detailed content can be found in the rest of the manual.
+
+#### First contact / Project acquisition
+
+CorrelAid has come in contact with a potential partner organization / NPO:
+
+* they've contacted us over email
+* we have met them at an event
+* we have approached them 
+* someone else put us into contact with them
+
+#### Ideation
+
+The project coordinator has established communication with the organization. Together with the contact person\(s\) from the NPO, they figure out whether and if so, how CorrelAid volunteers could support the NPO with their data challenge. Based on this information, the project coordinator develops the project call for applications in close coordination with the contact person\(s\) of the NPO.
+
+{% page-ref page="project-coordinators/ideation-finding-a-team.md" %}
+
+#### Finding a team
+
+The project coordinator sends out the call for applications via the newsletter and collects the applications. Once the application deadline has passed, the project coordinator looks for a selection committee who then select a team. 
+
+{% page-ref page="project-coordinators/ideation-finding-a-team.md" %}
+
+#### Onboarding & Kickoff
+
+#### Project work 
+
+The project team works on the project, with regular feedback loops with the organization. The project team leader leads the team as primus inter pares and is responsible for keeping the project running. From time to time, the team gives an update to the project coordinator to ensure that no problems exist and that the project is running smoothly. 
+
+#### Handover
+
+The project team hands over the finished analysis / visualization / .. to the NPO. 
+
+#### Follow-up
+
+Feedback is collected by the project coordinator from both the NPO and the project team members. 
+
+## Actors in project phases
+
+|  | Ideation & Call for Applications | Team selection | Onboarding & Kickoff | Project work | Handover | Follow-up |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| NPO | ✅ |  | ✅ | ✅ | ✅ | ✅ |
+| Project coordinator | ✅ | ✅ | ✅ | 🟨$$^1 $$  | 🟨 $$^1$$  | ✅ |
+| Project lead | 🟨 $$^2$$  | 🟨 $$^2$$  | ✅ | ✅ | ✅ | ✅ |
+| Selection committee |  | ✅ |  |  |  |  |
+| Project team |  |  | ✅ | ✅ | ✅ | ✅ |
+
+✅: involved
+
+🟨: optional / in reduced capacity
+
+* $$^1$$ during the project work phase, the project coordinator regularly checks in with the project team to make sure everything is going smoothly. They are also available for support.
+* $$^2$$ Ideally the project coordinator should find a project team lead during the ideation phase by directly asking people whether they'd be interested in the role. In this case, the team lead can be involved in the ideation and team selection processes.
 
