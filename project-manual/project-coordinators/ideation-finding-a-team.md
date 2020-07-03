@@ -6,6 +6,7 @@
 **Relevant CorrelAid actors**
 
 * project coordinator
+* project lead \(if found early\)
 {% endhint %}
 
 #### **Goals**
@@ -168,7 +169,9 @@ You can draft the call for applications on CodiMD. In order to make this as easy
 * 🇬🇧 the [English template](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both)
 
 {% hint style="info" %}
-German or English? This depends on the project. To be as inclusive as possible, the English one should be the default. However, if your project will be in German only and it is _really_ not possible to participate without good German skills \(i.e. because of the nature of the data\), choose the German one.
+**German or English?** 
+
+This depends on the project. To be as inclusive as possible, the English one should be the default. However, if your project will be in German only and it is _really_ not possible to participate without good German skills \(i.e. because of the nature of the data\), choose the German one.
 {% endhint %}
 
 **Copy the content of the CodiMD into a new pad and rename it to reflect your project's name.** Then you can start filling in the necessary information. If you want the NPO to be able to review the document, you can set the permission to "editable".
@@ -188,7 +191,7 @@ this video is not up to date: the editing of the buttons is not necessary anymor
 {% embed url="https://youtu.be/wwQIBOydcV4" caption="" %}
 
 {% hint style="info" %}
-**Sending only to a CorrelAidX Chapter**
+**How can I only send to a local chapter?**
 
 Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter audience. When building your Mailchimp campaign, you can select a specific segment of the list. Check out [this part](https://youtu.be/wwQIBOydcV4?t=227) of the tutorial video.
 {% endhint %}
@@ -260,7 +263,19 @@ Team selection criteria:
 
 One spot in the team is reserved for a "beginner".
 
+**Principles of team selection:**
+
+* no discrimation based on gender, gender identity and expression, sexual orientation, disability, mental illness, neuro\(a\)typicality, physical appearance, body size, age, race, ethnicity, nationality or religion.
+* at least 50% of team seats are filled with applicants who are not cisgender men \(cisgender = people whose gender identity matches their sex assigned at birth\)
+* applicants belonging to groups currently underrepresented in tech should be preferred whenever possible
+* people who have unsuccessfully applied to a project in the past should be preferably considered whenever possible 
+* people who apply for the first time should be preferably considered compared to people who have already particpated in a project 
+* unless in specific circumstances, interviews with applicants are not conducted 
+* the selection committee tries to come to a consensus decision. If a consensus cannot be reached, the majority decides. If there is no majority, the project coordinator decides. 
+
 {% hint style="info" %}
+**Helpful guidelines: team roles**
+
 When making a selection, the selection committee should aim to select people who have different areas of expertise so that they can help out each other. Here are some unofficial team "roles" that can be useful to think about when selecting team members \(they are not mandatory to fill, just a tool to help you think about the requirements of a project\):
 
 * methods specialist: this is someone who has a high \(theoretical\) expertise in statistical and machine learning methods that are relevant to the project. They can give input when deciding on which model to use for specific use case. 
@@ -272,16 +287,6 @@ When making a selection, the selection committee should aim to select people who
 
 * motivation: is the sole motivation the technical challenge? Ideally, project members should also be intrinsically motivated to help the NPO.
 {% endhint %}
-
-**Principles of team selection:**
-
-* no discrimation based on gender, gender identity and expression, sexual orientation, disability, mental illness, neuro\(a\)typicality, physical appearance, body size, age, race, ethnicity, nationality or religion.
-* at least 50% of team seats are filled with applicants who are not cisgender men \(cisgender = people whose gender identity matches their sex assigned at birth\)
-* applicants belonging to groups currently underrepresented in tech should be preferred whenever possible
-* people who have unsuccessfully applied to a project in the past should be preferably considered whenever possible 
-* people who apply for the first time should be preferably considered compared to people who have already particpated in a project 
-* unless in specific circumstances, interviews with applicants are not conducted 
-* the selection committee tries to come to a consensus decision. If a consensus cannot be reached, the majority decides. If there is no majority, the project coordinator decides. 
 
 ### Confirming team members
 
