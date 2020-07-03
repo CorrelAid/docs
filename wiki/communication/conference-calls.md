@@ -42,5 +42,5 @@ Ps: Before anyone asks: In case there's a 5th Monday in a month, there is no cal
 
 ## Protocol 
 
-Outcomes of the conference calls are usually documented in a hackmd. Please see the \#telko channel for the links to the previous protocols. 
+Outcomes of the conference calls are usually documented in a [CodiMD pad](../infrastructure/codimd.md). Please see the \#telko channel for the links to the previous protocols. 
 
