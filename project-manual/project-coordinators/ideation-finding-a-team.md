@@ -2,6 +2,12 @@
 
 ## Ideation
 
+{% hint style="info" %}
+**Relevant CorrelAid actors**
+
+* project coordinator
+{% endhint %}
+
 #### **Goals**
 
 1. decide **whether** we should do a project with the organization
@@ -135,6 +141,13 @@ If you don't know anyone who could be a candidate, ask around in the core team w
 
 ## Call for Applications
 
+{% hint style="info" %}
+**Relevant CorrelAid actors**
+
+* project coordinator
+* project lead \(if already found\)
+{% endhint %}
+
 #### Checklist
 
 {% hint style="success" %}
@@ -181,6 +194,14 @@ Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter a
 {% endhint %}
 
 ## Team selection
+
+{% hint style="info" %}
+**Relevant CorrelAid actors**
+
+* project coordinator
+* project team lead \(if already found\)
+* selection committee
+{% endhint %}
 
 #### **Goals**
 
