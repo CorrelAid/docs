@@ -7,7 +7,11 @@ description: >-
 
 # Project coordination
 
-Those pages contain information for project coordinators. Project coordinators are most important at the first stages of a project, from the first contact of the organization with CorrelAid up until a team has been formed and it has started working. During the project work phase, the project coordinator gets updates from the project team to ensure that the project is running smoothly. After the project has been successfully implemented, the project coordinator is responsible for the follow-up with the organization and the project team.
+Those pages contain information for project coordinators and project team leads. 
+
+Project coordinators are most important at the first stages of a project, from the first contact of the organization with CorrelAid up until a team has been formed and it has started working. During the project work phase, the project coordinator gets updates from the project team to ensure that the project is running smoothly. After the project has been successfully implemented, the project coordinator is responsible for the follow-up with the organization and the project team.
+
+The project lead / team lead typically gets involved from the team selection process onwards. They are part of the project team but also have some additonal responsibilities related to team coordination, communication with the NPO and other organizational tasks.
 
 {% hint style="info" %}
 Want to become a project coordinator? Ask Frie \(@frie\) in Slack, she'll be happy to answer any questions you might have. She can also add you to the team and give you an introduction to the tasks, the process and the tools! 
@@ -43,7 +47,7 @@ At the end of this phase, the project coordinator sends the project call for app
 
 ### Finding a team / onboarding
 
-The project coordinator collects the applications. Once the application deadline has passed, the project coordinator looks for 1-3 suitable people to join the selection committee and they arrange for a call to decide who should join the project team. 
+The project coordinator collects the applications. Once the application deadline has passed, the project coordinator looks for 1-3 suitable people to join the selection committee and they arrange for a call to decide who should join the project team.
 
 The project coordinator sends out the confirmation and declination emails to the applicants and establishes a first communication channel for the team, e.g. by inviting them to Slack and creating a private channel. 
 
