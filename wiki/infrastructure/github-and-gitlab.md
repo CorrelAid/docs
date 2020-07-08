@@ -23,7 +23,7 @@ However, we currently do not use it for much. If you want to work with GitLab in
 ### I want to create a GitHub / GitLab repository for my project and add my team to it. How do I do it?
 
 {% hint style="info" %}
-Please send a Slack message to Frie \(@frie\) with:
+Please post a Slack message to \#infrastructure with:
 
 * the name you want the repository to have
 * the GitHub / GitLab user names of the project team members

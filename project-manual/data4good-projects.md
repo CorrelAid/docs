@@ -93,13 +93,23 @@ The project coordinator sends out the call for applications via the newsletter a
 
 The project team works on the project, with regular feedback loops with the organization. The project team leader leads the team as primus inter pares and is responsible for keeping the project running. From time to time, the team gives an update to the project coordinator to ensure that no problems exist and that the project is running smoothly. 
 
+{% page-ref page="project-coordinators/project-work.md" %}
+
+
+
 #### Handover
 
 The project team hands over the finished analysis / visualization / .. to the NPO. 
 
+{% page-ref page="project-coordinators/handover-workshop.md" %}
+
+
+
 #### Follow-up
 
 Feedback is collected by the project coordinator from both the NPO and the project team members. 
+
+
 
 ## Actors in project phases
 

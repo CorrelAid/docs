@@ -1,5 +1,19 @@
 # Ideation & Finding a team
 
+## Quick links
+
+{% hint style="info" %}
+The most important links from this section in one handy little box:
+
+* [Ideation Phase CodiMD Template](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#)
+* [Data Maturity Framework](http://www.datasciencepublicpolicy.org/home/resources/datamaturity/)
+* Call for Applications CodiMD Template
+  * 🇩🇪 the [German template  ](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both)
+  * 🇬🇧 the [English template](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both)
+* [Surveymonkey form](https://www.surveymonkey.de/r/correlaid_project_apply)
+* [GitHub Projects repository](https://github.com/CorrelAid/projects) with Kanban board
+{% endhint %}
+
 ## Ideation
 
 {% hint style="info" %}
@@ -17,12 +31,22 @@
 #### **Checklist**
 
 {% hint style="success" %}
+* [ ] add project to Kanban board
 * [ ] talk to NPO
 * [ ] decide to do project with NPO
 * [ ] scope the project
 * [ ] get information on data security / privacy & data access 
+* [ ] fix date of the [kickoff workshop](kickoff.md#location) if possible \(especially when in-person\)
 * [ ] if possible, find a prospective team lead and involve them early into the process
 {% endhint %}
+
+### Add project to Kanban Board
+
+We have a Kanban board in GitHub to track the progress of all projects. Once you enter into more the ideation phase with a non-profit organisation, make sure to add it to the kanban board. This way, we have a global overview over all projects and you can also check out other projects and learn from their progress.
+
+How to add your project to the Kanban board? Learn more on this page:
+
+{% page-ref page="github-projects-repository.md" %}
 
 ### Communication Mode
 
@@ -30,7 +54,7 @@ In the ideation phase, you should aim to communicate regularly and repeatedly wi
 
 In principle, you are free in how you communicate with the NPO: email, phone, video call or in-person are all valid choices. However, aim for **at least one personal conversation** \(i.e. not email\). Ideally, you have a mix of personal formats with follow-up emails with a short protocol summarizing what you discussed on the phone, in the video call or in-person. This way you can make sure that you and the organization had the same take-aways from the call and that you have a written, agreed-upon record to come back to.
 
-You can take notes on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md). You can copy the [ideation phase template](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#question-collection) which includes a rough structure and some helpful questions \(see below\). If you note down very sensitive information in the process, consider changing the permission of the pad to "private" \(see [here](../../wiki/infrastructure/codimd.md#setting-permissions)\) or take notes offline.
+You can take notes on our CodiMD instance [pad.correlaid.org](../../wiki/infrastructure/codimd.md). You can copy the [ideation phase template](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#) which includes a rough structure and some helpful questions \(see below\). If you note down very sensitive information in the process, consider changing the permission of the pad to "private" \(see [here](../../wiki/infrastructure/codimd.md#setting-permissions)\) or take notes offline.
 
 There are several things you need to discuss with the NPO over the course of the ideation phase: 
 
@@ -75,14 +99,72 @@ Fortunately, almost all NPOs will totally understand those points because they a
 In addition to those "soft" expectation management issues, you should also get the OK from the organization that they are willing and able to:
 
 * support the project team over the course of the project, i.e. they will be available for regular calls / email communication / meetings to answer questions and give feedback 
-* provide a room for the kickoff and pay for travel and accomodation for project team members. Those costs usually amount to ~500-1000 euro. If the kick-off workshop is virtual, they are willing to participate online. 
+* provide a room for the [kickoff](kickoff.md) and pay for travel and accomodation for project team members. Those costs usually amount to ~500-1000 euro. If the kick-off workshop is virtual, they are willing to participate online. 
 
-### Data security / privacy & data access
+### Data privacy & data access
 
+Data protection and privacy is very important to CorrelAid. Hence, you should find out early what kind of data is to be collected and/or analysed in the project so that the project lead and project team can take on appropriate measures to correctly store and process the data.
 
+To make yourself familiar with the different types of data - especially the concept of "personal data" -, please check out the "[types of data](../data-security-and-privacy.md#types-of-data)" section of the data security & privacy page:
+
+{% page-ref page="../data-security-and-privacy.md" %}
+
+After you've familiarized yourself with the definitions, you should be able to decide on the right project setup together with the NPO by asking the following questions.
+
+**Will any kind of personal data be involved in the project?**
+
+**If** 👍**:**
+
+Most of the times, CorrelAid teams will get a pseudonymized version of the data \(i.e. individuals are still identifiable with the use of additional information\). But even if the partner organization claims the data is truly anonymized, CorrelAid teams should not rely on that claim. Hence, in any case CorrelAid teams dealing with any kind of personal data should always adhere to the following setup:
+
+{% hint style="info" %}
+**Project setup**
+
+* DO: encrypt the data on local machines \(see [howto](../data-security-and-privacy.md#data-encryption)\)
+* DO NOT: upload data to GitHub / GitLab \(see howto\)
+* DO: team members and NPO need to sign the _obligation to observe data secrecy_ ****\(de: Datenschutzverpflichtungserklärung\) \(download it here\)
+* DO \(if very sensitive data\): team members create separate user account on their machine just for the project
+{% endhint %}
+
+**If** 👎**:**
+
+If the project does not involve personal data, it depends on the requirements and wishes of the NPO which data protection measures the project team needs to adopt. Here are the questions to ask the NPO.
+
+#### **Does the data have to be encrypted locally?**
+
+Make sure the organization understands the attack vector, i.e. if a laptop of a team member was stolen, the data could be extracted from the hard drive. 
+
+If data can be stored unencrypted, CorrelAid team members do not need to ensure encryption which can be easier, especially for team trainees.
+
+**Can the data be uploaded to a private GitHub / GitLab repository?**
+
+Make sure that the organization understands that GitHub and GitLab are both companies which most likely have their servers in the US. CorrelAid does not self-host a version control service. 
+
+With a private repository access to the repository would be limited to team members and the project coordinator. In consequence the data would only be accessible to team members and the project coordinator. 
+
+If data can be stored on GitHub / GitLab, they can be put under version control, i.e. changes to raw data can be tracked and reverted easily if necessary. In addition, it makes collaboration in the team easier because the setup is shared through GitHub / GitLab.
+
+**Can the code and data be published to a public GitHub / GitLab repository?**
+
+If the organization decides to open source the code and data to the public, it is accessible to everyone. 
+
+Other organizations and data scientists can make use of our work and we would contribute to open source. 
+
+If the NPO decides that they are ok with open sourcing code + data, you should help them choose a license for data and code. [https://choosealicense.com/](https://choosealicense.com/) is a good resource for deciding this. 
+
+| Question | Answer | Consequence |
+| :--- | :--- | :--- |
+| Can the data be stored unencryped on the local machines? | ✅  | Team members _**do not need**_ ****to use VeraCrypt or encrypt their home folder. |
+| Can the data be stored unencrypted on the local machines? | ❌  | Team members _**need**_ to use VeraCrypt or encrypt their home folder. |
+| Can the data be uploaded to a private GitHub / GitLab repository? | ✅ | Team members _**can**_ _**upload**_ raw and all kinds of processed data to GitHub / GitLab. The initial data transfer to the project team can be done using GitHub / GitLab. |
+| Can the data be uploaded to a private GitHub / GitLab repository? | ❌ | Team members _**cannot**_ _**upload**_ raw and processed data to GitHub / GitLab. Instead, they should document relevant folder structures in the README of the repository and put the data folder in .gitignore. The initial data transfer to the project team _**needs**_ to be done via the CorrelCloud.  |
+| Can the code and data be published to a public GitHub / GitLab repository? | ✅ | The repository _**can be public**_. Appropriate licences for code and data _**need**_ to be chosen.  |
+| Can the code and data be published to a public GitHub / GitLab repository? | ❌ | The repository _**cannot be public.**_  |
 
 {% hint style="warning" %}
-coming soon
+**Get written confirmation from NPO**
+
+Always confirm what you discussed in in-person or in calls via a **clearly formulated email** with the NPO, e.g. by copying the table above with the answers of the NPO and asking for their written confirmation of the agreed privacy rules. You can store the email in the [CorrelCloud](onboarding.md#data-transfer-with-correlcloud) folder that you create later in the onboarding phase.
 {% endhint %}
 
 ### Timeline 
@@ -150,6 +232,14 @@ If you don't know anyone who could be a candidate, ask around in the core team w
 
 ## Call for Applications
 
+{% hint style="warning" %}
+**CorrelAidX projects**
+
+In our Mailchimp newsletter, we have so-called _segments_ for all chapters, i.e. we can contact all CorrelAid members who are interested in activities of your CorrelAidX chapter. Usually, CorrelAidX projects should be sent out to this local newsletter list to give everyone in your area the chance to apply for the project.
+
+However, if you are just starting out as a chapter and just acquired your first project, it is also possible to form a team out of the initial members of the chapter without sending the project over your local section of the newsletter. In this way, you can experience a CorrelAid project together and pass on your knowledge in later projects. 
+{% endhint %}
+
 {% hint style="info" %}
 **Relevant CorrelAid actors**
 
@@ -176,13 +266,13 @@ You can draft the call for applications on CodiMD. In order to make this as easy
 * 🇩🇪 the [German template  ](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both)
 * 🇬🇧 the [English template](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8_w?both)
 
+**Copy the content of the CodiMD into a new pad and rename it to reflect your project's name.** Then you can start filling in the necessary information. If you want the NPO to be able to review the document, you can set the permission to "editable".
+
 {% hint style="info" %}
 **German or English?** 
 
 This depends on the project. To be as inclusive as possible, the English one should be the default. However, if your project will be in German only and it is _really_ not possible to participate without good German skills \(i.e. because of the nature of the data\), choose the German one.
 {% endhint %}
-
-**Copy the content of the CodiMD into a new pad and rename it to reflect your project's name.** Then you can start filling in the necessary information. If you want the NPO to be able to review the document, you can set the permission to "editable".
 
 ### Add project to surveymonkey form
 
@@ -257,6 +347,8 @@ You should then anonymize the data before sharing them with the team selection c
 
 Share the _anonymized_ version with the project team. For that, we typically use a collaborative tool like Google Sheets or [cryptpad.fr](https://cryptpad.fr). Ideally, you already group the applications by gender, e.g. by creating "sheets" for the different genders in the online document and an additional sheet "team" where you can note down the ids of the most promising candidates.
 
+
+
 ### Team selection call
 
 Once you have found 2-4 people, arrange with them for a video call.
@@ -273,11 +365,11 @@ One spot in the team is reserved for a "beginner".
 
 **Principles of team selection:**
 
-* no discrimation based on gender, gender identity and expression, sexual orientation, disability, mental illness, neuro\(a\)typicality, physical appearance, body size, age, race, ethnicity, nationality or religion.
+* no discrimination based on gender, gender identity and expression, sexual orientation, disability, mental illness, neuro\(a\)typicality, physical appearance, body size, age, race, ethnicity, nationality or religion.
 * at least 50% of team seats are filled with applicants who are not cisgender men \(cisgender = people whose gender identity matches their sex assigned at birth\)
 * applicants belonging to groups currently underrepresented in tech should be preferred whenever possible
 * people who have unsuccessfully applied to a project in the past should be preferably considered whenever possible 
-* people who apply for the first time should be preferably considered compared to people who have already particpated in a project 
+* people who apply for the first time should be preferably considered compared to people who have already participated in a project 
 * unless in specific circumstances, interviews with applicants are not conducted 
 * the selection committee tries to come to a consensus decision. If a consensus cannot be reached, the majority decides. If there is no majority, the project coordinator decides. 
 

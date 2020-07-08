@@ -5,7 +5,9 @@ description: >-
   version below.
 ---
 
-# E-mail template to contact NPOs
+# E-mail templates to contact NPOs
+
+## CorrelAid Bremen
 
 {% tabs %}
 {% tab title="English version" %}
@@ -27,7 +29,35 @@ Mit freundlichen Grüßen,
 {% endtab %}
 {% endtabs %}
 
+## CorrelAid Nederland
 
+{% tabs %}
+{% tab title="English version" %}
+_**This first part is very generic and can be used for any “cold call” email.**_
+
+Dear X, I am writing to you on behalf of CorrelAid XXX, a group that aims to build a network of data scientists / data enthusiasts that work pro bono for organizations that do good. We organize meetups, hackathons, and engage in longer-term projects with organisations. Currently, we are collaborating with ... among others.
+
+In addition to helping NGOs that advance the social good, our goal is also an educational one. We want to provide students or young professionals with the opportunity to apply their data science skills in the real world, getting hands-on experience.
+
+_**This part now is specific for Professors who teach certain courses.**_
+
+We noticed that you are teaching XX, and believe that students taking this course might be interested in our initiative. If you agree, would it be possible for you to inform them about us? Our website is XX, and our newsletter --- through which we update our pool of data scientists / data enthusiasts about new meetups, hackathons, and projects --- is XX.
+
+Please let me know if you have any other questions, and thank you for your time!
+
+_**This part now is specific for meetups where we can speak.**_
+
+We were thinking that attendants of XX might be interested in hearing about our initiative. Would it be possible to speak at XX?
+
+I am looking forward to your reply, and thank you for your time!
+
+On behalf of CorrelAid XXX,  NAME
+{% endtab %}
+
+{% tab title="German version" %}
+
+{% endtab %}
+{% endtabs %}
 
 
 

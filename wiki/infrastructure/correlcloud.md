@@ -5,6 +5,6 @@ The CorrelCloud is a NextCloud instance hosted on our Manitu. There, we have clo
 * [correlcloud.org](https://correlcloud.org)
 
 {% hint style="info" %}
-Need access to the CorrelCloud? Ask **Thomas \(@thomas\)** on Slack.
+Need access to the CorrelCloud? Ask **Thomas \(@thomas\)** or Frie \(@frie\) on Slack.
 {% endhint %}
 
