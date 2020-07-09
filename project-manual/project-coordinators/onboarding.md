@@ -38,7 +38,7 @@ Who: Project lead or project coordinator
 Usually, our project teams use GitHub \(or GitLab\) for collaboration. To request a repository in the CorrelAid GitHub or GitLab team, please proceed as followed:
 
 1. in your project team channel, collect the GitHub \(or GitLab\) of all team members.
-2. request a GItHub/GitLab repository by following this [FAQ](../../wiki/infrastructure/github-and-gitlab.md#i-want-to-create-a-github-gitlab-repository-for-my-project-and-add-my-team-to-it-how-do-i-do-it).
+2. request a GitHub/GitLab repository by following this [FAQ](../../wiki/infrastructure/github-and-gitlab.md#i-want-to-create-a-github-gitlab-repository-for-my-project-and-add-my-team-to-it-how-do-i-do-it).
 3. A GitHub / GitLab admin will help you as soon as possible. 
 
 ## Create Slack channel
