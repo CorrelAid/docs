@@ -366,7 +366,7 @@ One spot in the team is reserved for a "beginner".
 **Principles of team selection:**
 
 * no discrimination based on gender, gender identity and expression, sexual orientation, disability, mental illness, neuro\(a\)typicality, physical appearance, body size, age, race, ethnicity, nationality or religion.
-* at least 50% of team seats are filled with applicants who are not cisgender men \(cisgender = people whose gender identity matches their sex assigned at birth\)
+* at least 50% of team seats are filled with applicants with genders currently underrepresented in tech \(currently everyone who's not a cisgender man; cisgender = people whose gender identity matches their sex assigned at birth\)
 * applicants belonging to groups currently underrepresented in tech should be preferred whenever possible
 * people who have unsuccessfully applied to a project in the past should be preferably considered whenever possible 
 * people who apply for the first time should be preferably considered compared to people who have already participated in a project 
