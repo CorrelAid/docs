@@ -1,6 +1,6 @@
 # Ideation & Finding a team
 
-## Quick links
+Quick links
 
 {% hint style="info" %}
 The most important links from this section in one handy little box:

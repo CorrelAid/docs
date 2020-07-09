@@ -26,7 +26,7 @@ The most important links from this section in one handy little box:
   * data security declaration template
   * example project folder with an example veracrypt container
 * [Data privacy & security page](../data-security-and-privacy.md)
-* Walkthrough tutorial video for creating the veracrypt container
+* [Walkthrough tutorial video](https://www.youtube.com/watch?v=oy21hgTThWk&feature=youtu.be) for creating the veracrypt container
 {% endhint %}
 
 ## Create Git repository 
@@ -93,9 +93,17 @@ Who: Project lead or project coordinator
 
 If the data is in any way sensitive \(personal data or sensitive non-personal data\)  the CorrelCloud should be used. In order to do so, you can create a secure file drop in the "secure" folder under 04\_projekte\_data \(see above\) where the organization can upload their data. 
 
+How to: 
 
+1. In your "secure" project folder \(aka the one which is part of `04_projekte_data`\), create a new folder `file_drop`
+2. Open the folder in the CorrelCloud web interface
+3. Click on the "share" icon in the "breadcrumbs" of the folder \(see screenshot below\)
+4. Create a share link with the following properties: "file drop \(upload only\)" and "password protect". Choose a secure password \(e.g. by using a password generator or a [passphrase](https://useapassphrase.com)\). See screenshot below.
+5. Copy the link by clicking on the copy symbol and send it to the NPO. In a second email, send the password. 
 
+![The share symbol is on the right end of the &quot;breadcrumbs&quot; ](../../.gitbook/assets/screenshot-2020-07-09-at-11.40.03.png)
 
+![Select the settings File drop and Password protect](../../.gitbook/assets/screenshot-2020-07-09-at-11.39.20.png)
 
 #### Other channels
 
@@ -113,11 +121,9 @@ If encryption is necessary for your project, share [this documentation page](../
 
 ### Data privacy policy statement
 
-If the project has **any** data privacy requirements, the participants and the organization need to sign the **declaration on data security**. 
+If the project has **any** data privacy requirements, the participants and the organization need to sign the [**declaration on data security**](../data-security-and-privacy.md#declaration-on-data-security). 
 
 You can download German and English templates [here](https://correlcloud.org/index.php/s/N8rXFWpbNJDNiZS). They contain the requirements for the highest security setup \(including the requirement to create a separate user account\), so please make sure to adapt them to your specific project by removing passages not needed for your project. If you're unsure, ask your project coordinator or our data privacy expert Thomas \(@Thomas on Slack\). 
-
-**This** 
 
 ## Set up and share the VeraCrypt Container
 
@@ -136,8 +142,14 @@ Please choose a secure password for the container and **not** "NPO\_project\_202
 3. clone the [GitHub / GitLab](../../wiki/infrastructure/github-and-gitlab.md) repository into the container 
 4. do any project setup steps you'd like \(e.g. create RStudio project, add virtualenv configuration\)
 5. add a data/raw folder
-6. if the data must not be committed to Git, follow the workflow in this video
+6. if the data must not be committed to Git, add relevant files / folders to gitignore.
 7. put in the data from the organization into data/raw. Make sure to follow [good file naming principles](https://speakerdeck.com/jennybc/how-to-name-files). Add a README.md to the data folder and document the folder + file structure \(e.g. with a screenshot from your data explorer\).
+
+The following Youtube video shows how this can be achieved \(the order of the steps is slightly different but the outcome is the same\):
+
+{% embed url="https://youtu.be/oy21hgTThWk" %}
+
+
 
 Upload the **VeraCrypt container file** to the CorrelCloud folder for your team. Share the password to the container via a **secure, encrypted** communication channel: [Signal ](https://signal.org)or [Keybase](https://keybase.io/) can be used, or you can share the password over a phone call. 
 
