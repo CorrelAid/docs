@@ -50,9 +50,9 @@ Non-personal data do not fall into the scope of GDPR.
 
 German: Datenschutzverpflichtungserklärung
 
+Depending on the project, a declaration on data security needs to be signed by all members of the project team and the NPO.
+
 You can download it [here](https://correlcloud.org/index.php/s/N8rXFWpbNJDNiZS). It should be adapted according to the specific requirements of the project that should've been defined in the [ideation process](project-coordinators/ideation-finding-a-team.md#data-privacy-and-data-access). The project lead is responsible for collecting the signed declarations from all project team members before any data is shared as part of the [onboarding process](project-coordinators/onboarding.md#data-privacy-policy-statement).
-
-
 
 ## Data encryption
 
