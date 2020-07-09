@@ -87,7 +87,17 @@ The project coordinator sends out the call for applications via the newsletter a
 
 {% page-ref page="project-coordinators/ideation-finding-a-team.md" %}
 
-#### Onboarding & Kickoff
+#### Onboarding
+
+The project lead together with the project coordinator and the support of the relevant tool administrators sets up the project tooling and communication channels. The project coordinator together with the project lead and the NPO starts planning the kickoff.
+
+{% page-ref page="project-coordinators/onboarding.md" %}
+
+#### Kickoff
+
+The kickoff marks the official start of the project. Here, the NPO, the project coordinator, the project lead and the project team come together for a weekend \(or an online event\) to get to know each other, learn more about the background of the project and plan the project.
+
+{% page-ref page="project-coordinators/kickoff.md" %}
 
 #### Project work 
 
@@ -108,6 +118,8 @@ The project team hands over the finished analysis / visualization / .. to the NP
 #### Follow-up
 
 Feedback is collected by the project coordinator from both the NPO and the project team members. 
+
+{% page-ref page="project-coordinators/follow-up.md" %}
 
 
 
