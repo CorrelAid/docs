@@ -62,19 +62,21 @@ description: >-
 * Set the time and date of the data dialogue \(ideation session and pitch night\) according to how NPOs may attend
 * For offline events: Book possible locations
 * For online events: Ask Frie Preu to set up a zoom environment
-* Create/distribute marketing material \(Hint: PR \[PR \] \(mailto:pr@correlaid.org\) can help!\) _`Flyer`_
+* Create/distribute marketing material \(Hint: PR \[PR \] \(mailto:pr@correlaid.org\) can help!\) or take a look in this [CorrelCloud file](https://correlcloud.org/index.php/s/cWRF8zWZjnRKRKn) 
 
 ### Organize
 
 * Choose the following responsibilties: Moderator \(2P\), technical staff \(1P\)
 * Train moderators using our internal guidances, for example with this [presentation](https://docs.google.com/presentation/d/1fM22bP0fVcKn98R4zB2Z8hhWup6XscoIJ-9L5i-bkBM/edit#slide=id.g884d5274fc_0_68)
-* Set an agenda `Example`, create a presentation and gather necessary surveys
+* Set an agenda, create a presentation and gather necessary surveys
 
 ### Prepare partners
 
 * Schedule a 1h preparation call
 * Clarify whether the process and goals of the open data dialogue are understood
-* Fill the onboarding [survey](https://www.surveymonkey.de/r/datenreifegrad) with the project partner 
+* Fill the onboarding survey with the project partner 
+  * [English version](https://www.surveymonkey.de/r/correlaid_submit_project)
+  * [German version](https://www.surveymonkey.de/r/correlaid_projekt_einreichen)
 
 {% hint style="info" %}
 Approach the organization and gain more insights in their data challenge, at the same time, they gain more insights on what information we need to tackle their challenge. It is not necessary to fully define the questions on challenges yet - here you can collect ideas and mark points for clarification during the ideation session.
