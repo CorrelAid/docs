@@ -24,7 +24,7 @@ Ps: Before anyone asks: In case there's a 5th Monday in a month, there is no cal
 
 **What:** Core Team call. Important updates from the teams, questions that need to be decided by a larger team. 
 
-**When**: 2nd and 4th Monday of each  month, 8pm \(Berlin time\).
+**When**: 2nd and 4th Monday of each  month, 7pm \(Berlin time\).
 
 **Where**: The core team call is held on Zoom. The exact link can be found in the [calendar event](https://outlook.office365.com/calendar/published/57caf27cdaf24aa3990ca496bd154ded@correlaid.onmicrosoft.com/e9bfdffe05e9417e9ecbb7b9d3168b4215317299690507860520/calendar.html). It should be possible to participate in your browser without downloading the Zoom client on Mac and Windows. On Linux, it might be necessary to download the [Zoom client](https://support.zoom.us/hc/en-us/articles/204206269-Installing-Zoom-on-Linux) which should be available in the package manager of your distribution. If this does not work for you, please feel free to drop us an [email](mailto:frie.p@correlaid.org) so that we can look for an alternative that works smoothly on all operating systems. 
 
