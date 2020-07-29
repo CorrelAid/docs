@@ -128,3 +128,11 @@ In this [CorrelAid Cloud file](https://correlcloud.org/index.php/s/6ApdEk3aiKiKq
 Any questions about the above? Ask [Nina ](mailto:nina.h@correlaid.org), [Frie ](mailto:frie.p@correlaid.org)or [Isabel](mailto:isabel.w@correlaid.org) or get support from the [\#lc-team](https://correlaid.slack.com/archives/C7MR1UREE) channel.
 {% endhint %}
 
+### Field reports from past data dialogues
+
+What does it look like in practice? Here you can find reports of past data dialogues:
+
+* Remote data dialogue 2020 
+* [In person data dialogue 2019 at CityLab Berlin](https://correlaid.org/en/blog/datendialog-europa/)
+* [In person data dialogue 2018 in Berlin](https://correlaid.org/blog/datendialog-berlin/)
+
