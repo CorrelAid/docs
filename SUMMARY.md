@@ -64,6 +64,7 @@
     * [Python](project-manual/project-team/best-practices/python.md)
     * [R](project-manual/project-team/best-practices/r.md)
     * [Collaboration](project-manual/project-team/best-practices/collaboration.md)
+  * [Your responsibilites](project-manual/project-team/your-responsibilites.md)
 * [Data privacy & security](project-manual/data-security-and-privacy.md)
 
 ---
