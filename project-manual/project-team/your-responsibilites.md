@@ -81,11 +81,11 @@ Get feedback from the partner organization: In order to improve our work, we wan
 * [German version](https://www.surveymonkey.de/r/correlaid_projekt_feedback_npo) 
 * [English version](https://de.surveymonkey.com/r/correlaid_project_feedback_npo)
 
-Please forward the appropriate version of the survey to the NPO emphasizing that we would really appreciate a testimonial if they are willing to do so. 
+Please forward the appropriate version of the survey to the NPO emphasizing that we would really appreciate a testimonial if they are willing to do so. Please inform the project coordinator before you forward the survey so that they can add the project ID to the survey.
 
 ### Give us feedback 
 
-Of course, we also want feedback from you so that we can improve our projects in the future.
+Of course, we also want feedback from you so that we can improve our projects in the future. Please inform the project coordinator before you start filling out the survey so that they can add the project ID to the survey.
 
 * [German version ](https://www.surveymonkey.de/r/correlaid_projekt_feedback)
 * English version coming soon. 
