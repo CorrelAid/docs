@@ -9,9 +9,10 @@ Our Webspace is hosted by [Manitu](https://www.manitu.de/). It consists of:
 
 Login pages:
 
-* [https://webmail.manitu.de/](https://webmail.manitu.de/): for your emails.
-* [https://mein.manitu.de/login/](https://mein.manitu.de/login/): for access to web hosting and to the domain management console \(admin-only\).
-* [https://correlaid.org/siteadmin](https://correlaid.org/siteadmin) : for access to email and user management console \(admin-only\).
+* [https://webmail.manitu.de/](https://webmail.manitu.de/): email client provided by Manitu
+* [https://ngcobalt329.manitu.net:81/login/](https://ngcobalt329.manitu.net:81/login/) change password, configure auto-reply and mail filter.
+* [https://mein.manitu.de/login/](https://mein.manitu.de/login/): for access to forward-dns configurations \(admin user only\).
+* [https://ngcobalt329.manitu.net:81/siteadmin/](https://ngcobalt329.manitu.net:81/siteadmin/) : for access to email and user management console \(admin-only\).
 
 {% hint style="info" %}
 Want to help us with administering our website or our email hosting? Ask **Frie \(@Frie\)** on Slack for access.
@@ -40,6 +41,16 @@ There are several types of email addresses at CorrelAid.
 On the other hand, **some email addresses have multiple "targets"**. Those are known as "distribution emails" \(de: Verteiler\). One example is info@correlaid.org: Both Frie and Johannes receive those emails.
 
 ![](../../.gitbook/assets/screenshot-2020-06-09-at-11.52.41.png)
+
+## Manitu Webmail client
+
+Manitu provides a webmail client under [https://webmail.manitu.de](https://webmail.manitu.de) . 
+
+To login, please use the following information:
+
+* Benutzername \(username\): your username \({firstname}-{lastname}}\)
+* Passwort: your passwort
+* Domain: mail.correlaid.org
 
 ## Configuring Email Clients
 
@@ -96,6 +107,12 @@ Please ask @Jan \(Jan Dix\) on [Slack](../faq.md#everything-seems-to-be-on-slack
 ### How can I add my email to Thunderbird, Outlook etc? 
 
 Please see the guide [above](webspace.md#configuring-email-clients). 
+
+### How can I change my password?
+
+Login at [https://ngcobalt329.manitu.net:81/user/](https://ngcobalt329.manitu.net:81/user/). 
+
+
 
 
 
