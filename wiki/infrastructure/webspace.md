@@ -1,4 +1,4 @@
-# Webspace / Email
+# Email
 
 Our Webspace is hosted by [Manitu](https://www.manitu.de/). It consists of:
 
@@ -7,11 +7,21 @@ Our Webspace is hosted by [Manitu](https://www.manitu.de/). It consists of:
 * SQL databases
 * Email hosting
 
-Login pages:
+
+
+## Login pages
+
+### Email and user settings
 
 * [https://webmail.manitu.de/](https://webmail.manitu.de/): email client provided by Manitu
-* [https://ngcobalt329.manitu.net:81/login/](https://ngcobalt329.manitu.net:81/login/) change password, configure auto-reply and mail filter.
+* [https://ngcobalt329.manitu.net:81/login/](https://ngcobalt329.manitu.net:81/login/) change password, configure auto-reply and mail filter. \(if you're an admin you need to go manually to [https://ngcobalt329.manitu.net:81/user/](https://ngcobalt329.manitu.net:81/user/) after logging in\)
+
+### Email, user, general domain administration
+
 * [https://mein.manitu.de/login/](https://mein.manitu.de/login/): for access to forward-dns configurations \(admin user only\).
+
+### Forward DNS administration 
+
 * [https://ngcobalt329.manitu.net:81/siteadmin/](https://ngcobalt329.manitu.net:81/siteadmin/) : for access to email and user management console \(admin-only\).
 
 {% hint style="info" %}
