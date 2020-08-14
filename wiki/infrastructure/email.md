@@ -116,7 +116,7 @@ Please ask @Jan \(Jan Dix\) on [Slack](../faq.md#everything-seems-to-be-on-slack
 
 ### How can I add my email to Thunderbird, Outlook etc? 
 
-Please see the guide [above](webspace.md#configuring-email-clients). 
+Please see the guide [above](email.md#configuring-email-clients). 
 
 ### How can I change my password?
 

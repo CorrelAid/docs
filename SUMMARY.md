@@ -18,7 +18,7 @@
   * [Gitbook for documentation](wiki/infrastructure/gitbook-for-documentation.md)
   * [CorrelAid Calendar](wiki/infrastructure/correlaid-calendar.md)
   * [CorrelCloud](wiki/infrastructure/correlcloud.md)
-  * [Email](wiki/infrastructure/webspace.md)
+  * [Email](wiki/infrastructure/email.md)
   * [Azure](wiki/infrastructure/azure.md)
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
   * [Keybase and Password Management](wiki/infrastructure/keybase-and-password-management.md)
