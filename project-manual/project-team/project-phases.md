@@ -1,6 +1,20 @@
 # Project phases
 
-## 
+## Onboarding
+
+coming soon.
+
+## Kickoff
+
+coming soon.
+
+## Project work
+
+coming soon.
+
+## Handover
+
+coming soon.
 
 ## Follow-up
 
