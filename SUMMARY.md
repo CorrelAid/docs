@@ -50,6 +50,7 @@
 
 * [CorrelAid Data4Good projects](project-manual/data4good-projects.md)
 * [Project coordination](project-manual/project-coordinators/README.md)
+  * [Documentation](project-manual/project-coordinators/documentation.md)
   * [GitHub "projects" Repository](project-manual/project-coordinators/github-projects-repository.md)
   * [Project Acquisition](project-manual/project-coordinators/project-acquisition.md)
   * [Ideation & Finding a team](project-manual/project-coordinators/ideation-finding-a-team.md)
