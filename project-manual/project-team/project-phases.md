@@ -1,4 +1,4 @@
-# Your responsibilites
+# Project phases
 
 ## 
 
@@ -44,15 +44,15 @@ So what do you as a project team need to do?
 
 Describe your project for NPOs:  Often, NPOs do not really have an idea what they could do with their data, and examples really help them to get a first idea. This often leads to new project opportunities for CorrelAid volunteers. With the "**public summary for NPOs**", we want to create content for NPOs who are trying to understand what Data4Good projects look like. Those project summaries will be part of our website.
 
-In order to make writing this summary easier for you, we have created a [template](https://pad.correlaid.org/lTV3NzFNRxGK3wrcSYIk4Q?both) with some questions. Please copy the template to a new pad and write away. If possible, please write the summary in German - we'll translate if necessary. You should also check back with your contact person at the organization to make sure that they agree with your statements. 
+In order to make writing this summary easier for you, we have created a [template](https://pad.correlaid.org/lTV3NzFNRxGK3wrcSYIk4Q?both) with some questions - both German and English versions are included. Please copy the template to a new pad and write away. If possible, please write the summary in German - we'll translate if necessary. You should also check back with your contact person at the organization to make sure that they agree with your statements. 
 
 #### Project slides
 
 One of our goals is to create awareness about the potential of data for the civic society. In order to do so, CorrelAiders often present CorrelAid and our idea at events, conferences or meetups. For those presentations, it is very useful to have concrete use cases from our work. Hence, we have created a small  Powerpoint template you can use. You can find a German and English version it in the [public project infrastructure folder](https://correlcloud.org/index.php/s/N8rXFWpbNJDNiZS) in the subfolder "follow\_up". Choose whatever version is easier to do for you \(we'll translate it if needed\).
 
-1. Copy the template to the folder for your project in the `04_projekte/04_project_presentations` CorrelCloud folder. If you do not have a CorrelCloud account you can request access via a password-protected share link from the project coordinator. 
-2. Edit the presentation. The "hidden" slides contain examples and pointers how to fill out the presentation. You can delete them once you're finished. :\) 
-3. If you include results / screenshots that are not publicly available anyway, please **make sure to get an "ok" from the organization via email**. If you're unsure whether this is needed, talk to your project coordinator. 
+1. Edit the presentation. The "hidden" slides contain examples and pointers how to fill out the presentation. You can delete them once you're finished. :\) 
+2. If you include results / screenshots that are not publicly available anyway, please **make sure to get an "ok" from the organization via email**. If you're unsure whether this is needed, talk to your project coordinator. 
+3. Send the presentation to your project coordinator and/or post it in the Slack channel of your project team.
 
 If anything is unclear, please ask Frie for help.
 
@@ -88,7 +88,7 @@ Please forward the appropriate version of the survey to the NPO emphasizing that
 Of course, we also want feedback from you so that we can improve our projects in the future. Please inform the project coordinator before you start filling out the survey so that they can add the project ID to the survey.
 
 * [German version ](https://www.surveymonkey.de/r/correlaid_projekt_feedback)
-* English version coming soon. 
+* [English version](https://www.surveymonkey.de/r/correlaid_project_feedback)
 
 If you want to give more direct feedback and/or suggest improvements to the structure of our data4good projects, please don't hesistate to contact Frie or Manuel directly. 
 
