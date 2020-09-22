@@ -59,12 +59,11 @@
   * [Handover workshop](project-manual/project-coordinators/handover-workshop.md)
   * [Follow-up](project-manual/project-coordinators/follow-up.md)
 * [For the project team](project-manual/project-team/README.md)
-  * [Being a Data4Good Data Scientist](project-manual/project-team/being-a-data4good-data-scientist.md)
+  * [Being a Data4Good Data Scientist](project-manual/project-team/what-you-do.md)
   * [Best practices](project-manual/project-team/best-practices/README.md)
     * [Python](project-manual/project-team/best-practices/python.md)
     * [R](project-manual/project-team/best-practices/r.md)
     * [Collaboration](project-manual/project-team/best-practices/collaboration.md)
-  * [Project phases](project-manual/project-team/project-phases.md)
 * [Data privacy & security](project-manual/data-security-and-privacy.md)
 
 ---
