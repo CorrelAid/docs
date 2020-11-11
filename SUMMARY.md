@@ -67,6 +67,11 @@
     * [Collaboration](project-manual/project-team/best-practices/collaboration.md)
 * [Data privacy & security](project-manual/data-security-and-privacy.md)
 
+## Materials from events
+
+* [CorrelCon](materials-from-events/correlcon.md)
+* [Open Online Data Meetup](materials-from-events/open-online-data-meetup.md)
+
 ---
 
 * [CorrelAid Website](https://correlaid.org/en)
