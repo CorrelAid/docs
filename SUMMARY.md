@@ -74,7 +74,7 @@
   * [2019 - Berlin](resources/correlcon/2019.md)
   * [2020 - Remote](resources/correlcon/2020.md)
 * [Open Online Data Meetup](resources/open-online-data-meetup.md)
-* [Other Workshops](resources/other-workshops.md)
+* [Other Workshops / Events](resources/other-workshops.md)
 
 ---
 

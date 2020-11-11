@@ -2,13 +2,20 @@
 description: Material from other events / workshops that CorrelAid members have organized.
 ---
 
-# Other Workshops
+# Other Workshops / Events
 
 {% hint style="danger" %}
 **Material is potentially outdated!**
 
 Things develop quickly, so material from 2-3 years ago might \(partially\) outdated. 
 {% endhint %}
+
+## TidyTuesday
+
+We hold regular TidyTuesday coding hangouts every 2nd and 4th Tuesday of the month.
+
+* [Repository](https://github.com/CorrelAid/correlaid-tidytuesday) 
+* [Website](https://tidytuesday.correlaid.org) 
 
 ## R Workshops
 
