@@ -67,10 +67,14 @@
     * [Collaboration](project-manual/project-team/best-practices/collaboration.md)
 * [Data privacy & security](project-manual/data-security-and-privacy.md)
 
-## Materials from events
+## Resources
 
-* [CorrelCon](materials-from-events/correlcon.md)
-* [Open Online Data Meetup](materials-from-events/open-online-data-meetup.md)
+* [CorrelCon](resources/correlcon/README.md)
+  * [2018 - Mannheim](resources/correlcon/2018.md)
+  * [2019 - Berlin](resources/correlcon/2019.md)
+  * [2020 - Remote](resources/correlcon/2020.md)
+* [Open Online Data Meetup](resources/open-online-data-meetup.md)
+* [Other Workshops](resources/other-workshops.md)
 
 ---
 
