@@ -2,21 +2,21 @@
 
 Hi! Welcome to the CorrelAid docs. Here, we have collected information about how we work internally. All the content is continuously evolving and changing as we grow as an organization. We hope to document the status quo here but sometimes things might change.
 
-There are three main sections:
+There are four main sections:
 
-### Wiki
+## Wiki
 
 How does CorrelAid _internally_ work? Who do I need to talk to if I need xyz?
 
 {% page-ref page="wiki/hitchhikers-guide.md" %}
 
-### CorrelAidX Manual
+## CorrelAidX Manual
 
 All about how local chapters work, how you can start your own, what you can do in a local chapter, different possible formats etc.  
 
 {% page-ref page="correlaidx-manual/what-is-correlaidx.md" %}
 
-### Project Manual 
+## Project Manual 
 
 A manual for coordinators and leads of CorrelAid projects. But might be interesting to everyone else as well! This is still a work-in-progress.
 
