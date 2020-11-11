@@ -22,7 +22,13 @@ A manual for coordinators and leads of CorrelAid projects. But might be interest
 
 {% page-ref page="project-manual/data4good-projects.md" %}
 
+## Resources
 
+Here, we share resources from CorrelAid events and workshops such as:
+
+* slides from the annual CorrelCon \(formerly known as "the meetup"\)
+* slides and material from the Open Online Data Meetup series
+* other useful links and resources
 
 If you cannot find the answer to your problem, do not hesitate to contact [frie.p@correlaid.org](mailto:frie.p@correlaid.org) or ask your question in \#help on Slack.
 
