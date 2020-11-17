@@ -6,13 +6,25 @@ description: >-
 
 # Toolbox
 
+{% hint style="info" %}
+I \(Frie\) know that there are pain points especially with regards to project acquisition \(what NPOs are out there? What do I tell them to get them excited on ?\).  I am working on both finding a technical solution \(GDPR compliant, ...\) and developing standardized material that you can use to reach out. 
+{% endhint %}
+
 ## Tools
 
-* List of NPOs on our [CorrelCloud](../wiki/infrastructure/correlcloud.md) \(request access from Eva J.\)
-* [Kanban Board with all Projects](https://github.com/CorrelAid/projects/projects/1) on GitHub \(private, request access from Frie\)
-* [Public "database" ](https://github.com/CorrelAid/projectsdb)of \(soon-to-be\) finished projects on GitHub and accompanying [{projectutils}](https://github.com/CorrelAid/projectutils) R package
+### General project coordination
+
+* [Kanban Board with all Projects](https://github.com/CorrelAid/projects/projects/1) on GitHub \(private, request access from Frie\) --&gt; if you could use this, it would be very helpful so that we have an overview! :\) 
+* [Public "database" ](https://github.com/CorrelAid/projectsdb)of \(soon-to-be\) finished projects on GitHub and accompanying [{projectutils}](https://github.com/CorrelAid/projectutils) R package --&gt; those are displayed on our [website](https://correlaid.org/projects)
 
 {% page-ref page="project-coordinators/github-projects-repository.md" %}
+
+### Project acquisition
+
+* Surveymonkey contact form for NPOs --&gt; You can send this to NPOs if you feel like they'd benefit from a structured way to think about their problem
+  * [English](https://www.surveymonkey.de/r/correlaid_submit_project)
+  * [German](https://www.surveymonkey.de/r/correlaid_projekt_einreichen)
+* List of NPOs on our [CorrelCloud](../wiki/infrastructure/correlcloud.md) \(request access from Eva J.\)
 
 ## Templates
 
@@ -31,10 +43,6 @@ description: >-
 {% page-ref page="project-coordinators/follow-up.md" %}
 
 
-
-## Tools
-
-### Database
 
 
 
