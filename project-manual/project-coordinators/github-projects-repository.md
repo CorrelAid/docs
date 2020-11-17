@@ -30,13 +30,11 @@ _Description of screenshot: Screnshot of a_ [_GitHub issue_](https://github.com/
 
 ### Creating a GitHub issue
 
-To create a project, you need to create a GitHub issue. To do that, go to [https://github.com/CorrrelAid/issues](https://github.com/CorrrelAid/issues) and click on "New issue". You'll be prompted to use the issue template which will give you a template with some questions about the organisation to structure your description. But feel free to ignore it!
+To create a project, you need to create a GitHub issue. To do that, go to [https://github.com/CorrrelAid/issues](https://github.com/CorrrelAid/issues) and click on "New issue". You'll be prompted to use the issue template which will give you a template with some questions about the organisation to structure your description and an extensive checklist based on the checklists in this manual. But feel free to ignore it!
 
-Here you can see an example project / GitHub issue:![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lvg_oIb4oZtCuInS01x%2F-M-n9xpOATWlnhB2HpKi%2F-M-nALu56UKacolS0Jo1%2FScreenshot%202020-02-11%20at%2008.36.08.png?alt=media&token=d1ac1c33-1f23-4922-baa8-057bae14426f)
+![](../../.gitbook/assets/screenshot-2020-11-17-at-11.53.26.png)
 
-![Alt text below](../../.gitbook/assets/screenshot-2020-02-11-at-08.36.08.png)
-
-_Description of screenshot: Screnshot of a test GitHub issue from the CorrelAid/projects repository. It is called "TestOrg", and its description contains made-up information on the fictional "TestOrg e.V.". The issue uses the_ [_issue template_](https://github.com/CorrelAid/projects/blob/master/.github/ISSUE_TEMPLATE/project-template.md)_, so information is structured around those questionns. Right next to the description are the metadata: assignee, labels and the assigned project._
+_Description of screenshot: Screnshot of a test GitHub issue from the CorrelAid/projects repository. It is called "TestOrg", and its description contains made-up information on the fictional "Test Org". The issue uses the_ [_issue template_](https://github.com/CorrelAid/projects/blob/master/.github/ISSUE_TEMPLATE/project-template.md)_, so information is structured around those questions and the issue contains an extensive checklist. Right next to the description are the metadata: assignee, labels and the assigned project._
 
 It is not necessary to have complete information at the beginning. Just fill in what you know _now_, and if it's only the name of the organisation. You can always come back and edit the description later by clicking on the three dots in the top right of the description or adding more labels later on.
 
@@ -46,10 +44,6 @@ What you should try to at least do:
 * add the year label: this is just an easy catch and gives you a nice colorful label. 🎉 
 * add minimal description if possible: try to at least add the name of the organization and the contact person. If you really don't know _anything_ specific yet, leave the template empty and post the information you have as a comment after creating the issue \(e.g. an email you received from a third party\).
 * assign the issue to the "Projects" project and put it into the right phase: This is important because otherwise, the issue will not appear in our [projects board](https://github.com/CorrelAid/projects/projects/1). After you have assigned the project, the text "awaiting triage" with a little dropdown should appear. Click on the dropdown and select the appropriate phase. If the dropdown does not appear, you might need to refresh the page.
-
-This video walks through creating a project as a GitHub issue:
-
-{% embed url="https://www.youtube.com/watch?v=LRxjG3NRbbk" %}
 
 ### Adding / editing labels
 
