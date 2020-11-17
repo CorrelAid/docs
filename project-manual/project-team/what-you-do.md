@@ -38,6 +38,7 @@ the most important links from this section in one handy little box:
 
 {% hint style="success" %}
 * [ ] public project summary for NPOs
+* [ ] added to website / [projectsdb](https://github.com/CorrelAid/projectsdb)
 * [ ] summary slides 
 * [ ] fill in feedback survey for project team
 * [ ] email to NPO including \(please coordinate with the project coordinator\)
