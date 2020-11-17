@@ -49,6 +49,7 @@
 ## Project manual
 
 * [CorrelAid Data4Good projects](project-manual/data4good-projects.md)
+* [Toolbox](project-manual/toolbox.md)
 * [Project coordination](project-manual/project-coordinators/README.md)
   * [Project Acquisition](project-manual/project-coordinators/project-acquisition.md)
   * [Ideation & Finding a team](project-manual/project-coordinators/ideation-finding-a-team.md)
