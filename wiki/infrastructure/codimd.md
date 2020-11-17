@@ -72,7 +72,11 @@ Join the \#codimd-users channel on [Slack](../communication/slack.md#i-want-to-g
 
 ### Logging in for the first time
 
-Upon first logging in, you'll be prompted to change your initial passowrd. Please do so! You can also later change it \(see below\). You'll also be prompted to set up _2-Factor-Authentication_. We recommend to use the Microsoft Authenticator App \(available for Android and iOS\). If this is not an option for you for whatever reason \(no access to smarpthone, not enough storage on smartphone, app not available for your phone, ...\), please contact Frie \(@frie\) and we can figure something out! :\) 
+{% hint style="warning" %}
+You have to log in using the "Log in using OAuth2" option. Don't try to use the "email/password" option - it won't work. 
+{% endhint %}
+
+Upon first logging in, you'll be prompted to change your initial password. Please do so! You can also later change it \(see below\). You'll also be prompted to set up _2-Factor-Authentication_. We recommend to use the Microsoft Authenticator App \(available for Android and iOS\). If this is not an option for you for whatever reason \(no access to smarpthone, not enough storage on smartphone, app not available for your phone, ...\), please contact Frie \(@frie\) and we can figure something out! :\) 
 
 ### Changing your password later
 
@@ -84,4 +88,28 @@ If you need to change your password later on, log into your account on [login.mi
 * better access control: with the self-hosted version, we have complete control who we allow on our instance. In contrast, everyone could register for HackMD and read our pads when in possession of the link. For 97% of pads, this is not a problem - we love transparency. But for the remaining 3%, this could be a problem.
 
 You can read more about the process and reasoning behind this change in [this internal blogpost.](https://pad.correlaid.org/_xR1EKkyRO26XyqLOTpNvA#) 
+
+
+
+## Troubleshooting
+
+### My email / password does not work all of the sudden? / I can't log in
+
+#### Reason 1: You have used the wrong log in procedure
+
+Most likely: Have you accidentally tried to log in using the email / password box instead of the red "log in using OAuth2"? 
+
+You always need to use the OAuth2 login option. The email / password box was added in ~October 2020 for a "machine user" that automatically backups all pads nightly to a secure location. All other users except this one user are Azure Active Directory users and hence need to log in using OAuth2. If you want to know more about why this is the case, you can read about it in this [internal blog post](https://pad.correlaid.org/_xR1EKkyRO26XyqLOTpNvA#).
+
+#### Reason 2: You are logged into another Microsoft account
+
+If you are logged into a different Microsoft account \(e.g. from university / work\), it could cause problems with CodiMD. We know it's annoying but please log out of the other Microsoft account and try logging in using the OAuth2 option with your @correlaid.onmicrosoft.com acccount.
+
+#### Reason 3: You have forgotten your password
+
+If you are sure that you are a\) using the correct login procedure \(OAuth2 instead of email / password\) and b\) that you are not logged into another account, then please reach out to Frie and request a password reset. 
+
+
+
+
 
