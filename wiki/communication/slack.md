@@ -19,7 +19,7 @@ It's really easy to lose track of things in Slack and the core team cannot read 
 ### I want to get access to Slack. How do I get it?
 
 {% hint style="info" %}
-If you want to become part of our Slack, drop an email to [Frie](mailto:frie.p@correlaid.org) or [Regina](mailto:regina.s@correlaid.org). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack. 
+If you want to become part of our Slack, drop an email to [Isabel](mailto:isabel.w@correlaid.org). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack. 
 {% endhint %}
 
 ### I dont really get this Slack thing? Who can help me?
