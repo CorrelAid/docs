@@ -25,6 +25,6 @@ If you want to become part of our Slack, drop an email to [Isabel](mailto:isabel
 ### I dont really get this Slack thing? Who can help me?
 
 {% hint style="info" %}
-Don't really get Slack yet? It's all weird and clunky? Write a direct message to Frie \(@frie\), she'll help you!
+Don't really get Slack yet? It's all weird and clunky? Write a direct message to Isabel \(@Isabel\), she'll help you!
 {% endhint %}
 
