@@ -21,7 +21,7 @@
 {% hint style="info" %}
 The most important links from this section in one handy little box:
 
-* [CorrelCloud folder](https://correlcloud.org/index.php/s/N8rXFWpbNJDNiZS) with 
+* [CorrelCloud folder](https://correlcloud.org/index.php/s/sSR37LwSB8HxaDq) with 
   * confirmation of participation template
   * data security declaration template
   * example project folder with an example veracrypt container

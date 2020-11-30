@@ -33,13 +33,15 @@ I \(Frie\) know that there are pain points especially with regards to project ac
 
 * [Template for Ideation Phase](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#) \(Questions that help guide talks with NPOs\)
 * [Template for Project Call for Applications](https://pad.correlaid.org/rLUIX_MdS_urNKF4WkcaQQ) \(Template for email to look for volunteers\)
+* [Declaration about data security \(Datenschutzverpflichtungserklärung\)](https://correlcloud.org/index.php/s/sSR37LwSB8HxaDq?path=%2Ftemplate_data_privacy)
 
 {% page-ref page="project-coordinators/ideation-finding-a-team.md" %}
 
 ### Project follow up
 
 * [Template for Public Project Summary](https://pad.correlaid.org/lTV3NzFNRxGK3wrcSYIk4Q#) \(for the website\)
-* [Template for final project presentation](https://correlcloud.org/index.php/s/oLsFrHz2xAQxAnT)
+* [Template for final project presentation](https://correlcloud.org/index.php/s/sSR37LwSB8HxaDq?path=%2Ffollow_up)
+* [Template Confirmation of Attendance](https://correlcloud.org/index.php/s/sSR37LwSB8HxaDq?path=%2Ftemplate_confirmation_attendance) \(optional\)
 
 {% page-ref page="project-coordinators/follow-up.md" %}
 
