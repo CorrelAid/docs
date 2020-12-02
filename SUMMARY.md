@@ -74,7 +74,7 @@
   * [2018 - Mannheim](correlcollection/correlcon/2018.md)
   * [2019 - Berlin](correlcollection/correlcon/2019.md)
   * [2020 - Remote](correlcollection/correlcon/2020.md)
-* [Open Online Data Meetup](correlcollection/open-online-data-meetup.md)
+* [Open Online Data Meetup](correlcollection/oodm.md)
 * [Other Workshops / Events](correlcollection/other-workshops.md)
 
 ---
