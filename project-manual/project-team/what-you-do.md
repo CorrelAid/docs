@@ -1,4 +1,4 @@
-# Being a Data4Good Data Scientist
+# Your responsibilities
 
 On this page, you'll find some general information about what participating in a CorrelAid Datat4Good Project means and what your concrete tasks are throughout the project. Always coordinate with the other project team members and remember: your project team lead and project coordinator are there to help and support you!
 

@@ -12,7 +12,32 @@ Here are some packages that will make it easier to maintain clean code and ensur
 
 * style code with [styler](https://github.com/r-lib/styler)
 * implement code linting with [lintr](https://github.com/jimhester/lintr) 
+* use the [here](https://github.com/r-lib/here) package to read / write files
 * use [renv](https://github.com/rstudio/renv) to manage packages and keep a consistent environment for all project team participants
+
+## Organize your files and code
+
+There is no standard CorrelAid way to structure R projects yet. We have collected some blog posts and resources here which can give you some good ideas.
+
+#### Folder and file organization
+
+* [Structuring R projects](https://chrisvoncsefalvay.com/2018/08/09/structuring-r-projects/)
+* [R Workflow chapter](https://r4ds.had.co.nz/workflow-projects.html) in R4DS
+
+#### File naming and good code practices
+
+* [Project-oriented workflow](https://tidyverse.org/blog/2017/12/workflow-vs-script%20): why not to use `setwd` and `rm(list = ls()` and what to do instead! 
+* [How to name files](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf): entertaining slide deck on how to name your files
+* 
+#### Naming objects
+
+Different options exist to name your objects. The typical convention in R is to use snakecase \(e.g. `my_obj`\) except in Shiny where camelCase is more common. In either way, the important thing is consistency! So decide in your team what style you want to use and then stick with it!
+
+
+
+![Artwork by @allison\_horst](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/other-stats-artwork/coding_cases.png)
+
+
 
 ## **Reports - RMarkdown**
 
