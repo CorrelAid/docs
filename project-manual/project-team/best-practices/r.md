@@ -28,7 +28,7 @@ There is no standard CorrelAid way to structure R projects yet. We have collecte
 
 * [Project-oriented workflow](https://tidyverse.org/blog/2017/12/workflow-vs-script%20): why not to use `setwd` and `rm(list = ls()` and what to do instead! 
 * [How to name files](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf): entertaining slide deck on how to name your files
-* 
+
 #### Naming objects
 
 Different options exist to name your objects. The typical convention in R is to use snakecase \(e.g. `my_obj`\) except in Shiny where camelCase is more common. In either way, the important thing is consistency! So decide in your team what style you want to use and then stick with it!
