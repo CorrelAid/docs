@@ -70,3 +70,25 @@ The Open Online Data Meetup \(OODM\) is an online-based meetup series which prov
 * Speaker: Henry Webel
 * [Google Colab](https://colab.research.google.com/github/pythontsunami/teaching/blob/matplotlib/matplotlib.ipynb)
 
+## OODM6: "Mobility Data"
+
+### Equality in mobility solutions for a world in which data are far from equal
+
+* Speaker: Mark Padgham
+
+{% file src="../.gitbook/assets/2020-12-01\_oodm6\_equality\_mobility\_solutions.html" caption="Slides" %}
+
+### Measurig Air Quality and Counting Vehicles in a German city
+
+* Speaker: Pia Baronetzky
+
+{% file src="../.gitbook/assets/2020-12-01\_oodm6\_vortraghawadawa.pdf" caption="Slides" %}
+
+### 
+
+### Using Mobility Data to Simulate the Impact and Opportunities of Electric Vehicles in the Smart Grid
+
+* Speaker: Marcus Voß
+
+{% file src="../.gitbook/assets/20201201\_oodm6\_mobility\_and\_smartgrid.pdf" caption="Slides" %}
+
