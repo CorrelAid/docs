@@ -26,6 +26,7 @@ I \(Frie\) know that there are pain points especially with regards to project ac
   * [German](https://www.surveymonkey.de/r/correlaid_projekt_einreichen)
 * List of NPOs on our [CorrelCloud](../wiki/infrastructure/correlcloud.md) \(request access from Eva J.\)
 * Public folder with [Flyers and Presentations](https://correlcloud.org/index.php/s/mM5rfCcrQp8ZSfX)
+* Sales Workshop with Andrew: [Presentation](https://docs.google.com/presentation/d/1ITtSixD4M-DWy4quY0aTxGrodkIYKAlMmjMH6h9G5Nw/edit#slide=id.ga3072d8e61_1_92) and [Recording](https://youtu.be/7fq9TNuCejQ)
 
 ## Templates
 

@@ -72,6 +72,10 @@ The Open Online Data Meetup \(OODM\) is an online-based meetup series which prov
 
 ## OODM6: "Mobility Data"
 
+{% embed url="https://www.youtube.com/watch?v=lcbPkACP2Yw" %}
+
+
+
 ### Equality in mobility solutions for a world in which data are far from equal
 
 * Speaker: Mark Padgham
@@ -83,8 +87,6 @@ The Open Online Data Meetup \(OODM\) is an online-based meetup series which prov
 * Speaker: Pia Baronetzky
 
 {% file src="../.gitbook/assets/2020-12-01\_oodm6\_vortraghawadawa.pdf" caption="Slides" %}
-
-### 
 
 ### Using Mobility Data to Simulate the Impact and Opportunities of Electric Vehicles in the Smart Grid
 
