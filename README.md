@@ -3,8 +3,6 @@
 
 Hi! Welcome to the CorrelAid docs. Here, we have collected information about how we work internally. All the content is continuously evolving and changing as we grow as an organization. We hope to document the status quo here but sometimes things might change.
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
