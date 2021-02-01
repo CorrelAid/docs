@@ -25,7 +25,7 @@ I \(Frie\) know that there are pain points especially with regards to project ac
   * [English](https://www.surveymonkey.de/r/correlaid_submit_project)
   * [German](https://www.surveymonkey.de/r/correlaid_projekt_einreichen)
 * List of NPOs on our [CorrelCloud](../wiki/infrastructure/correlcloud.md) \(request access from Eva J.\)
-* Public folder with [Flyers and Presentations](https://correlcloud.org/index.php/s/mM5rfCcrQp8ZSfX)
+* Public folder with [Flyers and Presentations](https://correlcloud.org/index.php/s/kdQarxfDHeS8pFs)
 * Sales Workshop with Andrew: [Presentation](https://docs.google.com/presentation/d/1ITtSixD4M-DWy4quY0aTxGrodkIYKAlMmjMH6h9G5Nw/edit#slide=id.ga3072d8e61_1_92) and [Recording](https://youtu.be/7fq9TNuCejQ)
 
 ## Templates
@@ -34,15 +34,15 @@ I \(Frie\) know that there are pain points especially with regards to project ac
 
 * [Template for Ideation Phase](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#) \(Questions that help guide talks with NPOs\)
 * [Template for Project Call for Applications](https://pad.correlaid.org/rLUIX_MdS_urNKF4WkcaQQ) \(Template for email to look for volunteers\)
-* [Declaration about data security \(Datenschutzverpflichtungserklärung\)](https://correlcloud.org/index.php/s/sSR37LwSB8HxaDq?path=%2Ftemplate_data_privacy)
+* [Declaration about data security \(Datenschutzverpflichtungserklärung\) Template](https://correlcloud.org/index.php/s/76FXfj5BRQ5tFn6?path=%2Ftemplate_data_privacy)
 
 {% page-ref page="project-coordinators/ideation-finding-a-team.md" %}
 
 ### Project follow up
 
 * [Template for Public Project Summary](https://pad.correlaid.org/lTV3NzFNRxGK3wrcSYIk4Q#) \(for the website\)
-* [Template for final project presentation](https://correlcloud.org/index.php/s/sSR37LwSB8HxaDq?path=%2Ffollow_up)
-* [Template Confirmation of Attendance](https://correlcloud.org/index.php/s/sSR37LwSB8HxaDq?path=%2Ftemplate_confirmation_attendance) \(optional\)
+* [Template for final project presentation](https://correlcloud.org/index.php/s/76FXfj5BRQ5tFn6?path=%2Ffollow_up)
+* [Template Confirmation of Attendance](https://correlcloud.org/index.php/s/76FXfj5BRQ5tFn6?path=%2Ftemplate_confirmation_attendance) \(optional\)
 
 {% page-ref page="project-coordinators/follow-up.md" %}
 
