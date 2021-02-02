@@ -43,7 +43,7 @@ Your **username** has the following pattern: {firstname}-{lastname}, e.g. frie-p
 There are several types of email addresses at CorrelAid. 
 
 * personal email addresses: {firstname}.{first\_letter\_of\_last\_name}@correlaid.org 
-* CorrelAidX chapter addresses: {city}@correlaid.org, e.g. berlin@correlaid.org or rheinmain@correlaid.org 
+* CorrelAidX chapter addresses: {city}@correlaid.org, e.g. berlin@correlaid.org or rhein-main@correlaid.org 
 * other email addresses: {topic}@correlaid.org, e.g. education@correlaid.org. 
 
 **Each user / inbox can be the "target" of one or more email addresses**. For example, the user / inbox frie-preu will get all emails that are sent to: frie.p@correlaid.org,  info@correlaid.org and education@correlaid.org. Other people are only the target of one address, e.g. our data security person is only the "target" of datenschutz@correlaid.org. He does not have a personal email address. 
