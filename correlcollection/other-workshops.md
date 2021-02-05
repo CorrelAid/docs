@@ -36,3 +36,9 @@ We hold regular TidyTuesday coding hangouts every 2nd and 4th Tuesday of the mon
 * Date: July 2017
 * [Repository](https://github.com/CorrelAid/workshop-unikonstanz)
 
+### What is R?
+
+* LC Konstanz \(coordinator: Philipp Bosch\)
+* Date: January 2021
+* [Repository](https://github.com/flixi67/CorrelAidXKonstanz-Education)
+
