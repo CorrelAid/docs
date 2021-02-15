@@ -6,7 +6,7 @@ In addition to the "global" calender, some local chapters maintain their own cal
 
 * "global" CorrelAid calendar
   * [web view](https://correlcloud.org/index.php/apps/calendar/p/w4ak9WY4T6Ln452r/dayGridMonth/now)
-  * [webcal link](webcals://correlcloud.org/remote.php/dav/public-calendars/w4ak9WY4T6Ln452r/?export)
+  * [webcal link](webcal://correlcloud.org/remote.php/dav/public-calendars/w4ak9WY4T6Ln452r/?export)
 
 
 
