@@ -7,6 +7,9 @@ In addition to the "global" calender, some local chapters maintain their own cal
 * "global" CorrelAid calendar
   * [web view](https://correlcloud.org/index.php/apps/calendar/p/w4ak9WY4T6Ln452r/dayGridMonth/now)
   * [webcal link](webcal://correlcloud.org/remote.php/dav/public-calendars/w4ak9WY4T6Ln452r/?export)
+* CorrelAidX calender\(s\)
+  * we happily set-up calendars for CorrelAidX chapters
+  * links for read access and how to get edit access can be found in the [CorrelAidX cross chapter documentation](https://correlaid.gitbook.io/correlaidx-cross-chapter-documentation/)
 
 
 
