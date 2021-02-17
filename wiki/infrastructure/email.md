@@ -52,6 +52,19 @@ On the other hand, **some email addresses have multiple "targets"**. Those are k
 
 ![](../../.gitbook/assets/screenshot-2020-06-09-at-11.52.41.png)
 
+**Special case for users with access to CorrelAidX Chapter addresses:** If you logged in to Manitu for the first time with your {firstname}-{lastname} **username**, Manitu will assume that you want to send emails from this domain. This won't work, because there is no email associated with your username. The email will send, but people won't be able to reply to you. 
+
+![This won&apos;t work!](../../.gitbook/assets/image%20%286%29.png)
+
+Instead, you need to click on the pencil and create a new identity associated with the local chapter address from which your emails will be sent: 
+
+![](../../.gitbook/assets/image%20%281%29.png)
+
+If you go back to emails, you can now send emails from your chapter address.  
+
+
+![This will work.](../../.gitbook/assets/image%20%283%29.png)
+
 ## Manitu Webmail client
 
 Manitu provides a webmail client under [https://webmail.manitu.de](https://webmail.manitu.de) . 
