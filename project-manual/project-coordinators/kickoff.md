@@ -106,7 +106,7 @@ Inform the team as early as possible about the workshop details, i.e. the venue 
 
 The planning of the weekend should closely mirror the goals formulated above. In the following, we provide a suggestion for the course of the workshop, including templates and helpful methods. Of course the schedule can and should be adapted to the local conditions and the needs of the involved parties! It is important that the project coordinator keeps in mind that besides the content, socializing is an important part of the weekend. Observe group processes and give them space! In the end, this strengthens the project team's cohesion and motivation and thus facilitates the cooperation later on. Creates spaces for informal exchange and being together.
 
-**Representatives of the partner organization** should participate during the workshop, at least on Friday evening and Saturday afternoon. They are responsible for explaining the objectives and the background of the project to the project team, explaining the values and impacts of the organisation. On Saturday, the developed project schedule should be adjusted together with them to the desired impact for the for the partner organization.
+**Representatives of the partner organization** should participate during the workshop, at least on Friday evening and Saturday afternoon. They are responsible for explaining the objectives and the background of the project to the project team, explaining the values and impacts of the organisation. On Saturday, the developed project schedule should be adjusted together with them to the desired impact for the partner organization.
 
 ### Suggested timeline
 
