@@ -27,7 +27,7 @@ coming soon.
 {% hint style="info" %}
 the most important links from this section in one handy little box:
 
-* [public CorrelCloud folder with templates](https://correlcloud.org/index.php/s/N8rXFWpbNJDNiZS)
+* [public CorrelCloud folder with templates](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=%2Ffollow_up)
 * [public project summary for NPO template](https://pad.correlaid.org/lTV3NzFNRxGK3wrcSYIk4Q?both#)
 * Feedback survey for NPO
   * [German version](https://www.surveymonkey.de/r/correlaid_projekt_feedback_npo)
@@ -69,7 +69,7 @@ In order to make writing this summary easier for you, we have created a [templat
 
 #### Project slides
 
-One of our goals is to create awareness about the potential of data for the civic society. In order to do so, CorrelAiders often present CorrelAid and our idea at events, conferences or meetups. For those presentations, it is very useful to have concrete use cases from our work. Hence, we have created a small Powerpoint template you can use. You can find a German and English version it in the [public project infrastructure folder](https://correlcloud.org/index.php/s/N8rXFWpbNJDNiZS) in the subfolder "follow\_up". Choose whatever version is easier to do for you \(we'll translate it if needed\).
+One of our goals is to create awareness about the potential of data for the civic society. In order to do so, CorrelAiders often present CorrelAid and our idea at events, conferences or meetups. For those presentations, it is very useful to have concrete use cases from our work. Hence, we have created a small Powerpoint template you can use. You can find a German and English version [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=%2Ffollow_up) . Choose whatever version is easier to do for you \(we'll translate it if needed\).
 
 1. Edit the presentation. The "hidden" slides contain examples and pointers how to fill out the presentation. You can delete them once you're finished. :\) 
 2. If you include results / screenshots that are not publicly available anyway, please **make sure to get an "ok" from the organization via email**. If you're unsure whether this is needed, talk to your project coordinator. 

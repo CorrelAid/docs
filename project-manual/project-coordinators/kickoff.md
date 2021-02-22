@@ -135,8 +135,7 @@ A functioning team must know each other. This requires time right from the start
 Introduce yourself, explain the agenda for the weekend, ask about expectations and fears, clarify common rules and what needs to be taken into account. But: don't crowd the Friday either. Especially getting to know new people takes time. Ice-breaker games can be helpful here.
 
 #### Introduction to CorrelAid
-
-Short presentation of CorrelAid by the project coordinator. If you do not have a presentation about CorrelAid at hand, you can the [slide master](https://correlcloud.org/index.php/s/cFfaGeLJFcACWir) which includes a collection of useful introductory slides. It is important that the team knows the mission, objectives and values of CorrelAid and understands that they are part of the network, that they are CorrelAid. 
+Short presentation of CorrelAid by the project coordinator. If you do not have a presentation about CorrelAid at hand, you can the [slide master](https://correlcloud.org/index.php/s/kdQarxfDHeS8pFs) which includes a collection of useful introductory slides. It is important that the team knows the mission, objectives and values of CorrelAid and understands that they are part of the network, that they are CorrelAid. 
 
 #### Introducing the partner organisation and the specific project
 

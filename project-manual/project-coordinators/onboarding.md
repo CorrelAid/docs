@@ -21,7 +21,7 @@
 {% hint style="info" %}
 The most important links from this section in one handy little box:
 
-* [CorrelCloud folder](https://correlcloud.org/index.php/s/sSR37LwSB8HxaDq) with 
+* [CorrelCloud folder](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi) with 
   * confirmation of participation template
   * data security declaration template
   * example project folder with an example veracrypt container
@@ -123,7 +123,7 @@ If encryption is necessary for your project, share [this documentation page](../
 
 If the project has **any** data privacy requirements, the participants and the organization need to sign the [**declaration on data security**](../data-security-and-privacy.md#declaration-on-data-security). 
 
-You can download German and English templates [here](https://correlcloud.org/index.php/s/N8rXFWpbNJDNiZS). They contain the requirements for the highest security setup \(including the requirement to create a separate user account\), so please make sure to adapt them to your specific project by removing passages not needed for your project. If you're unsure, ask your project coordinator or our data privacy expert Thomas \(@Thomas on Slack\). 
+You can download German and English templates [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=/template_data_privacy). They contain the requirements for the highest security setup \(including the requirement to create a separate user account\), so please make sure to adapt them to your specific project by removing passages not needed for your project. If you're unsure, ask your project coordinator or our data privacy expert Thomas \(@Thomas on Slack\). 
 
 ## Set up and share the VeraCrypt Container
 
