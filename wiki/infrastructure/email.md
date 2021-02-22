@@ -43,7 +43,7 @@ Your **username** has the following pattern: {firstname}-{lastname}, e.g. frie-p
 There are several types of email addresses at CorrelAid. 
 
 * personal email addresses: {firstname}.{first\_letter\_of\_last\_name}@correlaid.org 
-* CorrelAidX chapter addresses: {city}@correlaid.org, e.g. berlin@correlaid.org or rheinmain@correlaid.org 
+* CorrelAidX chapter addresses: {city}@correlaid.org, e.g. berlin@correlaid.org or rhein-main@correlaid.org 
 * other email addresses: {topic}@correlaid.org, e.g. education@correlaid.org. 
 
 **Each user / inbox can be the "target" of one or more email addresses**. For example, the user / inbox frie-preu will get all emails that are sent to: frie.p@correlaid.org,  info@correlaid.org and education@correlaid.org. Other people are only the target of one address, e.g. our data security person is only the "target" of datenschutz@correlaid.org. He does not have a personal email address. 
@@ -51,6 +51,19 @@ There are several types of email addresses at CorrelAid.
 On the other hand, **some email addresses have multiple "targets"**. Those are known as "distribution emails" \(de: Verteiler\). One example is info@correlaid.org: Both Frie and Johannes receive those emails.
 
 ![](../../.gitbook/assets/screenshot-2020-06-09-at-11.52.41.png)
+
+**Special case for users with access to CorrelAidX Chapter addresses:** If you logged in to Manitu for the first time with your {firstname}-{lastname} **username**, Manitu will assume that you want to send emails from this domain. This won't work, because there is no email associated with your username. The email will send, but people won't be able to reply to you. 
+
+![This won&apos;t work!](../../.gitbook/assets/image%20%286%29.png)
+
+Instead, you need to click on the pencil and create a new identity associated with the local chapter address from which your emails will be sent: 
+
+![](../../.gitbook/assets/image%20%281%29.png)
+
+If you go back to emails, you can now send emails from your chapter address.  
+
+
+![This will work.](../../.gitbook/assets/image%20%283%29.png)
 
 ## Manitu Webmail client
 
