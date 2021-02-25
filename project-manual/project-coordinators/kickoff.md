@@ -42,7 +42,7 @@ The goals of the kickoff are:
 * The project team knows its own strengths and weaknesses and has developed a preliminary distribution of tasks.
 * The project team had fun during the kickoff
 
-The project coordinator is responsible for preparing the kickoff together with the project lead. The project coordinator and project lead agree early on who has what responsibilities in the preparation and implementation of the workshop. Whenever this chapter talks about activities that the project coordinator or project lead is responsible for, these are merely suggestions. 
+The project coordinator is responsible for preparing the kickoff together with the project lead. The project coordinator and project lead agree early on who has what responsibilities in the preparation and implementation of the workshop. Whenever this chapter talks about activities that the project coordinator or project lead is responsible for, these are merely suggestions.
 
 ## Preparation
 
@@ -58,7 +58,7 @@ Whenever possible, determine date and location for the kickoff as early as possi
 In times of COVID-19, CorrelAid has switchted the kickoff workshop to an online event format. Once it is reasonable to meet again in-person, kickoffs should resume the weekend format \(unless the NPO does not operate in Germany and travel costs would be inhibitive\).
 {% endhint %}
 
-CorrelAid can provide you with access to a Zoom pro meeting room and other collaborative tools that can be useful in online workshops. Please ask in \#infrastructure. 
+CorrelAid can provide you with access to a Zoom pro meeting room and other collaborative tools that can be useful in online workshops. Please ask in \#infrastructure.
 
 If conducted online, the kickoff workshop should take place on the weekend. It should last 1-3 hours, depending on the needs of the project team.
 
@@ -76,11 +76,11 @@ does not apply
 
 #### Offline /  in-person
 
-If the participants are not directly accommodated by the partner organisation, this must also be organised by the project coordinator. Any costs incurred must be borne by the partner organisation. There are various accommodation possibilities available, depending on the location of the kickoff. 
+If the participants are not directly accommodated by the partner organisation, this must also be organised by the project coordinator. Any costs incurred must be borne by the partner organisation. There are various accommodation possibilities available, depending on the location of the kickoff.
 
 Depending on the location, project team members can also be accommodated by their private contacts \(friends, family, ...\) or other CorrelAid network members.
 
-However, to facilitate team building, a form of shared accommodation is desirable. Youth hostels and hostels are an interesting and inexpensive infrastructure here. 
+However, to facilitate team building, a form of shared accommodation is desirable. Youth hostels and hostels are an interesting and inexpensive infrastructure here.
 
 #### Online
 
@@ -99,8 +99,6 @@ does not apply
 ### Inform the team
 
 Inform the team as early as possible about the workshop details, i.e. the venue and time frame, accommodation and the rough programme of the weekend. Also make sure to ask about accommodation and food requirements and communicate these back to the partner organisation. The project lead will advise the project team members to bring their laptops. One week before the workshop, the project coordinator sends a reminder mail to all team members. This mail also contains a detailed schedule and the [privacy policy](../data-security-and-privacy.md#statement-of-data-protection-obligations) that all project team members must sign before or at the kickoff. If this signature is refused, participation in the project is not possible.
-
-
 
 ## Implementation - offline / in-person
 
@@ -126,7 +124,7 @@ The planning of the weekend should closely mirror the goals formulated above. In
 
 ### Friday - Arrival
 
-Think about when and in what context you want to welcome the participants. First things first, so give them time to bring their stuff to their accommodation and to have a quick look around. It will probably make sense to eat together after arrival and then start the weekend together. 
+Think about when and in what context you want to welcome the participants. First things first, so give them time to bring their stuff to their accommodation and to have a quick look around. It will probably make sense to eat together after arrival and then start the weekend together.
 
 #### Introducing the team members and getting to know them
 
@@ -135,11 +133,12 @@ A functioning team must know each other. This requires time right from the start
 Introduce yourself, explain the agenda for the weekend, ask about expectations and fears, clarify common rules and what needs to be taken into account. But: don't crowd the Friday either. Especially getting to know new people takes time. Ice-breaker games can be helpful here.
 
 #### Introduction to CorrelAid
-Short presentation of CorrelAid by the project coordinator. If you do not have a presentation about CorrelAid at hand, you can the [slide master](https://correlcloud.org/index.php/s/kdQarxfDHeS8pFs) which includes a collection of useful introductory slides. It is important that the team knows the mission, objectives and values of CorrelAid and understands that they are part of the network, that they are CorrelAid. 
+
+Short presentation of CorrelAid by the project coordinator. If you do not have a presentation about CorrelAid at hand, you can the [slide master](https://correlcloud.org/index.php/s/kdQarxfDHeS8pFs) which includes a collection of useful introductory slides. It is important that the team knows the mission, objectives and values of CorrelAid and understands that they are part of the network, that they are CorrelAid.
 
 #### Introducing the partner organisation and the specific project
 
-The partner organization usually introduces itself. Alternatively, the project lead takes over this task. 
+The partner organization usually introduces itself. Alternatively, the project lead takes over this task.
 
 The focus of this evening should be on the work of the NPO, its mission and values, in order to develop an understanding of "who we are actually working for". The actual problem should then be briefly outlined and questions clarified. It is important that the client makes it clear what their desired impact of the project is and what expectations they have. On Saturday, there will be enough time for the actual work on the project plan. In addition, the evening offers enough time to reflect on the project and get to know each other in an informal setting over a cold beverage.
 
@@ -147,11 +146,11 @@ The focus of this evening should be on the work of the NPO, its mission and valu
 
 The goal of Saturday is two-fold: On the one hand, the team should get to know the project and structure it for themselves. On the other hand, they should find each other as a team and become able to work together. If time allows, potential data sources can be searched and explored on Saturday. But the priority is to develop a project structure and agree on a process!
 
-#### The project 
+#### The project
 
 After the general presentation of the project on Friday, Saturday is about tackling the project itself. For this purpose, all relevant information should be presented again \(briefly\). What is the objective of the project, what data is available, in what time frame should the project be completed, which people are involved?
 
-In the end, the project team should have broken the project down into clearly arranged sub-projects and defined sensible work steps for the team. 
+In the end, the project team should have broken the project down into clearly arranged sub-projects and defined sensible work steps for the team.
 
 As a decentralized team \(if not in the context of CorrelAidX\), the project team should also agree on how to collaborate remotely. How often do conference calls take place? How often and how do you talk to the partner organisation? Are there topics that should be addressed at a certain regularity?
 
@@ -165,7 +164,7 @@ At CorrelAid and in the projects we use many tools that simplify or enable decen
 
 The members of the project team were invited to Slack and the CorrelClould before the workshop and should already have set up their accounts. At the kickoff we will briefly discuss how the teams use these channels.
 
-If there are team members who are not familiar with Git / GitHub, an introductory workshop should be offered to them. This can also be structured as a peer-to-peer learning session where more experienced data analysts teach their colleagues Git concepts and the most important commands. 
+If there are team members who are not familiar with Git / GitHub, an introductory workshop should be offered to them. This can also be structured as a peer-to-peer learning session where more experienced data analysts teach their colleagues Git concepts and the most important commands.
 
 #### Data privacy policy
 
@@ -181,11 +180,11 @@ Depending on the project, the needs regarding data privacy might be different an
 
 #### Working out next staps, tasks and responsibilities as a team
 
-After a rough project plan was created on Saturday, responsibilities and first deadlines should be determined on Sunday. Be aware that it can take a lot of time to get all the necessary data sets and projects with many stakeholders need their coordination time! 
+After a rough project plan was created on Saturday, responsibilities and first deadlines should be determined on Sunday. Be aware that it can take a lot of time to get all the necessary data sets and projects with many stakeholders need their coordination time!
 
 #### Reflection and Farewell: Starting the Work Phase
 
-Whenever people meet and work together, social experiences arise. In order to deal with these experiences consciously and to be able to develop as a team and network, an evaluation of the experiences is a central component of our cooperation. 
+Whenever people meet and work together, social experiences arise. In order to deal with these experiences consciously and to be able to develop as a team and network, an evaluation of the experiences is a central component of our cooperation.
 
 ## Implementation - online
 
@@ -226,10 +225,4 @@ One approach is to split the kickoff in multiple online calls with the main call
 {% hint style="danger" %}
 Always make sure that you have collected the signed data privacy policy statements from all project team members \(if necessary for your project\) before sharing any data.
 {% endhint %}
-
-
-
-
-
-
 

@@ -57,7 +57,7 @@ Some labels are already created but sometimes you might find that you need to ad
 2. If you want to add a new value to an existing variable - for example a new local chapter to the `lc` "variable", you need to get the color of the "variable" first. To do so, click "edit" for an existing label of this "variable" \(see screenshot below\) and copy the hex color string to the clipboard \(CTRL+C / CMD+C\).  Cancel the editing view. 
 3. Click "New label" and paste the hex string into the color field. Then add the label name: your "variable", colon, your "value". You can leave the description empty. See the example below.
 
-![Step 2: Screenshot of the GitHub label editing view](../../.gitbook/assets/screenshot-2020-02-12-at-13.40.26%20%282%29.png)
+![Step 2: Screenshot of the GitHub label editing view](../../.gitbook/assets/screenshot-2020-02-12-at-13.40.26%20%282%29%20%281%29.png)
 
 ![Step 3: Adding a new label](../../.gitbook/assets/screenshot-2020-02-12-at-13.45.19.png)
 

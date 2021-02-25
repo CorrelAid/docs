@@ -70,6 +70,7 @@
 
 ## CorrelCollection
 
+* [CorrelCollection](correlcollection/correlcollection.md)
 * [CorrelCon](correlcollection/correlcon/README.md)
   * [2018 - Mannheim](correlcollection/correlcon/2018.md)
   * [2019 - Berlin](correlcollection/correlcon/2019.md)

@@ -56,9 +56,9 @@ You can download it [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?p
 
 ## Data encryption
 
-Depending on the project, the project lead and the project team need to ensure that the data is stored encrypted on their local machines. 
+Depending on the project, the project lead and the project team need to ensure that the data is stored encrypted on their local machines.
 
-There are two ways to achive this goal: by encrypting the user's home folder or by using VeraCrypt. 
+There are two ways to achive this goal: by encrypting the user's home folder or by using VeraCrypt.
 
 ### VeraCrypt
 
@@ -73,10 +73,4 @@ The project data must always be encrypted so that they cannot be read by unautho
 **Mac**: On Mac OS, starting with Mac-OS X 10.4, FileVault can be used to encrypt the home directory and also the entire hard disk. Caution with the latter. If you forget or lose both your user password and the recovery password, your data is irretrievably lost \(encrypted\). Instructions for FileVault can be found [here](https://support.apple.com/en-us/HT204837). **Important**: If you are using TimeShift to make backups, the folder you created for CorrelAid should be excluded from the backup or encrypted.
 
 **Linux**: In the newer versions of the most common distributions you should be able to select encryption as an additional option when creating a new user account. In most cases the software ecryptfs-utils is used for encryption. If you missed to do this for your user account, you should fall back to the VeraCrypt option.
-
-
-
-#### 
-
-
 
