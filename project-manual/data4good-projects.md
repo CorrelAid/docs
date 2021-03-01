@@ -140,3 +140,18 @@ Feedback is collected by the project coordinator from both the NPO and the proje
 * $$^1$$ during the project work phase, the project coordinator regularly checks in with the project team to make sure everything is going smoothly. They are also available for support.
 * $$^2$$ Ideally the project coordinator should find a project team lead during the ideation phase by directly asking people whether they'd be interested in the role. In this case, the team lead can be involved in the ideation and team selection processes.
 
+
+
+## FAQ
+
+### I am applying for a project through the form and I am unsure which role to choose. Help!?
+
+  
+**Team Lead:** As a team lead, you lead the implementation of the project as part and primus inter pares of the project team. In addition, you have some organizational tasks: Together with your team mates, you agree on an internal organization of your team, e.g. how often you have check-ins, how to organize the repository, how to keep track of progress, how often to talk to the NPO partner organization etc. Of course, you are not solely responsible for implementing those decisions but organize the team to be able to do so. Note: you do not need to be a technical expert to be a team lead, it is more about organizing a team and facilitating and following up on discussions. 
+
+**Team member:** You are able to structure your own work and learn new technologies and tools \(mostly\) on your own. This doesn't mean that you can't have questions for your team mates or prefer learning/working together with someone else - especially when dealing with technologies/techniques that are new to you. But in contrast to a team trainee, you are confident in finding resources that will help you and acquiring knowledge on your own.
+
+**Team trainee:** As a team trainee, you do not have much experience with most of the technical tools that are used in the project and/or you only have very little experience with data analysis projects. You'll probably need a lot of support from your fellow team members, e.g. in setting up the project on your laptop or finding tasks that fit your skills \(e.g. small data cleaning tasks\). Note: you are not automatically a team trainee if this is your first CorrelAid project.
+
+**If you are still unsure which role to choose, choose the one which feels most appropriate and write a sentence in one of the open text fields that you were unsure.** 
+
