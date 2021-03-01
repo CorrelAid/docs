@@ -155,3 +155,12 @@ Feedback is collected by the project coordinator from both the NPO and the proje
 
 **If you are still unsure which role to choose, choose the one which feels most appropriate and write a sentence in one of the open text fields that you were unsure.** 
 
+### **I am applying for a project through the form and don't understand the experience scale. Help?!** <a id="experience-scale"></a>
+
+Beginner = I have never done this before / I have never written a single line of code.  
+User = I have gained some first experience in this field / I have written code on my own.  
+Advanced = I have gained some experience / I have written complex scripts  
+Expert =  I know my way around very well / I write my own functions and packages.
+
+\*\*\*\*
+
