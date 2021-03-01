@@ -144,7 +144,7 @@ Feedback is collected by the project coordinator from both the NPO and the proje
 
 ## FAQ
 
-### I am applying for a project through the form and I am unsure which role to choose. Help!?
+### I am applying for a project through the form and I am unsure which role to choose. Help!? <a id="which-project-role"></a>
 
   
 **Team Lead:** As a team lead, you lead the implementation of the project as part and primus inter pares of the project team. In addition, you have some organizational tasks: Together with your team mates, you agree on an internal organization of your team, e.g. how often you have check-ins, how to organize the repository, how to keep track of progress, how often to talk to the NPO partner organization etc. Of course, you are not solely responsible for implementing those decisions but organize the team to be able to do so. Note: you do not need to be a technical expert to be a team lead, it is more about organizing a team and facilitating and following up on discussions. 
