@@ -1,4 +1,4 @@
-# Kobotoolbox
+# Kobotoolbox for Forms
 
 We host our own instance of [kobotoolbox](https://www.kobotoolbox.org/) at [kobo.correlaid.org](https://kobo.correlaid.org).
 
