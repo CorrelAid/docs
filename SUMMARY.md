@@ -14,6 +14,7 @@
   * [Blog](wiki/communication/blog.md)
   * [Social Media](wiki/communication/social-media.md)
 * [Infrastructure](wiki/infrastructure/README.md)
+  * [Kobotoolbox](wiki/infrastructure/kobotoolbox.md)
   * [CodiMD for Collaborative Writing](wiki/infrastructure/codimd.md)
   * [Gitbook for documentation](wiki/infrastructure/gitbook-for-documentation.md)
   * [CorrelAid Calendar](wiki/infrastructure/correlaid-calendar.md)
