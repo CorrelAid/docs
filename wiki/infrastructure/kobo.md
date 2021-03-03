@@ -20,7 +20,9 @@ Important: **User names should follow the {firstname}-{lastname} format** \(simi
 
 Once you click on "Save", you'll be redirected to the settings page for this user. Leave the default settings and click "Save" again.
 
-## Subscribe to the CorrelAid collection
+## CorrelAid collection
+
+### Subscribe to the collection
 
 We have created the **public CorrelAid collection** which you can see when going to [https://kobo.correlaid.org/\#/library](https://kobo.correlaid.org/#/library) and selecting "Public collections" in the bar on the left. The collection provides template surveys and question blocks for questions that we ask. In order to use the questions and template surveys in this collection, you need to "subscribe" to it. Unfortunately, there is a [bug](https://github.com/kobotoolbox/kpi/issues/2813) in the frontend of Kobo - the "Subscribe" button does not work. However, there is a workaround:
 
@@ -31,15 +33,28 @@ We have created the **public CorrelAid collection** which you can see when going
 
 ![](../../.gitbook/assets/screenshot-2021-03-03-at-10.04.42.png)
 
-#### Use the template surveys
+### Use the template surveys
 
 When creating a new project, you can use the template surveys by selecting "Use a template" in the "Create project" dialogue. This will copy the template survey into your project.
 
 ![](../../.gitbook/assets/screenshot-2021-03-03-at-10.09.44.png)
 
+## API
 
+Kobo has an API you can use. 
 
+### Documentation
 
+You can find the documentation here:
+
+* version 2: [https://kobo.correlaid.org/api/v2/](https://kobo.correlaid.org/api/v2/) -&gt; current version of the API - covers getting data, uploading forms etc.
+* version 1: [https://kc.correlaid.org/api/v1/ ](https://kc.kobotoolbox.org/api/v1/%20)\(should only rarely be used\) -&gt; upload data to existing forms
+
+### Getting your token
+
+You can find your token in your user settings: [https://kobo.correlaid.org/\#/account-settings](https://kobo.correlaid.org/#/account-settings) 
+
+#### 
 
 
 
