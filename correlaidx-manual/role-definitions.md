@@ -10,3 +10,13 @@ The Community Magager is the contact for both interested data scientists from th
 
 The project manager is the contact person for local organizations who would like to carry out a project with your local group. They are also responsible for the initiation and administration of current projects. The tasks include contacting, managing the ideation process with the NPOs and consulting the project administrators in the CorrelAid team. It is of course also possible to carry out "internal" projects within the local group. More precise steps for the tendering and implementation of a project at the local level can be found in the project manual.
 
+### Specific task forces 
+
+In addition, some local groups have formed other task forces. For example, there are sub-teams that take care of project acquisition, marketing and education. Some chapter defined a **CorrelAidX ambassador** as well: one person who joins the monthly CorrelAidX calls \(every third Monday of the month\) and reports back to the chapter.
+
+In the internal CorrelAidX documentation, these roles can be found in the respective chapter subpages. Again, [Isabel](mailto:%20Isabel.w@correlaid.org) is also available to provide advice on this topic. 
+
+
+
+
+

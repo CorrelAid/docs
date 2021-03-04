@@ -10,7 +10,7 @@ description: >-
 ## CorrelAid Bremen
 
 {% tabs %}
-{% tab title="English version" %}
+{% tab title="English version 🇬🇧" %}
 Dear \_\_\_\_\_\_\_,  
 I'd like to introduce you to the Data for Good initiative "CorrelAid". CorrelAid e.V. is a non-profit organisation dedicated to the distribution and democratisation of modern data analysis. We offer an inclusive \(learning\) platform for people from different professional and academic backgrounds. The common denominator is that we are interested in modern data analysis and want to use its potential for public interests.  
 We work on a voluntary basis in "skilled volunteering" projects with various non-profit organisations, associations and civil society initiatives. Our aim is not only to give actors in the third sector a theoretical understanding of the importance of data analysis to better achieve their goals, but also to give them practical access to data-based solutions. Our three guiding principles are: Data Science for Good, Data Science for Tomorrow, Data Science for Society. You can find more details on our website [https://correlaid.org/](https://correlaid.org/).  
@@ -19,7 +19,7 @@ With kind regards,
 \[Name\]
 {% endtab %}
 
-{% tab title="German version " %}
+{% tab title="German version 🇩🇪" %}
 Sehr geehrte/r \_\_\_\_\_\_\_,  
 ich würde Ihnen gerne die Data-for-Good-Initiative "CorrelAid" vorstellen. CorrelAid e.V. ist ein gemeinnütziger Verein, der sich der Vermittlung und Demokratisierung von moderner Datenanalyse verschrieben hat. Wir bieten eine inklusive \(Lern-\)Plattform für Menschen aus verschiedenen Berufs- und Studienbereichen. Der gemeinsame Nenner dabei ist, dass wir uns für moderne Datenanalyse interessieren und deren Potenzial für gemeinnützige Zwecke nutzbar machen wollen.  
 Wir arbeiten ehrenamtlich in "skilled volunteering"-Projekten mit Non-Profit-Organisationen, gemeinnützigen Vereinen und zivilgesellschaftlichen Initiativen zusammen. Dabei wollen wir Akteur\*innen des Dritten Sektors nicht nur theoretisch die Bedeutung von Datenanalyse zur besseren Verwirklichung ihrer Ziele näher bringen, sondern ihnen auch ganz praktisch den Zugang zu datenbasierten Problemlösungen ermöglichen. Unsere drei Leitmotive lauten: Data Science for Good, Data Science for Tomorrow, Data Science for Society. Näheres dazu finden Sie auch auf unserer [Website](https://correlaid.org/).  
@@ -32,7 +32,7 @@ Mit freundlichen Grüßen,
 ## CorrelAid Nederland
 
 {% tabs %}
-{% tab title="English version" %}
+{% tab title="English version 🇬🇧" %}
 _**This first part is very generic and can be used for any “cold call” email.**_
 
 Dear X, I am writing to you on behalf of CorrelAid XXX, a group that aims to build a network of data scientists / data enthusiasts that work pro bono for organizations that do good. We organize meetups, hackathons, and engage in longer-term projects with organisations. Currently, we are collaborating with ... among others.
