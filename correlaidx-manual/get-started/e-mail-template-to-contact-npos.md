@@ -7,6 +7,22 @@ description: >-
 
 # E-mail templates to contact NPOs
 
+## Official CorrelAid info email blurb:
+
+{% tabs %}
+{% tab title="English version 🇬🇧" %}
+CorrelAid e.V. is a non-profit organisation dedicated to the democratisation of data science. We are an inclusive network of data enthusiasts from different professional and academic backgrounds, united by our interest in data science and our belief in its potential for civil society and the public good.
+
+Our volunteers work in pro-bono “skilled volunteering” projects with various non-profit organisations, associations and initiatives to give them access to data-driven solutions. In addition, we empower civil society actors to explore the world of data science on their own through data literacy workshops and events. You can find some of our completed projects as well as our comprehensive educational offers [on our website](https://correlaid.org/). To stay up to date, subscribe to our [monthly newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988).
+{% endtab %}
+
+{% tab title="German version 🇩🇪" %}
+CorrelAid ist eine gemeinnützige Organisation, die sich für die Demokratisierung der Datenwissenschaft einsetzt. Wir sind ein inklusives Netzwerk von Datenenthusiast:innen mit ganz unterschiedlichen beruflichen und akademischen Hintergründen. Uns vereint unser Interesse an Datenwissenschaft und die Überzeugung, dass Daten ein großes Potenzial für die Zivilgesellschaft und das Gemeinwohl haben.
+
+Unsere ehrenamtlichen Datenwissenschaftler:innen arbeiten in pro-bono “skilled volunteering” Projekten mit Non-Profit-Organisationen, Vereinen und Initiativen, um ihnen Zugang zu datengetriebenen Lösungen zu ermöglichen. Darüber hinaus befähigen wir zivilgesellschaftliche Akteure durch Data-Literacy-Workshops und -Veranstaltungen dazu, die Welt der Data Science auf eigene Faust zu erkunden. Einige unserer abgeschlossenen Projekte sowie unsere umfangreichen Bildungsangebote stellen wir auf [unserer Website](https://correlaid.org/) vor. Um auf dem Laufenden zu bleiben, können Interessierte unseren [monatlichen Newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988) abonnieren.
+{% endtab %}
+{% endtabs %}
+
 ## CorrelAid Bremen
 
 {% tabs %}
