@@ -1,5 +1,7 @@
 # Cooperation Agreements
 
+Please see our [license contract](https://correlaid.org/footer/licensecontract/) as main reference.
+
 ## 1. General
 
 1.1 The local group is supervised by CorrelAid's organization team throughout Germany \(hereafter referred to as CorrelAid Germany\).

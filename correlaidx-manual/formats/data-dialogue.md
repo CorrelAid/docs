@@ -62,7 +62,7 @@ description: >-
 * Set the time and date of the data dialogue \(ideation session and pitch night\) according to how NPOs may attend
 * For offline events: Book possible locations
 * For online events: Ask Frie Preu to set up a zoom environment
-* Create/distribute marketing material \(Hint: PR \[PR \] \(mailto:pr@correlaid.org\) can help!\) or take a look in this [CorrelCloud file](https://correlcloud.org/index.php/s/cWRF8zWZjnRKRKn) 
+* Create/distribute marketing material \(Hint: PR \[PR \] \(mailto:pr@correlaid.org\) can help!\) or take a look in this [CorrelCloud file](https://correlcloud.org/index.php/s/BTyQ59t5JHfRMr5) 
 
 ### Organize
 
@@ -76,7 +76,7 @@ description: >-
 * Clarify whether the process and goals of the open data dialogue are understood
 * Fill the onboarding survey with the project partner 
   * [English version](https://www.surveymonkey.de/r/correlaid_submit_project)
-  * [German version](https://www.surveymonkey.de/r/correlaid_projekt_einreichen)
+  * German version
 
 {% hint style="info" %}
 Approach the organization and gain more insights in their data challenge, at the same time, they gain more insights on what information we need to tackle their challenge. It is not necessary to fully define the questions on challenges yet - here you can collect ideas and mark points for clarification during the ideation session.
@@ -113,7 +113,7 @@ Approach the organization and gain more insights in their data challenge, at the
 * Final decision and allocation of groups \(10min\)
 * Feedback: Interviews with NPOs and sending out of surveys \(10min\)
   * for [NPOs ](https://www.surveymonkey.de/r/correlaideventextern)
-  * for [volunteers](https://www.surveymonkey.de/r/correlaideventintern)
+  * for volunteers
 
 ### Follow-up
 
@@ -123,7 +123,7 @@ Approach the organization and gain more insights in their data challenge, at the
 * Present your open data dialogue on our blog and the lc call! `Example`
 
 {% hint style="info" %}
-In this [CorrelAid Cloud file](https://correlcloud.org/index.php/s/6ApdEk3aiKiKqFM) you can find all relevant documents.
+In this CorrelAid Cloud file you can find all relevant documents.
 
 Any questions about the above? Ask [Nina ](mailto:nina.h@correlaid.org), [Frie ](mailto:frie.p@correlaid.org)or [Isabel](mailto:isabel.w@correlaid.org) or get support from the [\#lc-team](https://correlaid.slack.com/archives/C7MR1UREE) channel.
 {% endhint %}
@@ -132,7 +132,7 @@ Any questions about the above? Ask [Nina ](mailto:nina.h@correlaid.org), [Frie ]
 
 What does it look like in practice? Here you can find reports of past data dialogues:
 
-* Remote data dialogue 2020 
+* [Remote data dialogue 2020 ](https://correlaid.org/blog/datadialogue-berlin-online/)
 * [In person data dialogue 2019 at CityLab Berlin](https://correlaid.org/en/blog/datendialog-europa/)
 * [In person data dialogue 2018 in Berlin](https://correlaid.org/blog/datendialog-berlin/)
 

@@ -14,7 +14,7 @@ The project manager is the contact person for local organizations who would like
 
 In addition, some local groups have formed other task forces. For example, there are sub-teams that take care of project acquisition, marketing and education. Some chapter defined a **CorrelAidX ambassador** as well: one person who joins the monthly CorrelAidX calls \(every third Monday of the month\) and reports back to the chapter.
 
-In the internal CorrelAidX documentation, these roles can be found in the respective chapter subpages. Again, [Isabel](mailto:%20Isabel.w@correlaid.org) is also available to provide advice on this topic. 
+In the [internal CorrelAidX documentation](https://correlaid.gitbook.io/correlaidx-cross-chapter-documentation/), these roles can be found in the respective chapter subpages. Again, [Isabel](mailto:%20Isabel.w@correlaid.org) is also available to provide advice on this topic. 
 
 
 
