@@ -70,7 +70,7 @@ This is arguably the most interesting part. Here, you and the NPO should elabora
 
 Please refer to the guide to find out whether we should do a project in the first place. 
 
-{% page-ref page="../when-do-we-do-a-project-when-not.md" %}
+{% page-ref page="../project-decision-guide.md" %}
 
 {% hint style="warning" %}
 Finding all this out might require a call with the potential partner, so don't make promises too early before you have established that this will be a good idea.
