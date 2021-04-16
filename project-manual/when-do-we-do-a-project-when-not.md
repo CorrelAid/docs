@@ -14,7 +14,8 @@ Relevant documents:
 
 * [Code of Ethics](https://correlaid.org/about/ethics/)
 * [Our Values](https://correlaid.org/about/#our-values)
-* [Code of Conduct](https://correlaid.org/en/about/codeofconduct/)
+* [Code of Condu](https://correlaid.org/en/about/codeofconduct/)[ct](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#)
+* [Template for Ideation Phase](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#) \(Questions that help guide talks with NPOs\)
 
 Relevant other pages:
 
