@@ -66,13 +66,14 @@ There are several things you need to discuss with the NPO over the course of the
 
 This is arguably the most interesting part. Here, you and the NPO should elaborate together what should be part of the project and how CorrelAid volunteers can help the NPO while at the same time having a good learning experience.
 
-{% hint style="info" %}
-**What's a "good" CorrelAid project? When shouldn't we do a project?**
+**What's a good CorrelAid project? When should we do a project? When not?**
 
-A good CorrelAid project is a win-win situation: our volunteers can apply and expand their knowledge and the NPO gets help with their data challenge. If you find out during the ideation process that the project would be extremely lop-sided in either direction, you can \(and probably should\) politely say no. Examples would be:
+Please refer to the guide to find out whether we should do a project in the first place. 
 
-* a project which would only be "cool" for the volunteers, but there would be no real positive gain for the NPO. Every CorrelAid project should be of use to the partner organization. In this case, you could also do an internal project. 
-* a project where CorrelAid volunteers would be used for free labor which is not rewarding in any way, e.g. a project consisting _only_ of mundane data entry tasks. Every CorrelAid project should entail opportunities to apply and learn useful data science skills. 
+{% page-ref page="../when-do-we-do-a-project-when-not.md" %}
+
+{% hint style="warning" %}
+Finding all this out might require a call with the potential partner, so don't make promises too early before you have established that this will be a good idea.
 {% endhint %}
 
 Hence, it is important to get as good a picture of the situation as possible. While this process is not standardized, here are some resources:
