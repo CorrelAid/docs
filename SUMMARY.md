@@ -45,7 +45,7 @@
   * [Panel discussion](correlaidx-manual/formats/panel-discussion.md)
   * [Hackathons](correlaidx-manual/formats/hackathons.md)
 * [Cooperation Agreements](correlaidx-manual/cooperation-agreements.md)
-* [Ethics guide](correlaidx-manual/ethics-guide.md)
+* [Doing a project](correlaidx-manual/doing-a-project.md)
 * [Contact](correlaidx-manual/contact.md)
 
 ## Project manual
