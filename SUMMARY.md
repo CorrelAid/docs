@@ -51,6 +51,7 @@
 ## Project manual
 
 * [CorrelAid Data4Good projects](project-manual/data4good-projects.md)
+* [When do we do a project? When not?](project-manual/when-do-we-do-a-project-when-not.md)
 * [Toolbox](project-manual/toolbox.md)
 * [Project coordination](project-manual/project-coordinators/README.md)
   * [Project Acquisition](project-manual/project-coordinators/project-acquisition.md)
