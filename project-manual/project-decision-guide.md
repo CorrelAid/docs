@@ -76,6 +76,10 @@ From time to time, we also encounter individuals who are pursuing a for-good pro
 
 Especially in political contexts, we might find initiatives that are not \(yet\) organised in a legal form and are rather loose. 
 
+**Political parties ❓**
+
+CorrelAid is a non-partisan network. That means that typically we do not collaborate with political parties and/or organisations affiliated to political parties \(e.g. their youth organisations\). However, feel free to come to the core team call to discuss your idea and/or use the Slack community to find like-minded folks to pursue your idea outside of the official CorrelAid context. 
+
 #### Academic institutions / individuals❓
 
 Sometimes, university professors, PhD students or postdocs might approach you with a project to collaborate on. In those cases, it comes down to the content of the project \(is it the main project of the person? does it have a for-good impact beyond research?\) and other circumstances \(cf. 1.2. could they pay someone?\).
@@ -186,7 +190,7 @@ You can also refer to the following presentation \(in German\):
 
 ### 2.3. Sustainability
 
-**Will the project be sustainable for the partner organisation? Will the project have an impact beyond the time the CorrelAid team is available?** Topics like hosting, maintanence and handovers should definitely  be discussed if applicable \(for "simple", one-off projects like generating a one-time report or some visualizations this might not be as important\). 
+**Will the project be sustainable for the partner organisation? Will the project have an impact beyond the time the CorrelAid team is available?** Topics like hosting, maintenance and handovers should definitely  be discussed if applicable \(for "simple", one-off projects like generating a one-time report or some visualizations this might not be as important\). 
 
 **Example:** A NPO approaches you - they need a dashboard to monitor their internal data processes. A shiny dashboard immediately comes to mind. In your talks with them, you should evaluate whether it is possible for them to a\) host it themselves, b\) host it on shinyapps.io or c\) whether it could be used only locally on the laptops of 1-2 people. 
 
