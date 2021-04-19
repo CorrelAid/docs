@@ -194,7 +194,11 @@ You can also refer to the following presentation \(in German\):
 
 **Example:** A NPO approaches you - they need a dashboard to monitor their internal data processes. A shiny dashboard immediately comes to mind. In your talks with them, you should evaluate whether it is possible for them to a\) host it themselves, b\) host it on shinyapps.io or c\) whether it could be used only locally on the laptops of 1-2 people. 
 
-### 2.4. Role of the project for partner organisation
+### **2.4. Scope**
+
+A central feature of CorrelAid projects is that they are time-boxed, require at most 5 hours of commitment per week and typically don't last more than 6 months. Hence, when scoping a project, this should be an important point: **Is the project do-able with volunteers and in a limited amount of time?** If the project idea under discussion seems quite "large", it can make sense to break it down into smaller subprojects or propose to do an initial project to explore the idea and then a follow-up project. 
+
+### 2.5. Role of the project for partner organisation
 
 CorrelAid supports partner organisations with their data challenges. And of course, we like to work on challenges that have a real impact either for our partner's work \(e.g. improve their internal processes, help them with internal reporting or monitoring\) or for the general public \(e.g. develop impactful data visualizations, dashboards, ...\). It boils down to the question:
 
