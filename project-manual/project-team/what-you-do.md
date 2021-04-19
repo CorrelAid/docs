@@ -29,11 +29,7 @@ the most important links from this section in one handy little box:
 
 * [public CorrelCloud folder with templates](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=%2Ffollow_up)
 * [public project summary for NPO template](https://pad.correlaid.org/lTV3NzFNRxGK3wrcSYIk4Q?both#)
-* Feedback survey for NPO
-  * [German version](https://www.surveymonkey.de/r/correlaid_projekt_feedback_npo)
-  * [English version](https://de.surveymonkey.com/r/correlaid_project_feedback_npo)
-* Feedback survey for project team
-  * [German version](https://www.surveymonkey.de/r/correlaid_projekt_feedback)
+* [Feedback form](https://ee.correlaid.org/x/hQ3LzCxL)
 {% endhint %}
 
 {% hint style="success" %}
@@ -95,21 +91,17 @@ If you're more into podcasts and having a nice conversation about your project i
 
 You can listen to the episode about the Weltladen project [here](https://soundcloud.com/correlaid_podcast/about-correlaid-automatisierte-reportgenerierung-fur-die-weltladen) \(in German\).
 
-### Get feedback from NPO
+### Get and give feedback 
 
-Get feedback from the partner organization: In order to improve our work, we want to get feedback from the NPOs whether our work has helped them. For that, we have created a feedback survey:
+Of course, we also want feedback from you and the NPO partner organisation so that we can improve our projects in the future and to know whether the project has helped our project partner.
 
-* [German version](https://www.surveymonkey.de/r/correlaid_projekt_feedback_npo) 
-* [English version](https://de.surveymonkey.com/r/correlaid_project_feedback_npo)
+For that, we have created a feedback form:
 
-Please forward the appropriate version of the survey to the NPO emphasizing that we would really appreciate a testimonial if they are willing to do so. Please inform the project coordinator before you forward the survey so that they can add the project ID to the survey.
+* [Feedback form](https://ee.correlaid.org/x/hQ3LzCxL)
 
-### Give us feedback
+The default language of the form is German but it can be switched in the top right corner with a dropdown.
 
-Of course, we also want feedback from you so that we can improve our projects in the future. Please inform the project coordinator before you start filling out the survey so that they can add the project ID to the survey.
+Please forward the survey to the NPO. Please inform the project coordinator before you forward the survey so that they can add the project ID to the survey.
 
-* [German version ](https://www.surveymonkey.de/r/correlaid_projekt_feedback)
-* [English version](https://www.surveymonkey.de/r/correlaid_project_feedback)
-
-If you want to give more direct feedback and/or suggest improvements to the structure of our data4good projects, please don't hesistate to contact Frie or Manuel directly.
+If you want to give more direct feedback and/or suggest improvements to the structure of our data4good projects, please don't hesitate to contact Frie or Manuel directly.
 
