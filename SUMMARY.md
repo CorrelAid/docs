@@ -64,7 +64,7 @@
   * [GitHub "projects" Repository](project-manual/project-coordinators/github-projects-repository.md)
   * [Documentation](project-manual/project-coordinators/documentation.md)
 * [For the project team](project-manual/project-team/README.md)
-  * [Your responsibilities](project-manual/project-team/what-you-do.md)
+  * [Project Follow-Up](project-manual/project-team/project-follow-up.md)
   * [Best practices](project-manual/project-team/best-practices/README.md)
     * [Python](project-manual/project-team/best-practices/python.md)
     * [R](project-manual/project-team/best-practices/r.md)
