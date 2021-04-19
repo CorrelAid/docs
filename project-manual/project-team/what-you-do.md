@@ -27,7 +27,6 @@ coming soon.
 {% hint style="info" %}
 the most important links from this section in one handy little box:
 
-* [public CorrelCloud folder with templates](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=%2Ffollow_up)
 * [public project summary for NPO template](https://pad.correlaid.org/lTV3NzFNRxGK3wrcSYIk4Q?both#)
 * [Feedback form](https://ee.correlaid.org/x/hQ3LzCxL)
 {% endhint %}
@@ -40,7 +39,7 @@ the most important links from this section in one handy little box:
 * [ ] email to NPO including \(please coordinate with the project coordinator\)
   * [ ] link to feedback survey
   * [ ] draft of the public summary slides \(if necessary because logos / results / screenshots are included\)
-  * [ ] draft of the public project summary \(if you feel you need input from them\)
+  * [ ] draft of the public project summary \(for them to review\)
 {% endhint %}
 
 In the few last weeks of the project work phase or after you have handed over the project to the NPO, the project coordinator will approach you as a team in order to ensure that the project is properly documented and CorrelAid has a good record of what you have achieved in the project. In addition, after the project has been finished, you'll be asked to fill in a feedback survey.
@@ -65,23 +64,23 @@ In order to make writing this summary easier for you, we have created a [templat
 
 #### Project slides
 
-One of our goals is to create awareness about the potential of data for the civic society. In order to do so, CorrelAiders often present CorrelAid and our idea at events, conferences or meetups. For those presentations, it is very useful to have concrete use cases from our work. Hence, we have created a small Powerpoint template you can use. You can find a German and English version [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=%2Ffollow_up) . Choose whatever version is easier to do for you \(we'll translate it if needed\).
+One of our goals is to create awareness about the potential of data for the civic society. In order to do so, CorrelAiders often present CorrelAid and our idea at events, conferences or meetups. For those presentations, it is very useful to have concrete use cases from our work. Hence, we have created a Google slides presentation with template slides that you can adopt for your project. Please ask Frie for the link to the presentation. Choose whatever language version is easier to do for you \(we'll translate it if needed\).
 
-1. Edit the presentation. The "hidden" slides contain examples and pointers how to fill out the presentation. You can delete them once you're finished. :\) 
+1. **Copy the slides you want to use**. The "hidden" slides contain examples and pointers how to fill out the presentation. You can delete them once you're finished. :\) 
 2. If you include results / screenshots that are not publicly available anyway, please **make sure to get an "ok" from the organization via email**. If you're unsure whether this is needed, talk to your project coordinator. 
-3. Send the presentation to your project coordinator and/or post it in the Slack channel of your project team.
+3. Update your team and the project coordinator once you have filled in the slides. 
 
 If anything is unclear, please ask Frie for help.
 
 #### Blog post \(optional\)
 
-If you want to share more about your project with the CorrelAid network and a more technical audience \(e.g. the \#rstats community\), you are invited to write a blog post for our CorrelAid blog. Topics could be:
+If you want to share more about your project with the CorrelAid network and a more technical audience \(e.g. the \#rstats community\), you are invited to write a blog post for our [CorrelAid blog](https://correlaid.org/blog) and/or the [CorrelAid Codes blog](https://codes.correlaid.org). Topics could be:
 
-* details of the technical implementation / approach
-* what you learned in the project 
-* your experience collaborating with the NPO
+* details of the technical implementation / approach \(-&gt; CorrelAid Codes\)
+* what you learned in the project \(-&gt; CorrelAid Codes\)
+* your experience collaborating with the NPO \(-&gt; CorrelAid blog\)
 
-If you're interested in writing a blog post, please head to the \#pr channel and ping @Yannik and @frie to discuss this further.
+If you're interested in writing a blog post, please head to the \#pr and/or the \#pr-dev-blog channel and ping @Yannik and @frie to discuss this further.
 
 Ps: if you have a personal blog, you can also cross-post the blog post there!
 
