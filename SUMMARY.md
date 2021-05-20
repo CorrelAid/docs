@@ -45,6 +45,7 @@
   * [Panel discussion](correlaidx-manual/formats/panel-discussion.md)
   * [Hackathons](correlaidx-manual/formats/hackathons.md)
 * [Cooperation Agreements](correlaidx-manual/cooperation-agreements.md)
+* [PR activities](correlaidx-manual/pr-activities.md)
 * [Doing a project](correlaidx-manual/doing-a-project.md)
 * [Contact](correlaidx-manual/contact.md)
 
