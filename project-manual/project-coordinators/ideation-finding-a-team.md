@@ -273,16 +273,16 @@ You can draft the call for applications on CodiMD. In order to make this as easy
 This depends on the project. To be as inclusive as possible, the English one should be the default. However, if your project will be in German only and it is _really_ not possible to participate without good German skills \(i.e. because of the nature of the data\), choose the German one.
 {% endhint %}
 
-### Add project to surveymonkey form
+### Add project to KoboToolbox form
 
-For project applications, we have a [surveymonkey form](https://www.surveymonkey.de/r/correlaid_project_apply) that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form. In order to do so, please contact either Nina \(@Nina Hauser\), Isabel \(@Isabel Willmann\), or Frie \(@frie\) on Slack as they have access to surveymonkey.
+For project applications, we have a [Kobotoolbox form](https://ee.correlaid.org/x/8ZibAmdq) that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form. In order to do so, please contact either Nina \(@Nina Hauser\), Isabel \(@Isabel Willmann\), or Frie \(@frie\) on Slack as they have access to Kobotoolbox.
 
 ### Send with Mailchimp
 
 Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our Mailchimp newsletter list. If you do not have access to Mailchimp, ask in \#projects for support. The following video shows how to do send out a project call for applications via Mailchimp:
 
 {% hint style="warning" %}
-this video is not up to date: the editing of the buttons is not necessary anymore because we now have the surveymonkey form.
+this video is not up to date: the editing of the buttons is not necessary anymore because we now have the Kobotoolbox form.
 {% endhint %}
 
 {% embed url="https://youtu.be/wwQIBOydcV4" caption="" %}
