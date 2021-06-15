@@ -8,7 +8,7 @@ The most important links from this section in one handy little box:
 * [Ideation Phase CodiMD Template](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#)
 * [Data Maturity Framework](http://www.datasciencepublicpolicy.org/home/resources/datamaturity/)
 * [Call for Applications CodiMD Template](https://pad.correlaid.org/rLUIX_MdS_urNKF4WkcaQQ#) \(🇬🇧 🇩🇪\)
-* [Surveymonkey form](https://www.surveymonkey.de/r/correlaid_project_apply)
+* ["When do we do a project?" - Guide](../project-decision-guide.md)
 * [GitHub Projects repository](https://github.com/CorrelAid/projects) with Kanban board
 {% endhint %}
 

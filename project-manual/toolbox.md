@@ -21,9 +21,6 @@ I \(Frie\) know that there are pain points especially with regards to project ac
 
 ### Project acquisition
 
-* Surveymonkey contact form for NPOs --&gt; You can send this to NPOs if you feel like they'd benefit from a structured way to think about their problem
-  * [English](https://www.surveymonkey.de/r/correlaid_submit_project)
-  * [German](https://www.surveymonkey.de/r/correlaid_projekt_einreichen)
 * List of NPOs on our [CorrelCloud](../wiki/infrastructure/correlcloud.md) \(request access from Eva J.\)
 * Public folder with [Flyers and Presentations](https://correlcloud.org/index.php/s/kdQarxfDHeS8pFs)
 * Sales Workshop with Andrew: [Presentation](https://docs.google.com/presentation/d/1ITtSixD4M-DWy4quY0aTxGrodkIYKAlMmjMH6h9G5Nw/edit#slide=id.ga3072d8e61_1_92) and [Recording](https://youtu.be/7fq9TNuCejQ)
@@ -32,6 +29,7 @@ I \(Frie\) know that there are pain points especially with regards to project ac
 
 ### Ideation & Finding a Team
 
+* ["When do we do a project?"-Guide](project-decision-guide.md)
 * [Template for Ideation Phase](https://pad.correlaid.org/q8nnfNimT3Shj9_wUp-kvQ#) \(Questions that help guide talks with NPOs\)
 * [Template for Project Call for Applications](https://pad.correlaid.org/rLUIX_MdS_urNKF4WkcaQQ) \(Template for email to look for volunteers\)
 * [Declaration about data security \(Datenschutzverpflichtungserklärung\) Template](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=%2Ftemplate_data_privacy)
