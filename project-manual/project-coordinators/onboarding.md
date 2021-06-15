@@ -26,7 +26,6 @@ The most important links from this section in one handy little box:
   * data security declaration template
   * example project folder with an example veracrypt container
 * [Data privacy & security page](../data-security-and-privacy.md)
-* [Walkthrough tutorial video](https://www.youtube.com/watch?v=oy21hgTThWk&feature=youtu.be) for creating the veracrypt container
 {% endhint %}
 
 ## Create Git repository
@@ -69,17 +68,9 @@ Who: Project coordinator together with project coordination admins
 
 Please ask one of the [CorrelCloud](../../wiki/infrastructure/correlcloud.md) administrators to invite your team members. For this, the admin will need their full names and email addresses.
 
-#### Create folder inside the CorrelCloud folder **`04_projekte`**
+#### Create restricted-access folder in `04_projekte_data`
 
-You should be able to create a folder for your project _within_ the CorrelCloud.
-
-In this folder, you can store documents that can be accessible for **all** CorrelCloud users such the encrypted VeraCrypt container and certificates of participation.
-
-![Screenshot of 04\_projekte folder structure within the CorrelCloud illustrating the naming conventions.](../../.gitbook/assets/screenshot-2020-07-08-at-12.16.14.png)
-
-#### Create restricted-access folder outside CorrelCloud folder in `04_projekte_data`
-
-For each project **where the data cannot be shared via GitHub or GitLab**, another folder has to be created _outside of the CorrelCloud folder_ in the **`04_projekte_data`** folder structure to **share the raw data**. This can only be created by the project coordination admins who are Manuel \(@Manuel on Slack\), Frie \(@frie on Slack\) and Sebastian \(@sezulka on Slack\). The project coordination admin then shares the created project folder with the project team.
+Ask one of the project coordination admins to createa folder with your project id \(e.g. 2021-02-COR\) in the **`04_projekte_data`** folder structure to **share the raw data**. This folder will only be accessible to you and your project team \(and the project coordination admins and the 3 CorrelCloud admins\). The project coordination admins who are Manuel \(@Manuel on Slack\), Frie \(@frie on Slack\) and Sebastian \(@sezulka on Slack\). The project coordination admin then shares the created project folder with you and the project team.
 
 ![04\_projekte\_data lives &quot;outside&quot; of the CorrelCloud but otherwise mirrors 04\_projekte](../../.gitbook/assets/screenshot-2020-07-08-at-12.18.51.png)
 
@@ -117,43 +108,11 @@ Who: Project lead in coordination with the project coordinator
 
 Make sure to inform your team members about the data privacy and security considerations for the project. If you are unsure about what applies to your project, ask the project coordinator - they should know this. Express yourself as clearly as possible in DO's and DON'Ts. For examples, please see [here](ideation-finding-a-team.md#data-privacy-and-data-access).
 
-If encryption is necessary for your project, share [this documentation page](../data-security-and-privacy.md#data-encryption) with them so that they can familiarize themselves with the options. A more detailed introduction to the tools should be part of the [kickoff](kickoff.md).
+If encryption is necessary for your project, share [this documentation page](../data-security-and-privacy.md#data-encryption) with them so that they can familiarize themselves with the options. A more detailed introduction to the tools - particularly VeraCrypt -  should be part of the [kickoff](kickoff.md).
 
 ### Data privacy policy statement
 
-If the project has **any** data privacy requirements, the participants and the organization need to sign the [**declaration on data security**](../data-security-and-privacy.md#declaration-on-data-security).
+If the project has **any** data privacy requirements, the participants need to sign the [**declaration on data security**](../data-security-and-privacy.md#declaration-on-data-security).
 
-You can download German and English templates [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=/template_data_privacy). They contain the requirements for the highest security setup \(including the requirement to create a separate user account\), so please make sure to adapt them to your specific project by removing passages not needed for your project. If you're unsure, ask your project coordinator or our data privacy expert Thomas \(@Thomas on Slack\).
-
-## Set up and share the VeraCrypt Container
-
-{% hint style="info" %}
-Who: Project lead
-{% endhint %}
-
-**If the data need to be encrypted**, the project lead should set up a VeraCrypt container for the team to facilitate the onboarding process.
-
-{% hint style="warning" %}
-Please choose a secure password for the container and **not** "NPO\_project\_2020". A good compromise between passwords that are hard to remember \(e.g. "oohbGHc3\*YBLFV96yFrfzUWeH"\) and insecure passwords \(see above\) are **passphrases** consisting of random words such as "pacifism publisher gradually playmate". Learn more [here](https://www.useapassphrase.com/).
-{% endhint %}
-
-1. create a container using VeraCrypt. Make sure that it is big enough to hold the complete project.
-2. mount the container
-3. clone the [GitHub / GitLab](../../wiki/infrastructure/github-and-gitlab.md) repository into the container 
-4. do any project setup steps you'd like \(e.g. create RStudio project, add virtualenv configuration\)
-5. add a data/raw folder
-6. if the data must not be committed to Git, add relevant files / folders to gitignore.
-7. put in the data from the organization into data/raw. Make sure to follow [good file naming principles](https://speakerdeck.com/jennybc/how-to-name-files). Add a README.md to the data folder and document the folder + file structure \(e.g. with a screenshot from your data explorer\).
-
-The following Youtube video shows how this can be achieved \(the order of the steps is slightly different but the outcome is the same\):
-
-{% embed url="https://youtu.be/oy21hgTThWk" caption="" %}
-
-Upload the **VeraCrypt container file** to the CorrelCloud folder for your team. Share the password to the container via a **secure, encrypted** communication channel: [Signal ](https://signal.org)or [Keybase](https://keybase.io/) can be used, or you can share the password over a phone call.
-
-{% hint style="warning" %}
-Please really use an **encrypted communication** channel for sharing the VeraCrypt container password. It is tempting to just send it over Slack but please don't do it.
-{% endhint %}
-
-If you have team members who do not need to use VeraCrypt because they have an encrypted home drive, you can also upload the data directory to the CorrelCloud folder \(outside of the VeraCrypt container\). This way, the team members without the VeraCrypt requirement can clone the repository from GitHub / GitLab and manually copy + paste the data folder from the CorrelCloud folder.
+You can download German and English templates [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=/template_data_privacy). They contain the requirements for the highest security setup \(including the requirement to create a separate user account\), so please make sure to adapt them to your specific project by removing passages not needed for your project. If you're unsure, ask your project coordinator or our data privacy expert Nina \(@Nina Hauser on Slack\).
 
