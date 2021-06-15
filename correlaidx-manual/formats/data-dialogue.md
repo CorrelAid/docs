@@ -74,9 +74,6 @@ description: >-
 
 * Schedule a 1h preparation call
 * Clarify whether the process and goals of the open data dialogue are understood
-* Fill the onboarding survey with the project partner 
-  * [English version](https://www.surveymonkey.de/r/correlaid_submit_project)
-  * German version
 
 {% hint style="info" %}
 Approach the organization and gain more insights in their data challenge, at the same time, they gain more insights on what information we need to tackle their challenge. It is not necessary to fully define the questions on challenges yet - here you can collect ideas and mark points for clarification during the ideation session.

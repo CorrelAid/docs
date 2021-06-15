@@ -251,7 +251,7 @@ However, if you are just starting out as a chapter and just acquired your first 
 {% hint style="success" %}
 * [ ] draft call for applications on CodiMD
 * [ ] get approval for call for applications from NPO
-* [ ] add project to surveymonkey dropdown question
+* [ ] add project to kobotoolbox form
 * [ ] send out call for applications to newsletter
 * [ ] \(if necessary\), send out reminder to newsletter
 {% endhint %}
