@@ -333,20 +333,11 @@ You can find members for your committee by posting on Slack in \#general or \#pr
 
 > Do you want to be part of the team selection committee for \[PROJECT NAME\]? The project will be about training a model to do XX. It will be in Python.
 
-### Anonymization of applications
+### Application report
 
-Once the deadline has expired, you should request the application data from either Nina, Frie or Isabel. They will share the data with you in a secure way, i.e. either via a password-protected CorrelCloud folder or an encrypted email.
+Once the deadline has expired, you should request the **anonymized application report** from Frie. She will share the anonymized data with you and the other team selection committee members as a HTML report. She will also share with you as the project coordinator the **mapping from the anonymized applicant ids to the email adresses** in a secure way so that you can later contact the applicants. We recommend not to look at those before making your selection to avoid any bias. 
 
-You should then anonymize the data before sharing them with the team selection committee. In practice, this means:
-
-1. create an csv \(or Excel file\) with two columns: a simple numeric id, and the email addresses of the applications. Keep this mapping on your local machine, do not share it with the committee
-2. in the surveymonkey export, add the id column. 
-
-### Share with the team selection committee
-
-Share the _anonymized_ version with the project team. For that, we typically use a collaborative tool like Google Sheets or [cryptpad.fr](https://cryptpad.fr). Ideally, you already group the applications by gender, e.g. by creating "sheets" for the different genders in the online document and an additional sheet "team" where you can note down the ids of the most promising candidates.
-
-
+{% file src="../../.gitbook/assets/2030-03-exa\_applications\_report.html" caption="Example report with fake data" %}
 
 ### Team selection call
 
@@ -391,7 +382,7 @@ When making a selection, the selection committee should aim to select people who
 
 Before you send out rejection emails to all those applicants who were not selected for the team you should make sure that everyone is still interested in participating in the project. After all, 1-3 weeks might have passed since they applied and they could've changed their minds. You can use the acceptance email template to get the confirmation.
 
-After everyone has confirmed their interest, you can send out the emails to the applicants who could not be considered. You can use the rejection email template to do this. If you want to send out multiple rejections at once, please make sure to use blind copy \(BCC\).
+After everyone has confirmed their interest, you can send out the emails to the applicants who could not be considered. You can use the rejection email template to do this. If you want to send out multiple rejections at once, please make sure to **use blind copy** \(BCC\).
 
 #### Acceptance Email
 
