@@ -339,6 +339,8 @@ Once the deadline has expired, you should request the **anonymized application r
 
 {% file src="../../.gitbook/assets/2030-03-exa\_applications\_report.html" caption="Example report with fake data" %}
 
+If your project is part of the project cycle, the report will also include information on what other projects the applicants applied to. 
+
 ### Team selection call
 
 Once you have found 2-4 people, arrange with them for a video call.
