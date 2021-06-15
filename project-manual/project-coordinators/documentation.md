@@ -4,5 +4,9 @@ description: What to document where.
 
 # Documentation
 
-coming soon.
+until now, the only thing you need to do during the project is to keep your GitHub issue in the [projects repository](github-projects-repository.md) up to date. 
+
+If the team has successfully completed the necessary [follow up](follow-up.md) steps, please consider adding the project to the [project database](https://github.com/CorrelAid/projectsdb).
+
+
 
