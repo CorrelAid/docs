@@ -47,7 +47,11 @@
 * **Outlook**
   * bitte ergänzen \(google: "webcal outlook" für read, "caldav" für read+write\)
   * Anmerkung: webcal ist so ähnlich wie ical/ics, so wie ich das verstehe. 
-* **IOS**
-  * bitte ergänzen \(google: "webcal ios" für read, "caldav" für read+write\)
+* **Google Calendar**
+  * "Other calendars" -> "Add other calendars" -> "From URL" -> "Add calendar"
+* **iCalendar**
+  * "File" -> "New Calendar Subscription" -> Link von oben eingeben
+* **iOS**
+  * \(google: "webcal ios" für read, "caldav" für read+write\)
   * Anmerkung: webcal ist so ähnlich wie ical/ics, so wie ich das verstehe.
 
