@@ -11,7 +11,7 @@ description: >-
 
 ## Key Takeaways:
 
-* NPO: 
+* NPO:
 
   1\) Learn how to think about data challenges \(through onboarding and scoping\)
 

@@ -48,7 +48,8 @@ Several actors are involved in a CorrelAid Data4Good project. Here is a small ov
     <tr>
       <td style="text-align:left">Project lead / team lead</td>
       <td style="text-align:left">Leads the implementation of the project as part and primus inter pares
-        of the project team.</td>
+        of the project team. Typically also actively contributes to code or other
+        outputs of the project (not solely &apos;team management&apos; role).</td>
     </tr>
     <tr>
       <td style="text-align:left">Project team / team members</td>
