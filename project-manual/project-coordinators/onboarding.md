@@ -55,6 +55,45 @@ If you have not created a private Slack channel as part of the ideation phase, y
 3. Archive. Communication is centralized and stored on Slack. This means it is easier to go back and find old conversations if necessary. 
 {% endhint %}
 
+### Welcome message 
+
+It's always nice if people join a Slack channel and there is already a message waiting for them to get a conversation going. Hence, you should post a welcome message. This message should include the following:
+
+* hello! short introduction who you are and what your role is
+* ask them to introduce themselves
+* reminder for the kickoff / link to program if it already exists
+
+example:
+
+{% tabs %}
+{% tab title="🇬🇧" %}
+Hello @channel,
+
+we are very happy that you want to help **\[ORGANIZATION\]**. I am **\[XY\]** and I am the project coordinator for this project \[together with Frie \(@frie\)\]. That means if you have any questions or problems, please feel free to contact me. However, I will not be an active part of your team, but will stay in the background. 
+
+please take a few minutes and: 
+
+* briefly introduce yourself in the channel 
+* post your GitHub account in the thread \(so we can add you to the GitHub repository\)
+* join the channel \#projectcycle where we will share updates and info like zoom links for events that affect all projects in the project cycle 
+* the next important event is the kickoff on **X** \(evening\) and **Y**\(morning + afternoon\). you can find the program for this very important event here: **LINK**. There you will also meet your contact person from **\[ORGANIZATION\]**. 
+
+Until then feel free to network here in Slack and also check out the other channels if you are new here!
+{% endtab %}
+
+{% tab title="🇩🇪" %}
+Hallo @channel,  
+wir freuen uns sehr, dass ihr **\[ORGANISATION\]** helfen möchtet. Ich bin \[XY\] und koordiniere \[zusammen mit Frie\] dieses Projekt. D.h. wenn ihr Fragen oder Probleme habt, könnt ihr mich jederzeit gerne ansprechen. Ich werde allerdings nicht aktiver Teil eures Teams sein, sondern mich im Hintergrund halten.   
+bitte nehmt euch ein paar Minuten und:
+
+* stellt euch kurz im Channel vor
+* postet euren GitHub Account in den Thread \(sodass wir euch zum GitHub Repository hinzufügen können\)
+* tretet dem Channel [\#projectcycle](https://correlaid.slack.com/archives/C01T38KD0JU) bei, wo wir Updates und Infos wie z.B. Zoom Links für Events teilen werden, die alle Projekte des Projektzyklus betreffen
+
+das nächste wichtige Event ist der Kickoff am **X** \(abends\) und **Y**\(vormittags + nachmittags\). das Programm für dieses sehr wichtige Event findet ihr hier: **LINK**. Dort werdet ihr auch eure Kontaktperson von **\[ORGANISATION\]** kennenlernen.Bis dahin netzwerkt sehr gerne hier im Slack und schaut euch auch in den anderen Channeln um, falls ihr neu hier seid!
+{% endtab %}
+{% endtabs %}
+
 ## Data Transfer with CorrelCloud
 
 While our project teams usually use GitHub or GitLab for their project work, we use our NextCloud instance CorrelCloud for the initial data transfer from the organization to CorrelAid and from CorrelAid to the project team members.
@@ -115,5 +154,13 @@ If encryption is necessary for your project, share [this documentation page](../
 
 If the project has **any** data privacy requirements, the participants need to sign the [**declaration on data security**](../data-security-and-privacy.md#declaration-on-data-security).
 
-You can download German and English templates [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=/template_data_privacy). They contain the requirements for the highest security setup \(including the requirement to create a separate user account\), so please make sure to adapt them to your specific project by removing passages not needed for your project. If you're unsure, ask your project coordinator or our data privacy expert Nina \(@Nina Hauser on Slack\).
+You can download German and English templates [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=/template_data_privacy). They contain the requirements for the highest security setup \(including the requirement to create a separate user account\), so please make sure to adapt them to your specific project by removing passages not needed for your project. If you're unsure, ask your project coordinator or our data privacy expert Nina \(@Nina Hauser on Slack\). 
+
+Upload the signed declarations to the CorrelCloud folder. 
+
+
+
+
+
+
 
