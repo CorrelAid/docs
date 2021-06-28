@@ -190,7 +190,7 @@ We think that your \[QUALIFICATIONS/EXPERIENCES\] greatly qualify you for that r
 
 Of course, we as the project coordinators would support you and would also have a call before the kickoff to answer any questions and give you more information about the tools and methods that we have prepared for team leads. :\) 
 
-If you are still unsure and would like to discuss this further before making a decision, we are available for a call \[INSERT TIME\].
+If you are still unsure and would like to discuss this further before making a decision, we are available for a call \[INSERT TIME\]. Of course, it's also totally ok if you'd rather participate in the role you originally applied to!
 
 Best,
 
