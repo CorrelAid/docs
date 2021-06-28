@@ -152,7 +152,55 @@ Best regards
 
 \[Project coordinator\]
 {% endtab %}
+
+{% tab title="🇩🇪" %}
+Liebe:r \[Name Bewerberin\],
+
+vielen Dank für dein Interesse, an unserem Projekt mit \[Organisation\] mitzuarbeiten. Wir haben uns über die Resonanz, die wir erhalten haben, sehr gefreut. Leider bringt die Vielzahl an Rückmeldungen \(\[Zahl der Bewerbungen\] an der Zahl\) mit sich, dass wir eine Auswahl treffen mussten.
+
+Leider bist du bei diesem Projekt nicht dabei. Das solltest du keinesfalls als negative Wertung deiner Skills oder deiner Person betrachten. Bei unserer Auswahl haben eine Vielzahl an Kriterien eine Rolle gespielt - so haben wir auch darauf geachtet, dass wir eben nicht nur nach den besten Kenntnissen auswählen, sondern ein Team mit vielfältigen Erfahrungen und Interessen zusammenstellen.
+
+Diesem Projekt werden bald weitere Projekte folgen. Bei der Auswahl berücksichtigen wir auch, ob Analyst\*innen in der Vergangenheit leider nicht zum Zuge kamen. Erwähne daher unbedingt bei deiner nächsten Bewerbung, dass du bei diesem Projekt nicht zum Zuge gekommen bist. Die nächste Möglichkeit zur Projektmitarbeit kommmt sicher bald.
+
+In der Zwischenzeit kannst du dich gerne jederzeit an mich wenden.
+
+Herzliche Grüße
+
+\[Projektkoordinatorin\]
+{% endtab %}
 {% endtabs %}
 
 ## Confirming team lead
+
+### Promoting a team member/team trainee
+
+{% tabs %}
+{% tab title="🇬🇧 " %}
+Hi NAME,
+
+my name is \[XY\] and I am one of the project coordinators for the CorrelAid project with \[ORGANIZATION\] which you also applied to and were selected for. :\)
+
+When doing the team selection, we were quite impressed by your application and we wanted to ask you whether you would be interested in becoming a team lead for the project? 
+
+The team lead position can be described as follows:
+
+As a team lead, you lead the implementation of the project as part and primus inter pares of the project team. In addition, you have some organizational tasks: Together with your team mates, you agree on an internal organization of your team, e.g. how often you have check-ins, how to organize the repository, how to keep track of progress, how often to talk to the NPO partner organization etc. Of course, you are not solely responsible for implementing those decisions but organize the team to be able to do so. Note: you do not need to be a technical expert to be a team lead, it is more about organizing a team and facilitating and following up on discussions. 
+
+We think that your \[QUALIFICATIONS/EXPERIENCES\] greatly qualify you for that role!
+
+Of course, we as the project coordinators would support you and would also have a call before the kickoff to answer any questions and give you more information about the tools and methods that we have prepared for team leads. :\) 
+
+If you are still unsure and would like to discuss this further before making a decision, we are available for a call \[INSERT TIME\].
+
+Best,
+
+\[PROJECT COORDINATORS\]
+{% endtab %}
+
+{% tab title="🇩🇪" %}
+
+{% endtab %}
+{% endtabs %}
+
+
 
