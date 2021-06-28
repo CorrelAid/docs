@@ -11,9 +11,10 @@
 {% hint style="success" %}
 * [ ] create private Slack channel and add team members
 * [ ] create [Git](../../wiki/infrastructure/github-and-gitlab.md) repository and add members
-* [ ] set up CorrelCloud 
-* [ ] data transfer via CorrelCloud
-* [ ] coordinate kickoff workshop
+* [ ] set up CorrelCloud \(if necessary\)
+* [ ] data transfer via CorrelCloud \(or other means when data is not GDPR relevant\)
+* [ ] coordinate kickoff workshop  
+* [ ] separate 1-1 onboarding call with team lead
 {% endhint %}
 
 ## Quick links

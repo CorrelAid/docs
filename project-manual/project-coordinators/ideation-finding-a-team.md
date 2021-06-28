@@ -36,6 +36,8 @@ The most important links from this section in one handy little box:
 * [ ] get information on data security / privacy & data access 
 * [ ] fix date of the [kickoff workshop](kickoff.md#location) if possible \(especially when in-person\)
 * [ ] if possible, find a prospective team lead and involve them early into the process
+* [ ] confirm team members
+* [ ] confirm team lead \(if you had to "promote" a team member\)
 {% endhint %}
 
 ### Add project to Kanban Board
@@ -315,6 +317,7 @@ Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter a
 * [ ] share applications with committee
 * [ ] team selection call
 * [ ] confirm team members & send out rejection emails 
+* [ ] confirm team lead
 * [ ] invite team members to Slack channel 
 * [ ] create [Git](../../wiki/infrastructure/github-and-gitlab.md) repository and invite members as collaborators
 {% endhint %}
