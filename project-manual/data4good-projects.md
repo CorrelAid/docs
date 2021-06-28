@@ -80,13 +80,13 @@ CorrelAid has come in contact with a potential partner organization / NPO:
 
 The project coordinator has established communication with the organization. Together with the contact person\(s\) from the NPO, they figure out whether and if so, how CorrelAid volunteers could support the NPO with their data challenge. Based on this information, the project coordinator develops the project call for applications in close coordination with the contact person\(s\) of the NPO.
 
-{% page-ref page="project-coordinators/ideation-finding-a-team.md" %}
+{% page-ref page="project-coordinators/ideation.md" %}
 
-#### Finding a team
+#### Team selection
 
 The project coordinator sends out the call for applications via the newsletter and collects the applications. Once the application deadline has passed, the project coordinator looks for a selection committee who then select a team. 
 
-{% page-ref page="project-coordinators/ideation-finding-a-team.md" %}
+{% page-ref page="project-coordinators/team-selection.md" %}
 
 #### Onboarding
 

@@ -19,7 +19,7 @@ Relevant documents:
 
 Relevant other pages:
 
-* [Ideation phase](project-coordinators/ideation-finding-a-team.md#ideation)
+* [Ideation phase](project-coordinators/ideation.md#ideation)
 {% endhint %}
 
 ## How to use this guide

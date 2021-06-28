@@ -146,7 +146,7 @@ Only if the data is not sensitive, other channels such as Google Drive or email 
 Who: Project lead in coordination with the project coordinator
 {% endhint %}
 
-Make sure to inform your team members about the data privacy and security considerations for the project. If you are unsure about what applies to your project, ask the project coordinator - they should know this. Express yourself as clearly as possible in DO's and DON'Ts. For examples, please see [here](ideation-finding-a-team.md#data-privacy-and-data-access).
+Make sure to inform your team members about the data privacy and security considerations for the project. If you are unsure about what applies to your project, ask the project coordinator - they should know this. Express yourself as clearly as possible in DO's and DON'Ts. For examples, please see [here](ideation.md#data-privacy-and-data-access).
 
 If encryption is necessary for your project, share [this documentation page](../data-security-and-privacy.md#data-encryption) with them so that they can familiarize themselves with the options. A more detailed introduction to the tools - particularly VeraCrypt -  should be part of the [kickoff](kickoff.md).
 
