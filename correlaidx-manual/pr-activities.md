@@ -19,9 +19,9 @@ Our PR team will then share your content on **Instagram** and **LinkedIn** and F
 
 ### Newsletter
 
-If you would like to send out one of your events via the newsletter, please contact [Isabel](mailto:%20Isabel.w@correlaid.org) with the event details. Either we include it in our monthly newsletter, which is sent out in the penultimate or last week of the previous month and goes to the whole network, or we share the information individually with the network / your local chapter audience.
+If you would like to send out one of your events via the newsletter, please contact [Phil](mailto:phil.b@correlaid.org) with the event details. Either we include it in our monthly newsletter, which is sent out in the penultimate or last week of the previous month and goes to the whole network, or we share the information individually with the network / your local chapter audience.
 
 ### [Website Event Section](https://correlaid.org/events/)
 
-We are also happy to post your events on the Event Section of our website. Just write to [Frie](mailto:%20frie.p@correlaid.org) or [Isabel](mailto:%20Isabel.w@correlaid.org).
+We are also happy to post your events on the Event Section of our website. Just write to [Frie](mailto:%20frie.p@correlaid.org) or [Phil](mailto:phil.b@correlaid.org).
 

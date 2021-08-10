@@ -26,7 +26,7 @@ Sign up for our newsletter [here](https://correlaid.us12.list-manage.com/subscri
 
 ### CorrelAidX
 
-If you want to network with other data scientists, consider joining one of our CorrelAidX chapters. While CorrelAid is a remote organisation, we also have local chapters that meet in-person regularly. You can find all local chapters along with contact addresses on our [website](https://correlaid.org/en/correlaid-x/). If you want to start your own chapter, feel free to reach out to [Regina](mailto:regina.s@correlaid.org).
+If you want to network with other data scientists, consider joining one of our CorrelAidX chapters. While CorrelAid is a remote organisation, we also have local chapters that meet in-person regularly. You can find all local chapters along with contact addresses on our [website](https://correlaid.org/en/correlaid-x/). If you want to start your own chapter, feel free to reach out to Phil.
 
 ### Slack
 

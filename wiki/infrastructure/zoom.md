@@ -1,9 +1,9 @@
 # Zoom
 
-CorrelAid has two Zoom pro licenses. If you want to have a link for an event, please contact either Frie or Nina or Isabel depending on the area your event will fall into:  
+CorrelAid has two Zoom pro licenses. If you want to have a link for an event, please contact either Frie or Nina or Phil depending on the area your event will fall into:  
 
 * Account 1 - education and projects: Frie + Nina
-* Account 2 - CorrelAidX: Isabel 
+* Account 2 - CorrelAidX: Phil 
 
 
 

@@ -277,7 +277,7 @@ This depends on the project. To be as inclusive as possible, the English one sho
 
 ### Add project to KoboToolbox form
 
-For project applications, we have a [Kobotoolbox form](https://ee.correlaid.org/x/8ZibAmdq) that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form. In order to do so, please contact either Nina \(@Nina Hauser\), Isabel \(@Isabel Willmann\), or Frie \(@frie\) on Slack as they have access to Kobotoolbox.
+For project applications, we have a [Kobotoolbox form](https://ee.correlaid.org/x/8ZibAmdq) that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form. In order to do so, please contact either Nina \(@Nina Hauser\), Phil \(@Philipp Bosch\), or Frie \(@frie\) on Slack as they have access to Kobotoolbox.
 
 ### Send with Mailchimp
 

@@ -122,7 +122,7 @@ Approach the organization and gain more insights in their data challenge, at the
 {% hint style="info" %}
 In this CorrelAid Cloud file you can find all relevant documents.
 
-Any questions about the above? Ask [Nina ](mailto:nina.h@correlaid.org), [Frie ](mailto:frie.p@correlaid.org)or [Isabel](mailto:isabel.w@correlaid.org) or get support from the [\#lc-team](https://correlaid.slack.com/archives/C7MR1UREE) channel.
+Any questions about the above? Ask [Nina ](mailto:nina.h@correlaid.org), [Frie ](mailto:frie.p@correlaid.org)or [Phil](mailto:phil.b@correlaid.org) or get support from the [\#lc-team](https://correlaid.slack.com/archives/C7MR1UREE) channel.
 {% endhint %}
 
 ### Field reports from past data dialogues
