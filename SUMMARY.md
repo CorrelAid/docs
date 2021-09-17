@@ -69,6 +69,7 @@
 * [For the project team](project-manual/project-team/README.md)
   * [Project Follow-Up](project-manual/project-team/project-follow-up.md)
   * [Best practices](project-manual/project-team/best-practices/README.md)
+    * [Dataviz / Reporting](project-manual/project-team/best-practices/dataviz-reporting.md)
     * [Python](project-manual/project-team/best-practices/python.md)
     * [R](project-manual/project-team/best-practices/r.md)
     * [Collaboration](project-manual/project-team/best-practices/collaboration.md)
