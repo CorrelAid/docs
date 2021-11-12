@@ -115,7 +115,7 @@ Physics, computer science or political sciene - all these (and many more) backgr
 
 Imagine you created a compelling business case, recruited brilliant team members for your cross-functional project team, and even received generous government funding to build your shiny new software product. Being the modern day project manager you are, you plan to adopt agile methodologies by appointing a product owner for your self-organizing team, creating an emergent product backlog, and writing epic user stories. Before you can turn your ideas into reality, though, you have to convince your most influential non-IT stakeholders – and they are not amused. Who is responsible for controlling time, scope, and cost? Where is this important document called „risk register“ that they were told about? And why the unicorn are team members allowed to create their own tasks? That is not how project management works! Now it is up to you, the project manager, to come up with a solution to this dilemma.
 
-* Slides
+* [Slides](https://docs.google.com/presentation/u/0/d/1unsqln0becFczFO\_HiXeTrx8UqbvcKLRykgjyPCzpQk/htmlpresent)
 
 #### CeMAS
 
