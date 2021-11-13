@@ -39,7 +39,8 @@ In the project showcase, volunteers from our Data4Good project teams show how th
 
 Ransomware, leaks, data loss, and what to do about it (in COVID times): In this talk, Ilja will introduce us to the pillars of Information Security, provide an overview of organisational and individual threats, and outline mitigation strategies - all with a focus on NGOs. The talk will include an actionable plan for your team to get started.
 
-* Slides
+* [Slides](https://docs.google.com/presentation/d/1sWtGCkYf5Pg7TsYXupUNVwex25ll7V-YV-cq6niKBh4/edit#slide=id.p) (slide by slide view)
+* [Slides](https://docs.google.com/presentation/u/0/d/1sWtGCkYf5Pg7TsYXupUNVwex25ll7V-YV-cq6niKBh4/htmlpresent) (full HTML  view)
 
 #### Data Science Education
 
@@ -79,7 +80,8 @@ Artificial Intelligence (AI) and Machine Learning (ML) provide powerful tools to
 
 Earning returns while saving the planet. Sounds fascinating, but has many pitfalls. Where do I get reliable information about the climate impact of my investment? How can I make sure that I don’t invest in fossil fuels? And (how) can I even have an impact? Many retail investors want to invest their money according to their values. But information is missing. 2DII has developed the platform MeinFairMögen/ MyFairMoney to help bring a bit of light in the darkness.
 
-* Slides
+* Google [Slides](https://docs.google.com/presentation/d/1Ert9A6hL96857FO8qCWf7A2sU\_jzfeNdIVBosFwNfi0/edit?usp=sharing) (slide by slide view)
+* Google [Slides](https://docs.google.com/presentation/d/1Ert9A6hL96857FO8qCWf7A2sU\_jzfeNdIVBosFwNfi0/htmlpresent) (full HTML view)
 
 #### Using AI to help restore the natural world
 
@@ -115,7 +117,8 @@ Physics, computer science or political sciene - all these (and many more) backgr
 
 Imagine you created a compelling business case, recruited brilliant team members for your cross-functional project team, and even received generous government funding to build your shiny new software product. Being the modern day project manager you are, you plan to adopt agile methodologies by appointing a product owner for your self-organizing team, creating an emergent product backlog, and writing epic user stories. Before you can turn your ideas into reality, though, you have to convince your most influential non-IT stakeholders – and they are not amused. Who is responsible for controlling time, scope, and cost? Where is this important document called „risk register“ that they were told about? And why the unicorn are team members allowed to create their own tasks? That is not how project management works! Now it is up to you, the project manager, to come up with a solution to this dilemma.
 
-* [Slides](https://docs.google.com/presentation/u/0/d/1unsqln0becFczFO\_HiXeTrx8UqbvcKLRykgjyPCzpQk/htmlpresent)
+* Google [Slides](https://docs.google.com/presentation/u/0/d/1unsqln0becFczFO\_HiXeTrx8UqbvcKLRykgjyPCzpQk/htmlpresent) (slide by slide view)
+* Google [Slides](https://docs.google.com/presentation/u/0/d/1unsqln0becFczFO\_HiXeTrx8UqbvcKLRykgjyPCzpQk/htmlpresent) (full HTML view)
 
 #### CeMAS
 
@@ -151,7 +154,8 @@ We take a look at some simple use cases and how we can tackle them using some pr
 
 This talk will be all about biking in cities: you will see a brief introduction in tools for scraping and visualizing bicycle infrastructure data of cities. Based on a case study, we discuss a simple method for analyzing bicycle networks and explore how this could provide insights for mobility planners.
 
-* Slides
+* [Slides](https://docs.google.com/presentation/d/16wAuUKFBVQZ9AgzFxivYa2E49msbsJdt5y39S3JhwpA/edit?invite=CJXGlvMM#slide=id.p) (slide by slide view)
+* [Slides](https://docs.google.com/presentation/d/16wAuUKFBVQZ9AgzFxivYa2E49msbsJdt5y39S3JhwpA/htmlpresent?invite=CJXGlvMM#slide=id.p) (full HTML view)
 
 #### CargoRocket: How to use OpenStreetMap and Graphhopper to create a custom routing for Cargobikes
 
@@ -195,7 +199,7 @@ The mlr3 package and ecosystem provide a generic, object-oriented, and extensibl
 
 * Slides
 
-### Data Visualization
+### Advanced Sessions: Data Visualization
 
 #### Creating your own themes and colour scales for ggplot2
 
@@ -203,7 +207,7 @@ The mlr3 package and ecosystem provide a generic, object-oriented, and extensibl
 
 When producing graphs for others to consume, you may want to have your own distinct visual identity across all graphics, using your own colour palette, your fonts, your logo instead of the built-in `theme_minimal()`, `scale_colour_viridis()` etc. Using the CorrelAid theme and colour scales in the {correltools} package as examples, this talk will show how you can easily create reusable functions to apply your own “brand” to your ggplot2 graphics in a time-saving manner.
 
-* Slides
+* [Slides](https://lo-ng.netlify.app/slides/2021-11-13-correlcon-ggplot2-theming#1)
 
 #### A picture is worth a thousand words - Visual Data Exploration
 
@@ -221,7 +225,7 @@ Screening of the [talk](https://www.youtube.com/watch?v=DxLkv2iRdf8) “Revealin
 
 * [Repository with slides and material](https://github.com/spcanelon/csvConf2021#csv-conf-2021-)
 
-### Tooling and Software Development
+### Advanced sessions: Tooling and Software Development
 
 #### Git internals (or understandig git): The three basic git objects and their relation to git’s way of version control
 
@@ -229,7 +233,8 @@ Screening of the [talk](https://www.youtube.com/watch?v=DxLkv2iRdf8) “Revealin
 
 Git as a version control program can be confusing. This talk aims at helping you to understand git better by knowing some internals of the progam: Who does git version control is build around the three basic git objects? Afterwards you hopefully grasp what git trees are made of, that each node in these trees represent a snapshot of your working directory and how branches work. There will be a brief [demo](https://mybinder.org/v2/gh/RasmussenLab/git-tutorial/master?urlpath=vscode?folder=/home/jovyan/examples) of the core concepts. Audience: You use git, but sometimes get confused why something did not work. Hopefully knowing some basics about the internals will help you with these struggles.
 
-* Slides
+* [Slides (slide by slide view)](https://docs.google.com/presentation/d/1g2qaBnrONYH3eolJ9hVMRs7oW99q1BkjzwiErVpNrVk/edit#slide=id.p)
+* [Slides (full HTML view)](https://docs.google.com/presentation/d/1g2qaBnrONYH3eolJ9hVMRs7oW99q1BkjzwiErVpNrVk/htmlpresent)
 
 #### Introduction to Pipelines with Make
 
