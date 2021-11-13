@@ -197,7 +197,7 @@ In this talk we will discuss different network models and how they can help us t
 
 The mlr3 package and ecosystem provide a generic, object-oriented, and extensible framework for classification, regression, survival analysis. In this talk you will learn how to conduct a benchmark experiment with mlr3, comparing different machine learning methods and preprocessing steps in one go.
 
-* Slides
+* [Slides](https://github.com/mlr-org/mlr-outreach/blob/main/2021\_correlaid/mlr3-overview.pdf)
 
 ### Advanced Sessions: Data Visualization
 
