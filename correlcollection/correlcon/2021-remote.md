@@ -12,7 +12,10 @@ In the social sector we often ask (or get asked) “Does this program work and d
 
 ### Project Showcase
 
-* [Slides](https://docs.google.com/presentation/u/1/d/11Tt7cRAP2P1He74MgG2kqvAZ0L5kZmw1YvKCLNilZRA/htmlpresent)
+* [Slides](https://docs.google.com/presentation/d/1M3cr0J-6wTL9wXwS5iSTDM7uvKznolu45UFyUhcGUrg/edit?usp=sharing) (slide by slide view)
+* [Slides](https://docs.google.com/presentation/u/1/d/1M3cr0J-6wTL9wXwS5iSTDM7uvKznolu45UFyUhcGUrg/htmlpresent) (HTML view)
+
+{% file src="../../.gitbook/assets/2021-11-12_correlcon_project_showcase.pptx" %}
 
 In the project showcase, volunteers from our Data4Good project teams show how they have been supporting non-profit organizations with their data challenges. Topics include: report automation, creating an interactive report based on survey data, analysis of community dynamics, predictive modelling and using image data to improve cargo bike routing. The projects are:
 
@@ -40,7 +43,7 @@ In the project showcase, volunteers from our Data4Good project teams show how th
 Ransomware, leaks, data loss, and what to do about it (in COVID times): In this talk, Ilja will introduce us to the pillars of Information Security, provide an overview of organisational and individual threats, and outline mitigation strategies - all with a focus on NGOs. The talk will include an actionable plan for your team to get started.
 
 * [Slides](https://docs.google.com/presentation/d/1sWtGCkYf5Pg7TsYXupUNVwex25ll7V-YV-cq6niKBh4/edit#slide=id.p) (slide by slide view)
-* [Slides](https://docs.google.com/presentation/u/0/d/1sWtGCkYf5Pg7TsYXupUNVwex25ll7V-YV-cq6niKBh4/htmlpresent) (full HTML  view)
+* [Slides](https://docs.google.com/presentation/u/0/d/1sWtGCkYf5Pg7TsYXupUNVwex25ll7V-YV-cq6niKBh4/htmlpresent) (full HTML view)
 
 #### Data Science Education
 
@@ -72,7 +75,7 @@ Frie Preu, Head of Operations, will walk you through the CorrelAid year 2021 wit
 
 Artificial Intelligence (AI) and Machine Learning (ML) provide powerful tools to tackle climate change in various applications: They can support climate change mitigation, for instance, by helping reduce greenhouse gas emissions within various applications. They can help to adapt to a changing climate and even advance climate science itself. However, AI and ML are not silver bullets and can always only be one part of the solution. This talk provides an overview of the strengths and weaknesses of ML, some example applications and recurring themes.
 
-* Slides
+{% file src="../../.gitbook/assets/CorrelCon_Voss_komprimiert.pptx" %}
 
 #### Put your money where your heart is - climate investing for your personal finance
 
