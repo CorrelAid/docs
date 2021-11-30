@@ -3,10 +3,10 @@
 ## Twitter
 
 * twitter.com/CorrelAid
-* username: @CorrelAid 
-* password: see [password management](keybase.md).
+* username: @CorrelAid&#x20;
+* password: see [password management](https://app.gitbook.com/s/-Lvg\_oIb4oZtCuInS01x-887967055/wiki/communication/keybase.md).
 
-## Facebook 
+## Facebook&#x20;
 
 * [https://www.facebook.com/WeAreCorrelAid/](https://www.facebook.com/WeAreCorrelAid/)
 * roles
@@ -24,14 +24,12 @@
 ### How do I get access to our Twitter account?
 
 {% hint style="info" %}
-To get access to Twitter, see [password management](keybase.md).
+To get access to Twitter, see [password management](https://app.gitbook.com/s/-Lvg\_oIb4oZtCuInS01x-887967055/wiki/communication/keybase.md).
 {% endhint %}
 
 ### How do I get access to our Facebook account?
 
 {% hint style="info" %}
-To get write access to the Facebook page, ask Frie \(@frie in Slack\). Please include a link to your Facebook profile. 
+To get write access to the Facebook page, ask Frie (@frie in Slack). Please include a link to your Facebook profile.&#x20;
 {% endhint %}
-
-
 

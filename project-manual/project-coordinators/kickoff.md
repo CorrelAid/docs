@@ -173,7 +173,7 @@ The team members should have received the CorrelAid data privacy policy before t
 In any case, all project team members must have signed the privacy statement before they receive any data.
 
 {% hint style="warning" %}
-Depending on the project, the needs regarding data privacy might be different and the data privacy policy and/or the use of encryption tools might not be necessary. The project coordinator should have clarified this during the [ideation process](ideation-finding-a-team.md#data-security-privacy-and-data-access).
+Depending on the project, the needs regarding data privacy might be different and the data privacy policy and/or the use of encryption tools might not be necessary. The project coordinator should have clarified this during the [ideation process](ideation.md#data-security-privacy-and-data-access).
 {% endhint %}
 
 ### Sunday - Wrap up

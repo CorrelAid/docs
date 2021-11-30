@@ -56,7 +56,8 @@
 * [Toolbox](project-manual/toolbox.md)
 * [Project coordination](project-manual/project-coordinators/README.md)
   * [Project Acquisition](project-manual/project-coordinators/project-acquisition.md)
-  * [Ideation & Finding a team](project-manual/project-coordinators/ideation-finding-a-team.md)
+  * [Ideation](project-manual/project-coordinators/ideation.md)
+  * [Team selection](project-manual/project-coordinators/team-selection.md)
   * [Onboarding](project-manual/project-coordinators/onboarding.md)
   * [Kickoff](project-manual/project-coordinators/kickoff.md)
   * [Project work](project-manual/project-coordinators/project-work.md)
@@ -64,9 +65,11 @@
   * [Follow-up](project-manual/project-coordinators/follow-up.md)
   * [GitHub "projects" Repository](project-manual/project-coordinators/github-projects-repository.md)
   * [Documentation](project-manual/project-coordinators/documentation.md)
+* [Team lead](project-manual/team-lead.md)
 * [For the project team](project-manual/project-team/README.md)
   * [Project Follow-Up](project-manual/project-team/project-follow-up.md)
   * [Best practices](project-manual/project-team/best-practices/README.md)
+    * [Dataviz / Reporting](project-manual/project-team/best-practices/dataviz-reporting.md)
     * [Python](project-manual/project-team/best-practices/python.md)
     * [R](project-manual/project-team/best-practices/r.md)
     * [Collaboration](project-manual/project-team/best-practices/collaboration.md)
@@ -79,11 +82,11 @@
   * [2018 - Mannheim](correlcollection/correlcon/2018.md)
   * [2019 - Berlin](correlcollection/correlcon/2019.md)
   * [2020 - Remote](correlcollection/correlcon/2020.md)
+  * [2021 - Remote](correlcollection/correlcon/2021-remote.md)
 * [Open Online Data Meetup](correlcollection/oodm.md)
 * [Other Workshops / Events](correlcollection/other-workshops.md)
 
----
+***
 
 * [CorrelAid Website](https://correlaid.org/en)
 * [CodiMD](https://pad.correlaid.org)
-
