@@ -14,7 +14,7 @@ Those pages contain information for project coordinators and project team leads.
 The **project lead / team lead** typically gets involved from the team selection process onwards. They are part of the project team but also have some additonal responsibilities related to team coordination, communication with the NPO and other organizational tasks.
 
 {% hint style="info" %}
-Want to become a project coordinator? Ask Frie \(@frie\) in Slack, she'll be happy to answer any questions you might have. She can also add you to the team and give you an introduction to the tasks, the process and the tools! 
+Want to become a project coordinator? Ask Frie \(@frie\) in Slack, they'll be happy to answer any questions you might have. They can also add you to the team and give you an introduction to the tasks, the process and the tools! 
 {% endhint %}
 
 

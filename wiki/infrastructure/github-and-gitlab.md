@@ -33,6 +33,6 @@ Please post a Slack message to \#infrastructure with:
 ### I can't push to the Git repository \("access rights" error\). What's up there?
 
 {% hint style="info" %}
-You don't seem to have the correct permissions. Ping Frie in Slack \(@frie\) and she'll grant you the correct permissions.
+You don't seem to have the correct permissions. Ping Frie in Slack \(@frie\) and they'll grant you the correct permissions.
 {% endhint %}
 

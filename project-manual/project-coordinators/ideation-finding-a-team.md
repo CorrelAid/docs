@@ -335,7 +335,7 @@ You can find members for your committee by posting on Slack in \#general or \#pr
 
 ### Application report
 
-Once the deadline has expired, you should request the **anonymized application report** from Frie. She will share the anonymized data with you and the other team selection committee members as a HTML report. She will also share with you as the project coordinator the **mapping from the anonymized applicant ids to the email adresses** in a secure way so that you can later contact the applicants. We recommend not to look at those before making your selection to avoid any bias. 
+Once the deadline has expired, you should request the **anonymized application report** from Frie. They will share the anonymized data with you and the other team selection committee members as a HTML report. They will also share with you as the project coordinator the **mapping from the anonymized applicant ids to the email adresses** in a secure way so that you can later contact the applicants. We recommend not to look at those before making your selection to avoid any bias. 
 
 {% file src="../../.gitbook/assets/2030-03-exa\_applications\_report.html" caption="Example report with fake data" %}
 
