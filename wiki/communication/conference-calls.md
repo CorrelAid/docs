@@ -1,10 +1,12 @@
 # Conference calls ​☎
 
-The conference calls (also called "**TelKos**" from German "**Tel**efon**ko**nferenz" which is the translation of "conference call") are probably the most important CorrelAid communication channel. :telephone:&#x20;
+The conference calls (also called "**TelKos**" from German "**Tel**efon**ko**nferenz" which is the translation of "conference call") are an important CorrelAid communication channel. :telephone: In addition to the general calls here, there are typically a lot more calls going on each week: in local chapters, project teams, and other internal initiatives/projects (e.g. the podcast team). Check out the respective channel to learn more about when the next virtual meeting is going to happen.
 
 ## Call schedule
 
-Up until 2020, we had a call every week. However, we've found that this is not ideal anymore as we grow and more and more people join the core team. Hence, we've decided on a new call schedule:\_ \_Calls are generally on \*\*Monday at 7pm (Berlin time) \*\*until agreed upon otherwise. On the first and third Monday, we take the time to focus on specific groups in our network: CorrelAid "newbies" and our local chapters.
+Up until 2020, we had a call every week. However, we've found that this is not ideal anymore as we grow and more and more people joined and activities grew. Up until 2022, we had a biweekly "core team call".&#x20;
+
+As of January 2022, the call schedule is as follows: Calls are generally on **Monday at 7pm (Berlin time)** until agreed upon otherwise. On the first and third Monday, we take the time to focus on specific groups in our network: CorrelAid "newbies" and our local chapters.
 
 Because it's hard to remember such things, we have a [calendar](../infrastructure/correlaid-calendar.md) with all the calls for you to add to your favorite calendar application.
 
@@ -16,7 +18,7 @@ Ps: Before anyone asks: In case there's a 5th Monday in a month, there is no cal
 
 ### Open / Onboarding Call: 1st Monday
 
-\*\*What: \*\*Open / onboarding call. This call is open to anyone who is interested in our work. You don't even have to be part of We share important updates from the CorrelAid world, answer questions and provide some onboarding information for CorrelAid "newbies".
+\*\*What: \*\*Open / onboarding call. This call is open to anyone who is interested in our work. We share important updates from the CorrelAid world, answer questions and provide some onboarding information for CorrelAid "newbies".
 
 **When**: 1st Monday of each month, 7pm (Berlin time).
 
@@ -24,7 +26,7 @@ Ps: Before anyone asks: In case there's a 5th Monday in a month, there is no cal
 
 ### CorrelAidX / Local Chapter Call: 3rd Monday
 
-**What:** [CorrelAidX](../../correlaidx-manual/what-is-correlaidx.md) local chapter coordination call.\*\* \*\*This call is for representatives of our local CorrelAidX chapters to exchange ideas, resources and strategies on how to implement data for good on the local level.
+**What:** [CorrelAidX](../../correlaidx-manual/what-is-correlaidx.md) local chapter coordination call. This call is for representatives of our local CorrelAidX chapters to exchange ideas, resources and strategies on how to implement data for good on the local level.
 
 **When**: 3rd Monday of each month, 7pm (Berlin time).
 
