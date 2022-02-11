@@ -2,6 +2,14 @@
 
 Our Data4Good projects are at the core of our work. In our skilled volunteering projects, we connect data scientist volunteers from our network network of over 2000 volunteers with nonprofit organisations. Through the projects, our volunteers have the opportunity to apply their existing skills and gain new knowledge. At the same time, they support nonprofit organisations with solving their data-related challenges. Over 2-6 months and in teams from 2-7 data scientists, CorrelAid volunteers have tackled diverse data challenges of nonprofits: from data collection, data visualization and exploratory data analysis to automation, reporting and advanced statistical analyses using machine learning and deep learning techniques.
 
+Learn more about our projects so far here:
+
+* [past projects on our website](https://correlaid.org/en/nonprofits/projects/)
+* [Project examples](https://docs.google.com/presentation/d/1QggH9B9j0Zc76b1CoKHx4VeVn6tyGD1boDKYdh5LI\_I/edit?usp=sharing) slide deck
+* list of projects with linked resources such as podcast episodes, YouTube videos, repositories etc.
+  * [English](https://correlaid.github.io/projects/project\_pr/correlaid\_projects\_pr\_en.html)
+  * [German](https://correlaid.github.io/projects/project\_pr/correlaid\_projects\_pr\_de.html)
+
 ## Actors
 
 Several actors are involved in a CorrelAid Data4Good project. Here is a small overview with the most important terminology.
@@ -113,7 +121,7 @@ Feedback is collected by the project coordinator from both the NPO and the proje
 
 **Team trainee:** As a team trainee, you do not have much experience with most of the technical tools that are used in the project and/or you only have very little experience with data analysis projects. You'll probably need a lot of support from your fellow team members, e.g. in setting up the project on your laptop or finding tasks that fit your skills (e.g. small data cleaning tasks). Note: you are not automatically a team trainee if this is your first CorrelAid project.
 
-**If you are still unsure which role to choose, choose the one which feels most appropriate and write a sentence in one of the open text fields that you were unsure.**&#x20;
+**If you are still unsure which role to choose, choose the one which feels most appropriate and write a sentence in one of the open text fields that you were unsure.**
 
 ### **I am applying for a project through the form and don't understand the experience scale. Help?!** <a href="#experience-scale" id="experience-scale"></a>
 
