@@ -133,6 +133,8 @@ Expert = I know my way around very well / I write my own functions and packages.
 
 ### I have found the form to become a project mentor / reviewer. What does this entail? <a href="#project-mentor" id="project-mentor"></a>
 
+****
+
 As a project mentor / reviewer, you might join a team (temporarily) to consult them so that they can improve the quality of their work by following **best practices**, hereby ensuring the long-term impact and sustainability of the project. This might include but is not limited to:
 
 * input and advice on appropriate analytical methods and models, e.g. which time series model would fit best the problem
@@ -141,10 +143,14 @@ As a project mentor / reviewer, you might join a team (temporarily) to consult t
 * review code and give tips to improve code quality, e.g. how to better structure code into functions or following better programming patterns
 * advice on how to set up the project, e.g. how code and/or data can be better structured&#x20;
 
-With our projects we want to do two things: support the partner NPO with their data challenges and provide learning opportunities for our volunteers. Learning about and implementing best practices is definitely a good learning that volunteers can take away from our projects. Plus, best practices will improve the quality of the output for our partner NPO. However, given the limited time resources in the context of volunteering, it's sometimes hard to do _everything_ right. So whenever making recommendations, you should heavily prioritize what really will help the project in the long run: Maybe the inconsistent code styling really annoys your "clean code" heart but you know good documentation will have a higher impact on the overall quality and sustainability of the project.&#x20;
+**Time commitment:** depends on your availability and the project's needs. Typically a one-time review / support is enough which should be a couple of hours (3-4 hours incl. reviewing the project, a meeting with the team and a follow up). In certain circumstances and if you want, you might join a team as a mentor for a longer period of time.&#x20;
+
+**Background and your role:** With our projects we want to do two things: support the partner NPO with their data challenges and provide learning opportunities for our volunteers. Learning about and implementing best practices is definitely a good learning that volunteers can take away from our projects. Plus, best practices will improve the quality of the output for our partner NPO. However, given the limited time resources in the context of volunteering, it's sometimes hard to do _everything_ right. So whenever making recommendations, you should heavily prioritize what really will help the project in the long run: Maybe the inconsistent code styling really annoys your "clean code" heart but you know good documentation will have a higher impact on the overall quality and sustainability of the project.&#x20;
 
 In addition, as a team mentor, it is important that you consider that not all team members are as experienced, knowledgeable and skilled as you. Please a) have empathy with your fellow volunteers who are working on the project, especially those with less experience/skills, b) appreciate what they have done so far and the effort they put in and  c) properly explain why things are important - it might not be obvious to less experienced folks. Have empathy - always remember that you also started out as a beginner once!&#x20;
 
 Finally, if your recommendations are not accepted / implemented, talk to the project coordinator to see what can be done so that the long-term sustainability and quality of the project are ensured.&#x20;
+
+****
 
 ***
