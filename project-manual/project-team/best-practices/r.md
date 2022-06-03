@@ -15,7 +15,7 @@ Here are some packages that will make it easier to maintain clean code and ensur
 
 ### **Code styling**
 
-You can use the [styler](https://styler.r-lib.org) package.
+You can use the [styler](https://styler.r-lib.org/) package.
 
 ```
 styler::style_dir()
