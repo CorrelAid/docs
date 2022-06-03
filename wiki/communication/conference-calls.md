@@ -8,6 +8,12 @@ Up until 2020, we had a call every week. However, we've found that this is not i
 
 As of January 2022, the call schedule is as follows: Calls are generally on **Monday at 7pm (Berlin time)** until agreed upon otherwise. On the first and third Monday, we take the time to focus on specific groups in our network: CorrelAid "newbies" and our local chapters.
 
+Because it's hard to remember such things, we have a [calendar](../infrastructure/correlaid-calendar.md) with all the calls for you to add to your favorite calendar application.
+
+{% content-ref url="../infrastructure/correlaid-calendar.md" %}
+[correlaid-calendar.md](../infrastructure/correlaid-calendar.md)
+{% endcontent-ref %}
+
 Ps: Before anyone asks: In case there's a 5th Monday in a month, there is no call. :wink:
 
 ### Open / Onboarding Call: 1st Monday

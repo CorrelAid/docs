@@ -1,7 +1,7 @@
 # Password management
 
 {% hint style="info" %}
-Valid once migration to Google Workspace is complete.
+Valid once Google Drive is active/migrated to.
 {% endhint %}
 
 {% hint style="info" %}
