@@ -6,7 +6,7 @@
 ## Wiki
 
 * [How We work - Hitchhiker's Guide to CorrelAid](wiki/hitchhikers-guide.md)
-* [General FAQ](wiki/faq.md)
+* [FAQ](wiki/faq.md)
 * [Communication channels](wiki/communication/README.md)
   * [Conference calls ​☎](wiki/communication/conference-calls.md)
   * [Slack](wiki/communication/slack.md)
