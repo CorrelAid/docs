@@ -35,3 +35,7 @@ Please post a Slack message to #infrastructure with:
 {% hint style="info" %}
 You don't seem to have the correct permissions. Ping Frie in Slack (@frie) and they'll grant you the correct permissions.
 {% endhint %}
+
+## Google Drive
+
+### How do I migrate Google Docs/Sheet/Slides from my personal account?&#x20;
