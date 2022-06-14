@@ -28,7 +28,7 @@ As questions / information regarding the migration to Google Workspace are only 
    2. :white\_check\_mark: Shared Drive: The shared drive system where people have access to files relevant to them. If you create/edit/delete files here, your teammates can directly access them as well. The shared drive system replaces NextCloud (with **exceptions for sensitive project data**, see below).&#x20;
    3. :white\_check\_mark: Priority: a new way of creating your own personal "view" of what is in Shared Drives. You can "pin" documents and sort them into workspaces - which won't affect the way things are organized in Shared Drive. You can use this freely as you like. Just remember: this is just for you. You can make Priority your default Drive landing page by changing it in the settings (:gear: in the top right).
 3. Go to Shared Drives and explore. You should have access to the [`00_assets` drive](https://drive.google.com/drive/u/0/folders/0AFVtSXmGUxMCUk9PVA) where you can find template slides, the CorrelAid logo and other useful templates and documents.&#x20;
-4. Migrate any files you might have on a&#x20;
+4. Migrate any files you might have on your personal laptop / your personal Google account. For the latter,[ see the FAQ](../faq.md#how-do-i-migrate-google-docs-sheet-slides-from-my-personal-account).
 5. Setting up a local chapter? There is a suggestion for how to structure your local chapter folder in the `99_example_chapter`. Copy-paste that to your own chapter folder to get going!
 6. Check out [this article](https://support.google.com/a/users/answer/9310349?hl=en) to learn more about how you can optimize your personal drive setup / find things faster! :)&#x20;
 
@@ -92,7 +92,7 @@ See the [Migration pad](https://pad.correlaid.org/s/B11wgILu9#file-migration-1) 
 
 ### FAQ
 
-See Google Drive FAQ in the overall FAQ.
+See[ Google Drive FAQ](../faq.md#google-drive) in the overall FAQ.
 
 ## Google Forms
 

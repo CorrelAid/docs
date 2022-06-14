@@ -39,3 +39,24 @@ You don't seem to have the correct permissions. Ping Frie in Slack (@frie) and t
 ## Google Drive
 
 ### How do I migrate Google Docs/Sheet/Slides from my personal account?&#x20;
+
+{% hint style="warning" %}
+Only transfer CorrelAid-related files to the Google Workspace.&#x20;
+{% endhint %}
+
+Two options to do so:
+
+#### A) Via Google Drive for Desktop
+
+1. install [Google Drive for Desktop](https://www.google.com/drive/download/)&#x20;
+2. Add both your personal account (username@gmail.com) and your CorrelAid Workspace account&#x20;
+3. drag and drop via your file explorer from one drive into the other
+
+#### B) Via Transfer ownership
+
+1. Go to your personal [Google Drive](https://drive.google.com) in the browser
+2. Select the files you want to transfer to your CorrelAid Workspace account (you can select multiple files by holding Cmd respectively CTRL)
+3. Right-click -> Share to add your personal Google Workspace account (e.g. frie.p@correlaid.org) as collaborator with editor rights.
+4. Repeat the selection process and then right-click -> Share -> Click on "Editor" next to your CorrelAid Account -> Transfer Ownership.&#x20;
+5. Log into your CorrelAid Account. The files will be in your "My Drive". [Transfer them to the appropriate Shared Drive(s)](https://support.google.com/a/users/answer/9310460?hl=en).&#x20;
+
