@@ -36,17 +36,22 @@ As questions / information regarding the migration to Google Workspace are only 
 
 #### Data4Good Projects
 
-:white\_check\_mark: You can keep on the Google Drive:
-
-* meeting minutes unless it's very sensitive
-* additional material such as certificates of attendance or data privacy agreements
-* use Google Drive to transfer/store Open Data
-* use Google Drive to transfer/store non-GDPR relevant data from the partner organization under the condition that the project partner **explicitly consented** to this
-
 ****:x:**You must not:**
 
-* store project data from NPO partners if it is GDPR relevant
+* store project data from NPO partners if it is [GDPR relevant](../../project-manual/data-security-and-privacy.md#personal-data-gdpr)
 * store any other project data from NPO partners
+* don't store/write down personal information from other people (also incl. Google Docs/Google Sheets), especially concerning  [special characteristics](https://gdpr-info.eu/art-9-gdpr/) according to GDPR (ethnicity, religion, ...) without consent -> for those cases, please use NextCloud or a [private CodiMD](codimd.md#setting-permissions).
+
+:warning:**Under certain circumstances**
+
+* for meetings/information concerning/including external partners: ask them beforehand whether it is OK if you use Google Docs to write meeting minutes/plan things including them. Some organizations/partners might not want information about them on US servers. Respect that and use [NextCloud](correlcloud.md) or a [CodiMD](codimd.md) instead.&#x20;
+
+:white\_check\_mark: You can keep on the Google Drive:
+
+* meeting minutes for internal purposes, e.g. discussing the planning of an internal event or&#x20;
+* additional material such as certificates of attendance or data privacy agreements
+* use Google Drive to transfer/store Open Data
+* use Google Drive to transfer/store non-GDPR relevant data from the partner organization under the condition that the project partner **consented to this in written form.**
 
 ### Guidelines & Best Practices
 
@@ -62,8 +67,6 @@ As questions / information regarding the migration to Google Workspace are only 
 #### Use Shared Drives instead of My Drive
 
 Files in MyDrive are not shared in the Shared Drive system, so other people won't be able to access them. This hinders collaboration. Hence, make sure to always create new documents from a Shared Drive location/folder.&#x20;
-
-
 
 ### Template slides & documents
 
