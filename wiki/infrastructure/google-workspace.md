@@ -12,11 +12,35 @@ As questions / information regarding the migration to Google Workspace are only 
 
 1. Set up [2-factor authentification](https://myaccount.google.com/u/2/signinoptions/two-step-verification/enroll-welcome?hl=en) if it is a personal account (not recommended for group accounts because of log-in problems)
 2. check out which [Google Groups](https://groups.google.com) you're in. This determines which [Google Drive Shared Drives](https://drive.google.com/drive/u/2/shared-drives) / folders you have access to.
-3. Read the [Google Drive "Get started".](google-workspace.md#get-started-1)
+3. Understand what a Google group is
+4. Read the [Google Drive "Get started".](google-workspace.md#get-started-1)
 
-## User Management/Admin
 
-### For CorrelAidX chapters
+
+## Google Groups
+
+### What is a Google Group?
+
+> Groups such as project teams, departments, or classmates can communicate and collaborate using Google Groups. If you want to invite a group to an event, or share documents with a group, you can send a single email to everyone in the group. ([Source](https://support.google.com/a/users/answer/9304805?hl=en))
+
+#### How do we use Google groups?
+
+We use Google groups to arrange our volunteers into different groups, according to their interest and level of involvement and responsibility in CorrelAid. For example, each local chapter has two groups:
+
+* `lc-konstanz`: all people involved in the local chapter. They get access to the CorrelAidX shared drive where they can work on documents.&#x20;
+* `lc-konstanz-heads`: the heads of the local chapter. They can manage members of the `lc-konstanz` group, and get access to the konstanz@correlaid.org email address/account.&#x20;
+
+#### Which groups am I in?&#x20;
+
+You can see your group membership(s) at [https://groups.google.com/my-groups](https://groups.google.com/my-groups). Each group has a description which describes what members of this group can do/what they get access to.
+
+#### Where can I see all groups?
+
+You can find an overview of all groups at [https://groups.google.com/all-groups](https://groups.google.com/all-groups). Each group has a description which describes what members of this group can do/what they get access to.
+
+### User Management/Admin
+
+If you are manager of a Google Group, you can add/remove members by going to [https://groups.google.com/my-groups](https://groups.google.com/my-groups) and then clicking on the group you want to manage. In the sidebar on the left hand side, you'll find "People". There you can add/remove members.
 
 ## Google Drive
 
@@ -34,24 +58,23 @@ As questions / information regarding the migration to Google Workspace are only 
 
 ### What (not) to store on Google Drive&#x20;
 
-#### Data4Good Projects
-
 ****:x:**You must not:**
 
 * store project data from NPO partners if it is [GDPR relevant](../../project-manual/data-security-and-privacy.md#personal-data-gdpr)
 * store any other project data from NPO partners
-* don't store/write down personal information from other people (also incl. Google Docs/Google Sheets), especially concerning  [special characteristics](https://gdpr-info.eu/art-9-gdpr/) according to GDPR (ethnicity, religion, ...) without consent -> for those cases, please use NextCloud or a [private CodiMD](codimd.md#setting-permissions).
+* don't store/write down [special characteristics](https://gdpr-info.eu/art-9-gdpr/) (ethnicity, religion, political beliefs...) of other people (also incl. Google Docs/Google Sheets) -> for those cases, please use NextCloud or a [private CodiMD](codimd.md#setting-permissions).
 
 :warning:**Under certain circumstances**
 
 * for meetings/information concerning/including external partners: ask them beforehand whether it is OK if you use Google Docs to write meeting minutes/plan things including them. Some organizations/partners might not want information about them on US servers. Respect that and use [NextCloud](correlcloud.md) or a [CodiMD](codimd.md) instead.&#x20;
+* avoid storing personal data from CorrelAiders on Google Drive. Names and CorrelAid email addresses should be ok, but for instance, if you need to collect postal addresses, use a [Kobo form ](kobo.md)instead of Google Forms.
+* you can use Google Drive to transfer/store [non-GDPR relevant](../../project-manual/data-security-and-privacy.md#types-of-data) data from the partner organization under the condition that the project partner **consented to this in written form.**
 
 :white\_check\_mark: You can keep on the Google Drive:
 
-* meeting minutes for internal purposes, e.g. discussing the planning of an internal event or&#x20;
+* meeting minutes for internal purposes, e.g. discussing the planning of an internal event&#x20;
 * additional material such as certificates of attendance or data privacy agreements
 * use Google Drive to transfer/store Open Data
-* use Google Drive to transfer/store non-GDPR relevant data from the partner organization under the condition that the project partner **consented to this in written form.**
 
 ### Guidelines & Best Practices
 
@@ -93,6 +116,28 @@ Go to the template, click on "File" and then "make a copy". Make sure to store i
 
 See the [Migration pad](https://pad.correlaid.org/s/B11wgILu9#file-migration-1) for questions & answers related to the Migration from Nextcloud / personal Google docs to Google Drive.
 
+#### How do I migrate Google Docs/Sheet/Slides from my personal account?&#x20;
+
+{% hint style="warning" %}
+Only transfer CorrelAid-related files to the Google Workspace.&#x20;
+{% endhint %}
+
+Two options to do so:
+
+#### A) Via Google Drive for Desktop
+
+1. install [Google Drive for Desktop](https://www.google.com/drive/download/)&#x20;
+2. Add both your personal account (username@gmail.com) and your CorrelAid Workspace account&#x20;
+3. drag and drop via your file explorer from one drive into the other
+
+#### B) Via Transfer ownership
+
+1. Go to your personal [Google Drive](https://drive.google.com) in the browser
+2. Select the files you want to transfer to your CorrelAid Workspace account (you can select multiple files by holding Cmd respectively CTRL)
+3. Right-click -> Share to add your personal Google Workspace account (e.g. frie.p@correlaid.org) as collaborator with editor rights.
+4. Repeat the selection process and then right-click -> Share -> Click on "Editor" next to your CorrelAid Account -> Transfer Ownership.&#x20;
+5. Log into your CorrelAid Account. The files will be in your "My Drive". [Transfer them to the appropriate Shared Drive(s)](https://support.google.com/a/users/answer/9310460?hl=en).&#x20;
+
 ### FAQ
 
 See[ Google Drive FAQ](../faq.md#google-drive) in the overall FAQ.
@@ -112,6 +157,56 @@ coming soon.
 
 ## Google Calendar
 
+### Personal calendar
 
+{% hint style="info" %}
+start using after email migration
+{% endhint %}
+
+You have your personal CorrelAid calendar(s) which you can find at [calendar.google.com](https://calendar.google.com).&#x20;
+
+{% hint style="success" %}
+You can also subscribe to your personal calendars from other accounts (e.g. Outlook, Google, Posteo) so that you already have your other appointments in view when planning your CorrelAid volunteering. A quick Google search should help you out:)
+{% endhint %}
+
+#### Visibility of your calendar / sharing of your personal calendar
+
+By default, your personal CorrelAid calendar can be seen by other CorrelAiders as well - they can't see the details of the event(s), just when you're busy.  You can change this setting in the sharing & permissions settings of your calendar(s). See [this page](https://support.google.com/calendar/answer/37082) for the how-to and other things you can do (e.g share with specific person or group)
+
+#### Arrange a meeting
+
+You can arrange a meeting with someone else by using the "Meet with" box.
+
+#### Displaying  calendars from others
+
+Example use case:
+
+* you want to see the calendar of one of the CorrelAid employees to send them a meeting invite\*
+
+You can find and display calendars of individual people by clicking the plus next to “Other calendars”, then “subscribe to new calendar” and then typing the name of the person
+
+\*don’t just send people meeting invites out of the blue - that’s rude. Always ask first, e.g. via Slack DM :)
+
+### Group calendar
+
+#### Create shared / group calendars
+
+Example use cases:
+
+* CorrelAidX chapter calendar
+* global CorrelAid event calendar
+* Calendar for Mentoring Program
+
+You can create a group calendar and share it with individuals or group(s) within the workspace as described [here](https://support.google.com/a/answer/1626902?hl=en). You can find the list of all groups [here](https://groups.google.com/all-groups). You can give different groups different permissions, e.g. the `lc-heads` group editing rights and the `lc` group reading rights.
+
+You can also [share the calendar with the public](https://support.google.com/calendar/answer/37083).
+
+#### Displaying group calendars
+
+Example use case:
+
+* you want to display a group calendar, e.g. the calendar of your local chapter
+
+Ask one of the group admins (e.g. the local chapter head) to send you the calendar ID, as described [here](https://support.google.com/a/answer/1626902?hl=en).
 
 ## Google Meet&#x20;

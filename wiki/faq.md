@@ -36,27 +36,36 @@ Please post a Slack message to #infrastructure with:
 You don't seem to have the correct permissions. Ping Frie in Slack (@frie) and they'll grant you the correct permissions.
 {% endhint %}
 
-## Google Drive
+## Mail
 
-### How do I migrate Google Docs/Sheet/Slides from my personal account?&#x20;
+### Personal
 
-{% hint style="warning" %}
-Only transfer CorrelAid-related files to the Google Workspace.&#x20;
+{% hint style="info" %}
+a personal email is for example frie dot p at correlaid.org   &#x20;
 {% endhint %}
 
-Two options to do so:
+### Local Chapter
 
-#### A) Via Google Drive for Desktop
+{% hint style="danger" %}
+**Valid from July 4th onwards.**&#x20;
+{% endhint %}
 
-1. install [Google Drive for Desktop](https://www.google.com/drive/download/)&#x20;
-2. Add both your personal account (username@gmail.com) and your CorrelAid Workspace account&#x20;
-3. drag and drop via your file explorer from one drive into the other
+#### I don't get the emails of my local chapter in my inbox?
 
-#### B) Via Transfer ownership
+#### How can I access the emails of my local chapter (e.g. lc-jena@correlaid.org)?
 
-1. Go to your personal [Google Drive](https://drive.google.com) in the browser
-2. Select the files you want to transfer to your CorrelAid Workspace account (you can select multiple files by holding Cmd respectively CTRL)
-3. Right-click -> Share to add your personal Google Workspace account (e.g. frie.p@correlaid.org) as collaborator with editor rights.
-4. Repeat the selection process and then right-click -> Share -> Click on "Editor" next to your CorrelAid Account -> Transfer Ownership.&#x20;
-5. Log into your CorrelAid Account. The files will be in your "My Drive". [Transfer them to the appropriate Shared Drive(s)](https://support.google.com/a/users/answer/9310460?hl=en).&#x20;
+1. make sure you are in the `heads` group (e.g. `lc-konstanz-heads` ) of your chapter by going to [https://groups.google.com/my-groups](https://groups.google.com/my-groups). If you are not part of the group, ask one of the members if they can/want to add you. If the group does not have any members yet, ask Phil.&#x20;
+2. If you are/have become a member, go to `08_vaults` Shared Drive: [https://drive.google.com/drive/u/0/shared-drives](https://drive.google.com/drive/u/0/shared-drives)&#x20;
+3. Follow the instructions outlined [here](infrastructure/password-management.md#how-can-i-access-the-password-s).
 
+## Google Workspace
+
+
+
+### What is a Google group and why is this important?
+
+Read [here](faq.md#google-workspace)[.](infrastructure/google-workspace.md#what-is-a-google-group)
+
+### How do I migrate Google Docs/Sheet/Slides from my personal account?
+
+See [answer here](infrastructure/google-workspace.md#how-do-i-migrate-google-docs-sheet-slides-from-my-personal-account).
