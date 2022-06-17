@@ -16,7 +16,7 @@
 * [Infrastructure](wiki/infrastructure/README.md)
   * [Google Workspace](wiki/infrastructure/google-workspace.md)
   * [Password management](wiki/infrastructure/password-management.md)
-  * [Zoom](wiki/infrastructure/zoom.md)
+  * [Video conferences](wiki/infrastructure/zoom.md)
   * [CodiMD for Collaborative Writing](wiki/infrastructure/codimd.md)
   * [Kobotoolbox for Forms](wiki/infrastructure/kobo.md)
   * [Gitbook for documentation](wiki/infrastructure/gitbook-for-documentation.md)

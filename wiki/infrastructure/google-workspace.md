@@ -210,3 +210,5 @@ Example use case:
 Ask one of the group admins (e.g. the local chapter head) to send you the calendar ID, as described [here](https://support.google.com/a/answer/1626902?hl=en).
 
 ## Google Meet&#x20;
+
+See page on [Video conferences](zoom.md#google-meet).
