@@ -10,12 +10,10 @@ As questions / information regarding the migration to Google Workspace are only 
 
 ## Get started&#x20;
 
-1. Set up [2-factor authentification](https://myaccount.google.com/u/2/signinoptions/two-step-verification/enroll-welcome?hl=en) if it is a personal account (not recommended for group accounts because of log-in problems)
+1. Set up [2-factor authentification](https://myaccount.google.com/u/2/signinoptions/two-step-verification/enroll-welcome?hl=en) if it is a personal account such as frie.p@correlaid.org.
 2. check out which [Google Groups](https://groups.google.com) you're in. This determines which [Google Drive Shared Drives](https://drive.google.com/drive/u/2/shared-drives) / folders you have access to.
 3. Read the [Google Drive "Get started".](google-workspace.md#get-started-1)
 4. Read the Google Mail "Get started".
-
-
 
 ## Google Groups
 
