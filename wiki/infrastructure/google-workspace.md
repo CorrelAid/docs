@@ -44,6 +44,10 @@ If you are manager of a Google Group, you can add/remove members by going to [ht
 
 ## Google Drive
 
+{% hint style="info" %}
+Tip: Download [Drive for Desktop](https://www.google.com/drive/download/) (MacOS / Windows) to also access your files via your file explorer.&#x20;
+{% endhint %}
+
 ### Get started
 
 1. Go to [https://drive.google.com](https://drive.google.com) and make sure you are logged into your CorrelAid Google Workspace account.
@@ -93,7 +97,7 @@ Files in MyDrive are not shared in the Shared Drive system, so other people won'
 
 ### Template slides & documents
 
-We have added templates, e.g. the [Slide Master](https://docs.google.com/presentation/d/14oTzIhF78U64SHaRu704SaS2tCVyaFS-dUWD52OrW0w/) or a template for Data Privacy Agreements.&#x20;
+We have added templates and will add more in the future, e.g. the [Slide Master](https://docs.google.com/presentation/d/14oTzIhF78U64SHaRu704SaS2tCVyaFS-dUWD52OrW0w/).
 
 How to use a template:
 
@@ -122,21 +126,16 @@ See the [Migration pad](https://pad.correlaid.org/s/B11wgILu9#file-migration-1) 
 Only transfer CorrelAid-related files to the Google Workspace.&#x20;
 {% endhint %}
 
-Two options to do so:
 
-#### A) Via Google Drive for Desktop
 
-1. install [Google Drive for Desktop](https://www.google.com/drive/download/)&#x20;
-2. Add both your personal account (username@gmail.com) and your CorrelAid Workspace account&#x20;
-3. drag and drop via your file explorer from one drive into the other
-
-#### B) Via Transfer ownership
-
-1. Go to your personal [Google Drive](https://drive.google.com) in the browser
-2. Select the files you want to transfer to your CorrelAid Workspace account (you can select multiple files by holding Cmd respectively CTRL)
-3. Right-click -> Share to add your personal Google Workspace account (e.g. frie.p@correlaid.org) as collaborator with editor rights.
-4. Repeat the selection process and then right-click -> Share -> Click on "Editor" next to your CorrelAid Account -> Transfer Ownership.&#x20;
-5. Log into your CorrelAid Account. The files will be in your "My Drive". [Transfer them to the appropriate Shared Drive(s)](https://support.google.com/a/users/answer/9310460?hl=en).&#x20;
+1. Go to MyDrive of your personal [Google Drive](https://drive.google.com)&#x20;
+2. Select the files you want to transfer to your CorrelAid Workspace account (you can select multiple files by holding Cmd respectively CTRL).
+3. Right-click and download. This will download a zip file. Unzip it.
+4. Delete the files from your personal Google account (right click > Move to bin) to avoid confusion with multiple files floating around.&#x20;
+5. Switch to your CorrelAid account on [Google Drive](https://drive.google.com). Click  :gear: on the top right, open the Settings and make sure the "Convert Uploads" tickbox is set. This ensures that the downloaded files are automatically converted to Google Docs/Slides/Sheets.
+6. Go to the Shared Drive location where you want to dump your files. Right-click > folder upload. Select your unzipped folder in your Downloads folder.&#x20;
+7. After the upload has completed, move the files by right-clicking > "Move to". Alternatively, download [Drive for Desktop](https://www.google.com/drive/download/) to move files more quickly using your file explorer.
+8. Update links to files, e.g. pinned in Slack channels.
 
 #### How do I migrate a CodiMD pad?
 
@@ -184,7 +183,7 @@ You can also subscribe to your personal calendars from other accounts (e.g. Outl
 
 #### Visibility of your calendar / sharing of your personal calendar
 
-By default, your personal CorrelAid calendar can be seen by other CorrelAiders as well - they can't see the details of the event(s), just when you're busy.  You can change this setting in the sharing & permissions settings of your calendar(s). See [this page](https://support.google.com/calendar/answer/37082) for the how-to and other things you can do (e.g share with specific person or group)
+By default, your personal CorrelAid calendar can be seen by other CorrelAiders as well - **they can't see the details of the event(s), just when you're busy**.  You can change this setting in the sharing & permissions settings of your calendar(s). See [this page](https://support.google.com/calendar/answer/37082) for the how-to and other things you can do (e.g share with specific person or group)
 
 #### Arrange a meeting
 
