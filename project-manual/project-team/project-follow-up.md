@@ -3,7 +3,7 @@
 {% hint style="info" %}
 the most important links from this section in one handy little box:
 
-* [public project summary for NPO template](https://pad.correlaid.org/lTV3NzFNRxGK3wrcSYIk4Q?both#)
+* [public project summary for NPO template](https://pad.correlaid.org/lTV3NzFNRxGK3wrcSYIk4Q?both)
 * [Feedback form](https://ee.correlaid.org/x/hQ3LzCxL)
 {% endhint %}
 
@@ -40,9 +40,9 @@ In order to make writing this summary easier for you, we have created a [templat
 
 ### Project slides
 
-One of our goals is to create awareness about the potential of data for the civic society. In order to do so, CorrelAiders often present CorrelAid and our idea at events, conferences or meetups. For those presentations, it is very useful to have concrete use cases from our work. Hence, we have created a [Google slides presentation with template slides ](https://docs.google.com/presentation/d/1QggH9B9j0Zc76b1CoKHx4VeVn6tyGD1boDKYdh5LI\_I/edit#slide=id.g113a85024ae\_0\_0)that you can adopt for your project. Choose whatever language version is easier to do for you (we'll translate it if needed).
+One of our goals is to create awareness about the potential of data for the civic society. In order to do so, CorrelAiders often present CorrelAid and our idea at events, conferences or meetups. For those presentations, it is very useful to have concrete use cases from our work. Hence, we have created a [Google slides presentation ](https://docs.google.com/presentation/d/12dlmWxYxYqk1iedmSk48DwNiaomr45UM0jMUGblDQdQ/edit?usp=sharing)with one-slide summaries of all projects. You can add your project to this collection. Choose whatever language version is easier to do for you (we'll translate it if needed).
 
-1. **Copy the slides you want to use**. You can find them at the end the presentation.&#x20;
+1. **Copy the slide you want to use**. You can find them at the end the presentation.&#x20;
 2. If you include results / screenshots that are not publicly available anyway, please **make sure to get an "ok" from the organization via email**. If you're unsure whether this is needed, talk to your project coordinator.
 3. Update your team and the project coordinator once you have filled in the slides.
 
