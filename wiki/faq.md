@@ -66,6 +66,19 @@ a personal email is for example frie dot p at correlaid.org   &#x20;
 
 Read [here](faq.md#google-workspace)[.](infrastructure/google-workspace.md#what-is-a-google-group)
 
+
+
+### What is a personal account vs a group account?
+
+Both are normal Google Workspace user accounts. The distinction is conceptual and specific to CorrelAid:
+
+* personal account: your own account in the CorrelAid Google Workspace. For example, phil.b@correlaid.org. Only you have access to this account. You can have a Google calendar for your CorrelAid volunteering, send/receive emails in your function as a CorrelAid volunteer (e.g. to communicate with project partners), collaborate on Google Drive, ...
+* group account: an account which is mainly there for the purpose of collaboratively managing emails, i.e. collaborative inbox. For example, each chapter has a group account / email, e.g. konstanz@correlaid.org. The respective local chapter heads (e.g. members of `group-lc-konstanz-heads` Google Group) have access to the credentials of this account so that they can collaboratively manage the inbox of this email address.&#x20;
+
 ### How do I migrate Google Docs/Sheet/Slides from my personal account?
 
 See [answer here](infrastructure/google-workspace.md#how-do-i-migrate-google-docs-sheet-slides-from-my-personal-account).
+
+### How do I migrate a CodiMD pad to Google Docs?
+
+See [answer here](infrastructure/google-workspace.md#how-do-i-migrate-a-codimd-pad).

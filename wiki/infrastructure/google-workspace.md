@@ -12,8 +12,8 @@ As questions / information regarding the migration to Google Workspace are only 
 
 1. Set up [2-factor authentification](https://myaccount.google.com/u/2/signinoptions/two-step-verification/enroll-welcome?hl=en) if it is a personal account (not recommended for group accounts because of log-in problems)
 2. check out which [Google Groups](https://groups.google.com) you're in. This determines which [Google Drive Shared Drives](https://drive.google.com/drive/u/2/shared-drives) / folders you have access to.
-3. Understand what a Google group is
-4. Read the [Google Drive "Get started".](google-workspace.md#get-started-1)
+3. Read the [Google Drive "Get started".](google-workspace.md#get-started-1)
+4. Read the Google Mail "Get started".
 
 
 
@@ -52,7 +52,7 @@ If you are manager of a Google Group, you can add/remove members by going to [ht
    2. :white\_check\_mark: Shared Drive: The shared drive system where people have access to files relevant to them. If you create/edit/delete files here, your teammates can directly access them as well. The shared drive system replaces NextCloud (with **exceptions for sensitive project data**, see below).&#x20;
    3. :white\_check\_mark: Priority: a new way of creating your own personal "view" of what is in Shared Drives. You can "pin" documents and sort them into workspaces - which won't affect the way things are organized in Shared Drive. You can use this freely as you like. Just remember: this is just for you. You can make Priority your default Drive landing page by changing it in the settings (:gear: in the top right).
 3. Go to Shared Drives and explore. You should have access to the [`00_assets` drive](https://drive.google.com/drive/u/0/folders/0AFVtSXmGUxMCUk9PVA) where you can find template slides, the CorrelAid logo and other useful templates and documents.&#x20;
-4. Migrate any files you might have on your personal laptop / your personal Google account. For the latter,[ see the FAQ](../faq.md#how-do-i-migrate-google-docs-sheet-slides-from-my-personal-account).
+4. If you have CorrelAid files/content somewhere else/on your personal laptop: Read the "What (not) to store on Google Drive" subsection below. Then, migrate any files you have on your personal laptop / your personal Google account. For the latter,[ see the FAQ](../faq.md#how-do-i-migrate-google-docs-sheet-slides-from-my-personal-account).&#x20;
 5. Setting up a local chapter? There is a suggestion for how to structure your local chapter folder in the `99_example_chapter`. Copy-paste that to your own chapter folder to get going!
 6. Check out [this article](https://support.google.com/a/users/answer/9310349?hl=en) to learn more about how you can optimize your personal drive setup / find things faster! :)&#x20;
 
@@ -137,6 +137,19 @@ Two options to do so:
 3. Right-click -> Share to add your personal Google Workspace account (e.g. frie.p@correlaid.org) as collaborator with editor rights.
 4. Repeat the selection process and then right-click -> Share -> Click on "Editor" next to your CorrelAid Account -> Transfer Ownership.&#x20;
 5. Log into your CorrelAid Account. The files will be in your "My Drive". [Transfer them to the appropriate Shared Drive(s)](https://support.google.com/a/users/answer/9310460?hl=en).&#x20;
+
+#### How do I migrate a CodiMD pad?
+
+{% hint style="info" %}
+did you know you can also use Markdown in Google Docs now? You can enable Markdown support by going to Tools -> Preferences -> Tick "Automatically detect markdown"
+{% endhint %}
+
+1. In your CodiMD, click on the "eye" to only show the formatted text.
+2. Use CMD (mac) / Ctrl + A to select all the text
+3. Copy (ctrl/cmd + c)
+4. Create new Google Doc
+5. Paste (ctrl/cmd + v)
+6. Delete the Pad from CodiMD via the [permission dropdown ](codimd.md#setting-permissions)
 
 ### FAQ
 
