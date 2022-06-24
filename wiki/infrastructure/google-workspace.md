@@ -167,6 +167,10 @@ coming soon.
 
 ## Google Calendar
 
+{% embed url="https://youtu.be/-Btml5obRCA" %}
+Introduction to Google Calendar
+{% endembed %}
+
 ### Personal calendar
 
 {% hint style="info" %}
