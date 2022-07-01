@@ -26,8 +26,6 @@
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
 * [Design Guide](wiki/design-guide.md)
 * [CorrelAid Merch](wiki/correlaid-merch.md)
-* [Projects](wiki/projekte.md)
-* [Local Chapter / CorrelAidX](wiki/local-chapter.md)
 
 ## CorrelAidX Manual
 
