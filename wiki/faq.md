@@ -36,60 +36,37 @@ Please post a Slack message to #infrastructure with:
 You don't seem to have the correct permissions. Ping Frie in Slack (@frie) and they'll grant you the correct permissions.
 {% endhint %}
 
-## Cloud
+## Mail
 
-### I need a virtual machine / server for our CorrelAid project. Who can help me?
+### Personal
 
-Frie can maybe set up something for you on our Azure Cloud.
+{% hint style="info" %}
+a personal email is for example frie dot p at correlaid.org   &#x20;
+{% endhint %}
 
-### I need a subdomain / DNS record set up
+### Local Chapter
 
-Frie can set this up for you in Manitu. Please send a justification why you need this & relevant documentation along via Slack.&#x20;
+{% hint style="danger" %}
+**Valid from July 4th onwards.**&#x20;
+{% endhint %}
 
-## Gmail
+#### I don't get the emails of my local chapter in my inbox?
 
-### I need my own @correlaid.org email address. How do I get it?
+#### How can I access the emails of my local chapter (e.g. lc-jena@correlaid.org)?
 
-Request a Google Workspace account via this [form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo\_22r0g/viewform). Phil or Frie will create the account for you within 1-2 days.
-
-### How can I change my password?
-
-Read [here](https://support.google.com/accounts/answer/41078?hl=en\&co=GENIE.Platform%3DDesktop).
-
-### What is a personal email vs. a group email?
-
-Read on [here](infrastructure/email.md#personal-accounts-vs.-group-accounts).
-
-### I don't get the emails of my local chapter (e.g. berlin@correlaid.org) in my personal inbox (e.g. frie.p@correlaid.org)?
-
-This is intentional. While this might be annoying at first - having to switch between accounts - it has advantages:
-
-* Transparency: when you answer an email from the shared inbox, other people with access can see the conversations. In contrast, if you answered an email to info@ or berlin@ from your personal inbox, the others could not see that.&#x20;
-* Clear lines: it's clear what is your personal business and what is business of the LC/group. For example, having a distinct personal inbox enables you to get _personal_ invitations to events/meetings.&#x20;
-
-### How can I access the emails of my local chapter (e.g. lc-jena@correlaid.org)?
-
-Read [here](infrastructure/email.md#accessing-lc-group-emails).
-
-### I should have access to a group email (e.g. [konstanz@correlaid.org](mailto:konstanz@correlaid.org)) but I don’t see it when I go to [mail.google.com](http://mail.google.com)?! <a href="#i-should-have-access-to-a-group-email-eg-konstanzcorrelaidorg-but-i-dont-see-it-when-i-go-to-mailgoo" id="i-should-have-access-to-a-group-email-eg-konstanzcorrelaidorg-but-i-dont-see-it-when-i-go-to-mailgoo"></a>
-
-You need to be logged into your personal Workspace account (e.g. [frie.p@correlaid.org](mailto:frie.p@correlaid.org)) in order to see the group mail.\
-Also try:
-
-* logging out and back in of your account
-* reloading gmail
-
-### I have access to a group email (e.g. [konstanz@correlaid.org](mailto:konstanz@correlaid.org)) in the browser via this delegation thing. How do I get this on my smartphone or into my email client? <a href="#i-have-access-to-a-group-email-eg-konstanzcorrelaidorg-in-the-browser-via-this-delegation-thing-how" id="i-have-access-to-a-group-email-eg-konstanzcorrelaidorg-in-the-browser-via-this-delegation-thing-how"></a>
-
-You don’t - at least not in a [not totally user-unfriendly way](https://support.google.com/mail/thread/80323090/how-can-i-access-my-delegated-gmail-email-on-my-mobile?hl=en). And it sucks!  (picture Frie screaming into the void when they learnt about this).
-
-This is why we share the credentials for the group account(s) you have access to with you via the [KeePass database files](https://docs.correlaid.org/wiki/infrastructure/password-management). Read [here](infrastructure/email.md#mobile).
+1. make sure you are in the `heads` group (e.g. `lc-konstanz-heads` ) of your chapter by going to [https://groups.google.com/my-groups](https://groups.google.com/my-groups). If you are not part of the group, ask one of the members if they can/want to add you. If the group does not have any members yet, ask Phil.&#x20;
+2. If you are/have become a member, go to `08_vaults` Shared Drive: [https://drive.google.com/drive/u/0/shared-drives](https://drive.google.com/drive/u/0/shared-drives)&#x20;
+3. Follow the instructions outlined [here](infrastructure/password-management.md#how-can-i-access-the-password-s).
 
 ## Google Workspace
+
+
 
 ### What is a Google group and why is this important?
 
 Read [here](faq.md#google-workspace)[.](infrastructure/google-workspace.md#what-is-a-google-group)
+
+
 
 ### What is a personal account vs a group account?
 

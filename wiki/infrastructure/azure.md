@@ -1,13 +1,12 @@
-# Azure & DNS management
-
-## Azure
+# Azure
 
 We have credits for the Microsoft Azure cloud through their [non-profit program](https://nonprofit.microsoft.com/register). We use Azure resources for our projects if necessary / requested by the project team.
 
-## DNS management
+## FAQ 
 
-DNS records are managed through Manitu. Frie can help you when you need to have a subdomain such as obs.correlaid.org pointing at your project / site or other DNS records (A, MX, CNAME, ...).
+### I need a virtual machine / server for our CorrelAid project. Who can help me?
 
-## FAQ
+{% hint style="info" %}
+Ping **Frie \(@frie\) and/or Jan \(@Jan\)** on Slack and we'll help you.
+{% endhint %}
 
-See [FAQ](../faq.md#cloud).
