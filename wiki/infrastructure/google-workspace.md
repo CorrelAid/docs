@@ -13,7 +13,68 @@ As questions / information regarding the migration to Google Workspace are only 
 1. Set up [2-factor authentification](https://myaccount.google.com/u/2/signinoptions/two-step-verification/enroll-welcome?hl=en) if it is a personal account such as frie.p@correlaid.org.
 2. check out which [Google Groups](https://groups.google.com) you're in. This determines which [Google Drive Shared Drives](https://drive.google.com/drive/u/2/shared-drives) / folders you have access to.
 3. Read the [Google Drive "Get started".](google-workspace.md#get-started-1)
-4. Read the Google Mail "Get started".
+4. Read the [Google Mail "Get started"](google-workspace.md#gmail).
+
+## Gmail
+
+Starting July 2022, we use Gmail through our [Google Workspace for Nonprofits](google-workspace.md) for emails.
+
+With your Google Workspace account, you get a personal email address that you can use for your CorrelAid activities, e.g. reaching out to Nonprofits.&#x20;
+
+### Get started
+
+1. Log into your Google account
+2. Head to [https://mail.google.com/mail/u/0/#inbox](https://mail.google.com/mail/u/0/#inbox). Make sure you're still logged into your CorrelAid account by checking top right.&#x20;
+3. If you need access to group email (e.g. local chapter or another team address), read below.&#x20;
+4. send a test email, e.g. to your personal email address.&#x20;
+5. optional: set up your favorite email client
+6. optional: Set up[ labels/folders](https://support.google.com/mail/answer/118708?hl=en\&co=GENIE.Platform%3DDesktop) to stay organized. Check out the keyboard [shortcuts](https://support.google.com/mail/answer/6594?hl=en\&co=GENIE.Platform%3DDesktop) to get more productive in gmail.
+
+### Personal accounts vs. group accounts
+
+personal email: frie.p@correlaid.org
+
+group email:&#x20;
+
+* info@correlaid.org
+* berlin@correlaid.org
+* education@correlaid.org&#x20;
+* ...
+
+### Local chapter/group emails
+
+You get access to the emails of a group such as a local chapter or the podcast team, if you are member of the corresponding `heads` google group. You can check whether you're member of this group by going to [https://groups.google.com/my-groups](https://groups.google.com/my-groups).&#x20;
+
+There are two ways you have access to this email/account:
+
+1. access to emails is **delegated** to you because you are part of the `heads` Google group: Delegated access is a tool from Google that is typically used in a boss/assistant scenario, e.g. the assistant needs access to their boss' emails why the boss is on holiday. You can watch this [short video](https://www.youtube.com/watch?v=wVGqJR57Lcc) if you want to understand the background. CorrelAid uses this tool to delegate access to group emails to the respective `heads` Google group. For example, access to `berlin@correlaid.org` is delegated to the Google group `group-lc-berlin-heads`.&#x20;
+2. **access to account credentials** through Keepass file: Unfortunately, delegated access only works in the browser in Gmail directly. If you want to access the emails on your mobile phone or through an email client such as Outlook or Thunderbird, you need the credentials. You get access to the credentials of your group account through a Keepass database file that is shared with the members of the `heads` group. For example, all members of the Google group `group-lc-berlin-heads` have access to the `berlin.kdbx` keepass file which contains the credentials for the Google account berlin@correlaid.org. Members can use those credentials to set up email access on their phone or in their favorite email client.
+
+### Accessing LC/group emails
+
+#### 1. Gmail browser interface
+
+Log into your personal account in the browser and go to [https://mail.google.com/mail/u/0/](https://mail.google.com/mail/u/0/). Go to the account dropdown on the top right and click on it. The group account should show up with a little key next to it. Switch to it to access the group account emails.
+
+Check  [FAQ](../faq.md#i-should-have-access-to-a-group-email-eg-konstanzcorrelaidorg-but-i-dont-see-it-when-i-go-to-mailgoo) for troubleshooting.
+
+#### **2. Mobile**
+
+1. &#x20;[Follow the instructions](password-management.md#how-can-i-access-the-password-s) to get the credentials for the group account
+2. Sign into [Gmail](https://support.google.com/mail/answer/8494?hl=en) (google around if you are using the built-in mail app)&#x20;
+
+#### 3. Outlook, Thunderbird etc.
+
+1. &#x20;[Follow the instructions](password-management.md#how-can-i-access-the-password-s) to get the credentials for the group account
+2. Set up your favorite email client (Googling around - "set up gmail in \[client]" - should give answers). If you need help or run into problems, ask Frie.
+
+### Tips to work together on emails
+
+1. Use labels to assign conversations to each other: you can use [Gmail labels](https://www.dragapp.com/blog/gmail-labels-everything/) to "assign" conversations to each other. This way, the other person/people know(s) that you're on this and that they don't have to take it on.&#x20;
+
+### FAQ
+
+See [FAQ](../faq.md#gmail).
 
 ## Google Groups
 
@@ -161,9 +222,7 @@ Due to GDPR concerns, please avoid using Google Forms for anything requiring a s
 * Pretix for events -> Frie or Phil can give you access
 * [KoboToolbox](kobo.md) for forms such as feedback surveys or signup for internal events (e.g. a summer party) -> Frie or Phil can give you access
 
-## Google Mail
 
-coming soon.
 
 ## Google Calendar
 
@@ -172,10 +231,6 @@ Introduction to Google Calendar
 {% endembed %}
 
 ### Personal calendar
-
-{% hint style="info" %}
-start using after email migration
-{% endhint %}
 
 You have your personal CorrelAid calendar(s) which you can find at [calendar.google.com](https://calendar.google.com).&#x20;
 
@@ -186,6 +241,10 @@ You can also subscribe to your personal calendars from other accounts (e.g. Outl
 #### Visibility of your calendar / sharing of your personal calendar
 
 By default, your personal CorrelAid calendar can be seen by other CorrelAiders as well - **they can't see the details of the event(s), just when you're busy**.  You can change this setting in the sharing & permissions settings of your calendar(s). See [this page](https://support.google.com/calendar/answer/37082) for the how-to and other things you can do (e.g share with specific person or group)
+
+#### Add CorrelAid calendar to personal Google calendar
+
+**Optional**: If you use Google calendar to manage your personal life outside of CorrelAid, you can add the CorrelAid calendar to it - this way you don't have to switch accounts in calendar.google.com. To do this, [share your CorrelAid calendar with your personal Gmail address.](https://support.google.com/calendar/answer/37082?hl=en) Google around whether this is also possible for other calendar solutions (Outlook, Posteo, ...)
 
 #### Arrange a meeting
 
@@ -200,6 +259,8 @@ Example use case:
 You can find and display calendars of individual people by clicking the plus next to “Other calendars”, then “subscribe to new calendar” and then typing the name of the person
 
 \*don’t just send people meeting invites out of the blue - that’s rude. Always ask first, e.g. via Slack DM :)
+
+
 
 ### Group calendar
 
