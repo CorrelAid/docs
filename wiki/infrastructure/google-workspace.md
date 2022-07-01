@@ -37,6 +37,19 @@ group email:&#x20;
 * education@correlaid.org&#x20;
 * ...
 
+###
+
+### Accessing personal mails
+
+You can access your personal emails via one of the following ways:
+
+1. **Gmail browser client**: Just log into your Google workspace account and go to  [https://mail.google.com/mail/u/0/](https://mail.google.com/mail/u/0/#inbox) .  You might need to switch from your personal gmail account if that's set up as default.
+2. All **email clients** such as Thunderbird or Outlook should support Gmail. Googling around - "set up gmail in \[client]" - should give answers. If you need help or run into problems or want to set up something more complicated, ask Frie.
+3. on smartphone: similarly, it should be easy to set up the google mail on your mobile phone.&#x20;
+
+* [Android](https://support.google.com/mail/answer/6078445?hl=en\&co=GENIE.Platform%3DAndroid)
+* [iPhone](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwjg15iAzdf4AhWWX\_EDHY\_BD88QFnoECBUQAw\&url=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT201320\&usg=AOvVaw08jbPKtMGeroyoQUqIbWDR)
+
 ### Local chapter/group emails
 
 You get access to the emails of a group such as a local chapter or the podcast team, if you are member of the corresponding `heads` google group. You can check whether you're member of this group by going to [https://groups.google.com/my-groups](https://groups.google.com/my-groups).&#x20;
