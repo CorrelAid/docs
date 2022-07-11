@@ -4,7 +4,7 @@
 
 * enable the team to communicate with each other
 * make data available to the team
-* set up project tools&#x20;
+* set up project tools
 
 #### Checklist
 
@@ -13,7 +13,7 @@
 * [ ] create [Git](../../wiki/infrastructure/github-and-gitlab.md) repository and add members
 * [ ] set up CorrelCloud (if necessary)
 * [ ] data transfer via CorrelCloud (or other means when data is not GDPR relevant)
-* [ ] coordinate kickoff workshop &#x20;
+* [ ] coordinate kickoff workshop
 * [ ] separate 1-1 onboarding call with team lead
 {% endhint %}
 
@@ -22,7 +22,7 @@
 {% hint style="info" %}
 The most important links from this section in one handy little box:
 
-* [CorrelCloud folder](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi) with&#x20;
+* [CorrelCloud folder](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi) with
   * confirmation of participation template
   * data security declaration template
   * example project folder with an example veracrypt container
@@ -39,7 +39,7 @@ Usually, our project teams use GitHub (or GitLab) for collaboration. To request 
 
 1. in your project team channel, collect the GitHub (or GitLab) of all team members.
 2. request a GitHub/GitLab repository by following this [FAQ](../../wiki/infrastructure/github-and-gitlab.md#i-want-to-create-a-github-gitlab-repository-for-my-project-and-add-my-team-to-it-how-do-i-do-it).
-3. A GitHub / GitLab admin will help you as soon as possible.&#x20;
+3. A GitHub / GitLab admin will help you as soon as possible.
 
 ## Create Slack channel
 
@@ -51,11 +51,11 @@ If you have not created a private Slack channel as part of the ideation phase, y
 **Why is it important that project teams communicate on Slack?**
 
 1. Access to the community. Having the team communication on Slack gives team members instant and direct access to the community, e.g. the #help channel. It is also easier to get in contact with their project coordinator(s) because they are part of the channel, get infrastructure support (#infrastructure) and to feel part of the larger CorrelAid community.
-2. Better project coordination. While the main work of the project coordinator is in the earlier phases of a project, they are also responsible for making sure that the project works as expected. If the project coordinator is part of the main communication channel, they can get a better feeling for how the project is going and offer their help directly.&#x20;
-3. Archive. Communication is centralized and stored on Slack. This means it is easier to go back and find old conversations if necessary.&#x20;
+2. Better project coordination. While the main work of the project coordinator is in the earlier phases of a project, they are also responsible for making sure that the project works as expected. If the project coordinator is part of the main communication channel, they can get a better feeling for how the project is going and offer their help directly.
+3. Archive. Communication is centralized and stored on Slack. This means it is easier to go back and find old conversations if necessary.
 {% endhint %}
 
-### Welcome message&#x20;
+### Welcome message
 
 It's always nice if people join a Slack channel and there is already a message waiting for them to get a conversation going. Hence, you should post a welcome message. This message should include the following:
 
@@ -69,28 +69,28 @@ example:
 {% tab title="🇬🇧" %}
 Hello @channel,
 
-we are very happy that you want to help **\[ORGANIZATION]**. I am **\[XY]** and I am the project coordinator for this project \[together with Frie (@frie)]. That means if you have any questions or problems, please feel free to contact me. However, I will not be an active part of your team, but will stay in the background.&#x20;
+we are very happy that you want to help **\[ORGANIZATION]**. I am **\[XY]** and I am the project coordinator for this project \[together with Frie (@frie)]. That means if you have any questions or problems, please feel free to contact me. However, I will not be an active part of your team, but will stay in the background.
 
-please take a few minutes and:&#x20;
+please take a few minutes and:
 
-* briefly introduce yourself in the channel&#x20;
+* briefly introduce yourself in the channel
 * post your GitHub account in the thread (so we can add you to the GitHub repository)
-* join the channel #projectcycle where we will share updates and info like zoom links for events that affect all projects in the project cycle&#x20;
-* the next important event is the kickoff on **X** (evening) and **Y**(morning + afternoon). you can find the program for this very important event here: **LINK**. There you will also meet your contact person from **\[ORGANIZATION]**.&#x20;
+* join the channel #projectcycle where we will share updates and info like zoom links for events that affect all projects in the project cycle
+* the next important event is the kickoff on **X** (evening) and **Y**(morning + afternoon). you can find the program for this very important event here: **LINK**. There you will also meet your contact person from **\[ORGANIZATION]**.
 
 Until then feel free to network here in Slack and also check out the other channels if you are new here!
 {% endtab %}
 
 {% tab title="🇩🇪" %}
 Hallo @channel,\
-wir freuen uns sehr, dass ihr **\[ORGANISATION]** helfen möchtet. Ich bin \[XY] und koordiniere \[zusammen mit Frie] dieses Projekt. D.h. wenn ihr Fragen oder Probleme habt, könnt ihr mich jederzeit gerne ansprechen. Ich werde allerdings nicht aktiver Teil eures Teams sein, sondern mich im Hintergrund halten. \
+wir freuen uns sehr, dass ihr **\[ORGANISATION]** helfen möchtet. Ich bin \[XY] und koordiniere \[zusammen mit Frie] dieses Projekt. D.h. wenn ihr Fragen oder Probleme habt, könnt ihr mich jederzeit gerne ansprechen. Ich werde allerdings nicht aktiver Teil eures Teams sein, sondern mich im Hintergrund halten.\
 bitte nehmt euch ein paar Minuten und:
 
 * stellt euch kurz im Channel vor
 * postet euren GitHub Account in den Thread (sodass wir euch zum GitHub Repository hinzufügen können)
 * tretet dem Channel [#projectcycle](https://correlaid.slack.com/archives/C01T38KD0JU) bei, wo wir Updates und Infos wie z.B. Zoom Links für Events teilen werden, die alle Projekte des Projektzyklus betreffen
 
-das nächste wichtige Event ist der Kickoff am **X** (abends) und **Y**(vormittags + nachmittags). das Programm für dieses sehr wichtige Event findet ihr hier: **LINK**. Dort werdet ihr auch eure Kontaktperson von **\[ORGANISATION] **kennenlernen.Bis dahin netzwerkt sehr gerne hier im Slack und schaut euch auch in den anderen Channeln um, falls ihr neu hier seid!
+das nächste wichtige Event ist der Kickoff am **X** (abends) und **Y**(vormittags + nachmittags). das Programm für dieses sehr wichtige Event findet ihr hier: **LINK**. Dort werdet ihr auch eure Kontaktperson von \*\*\[ORGANISATION] \*\*kennenlernen.Bis dahin netzwerkt sehr gerne hier im Slack und schaut euch auch in den anderen Channeln um, falls ihr neu hier seid!
 {% endtab %}
 {% endtabs %}
 
@@ -130,9 +130,9 @@ How to:
 2. Open the folder in the CorrelCloud web interface
 3. Click on the "share" icon in the "breadcrumbs" of the folder (see screenshot below)
 4. Create a share link with the following properties: "file drop (upload only)" and "password protect". Choose a secure password (e.g. by using a password generator or a [passphrase](https://useapassphrase.com)). See screenshot below.
-5. Copy the link by clicking on the copy symbol and send it to the NPO. In a second email, send the password.&#x20;
+5. Copy the link by clicking on the copy symbol and send it to the NPO. In a second email, send the password.
 
-![The share symbol is on the right end of the "breadcrumbs" ](../../.gitbook/assets/screenshot-2020-07-09-at-11.40.03.png)
+![The share symbol is on the right end of the "breadcrumbs"](../../.gitbook/assets/screenshot-2020-07-09-at-11.40.03.png)
 
 ![Select the settings File drop and Password protect](../../.gitbook/assets/screenshot-2020-07-09-at-11.39.20.png)
 
@@ -146,19 +146,14 @@ Only if the data is not sensitive, other channels such as Google Drive or email 
 Who: Project lead in coordination with the project coordinator
 {% endhint %}
 
-Make sure to inform your team members about the data privacy and security considerations for the project. If you are unsure about what applies to your project, ask the project coordinator - they should know this. Express yourself as clearly as possible in DO's and DON'Ts. For examples, please see [here](ideation.md#data-privacy-and-data-access).
+Make sure to inform your team members about the data privacy and security considerations for the project. If you are unsure about what applies to your project, ask the project coordinator - they should know this. Express yourself as clearly as possible in DO's and DON'Ts. For examples, please see [here](scoping.md#data-privacy-and-data-access).
 
-If encryption is necessary for your project, share [this documentation page](../data-security-and-privacy.md#data-encryption) with them so that they can familiarize themselves with the options. A more detailed introduction to the tools - particularly VeraCrypt -  should be part of the [kickoff](kickoff.md).
+If encryption is necessary for your project, share [this documentation page](../data-security-and-privacy.md#data-encryption) with them so that they can familiarize themselves with the options. A more detailed introduction to the tools - particularly VeraCrypt - should be part of the [kickoff](kickoff.md).
 
 ### Data privacy policy statement
 
 If the project has **any** data privacy requirements, the participants need to sign the [**declaration on data security**](../data-security-and-privacy.md#declaration-on-data-security).
 
-You can download German and English templates [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=/template\_data\_privacy). They contain the requirements for the highest security setup (including the requirement to create a separate user account), so please make sure to adapt them to your specific project by removing passages not needed for your project. If you're unsure, ask your project coordinator or our data privacy expert Nina (@Nina Hauser on Slack).&#x20;
+You can download German and English templates [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=/template\_data\_privacy). They contain the requirements for the highest security setup (including the requirement to create a separate user account), so please make sure to adapt them to your specific project by removing passages not needed for your project. If you're unsure, ask your project coordinator or our data privacy expert Nina (@Nina Hauser on Slack).
 
-Upload the signed declarations to the CorrelCloud folder.&#x20;
-
-
-
-
-
+Upload the signed declarations to the CorrelCloud folder.

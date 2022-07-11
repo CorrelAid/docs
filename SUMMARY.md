@@ -54,7 +54,7 @@
 * [Toolbox](project-manual/toolbox.md)
 * [Project coordination](project-manual/project-coordinators/README.md)
   * [Project Acquisition](project-manual/project-coordinators/project-acquisition.md)
-  * [Ideation](project-manual/project-coordinators/ideation.md)
+  * [Scoping](project-manual/project-coordinators/scoping.md)
   * [Team selection](project-manual/project-coordinators/team-selection.md)
   * [Onboarding](project-manual/project-coordinators/onboarding.md)
   * [Kickoff](project-manual/project-coordinators/kickoff.md)
