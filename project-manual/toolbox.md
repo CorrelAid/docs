@@ -32,7 +32,6 @@ You can find the templates in the [Google Docs Template Gallery](https://docs.go
 ### Project acquisition
 
 * Project decks and CorrelAidX project acquisition slide deck [on Google Drive](https://drive.google.com/drive/u/0/folders/1tpYJ-V7V1hfWovzYaKUjzWlfLN3XlFLc)
-* [Email templates for CorrelAidX](../correlaidx-manual/get-started/e-mail-template-to-contact-npos.md)
 * list of projects with linked resources such as podcast episodes, YouTube videos, repositories etc.
   * [English](https://correlaid.github.io/projects/project\_pr/correlaid\_projects\_pr\_en.html)
   * [German](https://correlaid.github.io/projects/project\_pr/correlaid\_projects\_pr\_de.html)

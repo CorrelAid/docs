@@ -5,9 +5,9 @@ Quick links
 {% hint style="info" %}
 The most important links from this section in one handy little box:
 
-* [Ideation Phase CodiMD Template](https://pad.correlaid.org/q8nnfNimT3Shj9\_wUp-kvQ)
+* [Scoping Phase Google Docs Template](https://docs.google.com/document/d/10m0qPGRNbGi0LYyMc6LYTxner5WSMYtUAIHkIHZwHTg/edit)
 * [Data Maturity Framework](http://www.datasciencepublicpolicy.org/home/resources/datamaturity/)
-* [Call for Applications CodiMD Template](https://pad.correlaid.org/rLUIX\_MdS\_urNKF4WkcaQQ) (🇬🇧 🇩🇪)
+* [Call for Applications Google Docs Templates (🇬🇧 🇩🇪)](https://drive.google.com/drive/u/0/folders/1KR7dxTdLRhtDEsQspLnEEtA2vsYM7gan)
 * ["When do we do a project?" - Guide](../project-decision-guide.md)
 * [GitHub Projects repository](https://github.com/CorrelAid/projects) with Kanban board
 {% endhint %}
@@ -257,7 +257,7 @@ However, if you are just starting out as a chapter and just acquired your first 
 #### Checklist
 
 {% hint style="success" %}
-* [ ] draft call for applications on CodiMD
+* [ ] draft call for applications on Google Docs or CodiMD
 * [ ] get approval for call for applications from NPO
 * [ ] add project to kobotoolbox form
 * [ ] send out call for applications to newsletter
@@ -268,12 +268,9 @@ However, if you are just starting out as a chapter and just acquired your first 
 
 Once you have decided together with the NPO that a project makes sense and you have a clear idea of the scope and content of the project, you can start drafting the call for applications (de: Projektausschreibung). The call for applications is the central way how we announce our projects and how we collect applications from our network.
 
-You can draft the call for applications on CodiMD. In order to make this as easy as possible for you, we provide [German](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8\_w?both) and [English](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8\_w?both) templates for this that closely mirror the structure of the Mailchimp template that you'll use later to send it out to the network.
+You can draft the call for applications on Google Docs or CodiMD. In order to make this as easy as possible for you, we provide [templates](https://drive.google.com/drive/u/0/folders/1KR7dxTdLRhtDEsQspLnEEtA2vsYM7gan) for this that closely mirror the structure of the Mailchimp template that you'll use later to send it out to the network.
 
-* 🇩🇪 the [German template](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8\_w?both)
-* 🇬🇧 the [English template](https://pad.correlaid.org/jnPmVZffSdWbWw3oQWN8\_w?both)
-
-**Copy the content of the CodiMD into a new pad and rename it to reflect your project's name.** Then you can start filling in the necessary information. If you want the NPO to be able to review the document, you can set the permission to "editable".
+**Copy the content of the Google Template into a new Google doc (or create a new doc from the template) or CodiMD and rename it to reflect your project's name.** Then you can start filling in the necessary information.
 
 {% hint style="info" %}
 **German or English?**
@@ -287,18 +284,14 @@ For project applications, we have a [Kobotoolbox form](https://ee.correlaid.org/
 
 ### Send with Mailchimp
 
-Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our Mailchimp newsletter list. If you do not have access to Mailchimp, ask in #projects for support. The following video shows how to do send out a project call for applications via Mailchimp:
+Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our Mailchimp newsletter list. If you do not have access to Mailchimp, ask Frie or Phil for support.&#x20;
 
-{% hint style="warning" %}
-this video is not up to date: the editing of the buttons is not necessary anymore because we now have the Kobotoolbox form.
-{% endhint %}
 
-{% embed url="https://youtu.be/wwQIBOydcV4" %}
 
 {% hint style="info" %}
 **How can I only send to a local chapter?**
 
-Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter audience. When building your Mailchimp campaign, you can select a specific segment of the list. Check out [this part](https://youtu.be/wwQIBOydcV4?t=227) of the tutorial video.
+Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter audience. When building your Mailchimp campaign, you can select a specific segment of the list.&#x20;
 {% endhint %}
 
 ## FAQ
