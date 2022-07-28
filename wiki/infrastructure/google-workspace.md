@@ -39,7 +39,7 @@ group email:&#x20;
 
 ###
 
-### Accessing personal mails
+### Accessing personal emails
 
 You can access your personal emails via one of the following ways:
 
@@ -134,7 +134,7 @@ Tip: Download [Drive for Desktop](https://www.google.com/drive/download/) (MacOS
 
 * store project data from NPO partners if it is [GDPR relevant](../../project-manual/data-security-and-privacy.md#personal-data-gdpr)
 * store any other project data from NPO partners
-* don't store/write down [special characteristics](https://gdpr-info.eu/art-9-gdpr/) (ethnicity, religion, political beliefs...) of other people (also incl. Google Docs/Google Sheets) -> for those cases, please use NextCloud or a [private CodiMD](codimd.md#setting-permissions).
+* don't store/write down [special characteristics](https://gdpr-info.eu/art-9-gdpr/) (ethnicity, religion, political beliefs...) of other people (also incl. Google Docs/Google Sheets) -> for those cases, please use [NextCloud](correlcloud.md) or a [private CodiMD](codimd.md#setting-permissions).
 
 :warning:**Under certain circumstances**
 
