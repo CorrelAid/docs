@@ -66,4 +66,4 @@ The font family "Roboto" was chosen for the corporate design of CorrelAid. In de
 
 ### Canva
 
-CorrelAid has a [Canva ](http://canva.com)Pro-Account, on which certain basic rules, such as club colors, logos, fonts, etc. are already maintained. If you want to design a product (flyer, poster, FB banner...) for your local group / information event, please contact [Isabel ](mailto:isabel.w@correlaid.org)or the [#pr](https://app.slack.com/client/T05092DNR/C0BRFPMNE/rimeto\_profile/UDP7BTC65)-team to get access to the CorrelAid-Team in Canva.&#x20;
+CorrelAid has a [Canva ](http://canva.com)Pro-Account, on which certain basic rules, such as club colors, logos, fonts, etc. are already maintained. There are a lot of templates for flyers, social media posts etc. in the [layout folder](https://www.canva.com/teams/layouts) of the team. If you want to design a product (flyer, poster, FB banner...) for your local group / information event, please contact [Isabel ](mailto:isabel.w@correlaid.org)or the [#pr](https://app.slack.com/client/T05092DNR/C0BRFPMNE/rimeto\_profile/UDP7BTC65)-team to get access to the CorrelAid-Team in Canva.&#x20;
