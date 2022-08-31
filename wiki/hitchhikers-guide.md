@@ -5,14 +5,14 @@ description: some thoughts on how we work internally.
 # How We work - Hitchhiker's Guide to CorrelAid
 
 {% hint style="info" %}
-**tl;dr: **If you have a cool idea you want to implement at/with CorrelAid, we will support you with resources to make it happen. You are free in the design and in your decisions - a team of 20 people will be there in calls and on Slack to support you. You can always contact [Frie](mailto:frie.p@correlaid.org) or [Johannes](mailto:johannes.m@correlaid.org) with your idea.
+**tl;dr: **If you have a cool idea you want to implement at/with CorrelAid, we will support you with resources to make it happen. You are free in the design and in your decisions - a team of 20 people will be there in calls and on Slack to support you. You can always contact [Frie](mailto:frie.p@correlaid.org) or [Isabel](mailto:isabel.w@correlaid.org) with your idea.
 {% endhint %}
 
 Our goal with CorrelAid is to democratize the potential of Data Science. In practice, we achieve this by supporting a network of over 1000 dedicated data analysts in Germany, by giving them the opportunity to grow, and by organizing pro-bono data science projects for civil society. But how do we work _internally_? This is an overview of how we organize ourselves at CorrelAid, how we work and which principles we follow.
 
 ## Our principles
 
-The way we work together in the Core Team is strongly influenced by principles. We did not establish these at some point, but they developed over time and are the result of almost five years of experience. Here are the three most important ones, in my opinion:
+The way we work together in the Core Team is strongly influenced by principles. We did not establish these at some point, but they developed over time and are the result of almost seven years of experience. Here are the three most important ones, in my opinion:
 
 1. Flexibility: We are almost exclusively - except for three employees - a team of volunteers. We do the work on CorrelAid alongside our studies, our job and our other commitments: Someone has to write their final thesis for a few months, goes on a semester abroad, or generally has a lot on their mind. No problem. We want everyone to be able to get involved, whether it's a small internal project for a week, a pro bono project that lasts 2 months or a blog post every half year.&#x20;
 2. Entrepreneurship: For us, innovation means developing many ideas, making many plans. And then we think about what can actually be implemented and what will be implemented. _Doing is more important than planning_. We support every internal initiative in which committed people can apply their skills, have fun, and grow at the same time. Flexible commitment also means that it's okay if these internal projects are temporarily put on hold or abandoned because of a lack of time resources or a change of plans.
@@ -40,9 +40,6 @@ The Core Team consists of all people who are involved in the organization of Cor
 
 Our Core Team _does not_ carry out projects. Our project teams do that. When we have defined a good data project together with an organization, we send a call for applications for it to our network. We then staff the project with a diverse a team as possible, bringing together all the skills needed for the project. Then we provide training on project flow and data security and provide the project team and the organization with the space and time to meet in person at a kick-off workshop. The structure of our projects is a topic for its own blog post. So far, we have announced and carried out about 5-10 projects every year. In the future, we aim to increase this number even further in order to do even more good with data science.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 
 
@@ -67,9 +64,7 @@ The most important organ in our ongoing work are the conference calls. We differ
 *   first Monday of every month: General Call
 
     On the first Monday of the month there is a big call where all teams, but also all interested people from the CorrelAid community can participate. We give updates from our work and onboarding information for "newbies".&#x20;
-*   2nd and 4th Monday of the month: Core Team Call
 
-    A Core Team Call is held on the second and fourth Monday of the year. This is where the teams exchange information and make decisions together or consult each other on decisions within the teams.&#x20;
 *   3rd Monday of the month: Local Chapter Call
 
     On the third Monday of each month, the local chapters exchange views on current topics, challenges and projects.&#x20;
@@ -103,6 +98,6 @@ Some (also annoying) tasks have to be taken care of regularly in an association.
 The bottom-line is: **If you have a cool idea you want to implement at/with CorrelAid, we will support you with resources to realize your idea. You are free in the design and in your decisions - a team of 20 people will be there in calls and on Slack to support you. **
 
 {% hint style="info" %}
-Have an idea? Write [Frie](mailto:frie.p@correlaid.org) or [Johannes](mailto:johannes.m@correlaid.org) about it!
+Have an idea? Write [Frie](mailto:frie.p@correlaid.org) or [Isabel](mailto:isabel.w@correlaid.org) about it!
 {% endhint %}
 
