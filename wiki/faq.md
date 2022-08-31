@@ -7,7 +7,7 @@ You'll find more specific FAQs in the respective pages.
 ## Everything seems to be on Slack! How do I get on there?
 
 {% hint style="info" %}
-If you want to become part of our Slack, drop an email to [Frie](mailto:frie.p@correlaid.org) or [Phil](mailto:phil.b@correlaid.org). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack.
+If you want to become part of our Slack, drop an email to [Frie](mailto:frie.p@correlaid.org) or [Isabel](mailto:isabel.w@correlaid.org). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack.
 {% endhint %}
 
 ## Do you also have email?
@@ -50,7 +50,7 @@ Frie can set this up for you in Manitu. Please send a justification why you need
 
 ### I need my own @correlaid.org email address. How do I get it?
 
-Request a Google Workspace account via this [form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo\_22r0g/viewform). Phil or Frie will create the account for you within 1-2 days.
+Request a Google Workspace account via this [form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo\_22r0g/viewform). Isabel or Frie will create the account for you within 1-2 days.
 
 ### How can I change my password?
 
