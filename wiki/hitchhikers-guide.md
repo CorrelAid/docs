@@ -95,7 +95,7 @@ A few examples of great internal initiatives: Our Regina in Bamberg takes care o
 
 Some (also annoying) tasks have to be taken care of regularly in an association. Konstantin in Mannheim (and before him, Jan K.) submits our tax return every year and manages our finances. Rahel in Berlin curates and sends out our newsletter. Yannik in Stuttgart maintains our blog. Without this continuous and conscientious commitment, our work would not be possible.
 
-The bottom-line is: **If you have a cool idea you want to implement at/with CorrelAid, we will support you with resources to realize your idea. You are free in the design and in your decisions - a team of 20 people will be there in calls and on Slack to support you. **
+The bottom-line is: **If you have a cool idea you want to implement at/with CorrelAid, we will support you with resources to realize your idea. You are free in the design and in your decisions - a team of 20 people will be there in calls and on Slack to support you.**
 
 {% hint style="info" %}
 Have an idea? Write [Frie](mailto:frie.p@correlaid.org) or [Isabel](mailto:isabel.w@correlaid.org) about it!
