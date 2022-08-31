@@ -13,9 +13,4 @@ In order to make your presentation a little easier, we have put together present
 * Reusable stock photos
 * Standard cover letter separated by addressee for hosting various events
 
-The material can be found in the CorrelCloud, for which you must first be activated as a user. When preparing an event or contribution, please contact the Community Manager at CorrelAid. Here we can jointly consider which formats and documents fit best for you. If you need help with a bigger event, you can also contact us here.
-
-* Responsible
-* Timeframe
-* Schedule
-
+The material can be found on our Google Drive, for which you must first be activated as a user. When preparing an event or contribution, please contact the [Community Manager](mailto:isabel.w@correlaid.org) at CorrelAid. Here we can jointly consider which formats and documents fit best for you. 
