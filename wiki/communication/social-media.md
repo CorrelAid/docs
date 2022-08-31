@@ -24,7 +24,7 @@
 ### How do I get access to our Twitter account?
 
 {% hint style="info" %}
-To get access to Twitter, see [password management](https://app.gitbook.com/s/-Lvg\_oIb4oZtCuInS01x-887967055/wiki/communication/keybase.md).
+To get access to Twitter, see [password management](https://docs.correlaid.org/wiki/infrastructure/password-management).
 {% endhint %}
 
 ### How do I get access to our Facebook account?
