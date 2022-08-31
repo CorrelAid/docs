@@ -20,7 +20,7 @@ What is KeePass?
 
 ### How can I access the password(s)?
 
-1. You get the master password for the database file from either Phil (local chapters) or Frie (other teams) via a secure channel. Please store this password safely, e.g. in your personal password manager ([bitwarden](https://bitwarden.com/) is free!).
+1. You get the master password for the database file from either Isabel (local chapters) or Frie (other teams) via a secure channel. Please store this password safely, e.g. in your personal password manager ([bitwarden](https://bitwarden.com/) is free!).
 2. Download one of the KeePass [clients](https://keepass.info/download.html)
 3. Download the database file - you can find it in the Shared Drive `08_vaults`.&#x20;
 4. Open the file in your KeePass client. It will ask you for the master password. Once you have unlocked the database, you will be able to access the password(s) stored in there.
