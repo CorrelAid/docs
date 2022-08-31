@@ -42,7 +42,7 @@ To keep CorrelAid running, we rely on different subteams. From organizing projec
 * **fundraising team**: the fundraising team looks out for funding opportunities for CorrelAid, collaborates with other organizations on grant proposals etc. Relevant Slack channels: #fundraising.
 * **infrastructure team**: the infrastructure team takes care of our hugo website, our cloud resources, the CorrelAid Slackbot, the self-hosted [CodiMD](wiki/infrastructure/codimd.md) and the administration of our NextCloud instance [CorrelCloud](wiki/infrastructure/correlcloud.md). They also actively develop said tools - especially CodiMD and the website - so if you're a (JS / Python / Frontend) developer, this is the right place to get involved! :woman\_technologist: :man\_technologist:&#x20;
 
-If you want to be involved in on of the mentioned teams, it's best to do the following:
+If you want to be involved in one of the mentioned teams, it's best to do the following:
 
 1. Write an email to [Frie](mailto:frie.p@correlaid.org) explaining where you'd like to participate. You'll then get an invite to our [Slack](wiki/communication/slack.md).&#x20;
 2. You'll probably also need an [CodiMD](wiki/infrastructure/codimd.md) account later on.&#x20;
