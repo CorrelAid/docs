@@ -4,7 +4,6 @@ Our main communication channel is Slack. Slack is like a collection of WhatsApp 
 
 We use Slack for to coordinate the local chapters as well as for the organization of the activities of "central" CorrelAid, e.g. the organization of projects, meetups, etc. For example:
 
-* Once a week - usually Mondays at 8pm - we have our [**weekly conference call** ](conference-calls.md)in the #telko channel. Feel free to join the Slack call there, we always like to hear new voices!
 * During the week, we work on the different CorrelAid topics in the **channels**. Channels are either designated to a certain topic (e.g. #projects for projects, #education for eductation, #fundraising for collaborating on grant proposals) or are focused on local chapters (#lc-bremen, #lc-berlin, #lc-mannheim, ...). If you are interested in a certain topic and/or local chapter, you can join the corresponding channel(s) to see what's already going on. Or even better: **share your ideas**!
 * If you need help with anything related to CorrelAid or data science or coding, feel free to ask away in the** #help **channel.
 * found a funny Meme or Gif and need to share with someone? Stumbled across a very useful tutorial for something? Post it to #random!
@@ -19,11 +18,11 @@ It's really easy to lose track of things in Slack and the core team cannot read 
 ### I want to get access to Slack. How do I get it?
 
 {% hint style="info" %}
-If you want to become part of our Slack, drop an email to [Phil](mailto:phil.b@correlaid.org). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack.&#x20;
+If you want to become part of our Slack, drop an email to [Isabel](mailto:isabel.w@correlaid.org). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack.&#x20;
 {% endhint %}
 
 ### I dont really get this Slack thing? Who can help me?
 
 {% hint style="info" %}
-Don't really get Slack yet? It's all weird and clunky? Write a direct message to Phil (@Philipp Bosch), he'll help you!
+Don't really get Slack yet? It's all weird and clunky? Write a direct message to Isabel (@Isabel Willmann), she'll help you!
 {% endhint %}
