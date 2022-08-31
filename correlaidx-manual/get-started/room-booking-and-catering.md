@@ -8,7 +8,7 @@ As already mentioned, it is worthwhile to register your CorrelAidX chapter as an
 
 #### Outside university
 
-Of course, if you are not working or studying at a university, cooperation with other associations in the area of Data4Good or IT, the booking of a coworking space or the request for foundations are also good options \(see above\). If you do not have any existing contacts yourself and do not want to contact groups, you can also ask in the \#general channel of our [Slack](https://docs.correlaid.org/wiki/faq#everything-seems-to-be-on-slack-how-do-i-get-on-there) for connections of other CorrelAid members. You are also welcome to [contact](../contact.md) the community manager of the core team, Regina will be happy to assist you in your search.
+Of course, if you are not working or studying at a university, cooperation with other associations in the area of Data4Good or IT, the booking of a coworking space or the request for foundations are also good options \(see above\). If you do not have any existing contacts yourself and do not want to contact groups, you can also ask in the \#general channel of our [Slack](https://docs.correlaid.org/wiki/faq#everything-seems-to-be-on-slack-how-do-i-get-on-there) for connections of other CorrelAid members. 
 
 Also, after a successful event, remember to select people to be responsible for cleaning up the room unless you have agreed otherwise with the organization that will provide you with the space. A good event ends only when the last visitors have left.
 
