@@ -228,8 +228,8 @@ See[ Google Drive FAQ](../faq.md#google-drive) in the overall FAQ.
 
 Due to GDPR concerns, please avoid using Google Forms for anything requiring a sign up/personal data. Instead use:
 
-* Pretix for events -> Frie or Phil can give you access
-* [KoboToolbox](kobo.md) for forms such as feedback surveys or signup for internal events (e.g. a summer party) -> Frie or Phil can give you access
+* Pretix for events -> Frie or Isabel can give you access
+* [KoboToolbox](kobo.md) for forms such as feedback surveys or signup for internal events (e.g. a summer party) -> Frie or Isabel can give you access
 
 
 
