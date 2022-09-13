@@ -129,7 +129,7 @@ Most of the times, CorrelAid teams will get a pseudonymized version of the data 
 
 * DO: encrypt the data on local machines (see [howto](../data-security-and-privacy.md#data-encryption))
 * DO NOT: upload data to GitHub / GitLab (see howto)
-* DO: team members and NPO need to sign the _obligation to observe data secrecy_ _\*\*_(de: Datenschutzverpflichtungserklärung) (download it here)
+* DO: team members and NPO need to sign the _obligation to observe data secrecy_ _\*\*_(de: Datenschutzverpflichtungserklärung) (see [here](../data-security-and-privacy.md#declaration-on-data-security))
 * DO (if very sensitive data): team members create separate user account on their machine just for the project
 {% endhint %}
 
