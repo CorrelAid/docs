@@ -288,14 +288,14 @@ Example use case:
 1. Ask one of the group admins (e.g. the local chapter head) to send you the calendar ID, as described [here](https://support.google.com/a/answer/1626902?hl=en).&#x20;
 2. Then click the :heavy\_plus\_sign:next to "Other calendars" and click on "Subscribe to new calendar". Enter the calendar ID and hit Enter. The calendar should now appear in your "other calendars" section.&#x20;
 
-#### Existing CorrelAid Group Calendars
+#### CorrelAid Events Calendar
 
-Different teams might have different calendars to organize themselves (e.g. the remote office has a team calendar). For the whole of CorrelAid, there exists a public events calendar which provides an overview over events organized by the remote office, the association, local chapters, participation of CorrelAid at external events etc.&#x20;
+Different teams might have different calendars to organize themselves (e.g. the remote office has a team calendar). For the whole of CorrelAid, there exists an **events calendar** which provides an overview over events organized by the remote office, the association, local chapters, participation of CorrelAid at external events etc.&#x20;
 
 To add the calendar to your CorrelAid Google account:
 
-1. make sure you're logged into calendar.google.com with your CorrelAid account
-2. Click on [this link](https://calendar.google.com/calendar/u/0?cid=Y18zbWcxbWZwYTEwY2cxYTAzb2drcmc2djFuNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+1. make sure you're logged into [calendar.google.com](https://calendar.google.com) with your CorrelAid account
+2. Click on [this link](https://calendar.google.com/calendar/u/0?cid=Y18zbWcxbWZwYTEwY2cxYTAzb2drcmc2djFuNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). This should open a pop-up in your browser.
 
 Everyone can add events to the calendar. Please **use this responsibly** and make sure not to add personal events to it. Use a very distinctive color for the calendar (e.g. black, brown) to make sure that this doesn't happen.&#x20;
 
