@@ -314,7 +314,7 @@ See page on [Video conferences](zoom.md#google-meet).
 
 ## Admin
 
-### Set up a new chapter/team&#x20;
+### Set up a new chapter/team with email address&#x20;
 
 use case: new chapter or new team that might need:
 
