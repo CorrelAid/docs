@@ -11,7 +11,26 @@ As questions / information regarding the migration to Google Workspace are only 
 3. Read the [Google Drive "Get started".](google-workspace.md#get-started-1)
 4. Read the [Google Mail "Get started"](google-workspace.md#gmail).
 
-## Gmail
+## Accounts
+
+##
+
+### Personal accounts vs. group accounts
+
+personal email: frie.p@correlaid.org
+
+group email:
+
+* info@correlaid.org
+* berlin@correlaid.org
+* education@correlaid.org
+* ...
+
+
+
+
+
+### Gmail
 
 Starting July 2022, we use Gmail through our [Google Workspace for Nonprofits](google-workspace.md) for emails.
 
@@ -25,19 +44,7 @@ With your Google Workspace account, you get a personal email address that you ca
 4. send a test email, e.g. to your personal email address.
 5. optional: set up your favorite email client
 6. optional: Set up[ labels/folders](https://support.google.com/mail/answer/118708?hl=en\&co=GENIE.Platform%3DDesktop) to stay organized. Check out the keyboard [shortcuts](https://support.google.com/mail/answer/6594?hl=en\&co=GENIE.Platform%3DDesktop) to get more productive in gmail.
-
-### Personal accounts vs. group accounts
-
-personal email: frie.p@correlaid.org
-
-group email:
-
-* info@correlaid.org
-* berlin@correlaid.org
-* education@correlaid.org
-* ...
-
-###
+7.
 
 ### Accessing personal mails
 
@@ -85,7 +92,7 @@ Check [FAQ](../faq.md#i-should-have-access-to-a-group-email-eg-konstanzcorrelaid
 
 See [FAQ](../faq.md#gmail).
 
-## Google Groups
+## Google Groups/Users
 
 ### What is a Google Group?
 
@@ -302,3 +309,68 @@ Everyone can add events to the calendar. Please **use this responsibly** and mak
 ## Google Meet
 
 See page on [Video conferences](zoom.md#google-meet).
+
+
+
+## Admin
+
+### Set up a new chapter/team&#x20;
+
+use case: new chapter or new team that might need:
+
+* a shared email account (collaborative inbox)&#x20;
+* a digital workspace, i.e. a shared drive in Google Drive
+* ...
+
+#### Create the Google user&#x20;
+
+First we have to create the google user.
+
+1. Go to the [user management console](https://admin.google.com/ac/users?hl=en\_GB)
+2. Create a new user. The first name should be "CorrelAid(X)", the last name indicative of the group's purpose, e.g. "Community Team" or the city name if it's a CorrelAidX account.&#x20;
+3. Take note of the password but don't send it via plain text / Slack to anyone.
+
+Optional: Then we create the corresponding groups. This is necessary if we want a group of people to be able to access the emails or give them a shared drive
+
+#### Create google groups
+
+explanation. for team accounts there are:&#x20;
+
+* group-\[teamname]. members of the team/chapter. They typically get access to the shared drive, but not to group email.
+* **optional** for larger groups or local chapters: `group-[teamname]-heads`. this group will only contain the leading people of the team/chapter who'll get access to the mails etc.
+
+1. go to the [group management console](https://admin.google.com/ac/groups)
+2. create the group for the team/chapter. all but a few groups start with `group` prefix. Check existing groups for the naming conventions.  The description should clearly state what access rights are associated with the group. For example: "Podcast. Gives access to shared drive(s)/folders: 04\_podcast, 05\_pr." or for a `heads` group: "Heads of Podcast Team. Access to Google Workspace User podcast@correlaid.org (via password database file in 08\_vaults).access to password to Soundcloud, managers of Google Group group-podcast"
+3. add members to the group(s).
+
+#### Create vault
+
+The password from step 1 can be shared with the team or its heads. You can do so with a keepass vault. Check out the documentation [over on the page](password-management.md#how-do-i-add-a-new-vault). **Specific instructions**:
+
+* for step 2: give the file a short name. see the files in [this drive](https://drive.google.com/drive/u/0/folders/0ANhoFvEJVqDYUk9PVA) for inspiration
+* for step 3: in Bitwarden, there is a secret note "keepass" which contains instructions how to generate a password. &#x20;
+* for step 4: [upload to this drive](https://drive.google.com/drive/u/0/folders/0ANhoFvEJVqDYUk9PVA) and **share the file** (not the drive!) with the `heads` group you created earlier (right-click -> share). if you didn't create a heads group, then with the normal group.&#x20;
+
+#### Delegate email access
+
+Finally, you need to give the "heads" (or everyone if a small group) access to the emails.  They can either use the credentials from the vault or use the delegated access in the browser (read [here](google-workspace.md#accessing-lc-group-emails) for more information and instructions for users).&#x20;
+
+To delegate email access:
+
+* log in to the group account (e.g. cologne@correlaid.org) with the credentials in the vault&#x20;
+* go to gmail.com and then to settings -> all settings -> accounts
+* under "Grant access to your account:" click on "add another account". an old-school looking window with yellow background will open. there you have to enter the groupname + @correlaid.org, .e.g `group-lc-cologne-heads@correlaid.org.` then click on invite.
+* send the people the [instructions](google-workspace.md#accessing-lc-group-emails) on how to access the mail.
+
+#### Optional: Set up shared drive
+
+if they also need a shared drive, you can create a new one for them.&#x20;
+
+1. go to [https://drive.google.com/drive/u/0/shared-drives](https://drive.google.com/drive/u/0/shared-drives)
+2. click the big "new" button
+3. name the drive. then share it with the `group-office` and the group(s) you created earlier. give them the content manager role.&#x20;
+4. done. :)
+
+####
+
+&#x20;
