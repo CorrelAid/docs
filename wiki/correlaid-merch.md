@@ -2,15 +2,15 @@
 
 ## Stickers
 
-Details coming soon. In the meantime, please ask in the Slack channel #pr-oeff-arbeit for help.
+Details coming soon. In the meantime, please ask in the Slack channel #pr-team for help.
 
-## Postcards:envelope:&#x20;
+## Postcards:envelope:
 
-Details coming soon. In the meantime, please ask in the Slack channel #pr-oeff-arbeit for help.
+Details coming soon. In the meantime, please ask in the Slack channel #pr-team for help.
 
-## Bags:shopping\_bags:&#x20;
+## Bags:shopping\_bags:
 
-Details coming soon. In the meantime, please ask in the Slack channel #pr-oeff-arbeit for help.
+Details coming soon. In the meantime, please ask in the Slack channel #pr-team for help.
 
 ## T-Shirts:shirt:
 
