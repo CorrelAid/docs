@@ -132,19 +132,16 @@ Expert = I know my way around very well / I write my own functions and packages.
 
 ### How does CorrelAid select team members? What are the criteria? How can I increase the chances of being selected?
 
-Our selection group will review all applications and form a project team. We pay attention to a balanced mix of programming skills, interest, motivation, previous experience, and time budget so that the project is a good learning experience for everyone involved. In addition, we do have a gender diversity quota\* that we aim to fulfill wherever possible.
+You can review the criteria for team selection [here.](project-coordinators/team-selection.md#team-selection-criteria)
 
-When we receive a lot of applications, selection committee members first skim through applications, excluding those where no motivation is described. Hence, tip no 1.
+Here are some practical tips:&#x20;
 
-
-
-
-
-For all the details read on here.
-
-\*more than 50% of team members are not men. (This is what we do based on the data we collect now. We might change this to "more than 50% of team members are FLINTA (German acronym translating to Women, Lesbian, Inter\*, Nonbinary, Trans, Agender)" in the future.)
-
-
+* Your motivation matters and it is an important component in the score but also in the qualitative assessments committee members make when deciding between equally qualified applicants. **An application without any or a very meaningful "why" will probably be discarded, regardless of whether you have unsuccessfully applied in the past**. Hence, please write about what motivates you for the project. Also, if you have a personal connection to the topic or the work the NPO is doing, please write it in the motivation. If you do not have experience expressing your motivation in a small paragraph of sentences, you can write bullet points instead. Here are some questions that can help you come up with something:
+  * Why do you want to participate in a Data4Good project in general? Why do you want to spend 2-4 additional hours per week in front of the computer?
+  * What motivates you about the organization? Have a look at their website. Why do you think their work is important?&#x20;
+  * Do you personally relate to the work of the partner organization? If so, how?
+* If you are new to data science but have job experience from a different field, please include soft skills and project management experience. Skills are not restricted to technical skills!&#x20;
+* If you are part of a marginalized group, don't undersell yourself! :) Take a look at the experience scale and role descriptions above and when in doubt, take the more advanced category/role.
 
 ### I have found the form to become a project mentor / reviewer. What does this entail? <a href="#project-mentor" id="project-mentor"></a>
 
