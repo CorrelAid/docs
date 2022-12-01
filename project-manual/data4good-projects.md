@@ -130,6 +130,22 @@ User = I have gained some first experience in this field / I have written code o
 Advanced = I have gained some experience / I have written complex scripts\
 Expert = I know my way around very well / I write my own functions and packages.
 
+### How does CorrelAid select team members? What are the criteria? How can I increase the chances of being selected?
+
+Our selection group will review all applications and form a project team. We pay attention to a balanced mix of programming skills, interest, motivation, previous experience, and time budget so that the project is a good learning experience for everyone involved. In addition, we do have a gender diversity quota\* that we aim to fulfill wherever possible.
+
+When we receive a lot of applications, selection committee members first skim through applications, excluding those where no motivation is described. Hence, tip no 1.
+
+
+
+
+
+For all the details read on here.
+
+\*more than 50% of team members are not men. (This is what we do based on the data we collect now. We might change this to "more than 50% of team members are FLINTA (German acronym translating to Women, Lesbian, Inter\*, Nonbinary, Trans, Agender)" in the future.)
+
+
+
 ### I have found the form to become a project mentor / reviewer. What does this entail? <a href="#project-mentor" id="project-mentor"></a>
 
 ****
