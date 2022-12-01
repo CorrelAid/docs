@@ -12,7 +12,7 @@ Ps: Before anyone asks: In case there's a 5th Monday in a month, there is no cal
 
 ### Open / Onboarding Call: 1st Monday
 
-**What:** Open / onboarding call. This call is open to anyone who is interested in our work. We share important updates from the CorrelAid world, answer questions and provide some onboarding information for CorrelAid "newbies".
+\*\*What: \*\*Open / onboarding call. This call is open to anyone who is interested in our work. We share important updates from the CorrelAid world, answer questions and provide some onboarding information for CorrelAid "newbies".
 
 **When**: 1st Monday of each month, 7pm (Berlin time).
 
@@ -30,3 +30,6 @@ Ps: Before anyone asks: In case there's a 5th Monday in a month, there is no cal
 [slack.md](slack.md)
 {% endcontent-ref %}
 
+## Protocol
+
+Outcomes of the conference calls are usually documented in a [CodiMD pad](../infrastructure/codimd.md). Please see the #telko channel for the links to the previous protocols.

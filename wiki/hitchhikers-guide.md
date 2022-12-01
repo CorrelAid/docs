@@ -5,7 +5,7 @@ description: some thoughts on how we work internally.
 # How We work - Hitchhiker's Guide to CorrelAid
 
 {% hint style="info" %}
-**tl;dr:** If you have a cool idea you want to implement at/with CorrelAid, we will support you with resources to make it happen. You are free in the design and in your decisions - a team of 20 people will be there in calls and on Slack to support you. You can always contact [Frie](mailto:frie.p@correlaid.org) or [Isabel](mailto:isabel.w@correlaid.org) with your idea.
+\*\*tl;dr: \*\*If you have a cool idea you want to implement at/with CorrelAid, we will support you with resources to make it happen. You are free in the design and in your decisions - a team of 20 people will be there in calls and on Slack to support you. You can always contact [Frie](mailto:frie.p@correlaid.org) or [Isabel](mailto:isabel.w@correlaid.org) with your idea.
 {% endhint %}
 
 Our goal with CorrelAid is to democratize the potential of Data Science. In practice, we achieve this by supporting a network of over 1000 dedicated data analysts in Germany, by giving them the opportunity to grow, and by organizing pro-bono data science projects for civil society. But how do we work _internally_? This is an overview of how we organize ourselves at CorrelAid, how we work and which principles we follow.
@@ -79,7 +79,7 @@ In the calls we discuss and debate all decisions and decide on the further steps
 
 Once a year we invite our network ( see network ) to a weekend to exchange ideas, learn new things and plan future projects for CorrelAid. The structure is usually as follows: a public event on Friday evening, a day full of Data Science Workshops on Saturday, and workshops on the development of CorrelAid on Sunday. Everybody can participate regardless of how long they have been with us in the network, how much experience they have in data science or how they want to get involved - data4good projects and/or organizational work. The Data-for-Good Summit is usually held in autumn.
 
-#### _The Retreat_
+#### _The Strategy Meeting_
 
 Also once a year our Core Team ( see Core Team ) meets to review the year and plan internal projects for the upcoming months. This personal exchange is very important to us, because otherwise we communicate exclusively online.
 

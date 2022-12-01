@@ -2,24 +2,34 @@
 
 ## Twitter
 
-* [https://twitter.com/CorrelAid](https://twitter.com/correlaid)
-* username: @CorrelAid
-* password: see [password management](../infrastructure/password-management.md).
+* twitter.com/CorrelAid
+* username: @CorrelAid&#x20;
+* password: see [password management](https://app.gitbook.com/s/-Lvg\_oIb4oZtCuInS01x-887967055/wiki/communication/keybase.md).
 
-## Facebook
+## Facebook&#x20;
 
-* [https://facebook.com/weAreCorrelAid](https://facebook.com/weAreCorrelAid)
-
-## Instagram
-
-{% embed url="https://www.instagram.com/correlaid/" %}
-
-## Linkedin
-
-{% embed url="https://www.linkedin.com/company/correlaid/" %}
+* [https://www.facebook.com/WeAreCorrelAid/](https://www.facebook.com/WeAreCorrelAid/)
+* roles
+  * page admins
+    * Frie Preu
+    * Johannes Müller
+  * editors:
+    * Yannik Buhl
+    * Rahel Becker
+    * Arndt Leininger
+    * Damon Raeis-Dana
 
 ## FAQ
 
-### How do I get access to ...X?
+### How do I get access to our Twitter account?
 
-Please contact the PR team in #pr-team on Slack.
+{% hint style="info" %}
+To get access to Twitter, see [password management](https://docs.correlaid.org/wiki/infrastructure/password-management).
+{% endhint %}
+
+### How do I get access to our Facebook account?
+
+{% hint style="info" %}
+To get write access to the Facebook page, ask Frie (@frie in Slack). Please include a link to your Facebook profile.&#x20;
+{% endhint %}
+
