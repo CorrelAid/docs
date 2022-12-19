@@ -20,13 +20,11 @@ Slides
 * Date: 2020-08-26
 * Speaker: Cosima Meyer
 * [Slides](http://cosimameyer.rbind.io/slides/interactive-science/correlaid)
-* [Repository](https://github.com/cosimameyer/conflict-elections)&#x20;
+* [Repository](https://github.com/cosimameyer/conflict-elections)
 
 ## OODM 4: "The lazy data scientist: Automating things feat. R, Python, AWS, and a Pi"
 
 {% embed url="https://www.youtube.com/watch?v=tFRNBHqg_ZQ" %}
-
-
 
 ### How to store thousands of shared bike locations every 4 minutes into a database
 
@@ -37,7 +35,7 @@ Slides
 Slides
 {% endfile %}
 
-### Automated Reporting: Using R, AWS and Datawrapper to Automatically Create Tables and Charts&#x20;
+### Automated Reporting: Using R, AWS and Datawrapper to Automatically Create Tables and Charts
 
 * Speaker: Yannik Buhl
 
@@ -58,7 +56,7 @@ Slides (open in Adobe Acrobat)
   * [EC2 instance T2.Micro, 1 GB RAM](https://aws.amazon.com/ec2/instance-types/?nc1=h\_ls)
   * [Setting up R/RStudio Server on AWS](https://aws.amazon.com/de/blogs/big-data/running-r-on-aws/)
 
-### Automating data collection for CorrelAid - A (personal) evolution from Raspberry Pi to AWS&#x20;
+### Automating data collection for CorrelAid - A (personal) evolution from Raspberry Pi to AWS
 
 * Speaker: Frie Preu
 * [Slides](https://talks.frie.codes/2020-09-23\_oodm4\_automated\_data\_collection/#1)
@@ -67,8 +65,6 @@ Slides (open in Adobe Acrobat)
   * [AWS Lambda](https://aws.amazon.com/serverless/videos/video-lambda-intro/)
   * [Serverless Framework](https://serverless.com)
 
-
-
 ## OODM 5: "Untangling Matplotlib: An Interactive Workshop"
 
 {% embed url="https://youtu.be/wEnTKfz70oo" %}
@@ -76,11 +72,9 @@ Slides (open in Adobe Acrobat)
 * Speaker: Henry Webel
 * [Google Colab](https://colab.research.google.com/github/pythontsunami/teaching/blob/matplotlib/matplotlib.ipynb)
 
-## OODM6: "Mobility Data"
+## OODM 6: "Mobility Data"
 
 {% embed url="https://www.youtube.com/watch?v=lcbPkACP2Yw" %}
-
-
 
 ### Equality in mobility solutions for a world in which data are far from equal
 
@@ -105,3 +99,35 @@ Slides
 {% file src="../.gitbook/assets/20201201_oodm6_mobility_and_smartgrid.pdf" %}
 Slides
 {% endfile %}
+
+
+
+## OODM 7: Das kleine ABC der Daten <a href="#docs-internal-guid-c87b29be-7fff-cd61-8114-d917f346078b" id="docs-internal-guid-c87b29be-7fff-cd61-8114-d917f346078b"></a>
+
+* Date: 2021-02-10
+* Title: Das kleine ABC der Daten
+* Speaker: Isabel Willmann & Frie Preu
+* Link: [https://correlaid.org/events/2021-02/oodm8-abc-der-daten/](https://correlaid.org/events/2021-02/oodm8-abc-der-daten/)&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=HhH6nOQmqa0" %}
+
+## OODM 8: Matching methods for causal inference // The impact of Voting Advice Applications on local politics.
+
+* Date: 2021-11-03
+* Title: Matching methods for causal inference // The impact of Voting Advice Applications on local politics.
+* Speaker: Garret O’Connell // Andreas Neumann and Aylin Kallmayer
+* Link: [https://correlaid.org/events/2021-11/oodm8/](https://correlaid.org/events/2021-11/oodm8/)&#x20;
+
+## OODM 10: svelte - Shiny for people that are annoyed by brackets
+
+* Date: 2022-03-31
+* Title: svelte - Shiny for people that are annoyed by brackets
+* Speaker: Marco and Stefan
+* Link: [https://correlaid.org/events/2022-03/oodm-svelte/](https://correlaid.org/events/2022-03/oodm-svelte/)&#x20;
+
+## OODM 11: Jupytext
+
+* Date: 2023-01-24
+* Title: Jupytext
+* Speaker: Henry Webel
+* Link: [https://correlaid.org/events/2023-01/oodm-jupytext/](https://correlaid.org/events/2023-01/oodm-jupytext/)
