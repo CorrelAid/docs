@@ -8,9 +8,11 @@ We have credits for the Microsoft Azure cloud through their [non-profit program]
 
 #### Admin&#x20;
 
-FAQs: [https://www.microsoft.com/en-us/nonprofits/faq#primaryR6](https://www.microsoft.com/en-us/nonprofits/faq#primaryR6)&#x20;
+* Billing page in azure portal: [https://portal.azure.com/#view/Microsoft\_Azure\_GTM/ModernBillingMenuBlade/\~/Overview](https://portal.azure.com/#view/Microsoft\_Azure\_GTM/ModernBillingMenuBlade/\~/Overview)
+* Page that shows how much is left + usage breakdown: [https://www.microsoftazuresponsorships.com](https://www.microsoftazuresponsorships.com)&#x20;
+* FAQs on nonprofit offer: [https://www.microsoft.com/en-us/nonprofits/faq#primaryR6](https://www.microsoft.com/en-us/nonprofits/faq#primaryR6)&#x20;
 
-has to be renewed every year (around February). We will receive instructions one month before expiry to info@correlaid.org.&#x20;
+Azure has to be renewed every year (around February). We will receive instructions one month before expiry to info@correlaid.org (see FAQs).
 
 ## DNS management
 
