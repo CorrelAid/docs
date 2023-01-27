@@ -12,7 +12,7 @@ We have a monthly [open onboarding call](wiki/communication/conference-calls.md#
 
 Our data4good projects are probably the main reason why you are thinking about joining CorrelAid. You want to use your skills for the social good? Excellent, you've come to the right place, we've done over 60 projects so far and are constantly talking to new organizations to organize more projects.
 
-It is important to understand that at CorrelAid, there's **no fixed pool of data analysts** who have prioritized access to the projects: There's no secret club of CorrelAid data scientists who exclusively get to work on our data4good projects. Instead, **applications are collected on a per-project basis**. Project call for applications are sent out to our \*\*newsletter email list \*\*and you can \*\*then apply for a specific project \*\*that you consider interesting.
+It is important to understand that at CorrelAid, there's **no fixed pool of data analysts** who have prioritized access to the projects: There's no secret club of CorrelAid data scientists who exclusively get to work on our data4good projects. Instead, **applications are collected on a per-project basis**. Project call for applications are sent out to our **newsletter email list** and you can **then apply for a specific project** that you consider interesting.
 
 {% hint style="warning" %}
 There's no need to apply to our info mail with a CV or anything. Just sign up for our [newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a\&id=915f3f3eff) and you'll get all opportunities straight to your inbox.

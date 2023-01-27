@@ -141,11 +141,11 @@ Tip: Download [Drive for Desktop](https://www.google.com/drive/download/) (MacOS
 
 * store project data from NPO partners if it is [GDPR relevant](../../project-manual/data-security-and-privacy.md#personal-data-gdpr)
 * store any other project data from NPO partners
-* don't store/write down [special characteristics](https://gdpr-info.eu/art-9-gdpr/) (ethnicity, religion, political beliefs...) of other people (also incl. Google Docs/Google Sheets) -> for those cases, please use NextCloud or a [private CodiMD](codimd.md#setting-permissions).
+* don't store/write down [special characteristics](https://gdpr-info.eu/art-9-gdpr/) (ethnicity, religion, political beliefs...) of other people (also incl. Google Docs/Google Sheets) -> for those cases, please use NextCloud or a [private CodiMD](broken-reference).
 
 :warning:**Under certain circumstances**
 
-* for meetings/information concerning/including external partners: ask them beforehand whether it is OK if you use Google Docs to write meeting minutes/plan things including them. Some organizations/partners might not want information about them on US servers. Respect that and use [NextCloud](correlcloud.md) or a [CodiMD](codimd.md) instead.
+* for meetings/information concerning/including external partners: ask them beforehand whether it is OK if you use Google Docs to write meeting minutes/plan things including them. Some organizations/partners might not want information about them on US servers. Respect that and use [NextCloud](correlcloud.md) or a [CodiMD](broken-reference) instead.
 * avoid storing personal data from CorrelAiders on Google Drive. Names and CorrelAid email addresses should be ok, but for instance, if you need to collect postal addresses, use a [Kobo form ](kobo.md)instead of Google Forms.
 * you can use Google Drive to transfer/store [non-GDPR relevant](../../project-manual/data-security-and-privacy.md#types-of-data) data from the partner organization under the condition that the project partner **consented to this in written form.**
 
@@ -221,7 +221,7 @@ did you know you can also use Markdown in Google Docs now? You can enable Markdo
 3. Copy (ctrl/cmd + c)
 4. Create new Google Doc
 5. Paste (ctrl/cmd + v)
-6. Delete the Pad from CodiMD via the [permission dropdown](codimd.md#setting-permissions)
+6. Delete the Pad from CodiMD via the [permission dropdown](broken-reference)
 
 ### FAQ
 
