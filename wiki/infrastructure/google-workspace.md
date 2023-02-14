@@ -44,6 +44,7 @@ With your Google Workspace account, you get a personal email address that you ca
 4. send a test email, e.g. to your personal email address.
 5. optional: set up your favorite email client
 6. optional: Set up[ labels/folders](https://support.google.com/mail/answer/118708?hl=en\&co=GENIE.Platform%3DDesktop) to stay organized. Check out the keyboard [shortcuts](https://support.google.com/mail/answer/6594?hl=en\&co=GENIE.Platform%3DDesktop) to get more productive in gmail.
+7.
 
 ### Accessing personal mails
 

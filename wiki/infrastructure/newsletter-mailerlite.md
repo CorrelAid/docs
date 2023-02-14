@@ -39,6 +39,10 @@ In general, sending a newsletter (a "campaign" in MailerLite terms) is easy:
 1. Go to [Campaigns](https://dashboard.mailerlite.com/campaigns/) and click "Create Campaign"&#x20;
 2. Follow the wizard
 
+{% hint style="danger" %}
+We do not track the subscribers of our newsletter as we do not collect their consent to do so.  Hence, tracking is disabled by default via the global settings and this must stay this way.
+{% endhint %}
+
 {% hint style="success" %}
 You select the audience / people you want to send the newsletter to in step 3 of the wizard.&#x20;
 {% endhint %}
