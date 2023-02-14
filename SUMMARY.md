@@ -14,6 +14,7 @@
   * [Blog](wiki/communication/blog.md)
   * [Social Media](wiki/communication/social-media.md)
 * [Infrastructure](wiki/infrastructure/README.md)
+  * [Newsletter: MailerLite](wiki/infrastructure/newsletter-mailerlite.md)
   * [Google Workspace](wiki/infrastructure/google-workspace.md)
   * [Password management](wiki/infrastructure/password-management.md)
   * [Video conferences](wiki/infrastructure/zoom.md)
