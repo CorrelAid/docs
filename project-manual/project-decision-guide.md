@@ -28,15 +28,7 @@ Relevant other pages:
 2. Note down whenever you have to answer with a ❓
 3. If you have❓, the project idea is apparently not a clear case. In this case, you do two things:
    1. let Frie as the main project coordinator shortly know via a Slack DM that you have an unclear case
-   2. join the core team call (see next block) which acts as the democratic decision maker. Please put a summary of your project idea and your questions in the agenda before joining the call (linked at the top of the #telko channel).
-
-{% hint style="success" %}
-**The Core Team Call**
-
-If there are doubts about a potential project, the core team call acts as the ethics board and decides in a democratic fashion whether we should continue with a project. The core team call is open to anyone, so **if you have any doubts** about your project idea after reading this page, you should join the call to present it there to the ethics board. We will then discuss it with you and collaboratively come to a decision what to do.
-
-You can learn when and how the core team call takes place [here](../wiki/communication/conference-calls.md#core-team-call-2nd-4th-monday) and / or by joining the #telko channel on Slack.
-{% endhint %}
+   2. Frie will most likely involve the[ ethics commission](https://www.correlaid.org/en/about/ethics/) that will review the case. You can also directly contact the ethics commission.&#x20;
 
 ## Overview of criteria
 
@@ -105,7 +97,7 @@ Some rules of thumb / questions to ask:
 
     If this is _clearly_ the case and you get the impression that they are just looking for free labor, we should not do the project: we do not want to replace paid work! :x:
 
-Another way is to ask: \*\*"would/could this project happen without CorrelAid?" \*\*--> most NPOs will deny this so it's important to stay critical! If in doubt, ask the core team call!
+Another way is to ask: "**would/could this project happen without CorrelAid?**" --> most NPOs will deny this so it's important to stay critical! If in doubt, ask the core team call!
 
 {% hint style="success" %}
 Getting a feeling for this aspect can be a quite tricky and there have been quite a few discussions concerning this. So don't worry if you feel unsure about it - join the core team call and we'll figure it out together!
@@ -136,7 +128,7 @@ As stated above:
 
 The main question is: **could our volunteers learn something in the project?** This is most often the case because CorrelAiders come in all shapes and sizes and skill levels. So even if you might find a project with a lot of data cleaning and a bit of data visualization boring, it could still be a very cool educational experience for less experienced data scientists.
 
-That being said, a project should not \_**only** \_consist of mundane tasks like data entry, coding data (e.g. coding tweets into categories), data organisation in spreadsheets, etc.
+That being said, a project should not _**only**_** ** consist of mundane tasks like data entry, coding data (e.g. coding tweets into categories), data organisation in spreadsheets, etc.
 
 ### 2.2. For-good factor and ethical considerations
 
@@ -153,7 +145,7 @@ Internal projects also should have a for-good factor, i.e. beyond learning about
 * create data visualizations to draw attention to social issues
 * ...
 
-Also very important to ask is: \*\*are there any ethical considerations? \*\*In particular, you should always question whether the project could cause harm in any way or infringe on the rights of the data subjects. For example:
+Also very important to ask is: **are there any ethical considerations?** In particular, you should always question whether the project could cause harm in any way or infringe on the rights of the data subjects. For example:
 
 * will the project reinforce existing inequalities, e.g. racial or gender inequalities?
   * yes. -> the project is not in line with [our values](https://correlaid.org/about/#our-values), hence we don't do the project :x:
@@ -192,9 +184,9 @@ Datenschutz und Datenethik
 
 ### 2.3. Sustainability
 
-\*\*Will the project be sustainable for the partner organisation? Will the project have an impact beyond the time the CorrelAid team is available? \*\*Topics like hosting, maintenance and handovers should definitely be discussed if applicable (for "simple", one-off projects like generating a one-time report or some visualizations this might not be as important).
+**Will the project be sustainable for the partner organisation? Will the project have an impact beyond the time the CorrelAid team is available?** Topics like hosting, maintenance and handovers should definitely be discussed if applicable (for "simple", one-off projects like generating a one-time report or some visualizations this might not be as important).
 
-\*\*Example: \*\*A NPO approaches you - they need a dashboard to monitor their internal data processes. A shiny dashboard immediately comes to mind. In your talks with them, you should evaluate whether it is possible for them to a) host it themselves, b) host it on shinyapps.io or c) whether it could be used only locally on the laptops of 1-2 people.
+**Example:** A NPO approaches you - they need a dashboard to monitor their internal data processes. A shiny dashboard immediately comes to mind. In your talks with them, you should evaluate whether it is possible for them to a) host it themselves, b) host it on shinyapps.io or c) whether it could be used only locally on the laptops of 1-2 people.
 
 ### **2.4. Scope**
 
