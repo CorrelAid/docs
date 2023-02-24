@@ -26,9 +26,7 @@ Relevant other pages:
 
 1. Go through the criteria and answer the questions: they'll either be recognisable because they're followed by one or more of the emojis ✅, ❓, :x:or because they are printed in **bold**.
 2. Note down whenever you have to answer with a ❓
-3. If you have❓, the project idea is apparently not a clear case. In this case, you do two things:
-   1. let Frie as the main project coordinator shortly know via a Slack DM that you have an unclear case
-   2. Frie will most likely involve the[ ethics commission](https://www.correlaid.org/en/about/ethics/) that will review the case. You can also directly contact the ethics commission.&#x20;
+3. If you have❓, the project idea is apparently not a clear case. In this case, you should involve the[ ethics commission](https://www.correlaid.org/en/about/ethics/) that will review the case.&#x20;
 
 ## Overview of criteria
 
@@ -133,7 +131,7 @@ That being said, a project should not _**only**_** ** consist of mundane tasks l
 ### 2.2. For-good factor and ethical considerations
 
 {% hint style="warning" %}
-If you have any questions / doubts about the for-good factor or ethical considerations of the potential project (you answered at least once with a ❓to one of the questions below) you should let Frie know and join the next core team call.
+If you have any questions / doubts about the for-good factor or ethical considerations of the potential project (you answered at least once with a ❓to one of the questions below) you should [contact the ethics commission](https://www.correlaid.org/about/ethics/).&#x20;
 {% endhint %}
 
 **Does the project have a for-good factor**? Will it positively impact and improve the organisation's work? Most often, this will be the case with NPOs - most NPOs just don't do data for the sake of it but come with a clear goal in mind.
