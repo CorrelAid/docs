@@ -26,6 +26,7 @@
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
 * [Design Guide](wiki/design-guide.md)
 * [CorrelAid Merch](wiki/correlaid-merch.md)
+* [Ethics committee](wiki/ethics-committee.md)
 
 ## CorrelAidX Manual
 
