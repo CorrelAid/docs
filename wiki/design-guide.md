@@ -62,7 +62,7 @@ The CorrelAidX logo picks up the colour spectrum from red to blue. Besides the X
 
 ### Font
 
-The font family "Roboto" was chosen for the corporate design of CorrelAid. In detail we use Roboto Regular, Light and Bold - please do not use any other fonts for the sake of uniformity.
+The font family "Roboto" was chosen for the corporate design of CorrelAid. In detail we use Roboto Regular, Light and Bold - please do not use any other fonts for the sake of uniformity. "Roboto Regular" is usually used for text body and headings are in "Roboto Light" (optionally capitalized). On top of that, "Londrina Solid Regular" can be used for highlighted text (mainly on Social Media).
 
 ### Canva
 
