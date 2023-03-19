@@ -22,7 +22,7 @@ The way we work together in the Core Team is strongly influenced by principles. 
 
 We are formed as an association ("Verein" in German). In practice, however, the official organs of the association only have a secondary role. Instead, most of the structures we work in are informal, always potentially changing and ad-hoc. In the following, I will briefly explain our most important structures. You can also find an overview of our [CorrelUniverse](https://app.mural.co/t/correlaid9916/m/correlaid9916/1661848927395/6d46d91c1368dd7a6b33f7832ac2e6c00188bdee?sender=uad2f4e15e4f38c1000f33089) in this dashboard:
 
-<figure><img src="../.gitbook/assets/CorrelAid Overview - public.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/correlaid-overview.png" alt=""><figcaption></figcaption></figure>
 
 ### Structure
 
