@@ -51,7 +51,7 @@
 ## Project manual
 
 * [CorrelAid Data4Good projects](project-manual/data4good-projects.md)
-* [When do we do a project? When not?](project-manual/project-decision-guide.md)
+* [The Ethics Questionnaire and its Companion Document](project-manual/the-ethics-questionnaire-and-its-companion-document.md)
 * [Toolbox](project-manual/toolbox.md)
 * [Project coordination](project-manual/project-coordinators/README.md)
   * [Project Acquisition](project-manual/project-coordinators/project-acquisition.md)
@@ -73,6 +73,7 @@
     * [Python](project-manual/project-team/best-practices/python.md)
     * [R](project-manual/project-team/best-practices/r.md)
 * [Data privacy & security](project-manual/data-security-and-privacy.md)
+* [When do we do a project? When not?](project-manual/project-decision-guide.md)
 
 ## CorrelCollection
 
