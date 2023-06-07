@@ -48,7 +48,7 @@ Every year at our Data-for-Good Conference ( see Data-for-Good Conference ) we h
 
 ### Routine Standards
 
-Routine Standards include recurring work packages from  work areas within CorrelAid. These are publicly available, but reside as protected documents in our drive. The respective boards are responsible for updating the routine standards. The goal is to document experiences and procedures transparently, to allow new volunteers an easy introduction to CorrelAid and to ensure and increase the quality of our work in the long term.
+Routine Standards include recurring work packages from work areas within CorrelAid. These are publicly available, but reside as protected documents in our drive. The respective board members are responsible for updating the routine standards. The goal is to document experiences and procedures transparently, to allow new volunteers an easy introduction to CorrelAid and to ensure and increase the quality of our work in the long term.
 
 * [Projects](https://docs.google.com/document/d/1SwNqwlQhT1G4tYaCZ9Wq\_2XBRIjIQh3Ede31i\_FeE3M/edit?usp=drive\_link)
 * [Education](https://docs.google.com/document/d/1p2f4xR00rhjHgT7QVRyIbv2Ivutf-uYmgCSSQv25mt4/edit?usp=drive\_link)
