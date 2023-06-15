@@ -331,9 +331,12 @@ For project applications, we have a [Kobotoolbox form](https://ee.correlaid.org/
 * add the response option in the format {project\_id}: title of the project, e.g. _2023-04-CFC: Supporting investigations of pro-Russian disinformation on Telegram._ The : is important!
 * under XML value, add the project id, e.g _2023-04-CFC_. This is important for data cleaning to work!
 
-4. The question "Welche Rolle möchtest Du im jeweiligen Projekt einnehmen?" is a matrix question so the first block of its settings are the general configuration. Skip this and&#x20;
+4. The question "Welche Rolle möchtest Du im jeweiligen Projekt einnehmen?" is a matrix question so the first block of its settings are the general configuration. Skip this and duplicate the block of one of the previous projects or edit it if it's not needed anymore. You need to edit the title of the block but then also go to the settings (cog wheel) to edit the "data column name" there as well. &#x20;
 
-In order to do so, please contact either Nina (@Nina Hauser), Phil (@Philipp Bosch), or Frie (@frie) on Slack as they have access to Kobotoolbox.
+TODO: explain how to do translations
+
+5. "Redeploy" the form from the "Form" tab: [https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/landing](https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/landing)&#x20;
+6. Now your project is live and you an send out the call for applications to our newsletter.
 
 ### Send with Mailerlite
 
@@ -345,12 +348,14 @@ Once you're finished drafting your call for applications and have checked back w
 Local chapters are stored in Mailerlite as groups. When building your Mailerlite campaign, you can select specific group(s) at the end of the process.
 {% endhint %}
 
-
-
 1. log in to mailerlite using the projects@correlaid.org account&#x20;
 2. create a mailerlite campaign&#x20;
+3. content of the campaign:
 
+* if only one project: you can insert the whole call for applications into the mail
+* if multiple projects: insert the summary and overview blocks for each project and then link to the Google doc (don't forget to set "Viewer" permissions for "everyone")
 
+4. Choose the Volunteer Newsletter group as recipients.
 
 ## FAQ
 
