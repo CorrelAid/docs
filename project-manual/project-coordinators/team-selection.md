@@ -14,16 +14,15 @@
 
 #### Checklist
 
-{% hint style="success" %}
 * [ ] find a selection commitee
 * [ ] anonymize applications (names, email adresses)
-* [ ] share applications with committee
+* [ ] set up Google Sheet&#x20;
+* [ ] generate HTML report
+* [ ] share report with committee
 * [ ] team selection call
 * [ ] confirm team members & send out rejection emails
 * [ ] confirm team lead
 * [ ] invite team members to Slack channel
-* [ ] create [Git](../../wiki/infrastructure/github-and-gitlab.md) repository and invite members as collaborators
-{% endhint %}
 
 ## Team selection criteria
 
@@ -61,56 +60,74 @@ The score is not the definite selection criterium though. It is a helper to supp
 
 ### Find a selection committee
 
-After the call for applications is sent out to the network, you can start looking for a team selection committee. Usually a team selection committee consists of 2-4 members:
+After the call for applications is sent out to the network, you can start looking for a team selection committee. Usually a team selection committee consists of 2-3 members:
 
 * the project coordinator(s)
-* 1-2 people from the core team
-* the future team lead (if available)
+* optional: 1-2 people from the CorrelAid core or crew (e.g. board or ethics committee or other teams)
+* if available: the future team lead&#x20;
 
 The selection committee should be comprised so that gender parity is respected. In addition, it makes sense to include people with differing levels of experience. At least 1-2 of the members should be able to judge applications with regards to technical skills. People who have applied to the project cannot be part of the team selection committee.
 
-You can find members for your committee by posting on Slack in #general or #projects. Best include some information about the project. For example:
+You can find members for your committee by posting on Slack in #crew-directory or #project-coordination. Best include some information about the project. For example:
 
 > Do you want to be part of the team selection committee for \[PROJECT NAME]? The project will be about training a model to do XX. It will be in Python.
 
-### Set up tools
+### Prepare team selection
 
-#### Application report
+#### Set up Google Sheet <a href="#set-up-sheet" id="set-up-sheet"></a>
 
-Once the deadline has expired, you should request the **anonymized application report** from Frie. They will share the anonymized data with you and the other team selection committee members as a HTML report. They will also share with you as the project coordinator the **mapping from the anonymized applicant ids to the email adresses** in a secure way so that you can later contact the applicants. We recommend not to look at those before making your selection to avoid any bias.
+We have a [google sheet template](https://docs.google.com/spreadsheets/d/1xtLJ9vDSiMRa3DEs5w4ruyZtKbimAoUShYCNzYA5oxc/edit?usp=sharing) that - together with the HTML report (see below) facilitates the team selection process. This google sheet contains only pseudo-anonymized data (numeric ID, gender, role the person applied for, whether the person participated in a project before) of the applicants to keep the selection process as anonymized as possible. &#x20;
 
-If your project is part of the project cycle, the report will also include information on what other projects the applicants applied to.
+1. Go to your project subfolder in the [project coordination drive](https://drive.google.com/drive/u/0/folders/0ADQIkb8r9cK-Uk9PVA)
+2. Click New -> Google Sheets -> From template, then select the template `team_selection_template_projectcycle`
+3. A new file will open. Give it a meaningful title, e.g "Team selection project cycle Q4 2023"
 
-#### Google Sheet for collaborative ranking&#x20;
+For each project that you want to do team selection for:
 
-We have a [google sheet template](https://docs.google.com/spreadsheets/d/1xtLJ9vDSiMRa3DEs5w4ruyZtKbimAoUShYCNzYA5oxc/edit?usp=sharing) that you can let Frie fill in for you (just contact them) or fill in manually for single projects. This google sheet contains pseudo-anonymized data of the applicants to keep the selection process as anonymized as possible. You use this Google sheet in combination with the HTML report (see above). The main work will happen in the "Template" sheet, "Main table" is just for overview when doing selection for multiple projects in the context of a project cycle.
+1. Duplicate the tab/sheet "Template"
+2. important: name each project sheet with the project id, e.g `2022-04-LAU`
 
+The main work will happen in the "Template" sheet, "Main table" is just for overview and later for exporting the results of the team selection.
 
+#### Generate HTML report(s) <a href="#generate-html-reports" id="generate-html-reports"></a>
 
-| Column Name                      | Content                                                                                                                                 | Prefilled                                           | How it affects selection                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `applicant_id`                   | id of applicant from Kobo                                                                                                               | Yes                                                 | /                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| `Gender`                         | Gender of applicant                                                                                                                     | Yes                                                 | via gender quota                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| `Desired Role`                   | the role the applicant applied for for this project                                                                                     | Yes                                                 | via team roles / team size                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| `Past Application Status`        | Whether the applicant has already successfully applied, not applied or unsuccessfully applied                                           | Yes                                                 | <p>via Score</p><ul><li>0: has successfully applied in the past  / was part of a CorrelAid project</li><li>1: new applicant</li><li>2: unsuccessfully applied in the past</li></ul>                                                                                                                                                                                                                                                                          |
-| `Motivation`                     | Qualitative assessment of the "what motivates you to participate" question                                                              | No                                                  | <p>via Score</p><ul><li>0: Nothing written</li><li>1: only skills motivation ("want to improve my skills")</li><li>2: some interest in helping / giving back</li><li>3: general interest to help NPOs  / do Data4Good</li><li>4: specific interest to help the project / organization  </li><li>5: special interest in or relationship to the project and/or the organization</li></ul>                                                                      |
-| `Skills`                         | Qualitative assessment of the "what skills do you bring to the project" question                                                        | No                                                  | <p>via Score</p><ul><li>0: Nothing written</li><li>1: only very short &#x26; vague description, no reference to required skills</li><li>2: skills are described concisely and can be linked to required skills</li><li>3: not a lot of relevant skills but described how they fit / can learn.</li><li>4: good fit of skills and past experience to required skills.</li><li>5: exceptional fit of skills and past experience to required skills. </li></ul> |
-| `Relevant self rated experience` | Mean of **relevant** self-assessed technologies, topics and techniques.                                                                 | No                                                  | <p>via Score</p><p>Calculated manually. <br>Values to use for calculation of mean:</p><ul><li>Beginner: 0</li><li>User: 1</li><li>Advanced: 2</li><li>Expert: 3</li></ul><p>Round to next integer.</p>                                                                                                                                                                                                                                                       |
-| `Score`                          | `Score` = `Relevant self rated experience + Motivation + Skills + Past Application Status`                                              | Calculated automatically once columns are filled in | the score is one criterium for team selection (see above)                                                                                                                                                                                                                                                                                                                                                                                                    |
-| `Comments`                       | written comments by team selection committee members                                                                                    | No                                                  | /                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| `Corrected Role`                 | The role you deem correct for the applicant. For example, a lot of women often apply for "lower" positions that they'd be suitable for. | No                                                  | /                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| `Selected`                       | The role the applicant is selected for. Only fill in for selected team members.                                                         | No                                                  | /                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+The HTML report gives the team selection committee a nicely structured, well navigable and readable format to go through the applications that we received for the project.
 
-### Team selection call
+For each project that you want to do team selection for, follow the instructions [here](https://github.com/CorrelAid/project-coordination-tools#generate-html-report-and-create-datasets) to create the HTML report and associated datasets.
 
-Once you have found 2-4 people and have shared the tools (report and google sheet) with them, arrange with them for a video call.
+{% embed url="https://github.com/CorrelAid/project-coordination-tools#generate-html-report-and-create-datasets" %}
 
-Everyone should have a look at the applications before and contribute to filling in the Google sheet before the call so that decisions can be made quicker.
+You can send the HTML files to the respective team selection committee members via a Slack DM or in a small private channel.
+
+#### Copy data to sheet <a href="#copy-data-to-sheet" id="copy-data-to-sheet"></a>
+
+The script that has generated the HTML report(s) should also have generated several csv files (as described [here](https://github.com/CorrelAid/project-coordination-tools#generate-html-report-and-create-datasets)). For each project that you want to do team selection for:
+
+1. Open the `google_sheets_main_table.csv` in a text editor of your choice (e.g. VSCode). Copy all lines except the header row.
+2. **Append** it to the `Main Table` sheet of the Google Sheet by pasting it into column A .
+
+Once finished for all projects, go to **Data -> Split text to columns**. This should spread the text data into the columns A to E. F + G will be filled once we work on the individual tabs.
+
+### Reading applications and filling the Google Sheet
+
+Members of the team selection committee should then read the applications asynchronously. How to approach this depends on the number of applications. If there are many, it helps to do a first filter based on the answers provided to the open questions regarding skills and motivation.&#x20;
+
+In the process, team members should take first notes and score applicants in the project-specific tab of the Google Sheet. This helps to  maker decisions quicker in the call.&#x20;
+
+#### Columns of the project tab for ranking&#x20;
+
+<table><thead><tr><th>Column Name</th><th>Content</th><th width="113">Prefilled</th><th>How it affects selection</th></tr></thead><tbody><tr><td><code>applicant_id</code></td><td>id of applicant from Kobo</td><td>Yes</td><td>/</td></tr><tr><td><code>Gender</code></td><td>Gender of applicant</td><td>Yes</td><td>via gender quota</td></tr><tr><td><code>Desired Role</code></td><td>the role the applicant applied for for this project</td><td>Yes</td><td>via team roles / team size </td></tr><tr><td><code>Past Application Status</code></td><td>Whether the applicant has already successfully applied, not applied or unsuccessfully applied</td><td>Yes</td><td><p>via Score</p><ul><li>0: has successfully applied in the past  / was part of a CorrelAid project</li><li>1: new applicant</li><li>2: unsuccessfully applied in the past</li></ul></td></tr><tr><td><code>Motivation</code> </td><td>Qualitative assessment of the "what motivates you to participate" question</td><td>No</td><td><p>via Score</p><ul><li>0: Nothing written</li><li>1: only skills motivation ("want to improve my skills")</li><li>2: some interest in helping / giving back</li><li>3: general interest to help NPOs  / do Data4Good</li><li>4: specific interest to help the project / organization  </li><li>5: special interest in or relationship to the project and/or the organization</li></ul></td></tr><tr><td><code>Skills</code></td><td>Qualitative assessment of the "what skills do you bring to the project" question</td><td>No</td><td><p>via Score</p><ul><li>0: Nothing written</li><li>1: only very short &#x26; vague description, no reference to required skills</li><li>2: skills are described concisely and can be linked to required skills</li><li>3: not a lot of relevant skills but described how they fit / can learn.</li><li>4: good fit of skills and past experience to required skills.</li><li>5: exceptional fit of skills and past experience to required skills. </li></ul></td></tr><tr><td><code>Relevant self rated experience</code></td><td>Mean of <strong>relevant</strong> self-assessed technologies, topics and techniques.</td><td>No</td><td><p>via Score</p><p>Calculated manually. <br>Values to use for calculation of mean:</p><ul><li>Beginner: 0</li><li>User: 1</li><li>Advanced: 2</li><li>Expert: 3</li></ul><p>Round to next integer.</p></td></tr><tr><td><code>Score</code></td><td><code>Score</code> = <code>Relevant self rated experience + Motivation + Skills + Past Application Status</code></td><td>Calculated automatically once columns are filled in</td><td>the score is one criterium for team selection (see above)</td></tr><tr><td><code>Comments</code></td><td>written comments by team selection committee members</td><td>No</td><td>/ </td></tr><tr><td><code>Corrected Role</code></td><td>The role you deem correct for the applicant. For example, a lot of women often apply for "lower" positions that they'd be suitable for.</td><td>No</td><td>/</td></tr><tr><td><code>Selected</code></td><td>The role the applicant is selected for. Only fill in for selected team members.</td><td>No</td><td>/</td></tr></tbody></table>
+
+### Team selection call&#x20;
+
+Once you have found 2-4 people and have shared the tools (report and google sheet) with them, arrange with them for a video call. Depending on the number of applications
 
 Notes for the process:
 
 * unless in specific circumstances, interviews with applicants are not conducted
 * the selection committee tries to come to a consensus decision. If a consensus cannot be reached, the majority decides. If there is no majority, the project coordinator decides.
+* Roles can be adapted, i.e. when you feel a person is "overqualified" for their role, you can "upgrade" their role
+* If you feel like two applications are really equally good, you can also increase the team size ad-hoc.&#x20;
 
 ### Confirming team members
 
