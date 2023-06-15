@@ -324,19 +324,33 @@ This depends on the project. To be as inclusive as possible, the English one sho
 
 For project applications, we have a [Kobotoolbox form](https://ee.correlaid.org/x/8ZibAmdq) that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form.&#x20;
 
+1. Log into [https://kobo.correlaid.org/](https://kobo.correlaid.org/)
+2. Open the [form builder](https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/edithttps://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/edit) for the form.&#x20;
+3. Click "add another response" under the question "Für welche Projekte möchtest Du dich bewerben?"&#x20;
+
+* add the response option in the format {project\_id}: title of the project, e.g. _2023-04-CFC: Supporting investigations of pro-Russian disinformation on Telegram._ The : is important!
+* under XML value, add the project id, e.g _2023-04-CFC_. This is important for data cleaning to work!
+
+4. The question "Welche Rolle möchtest Du im jeweiligen Projekt einnehmen?" is a matrix question so the first block of its settings are the general configuration. Skip this and&#x20;
+
 In order to do so, please contact either Nina (@Nina Hauser), Phil (@Philipp Bosch), or Frie (@frie) on Slack as they have access to Kobotoolbox.
 
-### Send with Mailchimp
+### Send with Mailerlite
 
-Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our Mailchimp newsletter list. If you do not have access to Mailchimp, ask Frie or Phil for support.&#x20;
-
-
+Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our [Mailerlite](../../wiki/infrastructure/newsletter-mailerlite.md) newsletter list.&#x20;
 
 {% hint style="info" %}
 **How can I only send to a local chapter?**
 
-Local chapters are stored in Mailchimp as segments of the CorrelAid Newsletter audience. When building your Mailchimp campaign, you can select a specific segment of the list.&#x20;
+Local chapters are stored in Mailerlite as groups. When building your Mailerlite campaign, you can select specific group(s) at the end of the process.
 {% endhint %}
+
+
+
+1. log in to mailerlite using the projects@correlaid.org account&#x20;
+2. create a mailerlite campaign&#x20;
+
+
 
 ## FAQ
 
