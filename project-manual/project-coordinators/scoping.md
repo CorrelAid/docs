@@ -325,18 +325,18 @@ This depends on the project. To be as inclusive as possible, the English one sho
 For project applications, we have a [Kobotoolbox form](https://ee.correlaid.org/x/8ZibAmdq) that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form.&#x20;
 
 1. Log into [https://kobo.correlaid.org/](https://kobo.correlaid.org/)
-2. Open the [form builder](https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/edithttps://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/edit) for the form.&#x20;
+2. Open the [form builder](https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/edithttps://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/edit) for the form "Applications for CorrelAid Projects".
 3. Click "add another response" under the question "Für welche Projekte möchtest Du dich bewerben?"&#x20;
 
-* add the response option in the format {project\_id}: title of the project, e.g. _2023-04-CFC: Supporting investigations of pro-Russian disinformation on Telegram._ The : is important!
-* under XML value, add the project id, e.g _2023-04-CFC_. This is important for data cleaning to work!
+* add the response option in the format {project\_id}: title of the project, e.g. _2022-04-LAU: A project title._ The : is important!
+* under XML value, add the project id, e.g _2022-04-LAU_. This is important for data cleaning to work when generating the HTML reports.
 
-4. The question "Welche Rolle möchtest Du im jeweiligen Projekt einnehmen?" is a matrix question so the first block of its settings are the general configuration. Skip this and duplicate the block of one of the previous projects or edit it if it's not needed anymore. You need to edit the title of the block but then also go to the settings (cog wheel) to edit the "data column name" there as well. &#x20;
-
-TODO: explain how to do translations
-
-5. "Redeploy" the form from the "Form" tab: [https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/landing](https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/landing)&#x20;
-6. Now your project is live and you an send out the call for applications to our newsletter.
+4. The question "Welche Rolle möchtest Du im jeweiligen Projekt einnehmen?" is a matrix question so the first block of its settings are the general configuration. Skip this and duplicate the block of one of the previous projects. You need to edit the title of the block but then also go to the settings (cog wheel) to edit the "data column name" there as well. &#x20;
+5. Delete old entries from the two questions if they are not needed anymore because the application deadline has expired.
+6. Save the current state and exit the form builder with the "X".&#x20;
+7. Update the translations by going to the Form tab and clicking on the Globe emoji next to Languages. Click again on the globe emoji next to English and find the two entries that you added in the form. You can just copy-paste whatever you put into the form builder because we do not translate the call for applications either. Important: the project ID stays the same, regardless of language.
+8. Click "Redeploy" in the  ["Form" tab](https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/landing) to publish your changes
+9. Now your project is live and you an send out the call for applications to our newsletter linking to the form with this link: [https://ee.correlaid.org/single/07382b4791fb16cf9bc1193c03848835](https://ee.correlaid.org/single/07382b4791fb16cf9bc1193c03848835) (this is the "online-only once per respondent" link)
 
 ### Send with Mailerlite
 
