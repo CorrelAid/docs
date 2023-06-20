@@ -1,6 +1,6 @@
 # CorrelAid Data4Good projects
 
-Our Data4Good projects are at the core of our work. In our skilled volunteering projects, we connect data scientist volunteers from our network network of over 2000 volunteers with nonprofit organisations. Through the projects, our volunteers have the opportunity to apply their existing skills and gain new knowledge. At the same time, they support nonprofit organisations with solving their data-related challenges. Over 2-6 months and in teams from 2-7 data scientists, CorrelAid volunteers have tackled diverse data challenges of nonprofits: from data collection, data visualization and exploratory data analysis to automation, reporting and advanced statistical analyses using machine learning and deep learning techniques.
+Our Data4Good projects are at the core of our work. In our skilled volunteering projects, we connect data scientist volunteers from our network network of over 2000 volunteers with nonprofit organisations. Through the projects, our volunteers have the opportunity to apply their existing skills and gain new knowledge. At the same time, they support nonprofit organisations with solving their data-related challenges. Over 2-8 months and in teams from 2-7 data scientists, CorrelAid volunteers have tackled diverse data challenges of nonprofits: from data collection, data visualization and exploratory data analysis to automation, reporting and advanced statistical analyses using machine learning and deep learning techniques.
 
 Learn more about our projects so far here:
 
@@ -145,7 +145,7 @@ Here are some practical tips:&#x20;
 
 ### I have found the form to become a project mentor / reviewer. What does this entail? <a href="#project-mentor" id="project-mentor"></a>
 
-****
+
 
 As a project mentor / reviewer, you might join a team (temporarily) to consult them so that they can improve the quality of their work by following **best practices**, hereby ensuring the long-term impact and sustainability of the project. This might include but is not limited to:
 
@@ -163,6 +163,6 @@ In addition, as a team mentor, it is important that you consider that not all te
 
 Finally, if your recommendations are not accepted / implemented, talk to the project coordinator to see what can be done so that the long-term sustainability and quality of the project are ensured.&#x20;
 
-****
+
 
 ***

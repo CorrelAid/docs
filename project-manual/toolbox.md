@@ -12,14 +12,9 @@ I (Frie) know that there are pain points especially with regards to project acqu
 
 ## Tools
 
-### General project coordination
+### General project coordination / project management
 
-* [Kanban Board with all Projects](https://github.com/CorrelAid/projects/projects/1) on GitHub (private, request access from Frie) --> if you could use this, it would be very helpful so that we have an overview! :)
-* accompanying [{projectutils}](https://github.com/CorrelAid/projectutils) R package&#x20;
-
-{% content-ref url="project-coordinators/github-projects-repository.md" %}
-[github-projects-repository.md](project-coordinators/github-projects-repository.md)
-{% endcontent-ref %}
+* [Kanban Board on Trello](https://trello.com/b/OH9W0pdL/project-coordination)
 
 {% hint style="success" %}
 You can find the templates in the [Google Docs Template Gallery](https://docs.google.com/document/u/0/?tgif=d\&ftv=1) and the [Google Slides Template Gallery](https://docs.google.com/presentation/u/0/?tgif=d\&ftv=1). You can then create new file(s) from the templates. Alternatively, you can find all the relevant template documents sorted by phase in this [Google Drive folder](https://drive.google.com/drive/u/0/folders/18JcOG-aycyfaIafQMtWuPtqJ8XW1BpA0). You can then create a copy of the file you need (File --> make a copy)
@@ -40,11 +35,14 @@ You can find the templates in the [Google Docs Template Gallery](https://docs.go
 
 ### Scoping & Call for Applications
 
-* ["When do we do a project?"-Guide](project-decision-guide.md)
+* [Ethics Questionnaire and Companion Document](the-ethics-questionnaire-and-its-companion-document.md)
 * [Templates in Google Drive](https://drive.google.com/drive/u/0/folders/1KR7dxTdLRhtDEsQspLnEEtA2vsYM7gan)
   * `template_scoping:` template for calls with NPO representatives with question collection
   * `template_projektausschreibung_` : templates for call for applications in German
   * `template_call_for_applications_` : templates for call for applications in English
+* KoboToolbox form
+  * form builder etc (requires login): [https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/landing](https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/landing)&#x20;
+  * link to share: [https://ee.correlaid.org/single/8ZibAmdq](https://ee.correlaid.org/single/8ZibAmdq)
 
 {% content-ref url="project-coordinators/scoping.md" %}
 [scoping.md](project-coordinators/scoping.md)
@@ -52,6 +50,7 @@ You can find the templates in the [Google Docs Template Gallery](https://docs.go
 
 ### Team selection
 
+* Instructions to generate the HTML report: [https://github.com/CorrelAid/project-coordination-tools](https://github.com/CorrelAid/project-coordination-tools)&#x20;
 * [Confirming team members template](project-coordinators/team-selection.md#acceptance-email)
 * [Confirming team lead template](project-coordinators/team-selection.md#confirming-team-lead)
 

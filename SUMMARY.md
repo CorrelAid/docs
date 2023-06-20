@@ -51,8 +51,8 @@
 ## Project manual
 
 * [CorrelAid Data4Good projects](project-manual/data4good-projects.md)
-* [The Ethics Questionnaire and its Companion Document](project-manual/the-ethics-questionnaire-and-its-companion-document.md)
 * [Toolbox](project-manual/toolbox.md)
+* [The Ethics Questionnaire and its Companion Document](project-manual/the-ethics-questionnaire-and-its-companion-document.md)
 * [Project coordination](project-manual/project-coordinators/README.md)
   * [Project Acquisition](project-manual/project-coordinators/project-acquisition.md)
   * [Scoping & Call for Applications](project-manual/project-coordinators/scoping.md)
@@ -62,7 +62,6 @@
   * [Project work](project-manual/project-coordinators/project-work.md)
   * [Handover workshop](project-manual/project-coordinators/handover-workshop.md)
   * [Follow-up](project-manual/project-coordinators/follow-up.md)
-  * [GitHub "projects" Repository](project-manual/project-coordinators/github-projects-repository.md)
   * [Documentation](project-manual/project-coordinators/documentation.md)
 * [Team lead](project-manual/team-lead.md)
 * [For the project team](project-manual/project-team/README.md)

@@ -126,7 +126,7 @@ As stated above:
 
 The main question is: **could our volunteers learn something in the project?** This is most often the case because CorrelAiders come in all shapes and sizes and skill levels. So even if you might find a project with a lot of data cleaning and a bit of data visualization boring, it could still be a very cool educational experience for less experienced data scientists.
 
-That being said, a project should not _**only**_** ** consist of mundane tasks like data entry, coding data (e.g. coding tweets into categories), data organisation in spreadsheets, etc.
+That being said, a project should not _**only**_ consist of mundane tasks like data entry, coding data (e.g. coding tweets into categories), data organisation in spreadsheets, etc.
 
 ### 2.2. For-good factor and ethical considerations
 
