@@ -32,7 +32,7 @@
 
 ### Score
 
-We try to rank applicants on the following dimensions using a **score** that we generate using qualitative coding of open ended and closed ended answers. See [below](team-selection.md#google-sheet-for-collaborative-ranking) for details.&#x20;
+We try to rank applicants on the following dimensions using a **score** that we generate using qualitative coding of open ended and closed ended answers. See [below](team-selection.md#reading-applications-and-filling-the-google-sheet) for details.&#x20;
 
 * interest in topic / motivation for the project
   * can the person learn something on the project?
