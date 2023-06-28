@@ -86,8 +86,9 @@ For each project that you want to do team selection for:
 
 1. Duplicate the tab/sheet "Template"
 2. important: name each project sheet with the project id, e.g `2022-04-LAU`
+3. important: in each project sheet, fill in the project id into cell B1 (will be highlighted in yellow), e.g `2022-04-LAU`
 
-The main work will happen in the "Template" sheet, "Main table" is just for overview and later for exporting the results of the team selection.
+The main work will happen in the project specific sheets, "Main table" is just for overview and later for exporting the results of the team selection.
 
 #### Generate HTML report(s) <a href="#generate-html-reports" id="generate-html-reports"></a>
 
