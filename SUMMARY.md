@@ -20,7 +20,7 @@
   * [Video conferences](wiki/infrastructure/zoom.md)
   * [Kobotoolbox for Forms](wiki/infrastructure/kobo.md)
   * [Gitbook for documentation](wiki/infrastructure/gitbook-for-documentation.md)
-  * [CorrelCloud](wiki/infrastructure/correlcloud.md)
+  * [NextCloud](wiki/infrastructure/nextcloud.md)
   * [Email](wiki/infrastructure/email.md)
   * [Azure & DNS management](wiki/infrastructure/azure.md)
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)

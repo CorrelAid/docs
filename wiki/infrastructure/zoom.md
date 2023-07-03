@@ -2,15 +2,15 @@
 
 ## Google Meet
 
-Through Google for Nonprofits, CorrelAid has access to premium Google Meet features. Those include up to 100 participants, breakout rooms, whiteboards, and many more. [See here](https://www.google.com/nonprofits/workspace/compare/) for an overview. If you need to record a meeting (e.g. a meetup), you need to use Zoom instead.&#x20;
+Through Google for Nonprofits, CorrelAid has access to premium Google Meet features. Those include up to 100 participants, breakout rooms, whiteboards, and many more. [See here](https://www.google.com/nonprofits/workspace/compare/) for an overview. If you need to record a meeting (e.g. a meetup), you need to use Zoom instead.
 
-If you have a [Google Workspace](google-workspace.md) account, you can create Meets by going to [https://meet.google.com](https://meet.google.com). Alternatively, you can directly add Google Meets to calendar events you create in your personal [CorrelAid calendar](google-workspace.md#personal-calendar).&#x20;
+If you have a [Google Workspace](google-workspace.md) account, you can create Meets by going to [https://meet.google.com](https://meet.google.com). Alternatively, you can directly add Google Meets to calendar events you create in your personal [CorrelAid calendar](google-workspace.md#personal-calendar).
 
 ## Zoom
 
 CorrelAid has two Zoom pro licenses. If you want to have a link for an event, please contact either Frie or Nina or Isabel depending on the area your event will fall into:
 
-* Account 1 - education and projects: Frie + Nina
+* Account 1 - education and projects: Frie
 * Account 2 - CorrelAidX: Isabel
 
 ### Recording a Zoom event

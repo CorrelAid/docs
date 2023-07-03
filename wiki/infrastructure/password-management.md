@@ -1,10 +1,6 @@
 # Password management
 
 {% hint style="info" %}
-Valid once Google Drive is active/migrated to.
-{% endhint %}
-
-{% hint style="info" %}
 Ideally, we would have a hosted password manager such as bitwarden or 1password for all of our active volunteers. Sadly, that's too expensive so we work with a file-based solution.
 {% endhint %}
 

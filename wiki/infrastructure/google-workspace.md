@@ -1,8 +1,8 @@
 # Google Workspace
 
-## Migration
+## Request an account
 
-As questions / information regarding the migration to Google Workspace are only temporarily useful, they can be found in [this pad](https://pad.correlaid.org/s/B11wgILu9).
+fill in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo\_22r0g/viewform) to request a Google Workspace account.&#x20;
 
 ## Get started
 
@@ -12,8 +12,6 @@ As questions / information regarding the migration to Google Workspace are only 
 4. Read the [Google Mail "Get started"](google-workspace.md#gmail).
 
 ## Accounts
-
-##
 
 ### Personal accounts vs. group accounts
 
@@ -144,7 +142,7 @@ Tip: Download [Drive for Desktop](https://www.google.com/drive/download/) (MacOS
 
 :warning:**Under certain circumstances**
 
-* for meetings/information concerning/including external partners: ask them beforehand whether it is OK if you use Google Docs to write meeting minutes/plan things including them. Some organizations/partners might not want information about them on US servers. Respect that and use [NextCloud](correlcloud.md) or a [CodiMD](broken-reference) instead.
+* for meetings/information concerning/including external partners: ask them beforehand whether it is OK if you use Google Docs to write meeting minutes/plan things including them. Some organizations/partners might not want information about them on US servers. Respect that and use [NextCloud](nextcloud.md) or a [CodiMD](broken-reference) instead.
 * avoid storing personal data from CorrelAiders on Google Drive. Names and CorrelAid email addresses should be ok, but for instance, if you need to collect postal addresses, use a [Kobo form ](kobo.md)instead of Google Forms.
 * you can use Google Drive to transfer/store [non-GDPR relevant](../../project-manual/data-security-and-privacy.md#types-of-data) data from the partner organization under the condition that the project partner **consented to this in written form.**
 

@@ -1,6 +1,6 @@
 # Gitbook for documentation
 
-[Gitbook](https://www.gitbook.com/) is originally a tool for developers to build documentation. We use it to write and and maintain documentation that is mostly static, i.e. does not change often, and does not need to be edited by many people. This distinguishes it from [CodiMD](broken-reference) which we use for more dynamic documents that many people collaborate on.
+[Gitbook](https://www.gitbook.com/) is originally a tool for developers to build documentation. We use it to write and and maintain documentation that is mostly static, i.e. does not change often, and does not need to be edited by many people.&#x20;
 
 One example of a Gitbook is this page, our docs. It can be either edited through the Gitbook editor (accessible only to people invited to our Gitbook team) or by using [GitHub](https://github.com/CorrelAid/docs) where the files are stored.
 

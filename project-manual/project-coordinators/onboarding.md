@@ -106,7 +106,7 @@ Who: Project coordinator together with project coordination admins
 
 #### Set up CorrelCloud team
 
-Please ask one of the [CorrelCloud](../../wiki/infrastructure/correlcloud.md) administrators to invite your team members. For this, the admin will need their full names and email addresses.
+Please ask one of the [CorrelCloud](../../wiki/infrastructure/nextcloud.md) administrators to invite your team members. For this, the admin will need their full names and email addresses.
 
 #### Create restricted-access folder in `04_projekte_data`
 
