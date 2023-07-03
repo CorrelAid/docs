@@ -6,7 +6,7 @@ The CorrelAid Content Management System (CMS) is a tool built with Directus that
 
 To access the CorrelAid CMS, visit `cms.correlaid.org` in your web browser.
 
-If you need an account to contribute to correlaid.org, please reach out to the "infrastructure-website-cms" channel on the CorrelAid Slack.
+If you need an account to contribute to correlaid.org, please reach out to the "infrastructure-website-directus" channel on the CorrelAid Slack.
 
 **General Contribution Process**
 
