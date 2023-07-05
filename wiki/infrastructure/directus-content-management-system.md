@@ -43,7 +43,20 @@ However, one problem is that Google docs and other editors (Word, VS Code) **ass
 Sometimes this is not sufficient, e.g. for bullet point lists, Google docs creates an extra `<p>` tags for each bullet point causing the spacing between bullet points to be quite large. You can see this in the code view of the editor (accessible via the `<>` button). In this case:
 
 2. **Remove extra tags manually** in the code view. This works well for smaller texts.
-3. Install the [**Docs to Markdown**](https://workspace.google.com/marketplace/app/docs\_to\_markdown/700168918607) **extension** and use it to export your google docs text to HTML directly (Extensions -> Docs to Markdown -> Convert, then HTML button). This will create raw HTML which you can copy into the code view in Directus. For larger texts, this is recommended.&#x20;
+3. Install the [**Docs to Markdown**](https://workspace.google.com/marketplace/app/docs\_to\_markdown/700168918607) **extension** and use it to export your google docs text to HTML directly (Extensions -> Docs to Markdown -> Convert, then HTML button). This will create raw HTML which you can copy into the code view in Directus. For larger texts, this is recommended.
+
+### Removing empty translations
+
+Some content allows for translations, but recognizes that not all languages (currently English and German) might be provided. In such cases the website has logic build into it that will use the language with existing content independent of what the user has currently selected. For instance the German version of the website will show blog posts that are only available in English. Currently this behavior is used for blog posts and jobs.
+
+In Directus, it can unfortunately happen that a translation ends up existing without any content. So the system for instance thinks there is a German version of a blog post but its actually empty. This can, for instance, happen when content is added to a particular language/translation by accident and is removed again afterwards. Ideally these empty unneeded translations are then removed manually. Since this is not straight forward the concrete steps follow. As an example we consider posts but it works similarly in other collections.
+
+1. Identify the `ID` of the blog post with the empty translation. This should be in the posts collection table. If its not there it can be added as a column with the `+` sign in the upper right corner.
+2. Right click in the menu on the left, that is listing the collections. From the context menu choose "Show Hidden Collections". Make sure you right click in the menu, but not on a particular collection. Otherwise a different context menu containing "Edit Collection" will show up.
+3. Choose the collection "Posts Translations"
+4. Find the Translation that has as `Posts ID` the ID identified in step 1.
+5. Select that row and hit the delete button in the top right.
+6. Right click in the menu on the left to "Hide Hidden Collections"  again.
 
 ## FAQ
 
