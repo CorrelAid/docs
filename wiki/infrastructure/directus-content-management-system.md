@@ -74,13 +74,13 @@ See [above](directus-content-management-system.md#draft-process-formatting) for 
 
 ### Directus Deployment
 
-Directus is set up with Terraform and Ansible. Find the repo \[here]\([https://github.com/CorrelAid/CorrelIaC](https://github.com/CorrelAid/CorrelIaC)). It runs on Azure on a VPS connected to a managed Postgres Database. The terraform currently only exists locally, but we plan to migrate this to the cloud in the future.
+Directus is set up with Terraform and Ansible. Find the repo [here](https://github.com/CorrelAid/CorrelIaC). It runs on Azure on a VPS connected to a managed Postgres Database. The terraform currently only exists locally, but we plan to migrate this to the cloud in the future.
 
 ### Frequent Bug Fixes
 
 #### ID not unique
 
-It has happened multiple times that suddenly, when someone wanted to create a new entry in a collection, they were shown the error message "ID not unique". This seems to be a bug with Directus. The cause is that the automatic increment of ids in the corresponding Postgres table was somehow reset, so that entries are being created with ids that already exist. Fix this the follwing way:
+It has happened multiple times that suddenly, when someone wanted to create a new entry in a collection, they were shown the error message "ID not unique". This seems to be a bug with Directus. The cause is that the automatic increment of ids in the corresponding Postgres table was somehow reset, so that entries are being created with ids that already exist. Fix this in the following way:
 
 1. Connect to the server Directus is running on (the ip of this server is the only one that can connect to the database). Ask on Slack for your ssh key to be added to the server.
 2.  Use psql to connect to the Database like this:\
@@ -94,7 +94,7 @@ It has happened multiple times that suddenly, when someone wanted to create a ne
 
     \
     Find the credentials on bitwarden.
-3. Identify the collection causing the error. Sometimes it is not the collection you tried to create an entry in, but some other collection related to it, for example a translations.
+3. Identify the collection causing the error. Sometimes it is not the collection you tried to create an entry in, but some other collection related to it, for example translations.
 4.  Execute the following SQL code (insert the name of the collection):\
 
 
