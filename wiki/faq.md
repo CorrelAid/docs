@@ -22,17 +22,7 @@ You can find more info about our structures and the CorrelUniverse here in the [
 Yes, sure! You can find some of our contacts [on the website](https://correlaid.org/contact). Or in the answer to the question above. :wink:
 {% endhint %}
 
-## GitHub/GitLab
-
-### I want to create a GitHub / GitLab repository for my project and add my team to it. How do I do it?
-
-{% hint style="info" %}
-Please post a Slack message to #infrastructure with:
-
-* the name you want the repository to have
-* the GitHub / GitLab user names of the project team members
-* whether the project should be public or private
-{% endhint %}
+## GitHub
 
 ### I can't push to the Git repository ("access rights" error). What's up there?
 

@@ -53,7 +53,3 @@ However, we currently do not use it for much. If you want to work with GitLab in
 ## FAQ
 
 See our general FAQ for answers.
-
-{% content-ref url="../faq.md" %}
-[faq.md](../faq.md)
-{% endcontent-ref %}

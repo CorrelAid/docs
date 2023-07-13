@@ -46,13 +46,13 @@ Non-personal data do not fall into the scope of GDPR.
 
 > Open data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and sharealike. ([https://opendatahandbook.org/guide/en/what-is-open-data/](https://opendatahandbook.org/guide/en/what-is-open-data/))
 
-## Declaration on data security
+## Declaration on data protection and security
 
 German: Datenschutzverpflichtungserklärung
 
 Depending on the project, a declaration on data security needs to be signed by all members of the project team and the NPO.
 
-You can download it [here](https://correlcloud.org/index.php/s/7PSskX9yN7RKmoi?path=%2Ftemplate\_data\_privacy). It should be adapted according to the specific requirements of the project that should've been defined in the [ideation process](project-coordinators/scoping.md#data-privacy-and-data-access). The project lead is responsible for collecting the signed declarations from all project team members before any data is shared as part of the [onboarding process](project-coordinators/onboarding.md#data-privacy-policy-statement).
+You can download it [here](https://drive.google.com/drive/u/0/folders/1NR3bHoPWrzvR3pySiRQ61l\_BelMXksA\_). It should be adapted according to the specific requirements of the project that should've been defined in the scoping process. The project coordinator is responsible for collecting the signed declarations from all project team members before any data is shared as part of the [onboarding process](project-coordinators/onboarding.md#data-privacy-policy-statement).
 
 ## Data encryption
 

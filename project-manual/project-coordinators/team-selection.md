@@ -72,6 +72,20 @@ You can find members for your committee by posting on Slack in #crew-directory o
 
 > Do you want to be part of the team selection committee for \[PROJECT NAME]? The project will be about training a model to do XX. It will be in Python.
 
+### Create Slack channel
+
+Create a Slack Channel on the CorrelAid slack for the project. Give it a meaningful name that team members can remember.&#x20;
+
+The visibility of the channel should be private by default to give team members a sense of team-internal privacy. If the project is an open source project, you can also discuss with the team later whether they want to create a public channel.&#x20;
+
+{% hint style="info" %}
+**Why is it important that project teams communicate on Slack?**
+
+1. Access to the community. Having the team communication on Slack gives team members instant and direct access to the community, e.g. the #help channel. It is also easier to get in contact with their project coordinator(s) because they are part of the channel, get infrastructure support (#infrastructure) and to feel part of the larger CorrelAid community.
+2. Better project coordination. While the main work of the project coordinator is in the earlier phases of a project, they are also responsible for making sure that the project works as expected. If the project coordinator is part of the main communication channel, they can get a better feeling for how the project is going and offer their help directly.
+3. Archive. Communication is centralized and stored on Slack. This means it is easier to go back and find old conversations if necessary.
+{% endhint %}
+
 ### Prepare team selection
 
 #### Set up Google Sheet <a href="#set-up-sheet" id="set-up-sheet"></a>
