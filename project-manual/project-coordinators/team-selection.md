@@ -132,106 +132,16 @@ Notes for the process:
 
 ### Confirming team members
 
-Before you send out rejection emails to all those applicants who were not selected for the team you should make sure that everyone is still interested in participating in the project. After all, 1-3 weeks might have passed since they applied and they could've changed their minds. You can use the acceptance email template to get the confirmation.
+{% hint style="info" %}
+[Templates on Google Drive](https://docs.google.com/document/d/13CBLKgnwY60fQ8qDCgRYESbsn6sm5KB94eSEiOXUup4/edit#heading=h.9j69oi8w8krl)
+{% endhint %}
 
-After everyone has confirmed their interest, you can send out the emails to the applicants who could not be considered. You can use the rejection email template to do this. If you want to send out multiple rejections at once, please make sure to **use blind copy** (BCC).
+Before you send out rejection emails to all those applicants who were not selected for the team you should make sure that everyone is still interested in participating in the project. After all, 1-3 weeks might have passed since they applied and they could've changed their minds. You can use the [acceptance email templates to get the confirmation](https://docs.google.com/document/d/13CBLKgnwY60fQ8qDCgRYESbsn6sm5KB94eSEiOXUup4/edit#heading=h.8goee9mp18es). You can use BCC to send the emails to all accepted applicants at once.
 
-#### Acceptance Email
-
-🇬🇧
-
-Subject: \[CorrelAid] Your application for the project "\[Project name]"
-
-Dear \[name applicant],
-
-Thank you for your interest in participating in our project with \[Organisation]. We are happy to inform you that you were selected to be part of the team.
-
-Please quickly let us know whether you're still interested in participating in the project so that we can send out emails to those who could not be considered this time.
-
-As a next step, we will send you an invitation to our Slack workspace and add you to the project channel \[#slack channel name]. There, you'll get to know the rest of the team and we will coordinate the rest of the onboarding process so that you can get to coding as soon as possible.
-
-Looking forward to the project!
-
-Best regards,
-
-\[project coordinator]
-
-🇩🇪
-
-Betreff: \[CorrelAid] Deine Bewerbung auf das Projekt “\[Projektname]”
-
-Liebe:r \[Vorname Bewerberin],
-
-vielen Dank für dein Interesse, an unserem Projekt mit \[Organisation] mitzuarbeiten. Wir freuen uns, dir mitteilen zu können, dass du als Teil des Teams ausgewählt wurdest!
-
-Es wäre super, wenn du schnell bestätigen könntest, dass du immer noch Interesse an dem Projekt hast. Dann können wir Emails an diejenigen verschicken, die dieses Mal leider nicht berücksichtigt werden konnten.
-
-Als nächstes werden wir dir eine Einladung zu unserem Slack Workspace schicken und dich dem Projekt-Channel (\[#channel name]) hinzufügen. Dort lernst du den Rest des Teams kennen und wir können alle weiteren Schritte des Onboarding-Prozesses koordinieren, sodass ihr so schnell wie möglich zum Coden kommen könnt!
-
-Ich freue mich auf das Projekt!
-
-Viele Grüße,
-
-\[Projektkoordinator:in]
-
-#### Rejection Email
-
-🇬🇧
-
-Subject: \[CorrelAid] Your application for the project "\[Project name]"
-
-Dear \[name applicant],
-
-Thank you for your interest in participating in our project with \[Organisation]. We were very happy about the applications we received. Unfortunately, the amount of applications (there were \[number of applications]) meant that we had to make a selection.
-
-Unfortunately you are not part of this project. You should not take this as a negative evaluation of your person or your skills. A variety of criteria played a role in our selection - we did not solely select the best-skilled applicants but aimed to put together a team with diverse experiences, skillsets and interests.
-
-Of course, more projects are already in our pipeline and when making our selection, we also take into account whether analysts had unsuccessfully applied to a project in the past. So be sure to mention in your next application that you were not selected for this project. The next opportunity to work on a project will certainly come soon.
-
-In the meantime, please feel free to contact me with questions and ideas at any time.
-
-Best regards
-
-\[Project coordinator]
-
-🇩🇪
-
-Liebe:r \[Name Bewerberin],
-
-vielen Dank für dein Interesse, an unserem Projekt mit \[Organisation] mitzuarbeiten. Wir haben uns über die Resonanz, die wir erhalten haben, sehr gefreut. Leider bringt die Vielzahl an Rückmeldungen (\[Zahl der Bewerbungen] an der Zahl) mit sich, dass wir eine Auswahl treffen mussten.
-
-Leider bist du bei diesem Projekt nicht dabei. Das solltest du keinesfalls als negative Wertung deiner Skills oder deiner Person betrachten. Bei unserer Auswahl haben eine Vielzahl an Kriterien eine Rolle gespielt - so haben wir auch darauf geachtet, dass wir eben nicht nur nach den besten Kenntnissen auswählen, sondern ein Team mit vielfältigen Erfahrungen und Interessen zusammenstellen.
-
-Diesem Projekt werden bald weitere Projekte folgen. Bei der Auswahl berücksichtigen wir auch, ob Analyst\*innen in der Vergangenheit leider nicht zum Zuge kamen. Erwähne daher unbedingt bei deiner nächsten Bewerbung, dass du bei diesem Projekt nicht zum Zuge gekommen bist. Die nächste Möglichkeit zur Projektmitarbeit kommmt sicher bald.
-
-In der Zwischenzeit kannst du dich gerne jederzeit an mich wenden.
-
-Herzliche Grüße
-
-\[Projektkoordinatorin]
+After everyone has confirmed their interest, you can send out the emails to the applicants who could not be considered. You can use the rejection email template to do this. If you want to send out multiple rejections at once, please make sure to **use blind copy** (BCC). You can find [the templates here](https://docs.google.com/document/d/13CBLKgnwY60fQ8qDCgRYESbsn6sm5KB94eSEiOXUup4/edit#heading=h.lipo8m9lsphc).
 
 ### Confirming team lead
 
 #### Promoting a team member/team trainee
 
-🇬🇧
-
-Hi NAME,
-
-my name is \[XY] and I am one of the project coordinators for the CorrelAid project with \[ORGANIZATION] which you also applied to and were selected for. :)
-
-When doing the team selection, we were quite impressed by your application and we wanted to ask you whether you would be interested in becoming a team lead for the project?
-
-The team lead position can be described as follows:
-
-As a team lead, you lead the implementation of the project as part and primus inter pares of the project team. In addition, you have some organizational tasks: Together with your team mates, you agree on an internal organization of your team, e.g. how often you have check-ins, how to organize the repository, how to keep track of progress, how often to talk to the NPO partner organization etc. Of course, you are not solely responsible for implementing those decisions but organize the team to be able to do so. Note: you do not need to be a technical expert to be a team lead, it is more about organizing a team and facilitating and following up on discussions.
-
-We think that your \[QUALIFICATIONS/EXPERIENCES] greatly qualify you for that role!
-
-Of course, we as the project coordinators would support you and would also have a call before the kickoff to answer any questions and give you more information about the tools and methods that we have prepared for team leads. :)
-
-If you are still unsure and would like to discuss this further before making a decision, we are available for a call \[INSERT TIME]. Of course, it's also totally ok if you'd rather participate in the role you originally applied to!
-
-Best,
-
-\[PROJECT COORDINATORS]
+Sometimes, no team lead applied. Then you can ask a qualified applicant to fill this role. You can find an email template here: [https://docs.google.com/document/d/13CBLKgnwY60fQ8qDCgRYESbsn6sm5KB94eSEiOXUup4/edit#heading=h.pzeh5l53r93l](https://docs.google.com/document/d/13CBLKgnwY60fQ8qDCgRYESbsn6sm5KB94eSEiOXUup4/edit#heading=h.pzeh5l53r93l)&#x20;
