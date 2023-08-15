@@ -52,7 +52,7 @@ Sometimes this is not sufficient, e.g. for bullet point lists, Google docs creat
 3. Copy the html code you see when you click on "Embed" and on "Fixed", but remove the height and width attributes and add the "dnt=1" url parameter (do not track). This is an example for what the resulting html code should look like:
 
 ```html
-<iframe src="https://player.vimeo.com/video/827419927?h=7cc5391f99&amp;dnt=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://player.vimeo.com/video/827419927?h=7cc5391f99&amp&dnt=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 ```
 
 4. In the WYSIWYS field in directus, click on "Edit Source Code" (the <> icon) and paste the html code at the place where you want the video to appear. The video wont be displayed when you switch back to the normal edit view, but it should be displayed on the website.
