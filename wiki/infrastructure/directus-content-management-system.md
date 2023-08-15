@@ -45,6 +45,18 @@ Sometimes this is not sufficient, e.g. for bullet point lists, Google docs creat
 2. **Remove extra tags manually** in the code view. This works well for smaller texts.
 3. Install the [**Docs to Markdown**](https://workspace.google.com/marketplace/app/docs\_to\_markdown/700168918607) **extension** and use it to export your google docs text to HTML directly (Extensions -> Docs to Markdown -> Convert, then HTML button). This will create raw HTML which you can copy into the code view in Directus. For larger texts, this is recommended.
 
+### Add a Video to WYSIWYG
+
+1. Log in at vimeo.com
+2. Open the video you want to embed
+3. Copy the html code you see when you click on "Embed" and on "Fixed", but remove the height and width attributes and add the "dnt=1" url parameter (do not track). This is an example for what the resulting html code should look like:
+
+```html
+<iframe src="https://player.vimeo.com/video/827419927?h=7cc5391f99&amp;dnt=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+```
+
+4. In the WYSIWYS field in directus, click on "Edit Source Code" (the <> icon) and paste the html code at the place where you want the video to appear. The video wont be displayed when you switch back to the normal edit view, but it should be displayed on the website.
+
 ### Removing empty translations
 
 Some content allows for translations, but recognizes that not all languages (currently English and German) might be provided. In such cases the website has logic build into it that will use the language with existing content independent of what the user has currently selected. For instance the German version of the website will show blog posts that are only available in English. Currently this behavior is used for blog posts and jobs.
