@@ -8,6 +8,10 @@ To access the CorrelAid CMS, visit [cms.correlaid.org](https://cms.correlaid.org
 
 If you need an account to contribute to correlaid.org, please reach out to the ["infrastructure-website-directus"](https://correlaid.slack.com/archives/C04DDHV6LUQ) channel on the CorrelAid Slack.
 
+## Important Info
+
+* Do not upload sensitive files to directus!
+
 ## **General Contribution Process**
 
 To manage and publish content on the CorrelAid website, follow these general steps:
