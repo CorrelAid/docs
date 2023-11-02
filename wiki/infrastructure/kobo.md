@@ -14,6 +14,8 @@ Here, admins can create and delete users and manage other settings of the Kobo i
 
 Go to [https://kobo.correlaid.org/admin/](https://kobo.correlaid.org/admin/).
 
+1. **Add user**
+
 Click on "Add" next to "Users" and you can set a user name and password for the new user.
 
 Important: **User names should follow the {firstname}\_{lastname} format**. Using dots (".") in user names definetly causes some weird problems, so this should be avoided at all cost. The password should obviously follow good password principles.
@@ -22,7 +24,22 @@ Important: **User names should follow the {firstname}\_{lastname} format**. Usin
 
 Once you click on "Save", you'll be redirected to the settings page for this user. Leave the default settings and click "Save" again.
 
-To share the password, you can use a [Yopass link ](https://yopass.se/)(make sure to change the expiration date to one week).&#x20;
+2. **Associate Email address to user**
+
+Since an update to a newer version, we have to associate an email address to the user, otherwise the login will not work. To do that:
+
+1. go to **Email addresses**: [https://kobo.correlaid.org/admin/account/emailaddress/](https://kobo.correlaid.org/admin/account/emailaddress/)&#x20;
+2. top right, click add email address.&#x20;
+3. next to "User" there is a :mag:. Click on it.
+4. A pop up will appear where you can select the target user by clicking on their name
+5. the pop up should close. The displayed number is the numeric ID for the user you selected.
+6. enter the email address and check both tick boxes (Verified and Primary)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-02 at 3.23.32 PM.png" alt=""><figcaption></figcaption></figure>
+
+3. **Share the password with the user**&#x20;
+
+Adding the email **will not send out** an automated invitation. To share the password with the new user, you can use a [Yopass link ](https://yopass.se/)(make sure to change the expiration date to one week).&#x20;
 
 ## CorrelAid collection
 
