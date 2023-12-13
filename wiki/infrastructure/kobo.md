@@ -18,7 +18,7 @@ Go to [https://kobo.correlaid.org/admin/](https://kobo.correlaid.org/admin/).
 
 Click on "Add" next to "Users" and you can set a user name and password for the new user.
 
-Important: **User names should follow the {firstname}\_{lastname} format**. Using dots (".") in user names definetly causes some weird problems, so this should be avoided at all cost. The password should obviously follow good password principles.
+Important: **User names should follow the {firstname}\_{first letter of surname} format**. Using dots (".") in user names definetly causes some weird problems, so this should be avoided at all cost. The password should obviously follow good password principles.
 
 ![](../../.gitbook/assets/screenshot-2021-03-03-at-09.53.17.png)
 
