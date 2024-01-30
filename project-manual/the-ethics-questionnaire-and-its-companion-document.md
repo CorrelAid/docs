@@ -13,7 +13,7 @@ At some point, someone in the organization may ask you to fill in the Ethics Que
 
 The Questionnaire is here:
 
-[https://ee.correlaid.org/x/sCuo2DR3](https://ee.correlaid.org/x/sCuo2DR3)
+[https://ee.correlaid.org/x/r5U5hM57](https://ee.correlaid.org/x/r5U5hM57)
 
 When you fill it in, have a look at the Companion Document, which we present to you below.
 
