@@ -6,6 +6,7 @@ Quick links
 The most important links from this section in one handy little box:
 
 * [Scoping Phase Google Docs Template](https://docs.google.com/document/d/10m0qPGRNbGi0LYyMc6LYTxner5WSMYtUAIHkIHZwHTg/edit)
+* [Scoping Template for NPOs (🇩🇪)](https://drive.google.com/file/d/1Syf\_yUBJlaEdwPxscZNvAxwLQCNh0nZO/view?usp=sharing)
 * [Data Maturity Framework](https://www.dataorchard.org.uk/resources/data-maturity-framework)
 * [Call for Applications Google Docs Templates (🇬🇧 🇩🇪)](https://drive.google.com/drive/u/0/folders/1KR7dxTdLRhtDEsQspLnEEtA2vsYM7gan)
 * [Ethics questionnaire and companion ](../the-ethics-questionnaire-and-its-companion-document.md)
@@ -65,8 +66,6 @@ To create the docs from the templates:
 
 1. open the [template folder](https://drive.google.com/drive/u/0/folders/1KR7dxTdLRhtDEsQspLnEEtA2vsYM7gan) and open the template you want. Select all content and copy to a new Google doc. **OR:**
 2. in the folder where you want to create the google doc (see step 1 above), right-click --> Google Docs --> From Template and then select the template from the gallery.&#x20;
-
-
 
 ## Scoping
 
