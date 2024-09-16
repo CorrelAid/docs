@@ -5,7 +5,7 @@ description: some thoughts on how we work internally.
 # How We work - Hitchhiker's Guide to CorrelAid
 
 {% hint style="info" %}
-**tl;dr:** If you have a cool idea you want to implement at/with CorrelAid, we will support you with resources to make it happen. You are free in the design and in your decisions - a team of 20 people will be there in calls and on Slack to support you. You can always contact [Frie](mailto:frie.p@correlaid.org) or [Isabel](mailto:isabel.w@correlaid.org) with your idea.
+**tl;dr:** If you have a cool idea you want to implement at/with CorrelAid, we will support you with resources to make it happen. You are free in the design and in your decisions - a team of 20 people will be there in calls and on Slack to support you. You can always contact [Leo](mailto:leo.p@correlaid.org) or [Lena](mailto:lena.m@correlaid.org) with your idea.
 {% endhint %}
 
 Our goal with CorrelAid is to democratize the potential of Data Science. In practice, we achieve this by supporting a network of over 1000 dedicated data analysts in Germany, by giving them the opportunity to grow, and by organizing pro-bono data science projects for civil society. But how do we work _internally_? This is an overview of how we organize ourselves at CorrelAid, how we work and which principles we follow.
@@ -20,7 +20,7 @@ The way we work together in the Core Team is strongly influenced by principles. 
 
 ## Our organization
 
-We are formed as an association ("Verein" in German). In practice, however, the official organs of the association only have a secondary role. Instead, most of the structures we work in are informal, always potentially changing and ad-hoc. In the following, I will briefly explain our most important structures. You can also find an overview of our [CorrelUniverse](https://app.mural.co/t/correlaid9916/m/correlaid9916/1661848927395/6d46d91c1368dd7a6b33f7832ac2e6c00188bdee?sender=uad2f4e15e4f38c1000f33089) in this dashboard:
+We are formed as an association ("Verein" in German). In practice, however, the official organs of the association only have a secondary role. Instead, most of the structures we work in are informal, always potentially changing and ad-hoc. In the following, I will briefly explain our most important structures. You can also find an overview of our [CorrelUniverse](https://app.mural.co/t/correlaid3823/m/correlaid3823/1699870589469/4cf3017ee7f487ebbf5ba4efff6245a8d0ed4569?sender=u1b832a9670bb15a61a279564) in this dashboard:
 
 <figure><img src="../.gitbook/assets/correlaid-overview.png" alt=""><figcaption></figcaption></figure>
 
