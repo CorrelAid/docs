@@ -6,16 +6,6 @@
 * make data available to the team so that they can get started directly after the kickoff
 * set up project tools
 
-#### Checklist
-
-{% hint style="success" %}
-* [ ] create private Slack channel and add team members
-* [ ] create [Git](../../wiki/infrastructure/github-and-gitlab.md) repository and add members
-* [ ] set up NextCloud (if necessary)
-* [ ] data transfer via NextCloud (or other means when data is not GDPR relevant)
-* [ ] coordinate kickoff workshop
-* [ ] separate 1-1 onboarding call with team lead (optional)
-{% endhint %}
 
 ## Quick links
 

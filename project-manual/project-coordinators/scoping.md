@@ -5,10 +5,9 @@ Quick links
 {% hint style="info" %}
 The most important links from this section in one handy little box:
 
-* [Scoping Phase Google Docs Template](https://docs.google.com/document/d/10m0qPGRNbGi0LYyMc6LYTxner5WSMYtUAIHkIHZwHTg/edit)
-* [Scoping Template for NPOs (🇩🇪)](https://drive.google.com/file/d/1Syf\_yUBJlaEdwPxscZNvAxwLQCNh0nZO/view?usp=sharing)
+* [Scoping Phase Google Docs Template](https://docs.google.com/document/d/10m0qPGRNbGi0LYyMc6LYTxner5WSMYtUAIHkIHZwHTg/edit) _currently under evaluation._
 * [Data Maturity Framework](https://www.dataorchard.org.uk/resources/data-maturity-framework)
-* [Call for Applications Google Docs Templates (🇬🇧 🇩🇪)](https://drive.google.com/drive/u/0/folders/1KR7dxTdLRhtDEsQspLnEEtA2vsYM7gan)
+* [Call for Applications Google Docs Templates (🇬🇧 🇩🇪)](https://drive.google.com/drive/u/0/folders/1KR7dxTdLRhtDEsQspLnEEtA2vsYM7gan) _currently under evaluation._
 * [Ethics questionnaire and companion ](../the-ethics-questionnaire-and-its-companion-document.md)
 {% endhint %}
 
@@ -26,31 +25,21 @@ The most important links from this section in one handy little box:
 1. decide **whether** we should do a project with the organization
 2. if yes, scope the project
 
-#### **Checklist**
 
-{% hint style="success" %}
-* [ ] add project to Kanban Trello board
-* [ ] do scoping with the NPO
-* [ ] fix date of the kickoff workshop if possible (especially when in-person)
-* [ ] if possible, find a prospective team lead and involve them early into the process
-* [ ] collect applications
-* [ ] confirm team members
-* [ ] confirm team lead (if you had to "promote" a team member)
-{% endhint %}
-
-
-
-## Setting up the project&#x20;
+## Setting up the project
 
 ### Add project to Kanban Board
 
-We have a Kanban board in Trello to track the progress of all projects. Make sure to enter the project into the Kanban board to make the progress visible to everyone.
+_currently under evaluation. ask in #team-project-coordination._
 
-Data on metadata of projects - mostly for finished projects - is maintained separately in Directus.&#x20;
+<!-- We have a Kanban board in  to track the progress of all projects. Make sure to enter the project into the Kanban board to make the progress visible to everyone.
+
+Data on metadata of projects - mostly for finished projects - is maintained separately in Directus.&#x20; -->
 
 
 
 ### Communication and Note Taking
+
 
 In the scoping phase, you should aim to communicate regularly and repeatedly with the NPO to make sure that we a) really want to do a project with them and b) can define a project which will work for both the NPO and the CorrelAid team. Usually, **2-4 iterations over 1-4 weeks** are necessary to define a project so that we can send it out via our newsletter.
 

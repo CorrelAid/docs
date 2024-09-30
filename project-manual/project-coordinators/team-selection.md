@@ -12,17 +12,6 @@
 
 1. find a diverse, capable team
 
-#### Checklist
-
-* [ ] find a selection commitee
-* [ ] anonymize applications (names, email adresses)
-* [ ] set up Google Sheet&#x20;
-* [ ] generate HTML report
-* [ ] share report with committee
-* [ ] team selection call
-* [ ] confirm team members & send out rejection emails
-* [ ] confirm team lead
-* [ ] invite team members to Slack channel
 
 ## Team selection criteria
 
