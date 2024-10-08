@@ -7,7 +7,7 @@ description: >-
 # Toolbox
 
 {% hint style="info" %}
-I (Frie) know that there are pain points especially with regards to project acquisition (what NPOs are out there? What do I tell them to get them excited on ?). I am working on both finding a technical solution (GDPR compliant, ...) and developing standardized material that you can use to reach out.
+I (Leo) know that there are pain points especially with regards to project acquisition (what NPOs are out there? What do I tell them to get them excited on ?). I am working on both finding a technical solution (GDPR compliant, ...) and developing standardized material that you can use to reach out.
 {% endhint %}
 
 ## Tools

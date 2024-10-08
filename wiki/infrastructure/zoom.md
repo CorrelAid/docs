@@ -8,14 +8,11 @@ If you have a [Google Workspace](google-workspace.md) account, you can create Me
 
 ## Zoom
 
-CorrelAid has two Zoom pro licenses. If you want to have a link for an event, please contact either Frie or Nina or Isabel depending on the area your event will fall into:
-
-* Account 1 - education and projects: Frie
-* Account 2 - CorrelAidX: Isabel
+CorrelAid has two Zoom pro licenses. If you want to have a link for an event, please contact our [community manager](https://app.mural.co/t/correlaid3823/m/correlaid3823/1699870589469/4cf3017ee7f487ebbf5ba4efff6245a8d0ed4569?sender=u1b832a9670bb15a61a279564) on Slack.
 
 ### Recording a Zoom event
 
-Sometimes, you might want to record a Zoom event (for example, a [OODM](../../correlcollection/oodm.md) or a workshop of the project cycle). Here are our recommendations to keep the identities of the participants out of the recording:
+Sometimes, you might want to record a Zoom event. Here are our recommendations to keep the identities of the participants out of the recording:
 
 * the speaker should share their screen
 * host: switch to speaker view (**not** gallery)

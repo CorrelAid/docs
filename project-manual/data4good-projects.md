@@ -4,11 +4,8 @@ Our Data4Good projects are at the core of our work. In our skilled volunteering 
 
 Learn more about our projects so far here:
 
-* [past projects on our website](https://correlaid.org/en/nonprofits/projects/)
+* [past projects on our website](https://www.correlaid.org/en/using-data/project-database/)
 * [Project examples](https://docs.google.com/presentation/d/12dlmWxYxYqk1iedmSk48DwNiaomr45UM0jMUGblDQdQ/edit?usp=sharing) slide deck
-* list of projects with linked resources such as podcast episodes, YouTube videos, repositories etc.
-  * [English](https://correlaid.github.io/projects/project\_pr/correlaid\_projects\_pr\_en.html)
-  * [German](https://correlaid.github.io/projects/project\_pr/correlaid\_projects\_pr\_de.html)
 
 ## Actors
 

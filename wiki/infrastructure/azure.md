@@ -16,7 +16,7 @@ Azure has to be renewed every year (around February). We will receive instructio
 
 ## DNS management
 
-DNS records are managed through Hetzner. Jonas or Frie can help you when you need to have a subdomain such as obs.correlaid.org pointing at your project / site or other DNS records (A, MX, CNAME, ...).
+DNS records are managed through Hetzner. Jonas or Leo can help you when you need to have a subdomain such as obs.correlaid.org pointing at your project / site or other DNS records (A, MX, CNAME, ...).
 
 ## FAQ
 

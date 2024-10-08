@@ -3,7 +3,7 @@
 In the past, most CorrelAid projects did not require active project acquisition work: word of mouth and personal contacts have worked well in the past. That being said, especially in a CorrelAidX context, active project acquisition can be necessary and useful.
 
 {% hint style="warning" %}
-Because our experiences here are still limited, this page is still evolving. Please let Frie (@frie) know what works for you and what doesn't, and contribute content to it (e.g. more templates!).
+Because our experiences here are still limited, this page is still evolving. Please let Leo know what works for you and what doesn't, and contribute content to it (e.g. more templates!).
 {% endhint %}
 
 ## CorrelAidX

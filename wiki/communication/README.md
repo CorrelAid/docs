@@ -1,16 +1,23 @@
 # Communication channels
 
-{% page-ref page="conference-calls.md" %}
+{% content-ref url="conference-calls.md" %}
+[conference-calls.md](conference-calls.md)
+{% endcontent-ref %}
 
-{% page-ref page="slack.md" %}
+{% content-ref url="slack.md" %}
+[slack.md](slack.md)
+{% endcontent-ref %}
 
-{% page-ref page="newsletter.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="social-media.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="blog.md" %}
+{% content-ref url="blog.md" %}
+[blog.md](blog.md)
+{% endcontent-ref %}
 
-
-
-### 
-
+###

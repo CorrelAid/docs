@@ -4,12 +4,6 @@ The conference calls (also called "**TelKos**" from German "**Tel**efon**ko**nfe
 
 ## Call schedule
 
-Up until 2020, we had a call every week. However, we've found that this is not ideal anymore as we grow and more and more people joined and activities grew. Up until 2022, we had a biweekly "core team call".&#x20;
-
-As of January 2022, the call schedule is as follows: Calls are generally on **Monday at 7pm (Berlin time)** until agreed upon otherwise. On the first and third Monday, we take the time to focus on specific groups in our network: CorrelAid "newbies" and our local chapters.
-
-Ps: Before anyone asks: In case there's a 5th Monday in a month, there is no call. :wink:
-
 ### Open / Onboarding Call: 1st Monday
 
 **What:** Open / onboarding call. This call is open to anyone who is interested in our work. We share important updates from the CorrelAid world, answer questions and provide some onboarding information for CorrelAid "newbies".

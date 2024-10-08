@@ -9,9 +9,7 @@
 * [Communication channels](wiki/communication/README.md)
   * [Conference calls ​☎](wiki/communication/conference-calls.md)
   * [Slack](wiki/communication/slack.md)
-  * [Newsletter](wiki/communication/newsletter.md)
   * [Blog](wiki/communication/blog.md)
-  * [Social Media](wiki/communication/social-media.md)
 * [Infrastructure](wiki/infrastructure/README.md)
   * [Newsletter: MailerLite](wiki/infrastructure/newsletter-mailerlite.md)
   * [Google Workspace](wiki/infrastructure/google-workspace.md)
@@ -20,14 +18,12 @@
   * [Kobotoolbox for Forms](wiki/infrastructure/kobo.md)
   * [Gitbook for documentation](wiki/infrastructure/gitbook-for-documentation.md)
   * [NextCloud](wiki/infrastructure/nextcloud.md)
-  * [Email](wiki/infrastructure/email.md)
   * [Azure & DNS management](wiki/infrastructure/azure.md)
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
   * [Directus (Content Management System)](wiki/infrastructure/directus-content-management-system.md)
-  * [Infisical](wiki/infrastructure/infisical.md)
+* [PR Guide](wiki/pr-guide.md)
 * [Design Guide](wiki/design-guide.md)
 * [CorrelAid Merch](wiki/correlaid-merch.md)
-* [Ethics committee](wiki/ethics-committee.md)
 
 ## CorrelAidX Manual
 
@@ -75,18 +71,6 @@
 * [Data privacy & security](project-manual/data-security-and-privacy.md)
 * [When do we do a project? When not?](project-manual/project-decision-guide.md)
 
-## CorrelCollection
-
-* [CorrelCollection](correlcollection/correlcollection.md)
-* [CorrelCon](correlcollection/correlcon/README.md)
-  * [2018 - Mannheim](correlcollection/correlcon/2018.md)
-  * [2019 - Berlin](correlcollection/correlcon/2019.md)
-  * [2020 - Remote](correlcollection/correlcon/2020.md)
-  * [2021 - Remote](correlcollection/correlcon/2021-remote.md)
-* [Open Online Data Meetup](correlcollection/oodm.md)
-* [Other Workshops / Events](correlcollection/other-workshops.md)
-
 ***
 
 * [CorrelAid Website](https://correlaid.org/en)
-* [CodiMD](https://pad.correlaid.org)

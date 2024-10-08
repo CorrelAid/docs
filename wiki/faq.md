@@ -7,7 +7,7 @@ You'll find more specific FAQs in the respective pages.
 ## Everything seems to be on Slack! How do I get on there?
 
 {% hint style="info" %}
-If you want to become part of our Slack, drop an email to [Frie](mailto:frie.p@correlaid.org) or [Isabel](mailto:isabel.w@correlaid.org). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack.
+If you want to become part of our Slack, drop an email to our [Community Manager](https://app.mural.co/t/correlaid3823/m/correlaid3823/1699870589469/4cf3017ee7f487ebbf5ba4efff6245a8d0ed4569?sender=u1b832a9670bb15a61a279564). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack.
 {% endhint %}
 
 ## Who do I ask when about what? &#x20;
@@ -19,7 +19,7 @@ You can find more info about our structures and the CorrelUniverse here in the [
 ## Do you also have email?
 
 {% hint style="info" %}
-Yes, sure! You can find some of our contacts [on the website](https://correlaid.org/contact). Or in the answer to the question above. :wink:
+Yes, sure! You can find some of our contacts [on the website](https://correlaid.org). Or in the answer to the question above. :wink:
 {% endhint %}
 
 ## GitHub
@@ -27,24 +27,24 @@ Yes, sure! You can find some of our contacts [on the website](https://correlaid.
 ### I can't push to the Git repository ("access rights" error). What's up there?
 
 {% hint style="info" %}
-You don't seem to have the correct permissions. Ping Frie in Slack (@frie) and they'll grant you the correct permissions.
+You don't seem to have the correct permissions. Ping Jonas or Leo in Slack and they'll grant you the correct permissions.
 {% endhint %}
 
 ## Cloud
 
 ### I need a virtual machine / server for our CorrelAid project. Who can help me?
 
-Frie can maybe set up something for you on our Azure Cloud.
+Jonas or Leo can maybe set up something for you on our Azure Cloud or Digital Ocean.
 
 ### I need a subdomain / DNS record set up
 
-Frie can set this up for you in Manitu. Please send a justification why you need this & relevant documentation along via Slack.
+Jonas or Leo or  can set this up for you. Please send a justification why you need this & relevant documentation along via Slack.
 
 ## Gmail
 
 ### I need my own @correlaid.org email address. How do I get it?
 
-Request a Google Workspace account via this [form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo\_22r0g/viewform). Isabel or Frie will create the account for you within 1-2 days.
+Request a Google Workspace account via this [form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo\_22r0g/viewform). Isabel or Leo will create the account for you within 1-2 days.
 
 ### How can I change my password?
 
@@ -52,9 +52,9 @@ Read [here](https://support.google.com/accounts/answer/41078?hl=en\&co=GENIE.Pla
 
 ### What is a personal email vs. a group email?
 
-Read on [here](infrastructure/email.md#personal-accounts-vs.-group-accounts).
+Read on [here](broken-reference).
 
-### I don't get the emails of my local chapter (e.g. berlin@correlaid.org) in my personal inbox (e.g. frie.p@correlaid.org)?
+### I don't get the emails of my local chapter (e.g. berlin@correlaid.org) in my personal inbox (e.g. leo.p@correlaid.org)?
 
 This is intentional. While this might be annoying at first - having to switch between accounts - it has advantages:
 
@@ -63,11 +63,11 @@ This is intentional. While this might be annoying at first - having to switch be
 
 ### How can I access the emails of my local chapter (e.g. lc-jena@correlaid.org)?
 
-Read [here](infrastructure/email.md#accessing-lc-group-emails).
+Read [here](faq.md#google-workspace).
 
 ### I should have access to a group email (e.g. [konstanz@correlaid.org](mailto:konstanz@correlaid.org)) but I don’t see it when I go to [mail.google.com](http://mail.google.com)?! <a href="#i-should-have-access-to-a-group-email-eg-konstanzcorrelaidorg-but-i-dont-see-it-when-i-go-to-mailgoo" id="i-should-have-access-to-a-group-email-eg-konstanzcorrelaidorg-but-i-dont-see-it-when-i-go-to-mailgoo"></a>
 
-You need to be logged into your personal Workspace account (e.g. [frie.p@correlaid.org](mailto:frie.p@correlaid.org)) in order to see the group mail.\
+You need to be logged into your personal Workspace account in order to see the group mail.\
 Also try:
 
 * logging out and back in of your account
@@ -75,9 +75,9 @@ Also try:
 
 ### I have access to a group email (e.g. [konstanz@correlaid.org](mailto:konstanz@correlaid.org)) in the browser via this delegation thing. How do I get this on my smartphone or into my email client? <a href="#i-have-access-to-a-group-email-eg-konstanzcorrelaidorg-in-the-browser-via-this-delegation-thing-how" id="i-have-access-to-a-group-email-eg-konstanzcorrelaidorg-in-the-browser-via-this-delegation-thing-how"></a>
 
-You don’t - at least not in a [not totally user-unfriendly way](https://support.google.com/mail/thread/80323090/how-can-i-access-my-delegated-gmail-email-on-my-mobile?hl=en). And it sucks! (picture Frie screaming into the void when they learnt about this).
+You don’t - at least not in a [not totally user-unfriendly way](https://support.google.com/mail/thread/80323090/how-can-i-access-my-delegated-gmail-email-on-my-mobile?hl=en). And it sucks! (picture Leo screaming into the void when he learnt about this).
 
-This is why we share the credentials for the group account(s) you have access to with you via the [KeePass database files](https://docs.correlaid.org/wiki/infrastructure/password-management). Read [here](infrastructure/email.md#mobile).
+This is why we share the credentials for the group account(s) you have access to with you via the [KeePass database files](https://docs.correlaid.org/wiki/infrastructure/password-management).
 
 ## Google Workspace
 
