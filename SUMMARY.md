@@ -24,6 +24,9 @@
 * [PR Guide](wiki/pr-guide.md)
 * [Design Guide](wiki/design-guide.md)
 * [CorrelAid Merch](wiki/correlaid-merch.md)
+* [Event Formats](wiki/event-formats/README.md)
+  * [CorrelCompact](wiki/event-formats/correlcompact.md)
+  * [Community Workshops](wiki/event-formats/community-workshops.md)
 
 ## CorrelAidX Manual
 
