@@ -19,6 +19,7 @@
   * [Gitbook for documentation](wiki/infrastructure/gitbook-for-documentation.md)
   * [NextCloud](wiki/infrastructure/nextcloud.md)
   * [Azure & DNS management](wiki/infrastructure/azure.md)
+  * [CorrelBase (Metabase)](wiki/infrastructure/correlbase-metabase.md)
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
   * [Directus (Content Management System)](wiki/infrastructure/directus-content-management-system.md)
 * [PR Guide](wiki/pr-guide.md)
