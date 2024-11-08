@@ -1,6 +1,8 @@
 # Kobotoolbox for Forms
 
-We host our own instance of [kobotoolbox](https://www.kobotoolbox.org) at [kobo.correlaid.org](https://kobo.correlaid.org).
+* We host our own instance of [kobotoolbox](https://www.kobotoolbox.org) at [kobo.correlaid.org](https://kobo.correlaid.org).&#x20;
+* To request an account, join the slack channel #infrastructure-kobo-toolbox and ask there
+* The above -mentioned slack channel also serves as a communication channel for announcing maintenance periods and for asking general questions about the service
 
 ## User management
 
