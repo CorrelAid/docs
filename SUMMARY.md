@@ -26,6 +26,7 @@
 * [Design Guide](wiki/design-guide.md)
 * [CorrelAid Merch](wiki/correlaid-merch.md)
 * [Event Formats](wiki/event-formats/README.md)
+  * [How to create an event](wiki/event-formats/how-to-create-an-event.md)
   * [CorrelCompact](wiki/event-formats/correlcompact.md)
   * [Community Workshops](wiki/event-formats/community-workshops.md)
 
