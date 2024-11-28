@@ -88,4 +88,6 @@ An overview of all events and their descriptions can be found in this [Google Do
   * Fill out list of participants in [Nextcloud ](https://cloud.correlaid.org/apps/files/files/16073?dir=/03_education)
 * (Forward feedback to external speakers)
 
-**End result:** Number of participants and feedback are documented, materials are stored in a freely accessible and retrievable format
+**End result:** Number of participants and feedback are documented, materials are stored in a freely accessible and retrievable format\
+\
+And last but not least: have fun :tada:
