@@ -33,6 +33,7 @@ An overview of all events and their descriptions can be found in this [Google Do
   * Title&#x20;
   * Teaser&#x20;
   * Short description&#x20;
+* Add that info to the GDoc [here](https://docs.google.com/document/d/1uByPH0OqM_gj4E6CFbRjCJxWqVXCs-5jeEh6FZRWGa4/edit?usp=sharing) such that we have an overview of all events
 * (Create extra card on separate board if necessary: Create content for the event)
 * Think about how to collect feedback for your event!&#x20;
   * Is there a [kobo form](https://kobo.correlaid.org/) that you can resuse?
