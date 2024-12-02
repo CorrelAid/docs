@@ -56,10 +56,10 @@ An overview of all events and their descriptions can be found in this [Google Do
 
 ### Advertising
 
-* Create content  TODO: Links
-  * Image
-  * Text&#x20;
-  * Optional: Reel&#x20;
+* Create content&#x20;
+  * Image: Templates can be found [here](https://www.canva.com/brand/brand-templates)
+  * Text: Get creative.
+  * Optional: Reel (Easily convert your image with the magic switch function in Canva)
 * Post article&#x20;
   * [LinkedIn](https://www.linkedin.com/company/15245842)&#x20;
   * [Mastodon](https://masto.ai/@correlaid)&#x20;
