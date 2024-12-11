@@ -22,6 +22,7 @@
   * [CorrelBase (Metabase)](wiki/infrastructure/correlbase-metabase.md)
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
   * [Directus (Content Management System)](wiki/infrastructure/directus-content-management-system.md)
+  * [Pretix](wiki/infrastructure/pretix.md)
 * [PR Guide](wiki/pr-guide.md)
 * [Design Guide](wiki/design-guide.md)
 * [CorrelAid Merch](wiki/correlaid-merch.md)
