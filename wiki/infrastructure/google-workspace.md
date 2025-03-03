@@ -2,7 +2,7 @@
 
 ## Request an account
 
-fill in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo\_22r0g/viewform) to request a Google Workspace account.&#x20;
+fill in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo_22r0g/viewform) to request a Google Workspace account.&#x20;
 
 ## Get started
 
@@ -52,7 +52,13 @@ You can access your personal emails via one of the following ways:
 3. on smartphone: similarly, it should be easy to set up the google mail on your mobile phone.
 
 * [Android](https://support.google.com/mail/answer/6078445?hl=en\&co=GENIE.Platform%3DAndroid)
-* [iPhone](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwjg15iAzdf4AhWWX\_EDHY\_BD88QFnoECBUQAw\&url=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT201320\&usg=AOvVaw08jbPKtMGeroyoQUqIbWDR)
+* [iPhone](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwjg15iAzdf4AhWWX_EDHY_BD88QFnoECBUQAw\&url=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT201320\&usg=AOvVaw08jbPKtMGeroyoQUqIbWDR)
+
+### Delegated Mail Access
+
+It is possible to grant other accounts or groups access to a Gmail mailbox through delegation settings. Once configured, delegates can access a mailbox by clicking their account button in the top-right corner of the Gmail interface. Note that new delegation settings may take up to **24 hours** to become active.
+
+For detailed instructions on setting up email delegation, visit the [Gmail Help Center](https://support.google.com/mail/answer/138350).
 
 ### Local chapter/group emails
 
@@ -323,7 +329,7 @@ use case: new chapter or new team that might need:
 
 First we have to create the google user.
 
-1. Go to the [user management console](https://admin.google.com/ac/users?hl=en\_GB)
+1. Go to the [user management console](https://admin.google.com/ac/users?hl=en_GB)
 2. Create a new user. The first name should be "CorrelAid(X)", the last name indicative of the group's purpose, e.g. "Community Team" or the city name if it's a CorrelAidX account.&#x20;
 3. Take note of the password but don't send it via plain text / Slack to anyone.
 
