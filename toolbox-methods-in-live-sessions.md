@@ -36,20 +36,13 @@
 
 #### Weitere Ressourcen
 
-[https://www.schulentwicklung.nrw.de/cms/methodensammlung/methodensammlung/uebersicht/index.html](https://www.schulentwicklung.nrw.de/cms/methodensammlung/methodensammlung/uebersicht/index.html)&#x20;
-
-[https://digitale-lehre.uni-siegen.de/didaktik-und-methoden/](https://digitale-lehre.uni-siegen.de/didaktik-und-methoden/)&#x20;
-
-[https://bzhl-methodenbox.web.app/](https://bzhl-methodenbox.web.app/)&#x20;
-
-[https://www.uni-konstanz.de/asd/infopool/toolbox-lehre/aktivierung-und-studentische-interaktion-in-der-online-lehre/](https://www.uni-konstanz.de/asd/infopool/toolbox-lehre/aktivierung-und-studentische-interaktion-in-der-online-lehre/)&#x20;
-
-[https://link.springer.com/content/pdf/10.1007/978-3-658-36558-5.pdf](https://link.springer.com/content/pdf/10.1007/978-3-658-36558-5.pdf)&#x20;
-
-[https://books.google.de/books?hl=de\&lr=\&id=oHWYEAAAQBAJ\&oi=fnd\&pg=PA5\&dq=aktivierende+methoden+erwachsenenbildung+online\&ots=b-AB5mMkh\_\&sig=Zjwqlj3YL5lzd2Xsi79bngS8gVI#v=onepage\&q\&f=false](https://books.google.de/books?hl=de\&lr=\&id=oHWYEAAAQBAJ\&oi=fnd\&pg=PA5\&dq=aktivierende+methoden+erwachsenenbildung+online\&ots=b-AB5mMkh_\&sig=Zjwqlj3YL5lzd2Xsi79bngS8gVI#v=onepage\&q\&f=false)&#x20;
-
-[https://erwachsenenbildung.at/themen/lernwerkstatt/methoden\_der\_erwachsenenbildung.php](https://erwachsenenbildung.at/themen/lernwerkstatt/methoden_der_erwachsenenbildung.php)&#x20;
-
-[https://erwachsenenbildung.at/themen/lernwerkstatt/online-dokumente\_datenbankabfrage\_lernwerkstatt.php](https://erwachsenenbildung.at/themen/lernwerkstatt/online-dokumente_datenbankabfrage_lernwerkstatt.php)&#x20;
+* [https://www.schulentwicklung.nrw.de/cms/methodensammlung/methodensammlung/uebersicht/index.html](https://www.schulentwicklung.nrw.de/cms/methodensammlung/methodensammlung/uebersicht/index.html)&#x20;
+* [https://digitale-lehre.uni-siegen.de/didaktik-und-methoden/](https://digitale-lehre.uni-siegen.de/didaktik-und-methoden/)&#x20;
+* [https://bzhl-methodenbox.web.app/](https://bzhl-methodenbox.web.app/)&#x20;
+* [https://www.uni-konstanz.de/asd/infopool/toolbox-lehre/aktivierung-und-studentische-interaktion-in-der-online-lehre/](https://www.uni-konstanz.de/asd/infopool/toolbox-lehre/aktivierung-und-studentische-interaktion-in-der-online-lehre/)&#x20;
+* [https://link.springer.com/content/pdf/10.1007/978-3-658-36558-5.pdf](https://link.springer.com/content/pdf/10.1007/978-3-658-36558-5.pdf)&#x20;
+* [https://books.google.de/books?hl=de\&lr=\&id=oHWYEAAAQBAJ\&oi=fnd\&pg=PA5\&dq=aktivierende+methoden+erwachsenenbildung+online\&ots=b-AB5mMkh\_\&sig=Zjwqlj3YL5lzd2Xsi79bngS8gVI#v=onepage\&q\&f=false](https://books.google.de/books?hl=de\&lr=\&id=oHWYEAAAQBAJ\&oi=fnd\&pg=PA5\&dq=aktivierende+methoden+erwachsenenbildung+online\&ots=b-AB5mMkh_\&sig=Zjwqlj3YL5lzd2Xsi79bngS8gVI#v=onepage\&q\&f=false)&#x20;
+* [https://erwachsenenbildung.at/themen/lernwerkstatt/methoden\_der\_erwachsenenbildung.php](https://erwachsenenbildung.at/themen/lernwerkstatt/methoden_der_erwachsenenbildung.php)&#x20;
+* [https://erwachsenenbildung.at/themen/lernwerkstatt/online-dokumente\_datenbankabfrage\_lernwerkstatt.php](https://erwachsenenbildung.at/themen/lernwerkstatt/online-dokumente_datenbankabfrage_lernwerkstatt.php)&#x20;
 
 \
