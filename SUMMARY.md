@@ -80,3 +80,7 @@
 ***
 
 * [CorrelAid Website](https://correlaid.org/en)
+
+## EDUCATION MANUAL
+
+* [Guide to source citation and licences](education-manual/guide-to-source-citation-and-licences.md)
