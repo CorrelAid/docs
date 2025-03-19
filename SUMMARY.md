@@ -84,3 +84,7 @@
 ## EDUCATION MANUAL
 
 * [Guide to source citation and licences](education-manual/guide-to-source-citation-and-licences.md)
+
+***
+
+* [Toolbox: Methods in live sessions](toolbox-methods-in-live-sessions.md)
