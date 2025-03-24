@@ -28,8 +28,6 @@
 * [CorrelAid Merch](wiki/correlaid-merch.md)
 * [Event Formats](wiki/event-formats/README.md)
   * [How to create an event](wiki/event-formats/how-to-create-an-event.md)
-  * [CorrelCompact](wiki/event-formats/correlcompact.md)
-  * [Community Workshops](wiki/event-formats/community-workshops.md)
 
 ## CorrelAidX Manual
 
@@ -83,8 +81,12 @@
 
 ## EDUCATION MANUAL
 
-* [Guide to source citation and licences](education-manual/guide-to-source-citation-and-licences.md)
-
-***
-
-* [Toolbox: Methods in live sessions](toolbox-methods-in-live-sessions.md)
+* [General](education-manual/general.md)
+* [Educational Formats](education-manual/educational-formats/README.md)
+  * [R Lernen](education-manual/educational-formats/r-lernen.md)
+  * [Daten verstehen und nutzen](education-manual/educational-formats/daten-verstehen-und-nutzen.md)
+  * [CorrelCompact](education-manual/educational-formats/correlcompact.md)
+  * [Community Workshops](education-manual/educational-formats/community-workshops.md)
+* [For educational volunteers](education-manual/for-educational-volunteers/README.md)
+  * [Toolbox: Methods in live sessions](education-manual/for-educational-volunteers/toolbox-methods-in-live-sessions.md)
+  * [Guide to source citation and licences](education-manual/for-educational-volunteers/guide-to-source-citation-and-licences.md)
