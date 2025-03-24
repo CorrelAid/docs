@@ -2,7 +2,7 @@
 
 **Would you like to pass on and share your knowledge with other CorrelAiders and interested parties? 📢**\
 Then a community workshop is just right for you. Our workshops in the “Community Workshops” series are workshops from volunteers for volunteers. Within 60 - 90 minutes, participants gain an insight into a technical or non-technical topic. The workshops are targeted towards a broad audience and are open to anyone who is interested in the topic. Whether it's about data analysis, dashboarding, geodata processing, data visualisation, data ethics, data protection, working in the tech industry, open data and so on...\
-You can decide for yourself what you want to cover in your workshop format.
+You can decide for yourself what you want to cover in your workshop format
 
 ***
 
