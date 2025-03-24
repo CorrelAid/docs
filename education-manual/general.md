@@ -16,12 +16,11 @@ We firmly believe that knowledge should be shared so that everyone can benefit f
   * Have a look at our [educational resources](https://correlaid.org/bildung/ressourcen/)
   * or visit our [GitHub](https://github.com/CorrelAid).
 * We offer a variety of **workshops** and **courses** on different data-related topics that directly support NPOs or volunteers in gaining and improving skills in data literacy and data analysis.&#x20;
-* We bring **#data4good** to civil society with our two educational courses [R Lernen](educational-formats/r-lernen.md) (2015-2025) and [Daten verstehen und nutzen](educational-formats/daten-verstehen-und-nutzen.md) (2024-2025) for engaged people in NPOs.
+* We bring **#data4good** to civil society with our two educational courses [R Lernen](educational-formats/r-lernen.md) (2021-2025) and [Daten verstehen und nutzen](educational-formats/daten-verstehen-und-nutzen.md) (2024-2025) for engaged people in NPOs.
 * The [CorrelCompact ](educational-formats/correlcompact.md)workshop series is a course-accompanying offer to deepen basic knowledge for NPOs.
 * In our [community workshops](educational-formats/community-workshops.md), volunteers from our network share their knowledge with other volunteers.
-* Registration for our events usually takes place via our event [calendar](https://correlaid.org/veranstaltungen/?viewType=list).\
-
-* **Dateninkubator (tbc)**
+* Registration for our events usually takes place via our event [calendar](https://correlaid.org/veranstaltungen/?viewType=list).
+* The three-phase **data incubator** is CorrelAid's new training and project format starting from autumn 2025. In the first phase of the data incubator, participants learn new knowledge and skills in the practical, data literacy or volunteer track that optimally prepare them for planning and implementing a data project. In the scoping and counselling phase, a data project is scoped and announced for volunteers. The development of a project team begins. In the subsequent practical phase, the project is implemented by volunteers in cooperation with participants from NPOs.
 {% endhint %}
 
 ***

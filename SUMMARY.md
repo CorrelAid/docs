@@ -83,6 +83,7 @@
 
 * [General](education-manual/general.md)
 * [Educational Formats](education-manual/educational-formats/README.md)
+  * [Dateninkubator](education-manual/educational-formats/dateninkubator.md)
   * [R Lernen](education-manual/educational-formats/r-lernen.md)
   * [Daten verstehen und nutzen](education-manual/educational-formats/daten-verstehen-und-nutzen.md)
   * [CorrelCompact](education-manual/educational-formats/correlcompact.md)
