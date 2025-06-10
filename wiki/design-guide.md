@@ -2,12 +2,12 @@
 
 ### General
 
-The purpose of this short design guideline is to explain the use of our CorrelAid-specific corporate design and to reinforce the consistent use of visual elements in all communication. This includes publications, presentations and all other marketing materials both online and offline. Our Corporate Identity was developed by _Das Gute Ruft - Agentur für öko-soziale Unternehmen und Vereine_ - the information listed here is based on the Design Guide from June 2018.&#x20;
+The purpose of this short design guideline is to explain the use of our CorrelAid-specific corporate design and to reinforce the consistent use of visual elements in all communication. This includes publications, presentations and all other marketing materials both online and offline. Our Corporate Identity was developed by _Das Gute Ruft - Agentur für öko-soziale Unternehmen und Vereine_ - the information listed here is mostly based on the Design Guide from June 2018. An update to updated and new logos as well as colours and fonts took place in **June 2025**, thanks to the support of Medialer GmbH, agency for 3D animation & digital marketing.
 
-The [Design Guide](https://drive.google.com/file/d/1RgrZ9eHSWRod5TNNqfjdgm_Feo8jVkf-/view?usp=share_link) is available in our Google Workspace. You can find all [logos / existing designs](https://drive.google.com/drive/folders/1XrHj0T3tNKjtGAp2UebpJpRF_Y8BaWJM?usp=sharing) in the Google Workspace as well as in the Canva-Team:
+The old [Design Guide](https://drive.google.com/file/d/19j58kbO_rC_mNlWVuj5sbqE66SN42h3g/view?usp=sharing) (from 2018) is available in our Google Workspace, as well as the [new brand guide](https://drive.google.com/file/d/1RgrZ9eHSWRod5TNNqfjdgm_Feo8jVkf-/view) (from 2025) for our main CorrelAid brand. You can find all current [logos / existing designs](https://drive.google.com/drive/folders/1XrHj0T3tNKjtGAp2UebpJpRF_Y8BaWJM?usp=sharing) in the Google Workspace as well as in the Canva team:
 
 * access to our [Google Workspace](https://docs.correlaid.org/wiki/infrastructure/google-workspace)
-* access to our [Canva-Team ](https://docs.correlaid.org/wiki/design-guide#canva)
+* access to our [Canva team](https://docs.correlaid.org/wiki/design-guide#canva)
 
 ### Logos
 
@@ -45,8 +45,6 @@ The CorrelAidX logos are an adaptation of the former main logos. In addition to 
 Here's an example:
 
 ![CorrelAidX Label](https://i.imgur.com/LptlvTi.png)
-
-
 
 #### Additional Logos
 
