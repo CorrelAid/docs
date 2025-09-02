@@ -20,21 +20,23 @@ Do you already have a workshop idea and have the capacity to realise it? Then wr
 
 <summary> <strong>Previous workshops 🕖</strong></summary>
 
-* May 28th, 2024: Assembling Your Dream Theme - Crafting Custom Designs in ggplot2 for Effortless Visualisation Enhancement
-
-- July 9th, 2024: Introduction to Spark
-
-* July 17th, 2024: Basics of Geospatial Data - First Steps with QGIS
-
-- Sep 3rd, 2024: Git for Newbies
-
-* Sep 17th, 2024: Success Factors for Data Science Projects
-
-- Sep 24th, 2024: Humble bragging for beginners - CV & Cover Letter Workshop
-
+* Sep 9th, 2025: Ethical AI in Practice – How Do We Want to Use AI at CorrelAid?
+* July 21st, 2025: Open Data? Challenge Accepted!
+* May 14th, 2025: Refactoring Socio-Technical Systems: Streamlining Your Structures & Flows
+* Feb 25th, 2025: Web Scraping with R
+* Feb 4th, 2025: Git und Github für Anfänger\*innen
+* Dec 13th, 2024: UX for Data Scientists – From Data to User Needs
+* Dec 3rd, 2024: Git for Newbies
+* Nov 19th, 2024: Streamlit for Dashboards – a simple Python library for interactive Dashboards
+* Oct 21st, 2024: Git for Newbies
+* Oct 8th, 2024: Practical Introduction to Spacy Pattern Matching&#x20;
 * Oct 1st, 2024: Git für Anfänger\*innen
-
-- Oct 8th, 2024: Practical Introduction to Spacy Pattern Matching&#x20;
+* Sep 24th, 2024: Humble bragging for beginners - CV & Cover Letter Workshop
+* Sep 17th, 2024: Success Factors for Data Science Projects
+* Sep 3rd, 2024: Git for Newbies
+* July 17th, 2024: Basics of Geospatial Data - First Steps with QGIS
+* July 9th, 2024: Introduction to Spark
+* May 28th, 2024: Assembling Your Dream Theme - Crafting Custom Designs in ggplot2 for Effortless Visualisation Enhancement
 
 </details>
 
