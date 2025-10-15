@@ -8,7 +8,11 @@ description: We use Pretix for the management of course registrations and paymen
 
 ## **Certificates of attendance**
 
-> Certificates of attendance can be created for each course. The item can be found at the bottom left of the menu.
+> Certificates of attendance can be created for each course. The item can be found at the bottom left of the menu. If no button is visible there yet, you will need to activate the participation certificates under Settings --> Extensions.
+
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2025-10-15 um 16.02.23.png" alt=""><figcaption></figcaption></figure>
+
+>
 >
 > <img src="../../.gitbook/assets/Bildschirmfoto 2024-12-11 um 10.24.19.png" alt="" data-size="original">
 >
@@ -16,4 +20,4 @@ description: We use Pretix for the management of course registrations and paymen
 >
 > There is also the option of creating one for individual participants if you call up the participant's mask (there is a corresponding button there).
 >
-> To create a layout for a certificate of attendance, you upload the pdf as a background (RLernen [here](https://drive.google.com/drive/folders/1_yBtA5t_JRsAKimdnny48Uot0ZZMuG3c), Data Literacy [here](https://drive.google.com/drive/folders/1235Uck0VAc7eFu0b6se0-hmKjinO4rn7)) and then insert blocks for the name and the course date.
+> To create a layout for a certificate of attendance, you upload the pdf as a background (RLernen [here](https://drive.google.com/drive/folders/1_yBtA5t_JRsAKimdnny48Uot0ZZMuG3c), Data Literacy [here](https://drive.google.com/drive/folders/1235Uck0VAc7eFu0b6se0-hmKjinO4rn7)) and then insert blocks for the name and the course date. Ensure that you create personalised tickets for the event (under Products --> Personalisation) so that you can use the participant's name for the certificates.
