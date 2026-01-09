@@ -25,12 +25,12 @@ Sometimes, you might want to record a Zoom event. Here are our recommendations t
 
 1\) Schedule the meeting
 
-<div data-full-width="false" data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-full-width="false" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 2\) Edit information: Date and time, further options (e.g. waiting room), etc.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 3\) Copy Meeting Information
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
