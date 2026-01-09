@@ -4,7 +4,7 @@ description: Step-by-step guide to creating and promoting a workshop event at Co
 
 # How to create a workshop
 
-<figure><img src="../.gitbook/assets/Event_anlegen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Event_anlegen.png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Planning
 
