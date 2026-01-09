@@ -78,10 +78,6 @@
 * [Data privacy & security](project-manual/data-security-and-privacy.md)
 * [When do we do a project? When not?](project-manual/project-decision-guide.md)
 
-***
-
-* [CorrelAid Website](https://correlaid.org/en)
-
 ## EDUCATION MANUAL
 
 * [General](education-manual/general.md)
