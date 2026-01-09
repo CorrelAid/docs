@@ -27,10 +27,10 @@ You can find the templates in the [Google Docs Template Gallery](https://docs.go
 ### Project acquisition
 
 * Project decks and CorrelAidX project acquisition slide deck [on Google Drive](https://drive.google.com/drive/u/0/folders/1tpYJ-V7V1hfWovzYaKUjzWlfLN3XlFLc)
-* [Email templates for CorrelAidX](../correlaidx-manual/get-started/e-mail-template-to-contact-npos.md)
+* [Email templates for CorrelAidX](../community/get-started/e-mail-template-to-contact-npos.md)
 * list of projects with linked resources such as podcast episodes, YouTube videos, repositories etc.
-  * [English](https://correlaid.github.io/projects/project\_pr/correlaid\_projects\_pr\_en.html)
-  * [German](https://correlaid.github.io/projects/project\_pr/correlaid\_projects\_pr\_de.html)
+  * [English](https://correlaid.github.io/projects/project_pr/correlaid_projects_pr_en.html)
+  * [German](https://correlaid.github.io/projects/project_pr/correlaid_projects_pr_de.html)
 * Sales Workshop with Andrew: [Recording](https://youtu.be/7fq9TNuCejQ)
 
 ### Scoping & Call for Applications
@@ -61,7 +61,7 @@ You can find the templates in the [Google Docs Template Gallery](https://docs.go
 ### Onboarding
 
 * [Welcome message Slack template](project-coordinators/onboarding.md#welcome-message)
-* [Templates on Google Drive](https://drive.google.com/drive/u/0/folders/1NR3bHoPWrzvR3pySiRQ61l\_BelMXksA\_)
+* [Templates on Google Drive](https://drive.google.com/drive/u/0/folders/1NR3bHoPWrzvR3pySiRQ61l_BelMXksA_)
   * Data protection and security declaration / Verpflichtungserklärung zum Datenschutz und zur Datensicherheit
 
 {% content-ref url="project-coordinators/onboarding.md" %}

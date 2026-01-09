@@ -20,8 +20,8 @@ How does CorrelAid _internally_ work? Who do I need to talk to if I need xyz?
 
 All about how local chapters work, how you can start your own, what you can do in a local chapter, different possible formats etc.
 
-{% content-ref url="correlaidx-manual/what-is-correlaidx.md" %}
-[what-is-correlaidx.md](correlaidx-manual/what-is-correlaidx.md)
+{% content-ref url="community/what-is-correlaidx.md" %}
+[what-is-correlaidx.md](community/what-is-correlaidx.md)
 {% endcontent-ref %}
 
 ## Project Manual

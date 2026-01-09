@@ -1,4 +1,4 @@
-# How to create an event
+# How to create a workshop
 
 ### Intro
 
