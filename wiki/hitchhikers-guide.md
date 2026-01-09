@@ -32,15 +32,19 @@ We are formed as an association ("Verein" in German). In practice, however, the 
 
 #### _The Assocation_
 
-[board](board.md), ethics committee, general assembly + members&#x20;
+CorrelAid is legally organized as an association, whose core consists of its members, who come together at the annual general meeting. In addition to the general meeting, the [board](board.md) determines the strategic direction of the association throughout the year. The ethics commission reviews the association’s activities with regard to general ethical values and becomes active upon request.
 
 #### _The Remote Office Team_
 
-full-/part-time employees&#x20;
+The Remote Office Team consists of several full-time and part-time employees who support volunteer work, and implement various projects in the operational areas of education, data4good projects, and community. You can drop a message to the team via [info@correlaid.org](mailto:info@correlaid.org).
 
 #### _The Volunteer Community_
 
-Core-Crew-Crowd
+We organize the volunteer community according to the crowd-crew-core principle:
+
+* The **crowd** is made up of all the people who are part of our network and keep up to date with our work via our newsletters or Slack.
+* Everyone who helps shape our activities is part of our **crew**. In addition to the data4good projects, this could be the data dialogues with civil society, various data literacy courses, participation in the mentoring program and much more.
+* The **core** consists of the people who take responsibility for preparing and organzing the offers of CorrelAid: such as the board, the team leads, and our ethics committee.
 
 ### Communication
 
@@ -54,4 +58,8 @@ All our online communication takes place in our Slack Workspace. We have a chann
 
 #### _Newsletter_
 
-Volunteer Newsletter
+Our volunteer newsletter provides you with all the relevant information about what's currently happening at CorrelAid and what volunteering opportunities are available. You can subscribe to it [here](https://dashboard.mailerlite.com/forms/257414/78748110521631819/share).
+
+{% content-ref url="communication/newsletter.md" %}
+[newsletter.md](communication/newsletter.md)
+{% endcontent-ref %}
