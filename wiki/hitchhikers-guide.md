@@ -1,5 +1,7 @@
 ---
 description: Some thoughts on how we work internally.
+cover: ../.gitbook/assets/correlaid_banner.png
+coverY: 0
 ---
 
 # How We work – Hitchhiker's Guide to CorrelAid
