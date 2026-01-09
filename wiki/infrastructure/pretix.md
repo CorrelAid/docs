@@ -4,8 +4,6 @@ description: We use Pretix for the management of course registrations and paymen
 
 # Pretix
 
-[**Pretix Tutorial**](https://docs.google.com/document/d/1dBx4m3QBFhB50s89PWSqOALcr3A1dzdBBxltEkKqhE0/edit?tab=t.0#heading=h.vnlehcew5zs4)**: How to add zoom and calendar invitations to events (in German)**
-
 ### Create a Pretix Event
 
 To create an event in Pretix, you can either create one from scratch or duplicate an existing one:
