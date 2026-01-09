@@ -6,7 +6,7 @@ fill in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S
 
 ## Get started
 
-1. Set up [2-factor authentification](https://myaccount.google.com/u/2/signinoptions/two-step-verification/enroll-welcome?hl=en) if it is a personal account such as frie.p@correlaid.org.
+1. Set up [2-factor authentification](https://myaccount.google.com/u/2/signinoptions/two-step-verification/enroll-welcome?hl=en) if it is a personal account such as leo.p@correlaid.org.
 2. check out which [Google Groups](https://groups.google.com) you're in. This determines which [Google Drive Shared Drives](https://drive.google.com/drive/u/2/shared-drives) / folders you have access to.
 3. Read the [Google Drive "Get started".](google-workspace.md#get-started-1)
 4. Read the [Google Mail "Get started"](google-workspace.md#gmail).
@@ -15,7 +15,7 @@ fill in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S
 
 ### Personal accounts vs. group accounts
 
-personal email: frie.p@correlaid.org
+personal email: leo.p@correlaid.org
 
 group email:
 
@@ -29,8 +29,6 @@ group email:
 
 
 ### Gmail
-
-Starting July 2022, we use Gmail through our [Google Workspace for Nonprofits](google-workspace.md) for emails.
 
 With your Google Workspace account, you get a personal email address that you can use for your CorrelAid activities, e.g. reaching out to Nonprofits.
 
@@ -48,7 +46,7 @@ With your Google Workspace account, you get a personal email address that you ca
 You can access your personal emails via one of the following ways:
 
 1. **Gmail browser client**: Just log into your Google workspace account and go to [https://mail.google.com/mail/u/0/](https://mail.google.com/mail/u/0/#inbox) . You might need to switch from your personal gmail account if that's set up as default.
-2. All **email clients** such as Thunderbird or Outlook should support Gmail. Googling around - "set up gmail in \[client]" - should give answers. If you need help or run into problems or want to set up something more complicated, ask Frie.
+2. All **email clients** such as Thunderbird or Outlook should support Gmail. Googling around - "set up gmail in \[client]" - should give answers.&#x20;
 3. on smartphone: similarly, it should be easy to set up the google mail on your mobile phone.
 
 * [Android](https://support.google.com/mail/answer/6078445?hl=en\&co=GENIE.Platform%3DAndroid)
@@ -85,19 +83,17 @@ Check [FAQ](../faq.md#i-should-have-access-to-a-group-email-eg-konstanzcorrelaid
 #### 3. Outlook, Thunderbird etc.
 
 1. [Follow the instructions](password-management.md#how-can-i-access-the-password-s) to get the credentials for the group account
-2. Set up your favorite email client (Googling around - "set up gmail in \[client]" - should give answers). If you need help or run into problems, ask Frie.
+2. Set up your favorite email client (Googling around - "set up gmail in \[client]" - should give answers).&#x20;
 
 ### Tips to work together on emails
 
 1. Use labels to assign conversations to each other: you can use [Gmail labels](https://www.dragapp.com/blog/gmail-labels-everything/) to "assign" conversations to each other. This way, the other person/people know(s) that you're on this and that they don't have to take it on.
 
-### FAQ
+## FAQ
 
-See [FAQ](../faq.md#gmail).
+### Google Groups/Users
 
-## Google Groups/Users
-
-### What is a Google Group?
+#### What is a Google Group?
 
 > Groups such as project teams, departments, or classmates can communicate and collaborate using Google Groups. If you want to invite a group to an event, or share documents with a group, you can send a single email to everyone in the group. ([Source](https://support.google.com/a/users/answer/9304805?hl=en))
 
@@ -373,7 +369,5 @@ if they also need a shared drive, you can create a new one for them.&#x20;
 2. click the big "new" button
 3. name the drive. then share it with the `group-office` and the group(s) you created earlier. give them the content manager role.&#x20;
 4. done. :)
-
-####
 
 &#x20;
