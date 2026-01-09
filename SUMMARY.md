@@ -29,7 +29,7 @@
   * [Blog](wiki/pr-and-outreach/blog.md)
   * [Design Guide](wiki/pr-and-outreach/design-guide.md)
   * [CorrelAid Merch](wiki/pr-and-outreach/correlaid-merch.md)
-* [How to create an event](wiki/how-to-create-an-event.md)
+* [How to create a workshop](wiki/how-to-create-a-workshop.md)
 * [Board](wiki/board.md)
 * [Events](wiki/events.md)
 
