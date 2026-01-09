@@ -12,11 +12,17 @@ Our goal with CorrelAid is to democratize the potential of Data Science. In prac
 
 ## Our Code of Conduct and Code of Ethics
 
+CorrelAid operates on a [Code of Ethics](https://correlaid.org/en/codeofethics) developed by the community, which guides our project decisions, shared goals, and desired interactions. This is also summarized in our [Code of Conduct](https://correlaid.org/en/codeofconduct).
+
+Our goal is to empower data analysts and support collaboration with civil society through responsible and ethical data practices. In addition to respectful and non-discriminatory behavior, we value transparency, pragmatism, and self-determination.
+
 ## Our Impact
 
-* Empowering NPOs to use data in a critical and reflective way to achieve their goal.&#x20;
-* Enabling effective engagement (self-effective for volunteers & effective for NPOs).&#x20;
-* Participation of marginalised groups within data science.
+Our goal is to strengthen civil society and foster social engagement. To achieve this, we pursue three core impact goals:
+
+1. Empower non-profit organizations to use data in a critical, reflective, and responsible way to better achieve their missions.
+2. Enable effective engagement that creates value for non-profits while fostering self-efficacy, learning, and meaningful contribution among volunteer data scientists.
+3. Support and promote the participation of marginalized groups within data science, advancing inclusion, equity, and diverse perspectives.
 
 ## Our Organization
 
