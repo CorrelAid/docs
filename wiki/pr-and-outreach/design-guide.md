@@ -15,7 +15,7 @@ The CorrelAid main logo is the central element of the brand's visual identity. I
 
 #### Main Logo
 
-![Main logo](<../.gitbook/assets/Main_CorrelAid horizontal.png>)
+![Main logo](<../../.gitbook/assets/Main_CorrelAid horizontal.png>)
 
 There are four variations of this main logo which can be used on dark and light ground, with slogan or without. The files are stored as .png, .eps and .svg in the [Google Workspace](https://drive.google.com/drive/folders/1XrHj0T3tNKjtGAp2UebpJpRF_Y8BaWJM?usp=sharing).&#x20;
 
@@ -34,7 +34,7 @@ The pure black and white version serves as a fallback for monochrome prints.
 
 The CorrelLAB logo is a modification of the CorrelAid main logo and is composed as a word/image mark. In addition to the “C”, the word “LAB” also appears, with an iconised “L”.&#x20;
 
-<figure><img src="../.gitbook/assets/Main_CorrelLab horizontal.png" alt=""><figcaption><p>CorrelLAB logo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Main_CorrelLab horizontal.png" alt=""><figcaption><p>CorrelLAB logo</p></figcaption></figure>
 
 There are five variations of this main logo which can be used on dark and light ground, including and in the combination of the “C” only with the word “LAB” and the iconised “L” on its own.
 
@@ -58,14 +58,14 @@ Looking at the previous logos, it becomes clear that there are different colour 
 
 he CorrelAid logo picks up the colour spectrum from green to blue. The colour spectrum of the CorrelLAB logo ranges from blue to a strong shade of pink. The color red is primarily used in the logo design of CorrelAid X (cities / regional organizations). In addition, dark grey is used as a contrast color. Please adhere to the given colour values in future designs and representations in order to keep our products combinable.
 
-![Colour segments CorrelAid](<../.gitbook/assets/Bildschirmfoto 2025-06-10 um 12.02.54.png>)
+![Colour segments CorrelAid](<../../.gitbook/assets/Bildschirmfoto 2025-06-10 um 12.02.54.png>)
 
 The colors for easier copy+paste:
 
 * Main colours: #00468A, #4787E5, #89CC96, #C4E38A
 * Intermediate colours: #2467B8, #68AABE, #A7D890
 
-<figure><img src="../.gitbook/assets/Bildschirmfoto 2025-06-10 um 11.57.35.png" alt=""><figcaption><p>Colour segments CorrelLAB</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2025-06-10 um 11.57.35.png" alt=""><figcaption><p>Colour segments CorrelLAB</p></figcaption></figure>
 
 The colors for easier copy+paste:
 
