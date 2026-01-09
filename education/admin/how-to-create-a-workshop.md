@@ -19,8 +19,8 @@ description: Step-by-step guide to creating and promoting a workshop event at Co
 
 ### 2. Publication
 
-* [ ] Create Zoom link
-* [ ] Create Pretix event
+* [ ] [Create Zoom link](https://docs.correlaid.org/wiki/infrastructure/zoom#creating-a-zoom-event)
+* [ ] [Create Pretix event](https://docs.correlaid.org/wiki/infrastructure/pretix)
 * [ ] Add event to [CorrelAid website event calendar](https://www.correlaid.org/veranstaltungen/?viewType=list)
 * [ ] Create an entry in public calendars:
   * [D64](https://kontakt.d-64.org/ticker/veranstaltungsliste-d64-ticker/)
