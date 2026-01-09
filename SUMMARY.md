@@ -36,6 +36,9 @@
 
 * [General](education/general.md)
 * [Educational Formats](education/educational-formats/README.md)
+  * [CorrelLAB: Daten verstehen](education/educational-formats/correllab-daten-verstehen.md)
+  * [CorrelLAB: Daten nutzen](education/educational-formats/correllab-daten-nutzen.md)
+  * [Daten kommunizieren](education/educational-formats/daten-kommunizieren.md)
   * [R Lernen](education/educational-formats/r-lernen.md)
   * [Daten verstehen und nutzen](education/educational-formats/daten-verstehen-und-nutzen.md)
   * [CorrelCompact](education/educational-formats/correlcompact.md)

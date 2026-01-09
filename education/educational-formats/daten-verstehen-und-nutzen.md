@@ -16,13 +16,12 @@ Membership lists, information on fundraising campaigns, participant lists and so
 
 * Period: 12 weeks
 * Time required: 2-4 hours / week
-* Format: Integrated learning format with\
-  interactive learning platform
+* Format: Integrated learning format with interactive learning platform
 * Weekly online live session with data science tutors, always on Fridays&#x20;
 * Studying in learning tandems
 * Individual consultation hours
 
-Ressources
+**Ressources**
 
 * Website: [https://correlaid.org/bildung/grundkurs-daten/](https://correlaid.org/bildung/grundkurs-daten/)
 * Learning Platform: [https://correlaid.lernerfolg.info/](https://correlaid.lernerfolg.info/)
