@@ -18,8 +18,7 @@ With the twelve-week course ‘R Lernen - Der Datenkurs von und für die Zivilge
     interactive learning platform
   * Online live session every Friday with data science tutors
   * Study in learning tandems and get support from\
-    individual consultation hours\
-
+    individual consultation hours<br>
 {% endhint %}
 
 **Find out more about R Lernen**

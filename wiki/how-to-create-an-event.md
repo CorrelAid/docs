@@ -4,10 +4,9 @@
 
 This guide is for you, if you want to create a new CorrelAid Event for the first time and don't know the steps involved yet or if you just want to check that you don't forget any steps in between.
 
-The general phases in creating a CorrelAid event are the following:\
+The general phases in creating a CorrelAid event are the following:<br>
 
-
-<figure><img src="../../.gitbook/assets/Event_anlegen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Event_anlegen.png" alt=""><figcaption></figcaption></figure>
 
 ### Tools
 

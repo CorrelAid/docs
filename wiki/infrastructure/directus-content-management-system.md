@@ -99,25 +99,17 @@ Directus is set up with Terraform and Ansible. Find the repo [here](https://gith
 It has happened multiple times that suddenly, when someone wanted to create a new entry in a collection, they were shown the error message "ID not unique". This seems to be a bug with Directus. The cause is that the automatic increment of ids in the corresponding Postgres table was somehow reset, so that entries are being created with ids that already exist. Fix this in the following way:
 
 1. Connect to the server Directus is running on (the ip of this server is the only one that can connect to the database). Ask on Slack for your ssh key to be added to the server.
-2.  Use psql to connect to the Database like this:\
+2.  Use psql to connect to the Database like this:<br>
 
-
-    {% code overflow="wrap" fullWidth="true" %}
-    ```bash
-    psql "host=hostname port=5432 dbname=main user=user password=password sslmode=require"
-    ```
-    {% endcode %}
+    <pre class="language-bash" data-overflow="wrap" data-full-width="true"><code class="lang-bash">psql "host=hostname port=5432 dbname=main user=user password=password sslmode=require"
+    </code></pre>
 
     \
     Find the credentials on bitwarden.
 3. Identify the collection causing the error. Sometimes it is not the collection you tried to create an entry in, but some other collection related to it, for example translations.
-4.  Execute the following SQL code (insert the name of the collection):\
+4.  Execute the following SQL code (insert the name of the collection):<br>
 
-
-    {% code overflow="wrap" fullWidth="true" %}
-    ```sql
-    SELECT SETVAL('public."<Collection>_id_seq"', (SELECT max(id) FROM public."<Collection>")); 
-    ALTER TABLE public."<Collection>" ALTER COLUMN id SET DEFAULT nextval('"<Collection>_id_seq"'::regclass);
-    ```
-    {% endcode %}
+    <pre class="language-sql" data-overflow="wrap" data-full-width="true"><code class="lang-sql">SELECT SETVAL('public."&#x3C;Collection>_id_seq"', (SELECT max(id) FROM public."&#x3C;Collection>")); 
+    ALTER TABLE public."&#x3C;Collection>" ALTER COLUMN id SET DEFAULT nextval('"&#x3C;Collection>_id_seq"'::regclass);
+    </code></pre>
 

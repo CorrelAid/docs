@@ -17,4 +17,4 @@
 * [https://erwachsenenbildung.at/themen/lernwerkstatt/methoden\_der\_erwachsenenbildung.php](https://erwachsenenbildung.at/themen/lernwerkstatt/methoden_der_erwachsenenbildung.php)&#x20;
 * [https://erwachsenenbildung.at/themen/lernwerkstatt/online-dokumente\_datenbankabfrage\_lernwerkstatt.php](https://erwachsenenbildung.at/themen/lernwerkstatt/online-dokumente_datenbankabfrage_lernwerkstatt.php)&#x20;
 
-\
+<br>
