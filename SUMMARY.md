@@ -4,7 +4,7 @@
 
 ## Wiki
 
-* [How We work - Hitchhiker's Guide to CorrelAid](wiki/hitchhikers-guide.md)
+* [How We work – Hitchhiker's Guide to CorrelAid](wiki/hitchhikers-guide.md)
 * [FAQ](wiki/faq.md)
 * [Communication channels](wiki/communication/README.md)
   * [Conference calls ​☎](wiki/communication/conference-calls.md)

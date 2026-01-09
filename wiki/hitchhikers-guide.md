@@ -1,11 +1,11 @@
 ---
-description: some thoughts on how we work internally.
+description: Some thoughts on how we work internally.
 ---
 
-# How We work - Hitchhiker's Guide to CorrelAid
+# How We work – Hitchhiker's Guide to CorrelAid
 
 {% hint style="info" %}
-**tl;dr:** If you have a cool idea you want to implement at/with CorrelAid, we will support you with resources to make it happen. You are free in the design and in your decisions - our team will be there in calls and on Slack to support you. You can always contact [Leo](mailto:leo.p@correlaid.org) or [Lena](mailto:lena.m@correlaid.org) with your idea.
+**Visit our** [**monthly onboarding call**](https://pretix.eu/correlaid/open-onboarding/) **to learn about how CorrelAid activities look like, how the organization is structured, and how you can get involved.**
 {% endhint %}
 
 Our goal with CorrelAid is to democratize the potential of Data Science. In practice, we achieve this by supporting a network of over many data enthusiasts in Germany, by giving them the opportunity to grow, and by organizing pro-bono data science projects for civil society. But how do we work _internally_? This is an overview of how we organize ourselves at CorrelAid, how we work and which principles we follow.
@@ -48,11 +48,11 @@ Every year at our Data-for-Good Conference ( see Data-for-Good Conference ) we h
 
 Routine Standards include recurring work packages from work areas within CorrelAid. These are publicly available, but reside as protected documents in our drive. The respective board members are responsible for updating the routine standards. The goal is to document experiences and procedures transparently, to allow new volunteers an easy introduction to CorrelAid and to ensure and increase the quality of our work in the long term.
 
-* [Projects](https://docs.google.com/document/d/1SwNqwlQhT1G4tYaCZ9Wq\_2XBRIjIQh3Ede31i\_FeE3M/edit?usp=drive\_link)
-* [Education](https://docs.google.com/document/d/1p2f4xR00rhjHgT7QVRyIbv2Ivutf-uYmgCSSQv25mt4/edit?usp=drive\_link)
-* [Community](https://docs.google.com/document/d/1Jbc\_cGkNlE7qB-pKSEr4jS3bFtNolcw7LcAIoRtlODY/edit?usp=drive\_link)
-* [PR](https://docs.google.com/document/d/1oddpEoo537uVxsWTs2tRpkqffuE4A9llWhezSwdUGuY/edit?usp=drive\_link)
-* [Cross-Area](https://docs.google.com/document/d/1Hi6wtBjHzbOLyfVMFamj80nRLZFRIZUXlOaeGkSLYFw/edit?usp=drive\_link)
+* [Projects](https://docs.google.com/document/d/1SwNqwlQhT1G4tYaCZ9Wq_2XBRIjIQh3Ede31i_FeE3M/edit?usp=drive_link)
+* [Education](https://docs.google.com/document/d/1p2f4xR00rhjHgT7QVRyIbv2Ivutf-uYmgCSSQv25mt4/edit?usp=drive_link)
+* [Community](https://docs.google.com/document/d/1Jbc_cGkNlE7qB-pKSEr4jS3bFtNolcw7LcAIoRtlODY/edit?usp=drive_link)
+* [PR](https://docs.google.com/document/d/1oddpEoo537uVxsWTs2tRpkqffuE4A9llWhezSwdUGuY/edit?usp=drive_link)
+* [Cross-Area](https://docs.google.com/document/d/1Hi6wtBjHzbOLyfVMFamj80nRLZFRIZUXlOaeGkSLYFw/edit?usp=drive_link)
 
 ### Communication
 
