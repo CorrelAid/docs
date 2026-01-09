@@ -20,3 +20,17 @@ Sometimes, you might want to record a Zoom event. Here are our recommendations t
 * with this setup...
   * participants can ask questions without appearing in the recording
   * the host can have the chat open overlaying the zoom recording -> this is independent of the recording feature
+
+### Creating a Zoom event
+
+1\) Schedule the meeting
+
+<div data-full-width="false" data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+2\) Edit information: Date and time, further options (e.g. waiting room), etc.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+3\) Copy Meeting Information
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
