@@ -11,14 +11,18 @@ We use Slack for to coordinate the local chapters as well as for the organizatio
 
 ## FAQ
 
-### I want to get access to Slack. How do I get it?
+<details>
 
-{% hint style="info" %}
+<summary>I want to get access to Slack. How do I get it?</summary>
+
 If you want to become part of our Slack, drop an email to our [info@correlaid.org](mailto:info@correlaid.org). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack.
-{% endhint %}
 
-### I don't really get this Slack thing... Who can help me?
+</details>
 
-{% hint style="info" %}
+<details>
+
+<summary>I don't really get this Slack thing... Who can help me?</summary>
+
 Don't really get Slack yet? It's all weird and clunky? Write an email to our [info@correlaid.org](mailto:info@correlaid.org) and they'll help you! You can also find a [quick start guide here](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide).
-{% endhint %}
+
+</details>
