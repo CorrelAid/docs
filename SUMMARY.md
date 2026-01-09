@@ -22,6 +22,8 @@
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
   * [Directus (Content Management System)](wiki/infrastructure/directus-content-management-system.md)
   * [Pretix](wiki/infrastructure/pretix.md)
+  * [Moodle](wiki/infrastructure/moodle.md)
+  * [OpenProject](wiki/infrastructure/openproject.md)
 * [PR and Outreach](wiki/pr-and-outreach/README.md)
   * [Blog](wiki/pr-and-outreach/blog.md)
 * [PR Guide](wiki/pr-guide.md)
