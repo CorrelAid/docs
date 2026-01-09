@@ -1,50 +1,28 @@
 # FAQ
 
-{% hint style="info" %}
-You'll find more specific FAQs in the respective pages.
-{% endhint %}
-
 ## Everything seems to be on Slack! How do I get on there?
 
 {% hint style="info" %}
-If you want to become part of our Slack, drop an email to our [Community Manager](https://app.mural.co/t/correlaid3823/m/correlaid3823/1699870589469/4cf3017ee7f487ebbf5ba4efff6245a8d0ed4569?sender=u1b832a9670bb15a61a279564). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack.
+If you want to become part of our Slack, drop an email to our [info@correlaid.org](mailto:info@correlaid.org). If you are already member of our Slack and would like to see your friend become part of the team, you can also [request an invite](https://slack.com/intl/en-de/help/articles/201330256-Invite-new-members-to-your-workspace#request-an-invitation) from within Slack.
 {% endhint %}
 
 ## Who do I ask when about what? &#x20;
 
 {% hint style="info" %}
-You can find more info about our structures and the CorrelUniverse here in the [Docs ](https://docs.correlaid.org/wiki/hitchhikers-guide#our-organization)or in our [Dashboard](https://app.mural.co/t/correlaid9916/m/correlaid9916/1661848927395/6d46d91c1368dd7a6b33f7832ac2e6c00188bdee?sender=uad2f4e15e4f38c1000f33089). Here you can find information about who to contact if you need system access, want to join teams or need a contact person for other topics. If that doesn't help you, feel free to contact [info@correlaid.org](mailto:info@correlaid.org)!
+Please join our [monthly onboarding call](https://pretix.eu/correlaid/open-onboarding/) or feel free to contact [info@correlaid.org](mailto:info@correlaid.org)!
 {% endhint %}
 
-## Do you also have email?
+## I can't push to the Github repositories ("access rights" error). What's up there?
 
 {% hint style="info" %}
-Yes, sure! You can find some of our contacts [on the website](https://correlaid.org). Or in the answer to the question above. :wink:
+You don't seem to have the correct permissions. Please drop a short email to [info@correlaid.org](mailto:info@correlaid.org) and you'll be granted the correct permissions.
 {% endhint %}
 
-## GitHub
-
-### I can't push to the Git repository ("access rights" error). What's up there?
-
-{% hint style="info" %}
-You don't seem to have the correct permissions. Ping Jonas or Leo in Slack and they'll grant you the correct permissions.
-{% endhint %}
-
-## Cloud
-
-### I need a virtual machine / server for our CorrelAid project. Who can help me?
-
-Jonas or Leo can maybe set up something for you on our Azure Cloud or Digital Ocean.
-
-### I need a subdomain / DNS record set up
-
-Jonas or Leo or  can set this up for you. Please send a justification why you need this & relevant documentation along via Slack.
-
-## Gmail
+## Gmail -> Infrastructure
 
 ### I need my own @correlaid.org email address. How do I get it?
 
-Request a Google Workspace account via this [form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo\_22r0g/viewform). Isabel or Leo will create the account for you within 1-2 days.
+Request a Google Workspace account via this [form](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo_22r0g/viewform).
 
 ### How can I change my password?
 
@@ -52,7 +30,7 @@ Read [here](https://support.google.com/accounts/answer/41078?hl=en\&co=GENIE.Pla
 
 ### What is a personal email vs. a group email?
 
-Read on [here](broken-reference).
+Read on [here](/broken/pages/-Lw2zd-XTIq3EY0T9e29#personal-accounts-vs.-group-accounts).
 
 ### I don't get the emails of my local chapter (e.g. berlin@correlaid.org) in my personal inbox (e.g. leo.p@correlaid.org)?
 
@@ -95,7 +73,3 @@ Both are normal Google Workspace user accounts. The distinction is conceptual an
 ### How do I migrate Google Docs/Sheet/Slides from my personal account?
 
 See [answer here](infrastructure/google-workspace.md#how-do-i-migrate-google-docs-sheet-slides-from-my-personal-account).
-
-### How do I migrate a CodiMD pad to Google Docs?
-
-See [answer here](infrastructure/google-workspace.md#how-do-i-migrate-a-codimd-pad).
