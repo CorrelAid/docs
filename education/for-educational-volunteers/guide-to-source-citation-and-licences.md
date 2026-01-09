@@ -13,8 +13,16 @@ description: >-
 * Always check the licence conditions. These are often specified in the legal notice.
 * Sources must be cited if third-party content is used.\
   If unsure: create your own content or use public domain materials.
-* If you find sources that are not correctly cited, correct them yourself if possible or write a message to @teameducation.
-* If you find graphics or illustrations that are under copyright and are being used incorrectly, remove the graphic/illustration or write a message to @teameducation.
+* If you find sources that are not correctly cited, correct them yourself if possible or write a message to @team\_education.
+* If you find graphics or illustrations that are under copyright and are being used incorrectly, remove the graphic/illustration or write a message to @team\_education.
+
+{% hint style="info" %}
+**tl;dr: Best Practice at CorrelAid**
+
+Parts of other works, e.g., text excerpts or similar, may be used within the scope of the right to quote (**§51 UrhG**). This means that works protected by copyright or licensed under CC can also be quoted.
+
+Legally, a distinction is made between **copying** (e.g., I paste copied text into my document) and **referencing** (e.g., I link to a website). Where possible, we at CorrelAid use references or links to the original resources.
+{% endhint %}
 
 ***
 
@@ -131,9 +139,5 @@ Rules:
 
     * Quelle: Name, „Titel“, Website-Link, abgerufen am Datum.
     * Quelle: SocietyByte, Anne-Careen Stoltze, “Traumatische Klickarbeit: Die Menschen hinter ChatGPT“, https://www.societybyte.swiss/2023/06/07/traumatische-klickarbeit-die-menschen-hinter-chatgpt/, abgerufen am 25.04.2024.
-* Authors often specify themselves how their work should be cited, especially if it has a CC licence → then follow the author's individual preferences!
+* Authors often specify themselves how their work should be cited, especially if it has a CC licence → then follow the author's individual preferences!<br>
 {% endhint %}
-
-#### 🎨 Canva
-
-tbc<br>
