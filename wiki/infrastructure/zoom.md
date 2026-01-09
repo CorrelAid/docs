@@ -8,7 +8,7 @@ If you have a [Google Workspace](google-workspace.md) account, you can create Me
 
 ## Zoom
 
-CorrelAid has two Zoom pro licenses. If you want to have a link for an event, please contact our [community manager](https://app.mural.co/t/correlaid3823/m/correlaid3823/1699870589469/4cf3017ee7f487ebbf5ba4efff6245a8d0ed4569?sender=u1b832a9670bb15a61a279564) on Slack.
+CorrelAid has Zoom pro licenses. If you want to have a link for an event, please contact our [community management](mailto:community@correlaid.org).
 
 ### Recording a Zoom event
 
