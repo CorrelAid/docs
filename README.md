@@ -6,9 +6,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [![](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-Read more about the license [here](LICENSE.md)
-
-There are four main sections:
+Read more about the license [here](LICENSE.md).
 
 ## Wiki
 
