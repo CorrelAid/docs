@@ -27,6 +27,8 @@
 * [Design Guide](wiki/design-guide.md)
 * [CorrelAid Merch](wiki/correlaid-merch.md)
 * [How to create an event](wiki/how-to-create-an-event.md)
+* [Board](wiki/board.md)
+* [Events](wiki/events.md)
 
 ## CorrelAidX Manual
 
