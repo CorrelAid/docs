@@ -8,7 +8,7 @@ description: >-
 
 ***
 
-#### &#x20;📢 General rules & recommendations 📢
+### &#x20;📢 General rules & recommendations 📢
 
 * Always check the licence conditions. These are often specified in the legal notice.
 * Sources must be cited if third-party content is used.\
@@ -26,7 +26,7 @@ Legally, a distinction is made between **copying** (e.g., I paste copied text in
 
 ***
 
-#### ✅ General copyright law
+### ✅ General copyright law
 
 Copyright protects creative works such as texts, images, videos and music. Only the author or rights holder may decide how their work is used.
 
@@ -36,7 +36,7 @@ Rules
 * Works may only be used with the permission of the author or a corresponding licence (copyright).
 {% endhint %}
 
-#### 💬 Use of texts
+### 💬 Use of texts
 
 Texts from books, articles or websites may not simply be copied.
 
@@ -48,7 +48,7 @@ Rules:&#x20;
 * Entire articles or paragraphs may not be copied.
 {% endhint %}
 
-#### 🖼️ Images and graphics&#x20;
+### 🖼️ Images and graphics&#x20;
 
 Photos, illustrations and infographics are protected by copyright.
 
@@ -61,7 +61,7 @@ Rules:&#x20;
 * Note your own graphics and images, e.g. own illustration by CorrelAid e.V. in ‘Understanding and using data. The basic course for civil society organisations, Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).
 {% endhint %}
 
-#### 📹 Videos & music
+### 📹 Videos & music
 
 Film clips and music are almost always protected by copyright.
 
@@ -73,7 +73,7 @@ Rules:
 * Do not simply insert third-party videos or pieces of music into presentations.
 {% endhint %}
 
-#### 👤 Personal rights & data protection
+### 👤 Personal rights & data protection
 
 Images and videos of people may not be published without their consent.
 
@@ -85,7 +85,7 @@ Rules:
 * Use the #pr-general-organisation and #pr-content-feedback-approval channel for social media content.
 {% endhint %}
 
-#### 💡 Creative Commons (CC) licence overview
+### 💡 Creative Commons (CC) licence overview
 
 For content that is available online, the licence conditions are usually specified in the legal notice or noted directly. Always read these and apply them as indicated. More information on the CC licence overview can be found [here](https://creativecommons.org/licenses/?lang=de). If material that may be used via CC licences is quoted, it is important to always state the CC licence with a link (see indication of sources).
 
@@ -101,7 +101,7 @@ Overview:
 * CC BY-NC-ND (Attribution - Non-commercial - No Derivative Works): Use permitted, but no editing and no commercial use.
 {% endhint %}
 
-#### 📝 Indication of sources
+### 📝 Indication of sources
 
 All content used (texts, images, videos, graphics) must be correctly cited.
 
