@@ -1,8 +1,14 @@
 # Community Workshops
 
+{% hint style="info" %}
+🇬🇧 Language: English
+
+:busts\_in\_silhouette: Target Group: Non-Profit Organizations
+{% endhint %}
+
 **Would you like to pass on and share your knowledge with other CorrelAiders and interested parties? 📢**\
 Then a community workshop is just right for you. Our workshops in the “Community Workshops” series are workshops from volunteers for volunteers. Within 60 - 90 minutes, participants gain an insight into a technical or non-technical topic. The workshops are targeted towards a broad audience and are open to anyone who is interested in the topic. Whether it's about data analysis, dashboarding, geodata processing, data visualisation, data ethics, data protection, working in the tech industry, open data and so on...\
-You can decide for yourself what you want to cover in your workshop format
+You can decide for yourself what you want to cover in your workshop format.
 
 ***
 
@@ -12,7 +18,7 @@ In a one to two-hour workshop via Zoom, you give the participants your input on 
 ***
 
 **And now? 🚀**\
-Do you already have a workshop idea and have the capacity to realise it? Then write us an e-mail to education@correlaid.org or contact us on Slack with your desired topic and we will arrange an initial meeting.
+Do you already have a workshop idea and have the capacity to realise it? Then write us an e-mail to [education@correlaid.org](mailto:education@correlaid.org) or contact us on Slack with your desired topic and we will arrange an initial meeting.
 
 ***
 
@@ -20,23 +26,24 @@ Do you already have a workshop idea and have the capacity to realise it? Then wr
 
 <summary> <strong>Previous workshops 🕖</strong></summary>
 
-* Sep 9th, 2025: Ethical AI in Practice – How Do We Want to Use AI at CorrelAid?
-* July 21st, 2025: Open Data? Challenge Accepted!
-* May 14th, 2025: Refactoring Socio-Technical Systems: Streamlining Your Structures & Flows
-* Feb 25th, 2025: Web Scraping with R
-* Feb 4th, 2025: Git und Github für Anfänger\*innen
-* Dec 13th, 2024: UX for Data Scientists – From Data to User Needs
-* Dec 3rd, 2024: Git for Newbies
-* Nov 19th, 2024: Streamlit for Dashboards – a simple Python library for interactive Dashboards
-* Oct 21st, 2024: Git for Newbies
-* Oct 8th, 2024: Practical Introduction to Spacy Pattern Matching&#x20;
-* Oct 1st, 2024: Git für Anfänger\*innen
-* Sep 24th, 2024: Humble bragging for beginners - CV & Cover Letter Workshop
-* Sep 17th, 2024: Success Factors for Data Science Projects
-* Sep 3rd, 2024: Git for Newbies
-* July 17th, 2024: Basics of Geospatial Data - First Steps with QGIS
-* July 9th, 2024: Introduction to Spark
-* May 28th, 2024: Assembling Your Dream Theme - Crafting Custom Designs in ggplot2 for Effortless Visualisation Enhancement
+* Keep it Simple: Hosting Data Projects
+* Ethical AI in Practice – How Do We Want to Use AI at CorrelAid?
+* Open Data? Challenge Accepted!
+* Refactoring Socio-Technical Systems: Streamlining Your Structures & Flows
+* Web Scraping with R
+* Git und Github für Anfänger\*innen
+* UX for Data Scientists – From Data to User Needs
+* Git for Newbies
+* Streamlit for Dashboards – a simple Python library for interactive Dashboards
+* Git for Newbies
+* Practical Introduction to Spacy Pattern Matching&#x20;
+* Git für Anfänger\*innen
+* Humble bragging for beginners – CV & Cover Letter Workshop
+* Success Factors for Data Science Projects
+* Git for Newbies
+* Basics of Geospatial Data – First Steps with QGIS
+* Introduction to Spark
+* Assembling Your Dream Theme – Crafting Custom Designs in ggplot2 for Effortless Visualisation Enhancement
 
 </details>
 
