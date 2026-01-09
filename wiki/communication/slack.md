@@ -5,7 +5,7 @@ Our main communication channel is Slack. Slack is like a collection of group cha
 We use Slack for to coordinate the local chapters as well as for the organization of the activities of "central" CorrelAid, e.g. the organization of projects, meetups, etc. For example:
 
 * We work on the different CorrelAid topics in the **channels**. Channels are either designated to a certain topic (e.g. #projects for projects, #education for eductation, #fundraising for collaborating on grant proposals) or are focused on local chapters (#lc-bremen, #lc-berlin, #lc-mannheim, ...). If you are interested in a certain topic and/or local chapter, you can join the corresponding channel(s) to see what's already going on. Or even better: **share your ideas**!
-* If you need help with anything related to CorrelAid or data science or coding, feel free to ask away in the \*\* #help \*\*channel.
+* If you need help with anything related to CorrelAid or data science or coding, feel free to ask away in the #help-channel.
 * found a funny Meme or Gif and need to share with someone? Stumbled across a very useful tutorial for something? Post it to #random!
 * **Have a new idea that doesn't fit in any channel? Need people to join you for something exciting?** Post it in #general!
 

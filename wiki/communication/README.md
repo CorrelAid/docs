@@ -16,8 +16,8 @@
 [Broken link](/broken/pages/-Lw38wInlTXwZvf3Y5G5)
 {% endcontent-ref %}
 
-{% content-ref url="blog.md" %}
-[blog.md](blog.md)
+{% content-ref url="../pr-and-outreach/blog.md" %}
+[blog.md](../pr-and-outreach/blog.md)
 {% endcontent-ref %}
 
 ###
