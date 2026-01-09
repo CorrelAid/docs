@@ -5,7 +5,6 @@
 ## Wiki
 
 * [How We work – Hitchhiker's Guide to CorrelAid](wiki/hitchhikers-guide.md)
-* [FAQ](wiki/faq.md)
 * [Communication channels](wiki/communication/README.md)
   * [Slack Workspace](wiki/communication/slack.md)
   * [Newsletter](wiki/communication/newsletter.md)
@@ -31,6 +30,7 @@
   * [CorrelAid Merch](wiki/pr-and-outreach/correlaid-merch.md)
 * [Board](wiki/board.md)
 * [Events](wiki/events.md)
+* [FAQ](wiki/faq.md)
 
 ## Community
 
