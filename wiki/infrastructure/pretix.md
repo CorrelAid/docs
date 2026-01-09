@@ -10,11 +10,11 @@ To create an event in Pretix, you can either create one from scratch or duplicat
 
 {% columns %}
 {% column %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -22,17 +22,17 @@ To create an event in Pretix, you can either create one from scratch or duplicat
 
 To add a calendar entry to an event, select the event, go to E-Mail setting and the tab calendar invitations:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Customize Pretix Mails and Add Zoom Links
 
 To customize mails and add Zoom links, select the event, go to E-Mail settings and the tab E-Mail content:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Please double check with the tab "Digital Contents" / "Digitale Inhalte":
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Automated Reminder Mails to registered Participants
 
@@ -51,7 +51,7 @@ Certificates of attendance can be created for each course. The item can be found
 
 {% columns %}
 {% column width="33.33333333333333%" %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7).png" alt="" width="151"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="151"><figcaption></figcaption></figure></div>
 
 
 {% endcolumn %}
@@ -71,11 +71,11 @@ Events that are created as independent events, can be cancelled via settings and
 
 {% columns %}
 {% column %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
 

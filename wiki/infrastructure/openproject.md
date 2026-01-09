@@ -75,3 +75,60 @@ Here you can add tasks, summary tasks and milestones. Please insert the followin
 :warning: If you add tasks in the Gantt chart overview, then they are not automatically added to your Kanban board, you can add them via "add existing" there. Thus: Create your cards in Board view!
 
 ### Gantt Charts
+
+When you go to "Gantt charts", you're offered two default views: "All open" and "Milestones". You have different options to customize:
+
+<details>
+
+<summary>1) "Include Projects": Filter for specific projects in your overview.</summary>
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="187"><figcaption></figcaption></figure></div>
+
+</details>
+
+<details>
+
+<summary>2) "Filter": Add different filters, e.g. for assignees, status, or type.</summary>
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+
+</details>
+
+<details>
+
+<summary>3) "Configure View": Define columns, sorting, display setting, and zoom level.</summary>
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+
+</details>
+
+<details>
+
+<summary>4) "Save as": Save your configurated view for the next time!</summary>
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+
+</details>
+
+### Types of Tasks
+
+There are Tasks, Summary Tasks, and Milestones (besides many others...):
+
+* Tasks: define small subtasks
+* Summary Tasks: combine different tasks in one tasks (its time span is defined by the subtasks)
+* Milestones: milestones, workshop dates, events, etc.
+
+You can define hierarchies between those types:
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+
+{% columns %}
+{% column width="75%" %}
+Hierarchies can be defined with a right click on a task or at the top of a task in detail view:
+{% endcolumn %}
+
+{% column width="25%" %}
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (8).png" alt="" width="81"><figcaption></figcaption></figure></div>
+{% endcolumn %}
+{% endcolumns %}
+
