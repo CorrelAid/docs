@@ -36,4 +36,4 @@ A manual for coordinators and leads of CorrelAid projects. But might be interest
 
 
 
-If you cannot find the answer to your problem, do not hesitate to contact our [community manager](https://app.mural.co/t/correlaid3823/m/correlaid3823/1699870589469/4cf3017ee7f487ebbf5ba4efff6245a8d0ed4569?sender=u1b832a9670bb15a61a279564) or ask your question in #help on Slack.
+If you cannot find the answer to your problem, do not hesitate to contact our [remote office team](mailto:info@correlaid.org) or ask your question in #help on Slack.
