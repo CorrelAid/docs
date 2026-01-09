@@ -28,8 +28,8 @@ All about how local chapters work, how you can start your own, what you can do i
 
 A manual for coordinators and leads of CorrelAid projects. But might be interesting to everyone else as well! This is still a work-in-progress.
 
-{% content-ref url="project-manual/data4good-projects.md" %}
-[data4good-projects.md](project-manual/data4good-projects.md)
+{% content-ref url="projects/data4good-projects.md" %}
+[data4good-projects.md](projects/data4good-projects.md)
 {% endcontent-ref %}
 
 

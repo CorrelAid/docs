@@ -138,7 +138,7 @@ Tip: Download [Drive for Desktop](https://www.google.com/drive/download/) (MacOS
 
 \*\*\*\*:x:**You must not:**
 
-* store project data from NPO partners if it is [GDPR relevant](../../project-manual/data-security-and-privacy.md#personal-data-gdpr)
+* store project data from NPO partners if it is [GDPR relevant](../../projects/data-security-and-privacy.md#personal-data-gdpr)
 * store any other project data from NPO partners
 * don't store/write down [special characteristics](https://gdpr-info.eu/art-9-gdpr/) (ethnicity, religion, political beliefs...) of other people (also incl. Google Docs/Google Sheets) -> for those cases, please use NextCloud or a [private CodiMD](/broken/pages/-M35O1v5MuK4k8Ym7GcS#setting-permissions).
 
@@ -146,7 +146,7 @@ Tip: Download [Drive for Desktop](https://www.google.com/drive/download/) (MacOS
 
 * for meetings/information concerning/including external partners: ask them beforehand whether it is OK if you use Google Docs to write meeting minutes/plan things including them. Some organizations/partners might not want information about them on US servers. Respect that and use [NextCloud](nextcloud.md) or a [CodiMD](/broken/pages/-M35O1v5MuK4k8Ym7GcS) instead.
 * avoid storing personal data from CorrelAiders on Google Drive. Names and CorrelAid email addresses should be ok, but for instance, if you need to collect postal addresses, use a [Kobo form ](kobo.md)instead of Google Forms.
-* you can use Google Drive to transfer/store [non-GDPR relevant](../../project-manual/data-security-and-privacy.md#types-of-data) data from the partner organization under the condition that the project partner **consented to this in written form.**
+* you can use Google Drive to transfer/store [non-GDPR relevant](../../projects/data-security-and-privacy.md#types-of-data) data from the partner organization under the condition that the project partner **consented to this in written form.**
 
 :white\_check\_mark: You can keep on the Google Drive:
 
