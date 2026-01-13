@@ -82,7 +82,7 @@ When you go to "Gantt charts", you're offered two default views: "All open" and 
 
 <summary>1) "Include Projects": Filter for specific projects in your overview.</summary>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="187"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="187"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -132,3 +132,8 @@ Hierarchies can be defined with a right click on a task or at the top of a task 
 {% endcolumn %}
 {% endcolumns %}
 
+#### Communicating on OpenProject
+
+In an opened task, you can go to "Activity" to chat with others or tag individuals or groups with a @ to notify them:
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt="" width="359"><figcaption></figcaption></figure></div>

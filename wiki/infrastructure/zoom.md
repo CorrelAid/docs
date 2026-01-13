@@ -29,7 +29,7 @@ Sometimes, you might want to record a Zoom event. Here are our recommendations t
 
 2\) Edit information: Date and time, further options (e.g. waiting room), etc.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 3\) Copy Meeting Information
 
