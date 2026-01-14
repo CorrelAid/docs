@@ -31,7 +31,7 @@ In order to edit pages in Moodle, the “Edit” button at the top right must be
 
 Add sections by scrolling all the way down and pressing "+". Sections, like almost all other elements in Moodle, can be set to “hidden” (three vertical dots → "Hide").
 
-![](<../../.gitbook/assets/unknown (1) (1).png>)
+![](<../../.gitbook/assets/unknown (1) (1) (1).png>)
 
 ### 2. Subsections
 
@@ -40,7 +40,7 @@ Add subsections by clicking on the "+" inside the section. Once you have created
 ![](<../../.gitbook/assets/unknown (3).png>)
 
 Under “+ Create activity or resource,” you can then create individual resources—Moodle has a wide range to choose from:\
-![](<../../.gitbook/assets/unknown (1).png>)\
+![](<../../.gitbook/assets/unknown (1) (1).png>)\
 For our purposes, the following three have been particularly relevant so far:
 
 * Lesson: This contains the Canva slides with course content, quizzes and homework.

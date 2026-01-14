@@ -45,12 +45,21 @@ If you specifically host a CorrelLAB event, you can use one of these backgrounds
 
 <div><figure><img src="../../.gitbook/assets/CorrelLAB-Kurs Daten verstehen.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/CorrelLAB-Kurs Daten nutzen.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/CorrelLAB Allgemein.png" alt=""><figcaption></figcaption></figure></div>
 
+To be recognized as the host of a meeting by Zoom, you need a Host Key. You should have gotten it by the team or find it linked in important documents provided by the team (e.g. Slack Canvas of the CorrelLAB Tutoring Channel). Right-click on your name in the participant list → click on the “Claim host” button at the bottom of the “Join” window and enter the host key. You then can make somebody the co-host by clicking their name in the participant list and selecting this option.
+
 If you are the host of a session, you have additional functions. Find all of them [official Zoom documentation](https://support.zoom.com/hc/de/article?id=zm_kb\&sysparm_article=KB0065177). The host functions are displayed at the bottom of the screen, when you are not currently sharing your screen.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * **Participants**: Opens the window for managing participants, where you can add them to or remove them from the meeting or mute everybody.
 * **More**:
   * **Survey**: Allows you to create, edit, and launch surveys inside of Zoom.
-  * **Breakout rooms**: Starts breakout rooms.&#x20;
-* **Host tools**: Here you can (dis-)activate a waiting room or allow participants to share their screen.
+  * **Breakout rooms**: Starts breakout rooms. If you check “Automatically close breakout sessions.” you can determine how long the breakout sessions will go and the participants will see a timer showing how long they are allowed to stay in the breakout rooms. Alternatively you can close the breakout sessions manually, which will show them a 60 second timer per default before closing the session. If needed, you can broadcast messages to all breakout rooms.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/unknown (1).png>)
+
+*   **Host tools**: Here you can (dis-)activate a waiting room or allow participants to share their screen.
+
+    * **Waiting room**: To prevent participants from stumbling into the Zoom room before the start, you can activate the waiting room in the host tools below and only let everyone in when the live session begins. You will also receive a notification as soon as someone tries to enter the room.
+
+    ![](../../.gitbook/assets/unknown.png)
