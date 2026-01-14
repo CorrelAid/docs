@@ -14,7 +14,7 @@ To create an event in Pretix, you can either create one from scratch or duplicat
 {% endcolumn %}
 
 {% column %}
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
 

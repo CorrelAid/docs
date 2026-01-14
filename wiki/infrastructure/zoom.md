@@ -29,8 +29,28 @@ Sometimes, you might want to record a Zoom event. Here are our recommendations t
 
 2\) Edit information: Date and time, further options (e.g. waiting room), etc.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 3\) Copy Meeting Information
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+### Hosting a Zoom event
+
+If you host a Zoom event for CorrelAid, you can use this background:
+
+<figure><img src="../../.gitbook/assets/CorrelAid_Videocall_Background.png" alt=""><figcaption></figcaption></figure>
+
+If you specifically host a CorrelLAB event, you can use one of these backgrounds (pink: "Daten verstehen", blue: "Daten nutzen", violet: General):
+
+<div><figure><img src="../../.gitbook/assets/CorrelLAB-Kurs Daten verstehen.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/CorrelLAB-Kurs Daten nutzen.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/CorrelLAB Allgemein.png" alt=""><figcaption></figcaption></figure></div>
+
+If you are the host of a session, you have additional functions. Find all of them [official Zoom documentation](https://support.zoom.com/hc/de/article?id=zm_kb\&sysparm_article=KB0065177). The host functions are displayed at the bottom of the screen, when you are not currently sharing your screen.
+
+* **Participants**: Opens the window for managing participants, where you can add them to or remove them from the meeting or mute everybody.
+* **More**:
+  * **Survey**: Allows you to create, edit, and launch surveys inside of Zoom.
+  * **Breakout rooms**: Starts breakout rooms.&#x20;
+* **Host tools**: Here you can (dis-)activate a waiting room or allow participants to share their screen.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

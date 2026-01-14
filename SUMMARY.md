@@ -16,7 +16,7 @@
   * [Kobotoolbox for Forms](wiki/infrastructure/kobo.md)
   * [Gitbook for documentation](wiki/infrastructure/gitbook-for-documentation.md)
   * [NextCloud](wiki/infrastructure/nextcloud.md)
-  * [Azure & DNS management](wiki/infrastructure/azure.md)
+  * [Azure & DNS management](wiki/infrastructure/azure-and-dns-management.md)
   * [CorrelBase (Metabase)](wiki/infrastructure/correlbase-metabase.md)
   * [GitHub and GitLab](wiki/infrastructure/github-and-gitlab.md)
   * [Directus (Content Management System)](wiki/infrastructure/directus-content-management-system.md)
