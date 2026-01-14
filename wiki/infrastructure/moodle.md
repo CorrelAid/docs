@@ -8,8 +8,6 @@ Our courses have a hierarchical structure:
 
 ### 1. Sections&#x20;
 
-&#x20;![](<../../.gitbook/assets/unknown (14).png>)
-
 &#x20;
 
 Most courses have two sections: “General Information” and “Module Overview,” which are visible to participants.
@@ -26,6 +24,8 @@ Withing the "Module Overview", one sub section per module can be found. Each Mod
 ## Editing Moodle
 
 In order to edit pages in Moodle, the “Edit” button at the top right must be activated.
+
+&#x20;![](<../../.gitbook/assets/unknown (14).png>)
 
 ### 1. Sections
 
