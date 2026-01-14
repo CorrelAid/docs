@@ -26,3 +26,11 @@ If you want to become part of our Slack, drop an email to our [info@correlaid.or
 Don't really get Slack yet? It's all weird and clunky? Write an email to our [info@correlaid.org](mailto:info@correlaid.org) and they'll help you! You can also find a [quick start guide here](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide).
 
 </details>
+
+<details>
+
+<summary>I want to change my settings... How?</summary>
+
+Click your profile picture, then "Personal settings". For axample, you can change at what time you want to allow dektop notifications.
+
+</details>
