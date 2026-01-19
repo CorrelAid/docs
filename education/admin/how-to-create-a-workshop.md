@@ -26,9 +26,9 @@ description: Step-by-step guide to having a workshop event at CorrelAid
 
 ### 2. Publication
 
-* [ ] 💚 [Create Pretix event](https://docs.correlaid.org/wiki/infrastructure/pretix)
+* [ ] 💚 [Create Pretix event](https://docs.correlaid.org/wiki/infrastructure/pretix) (if you need an account, please contact [info@correlaid.org](mailto:info@correlaid.org))
+* [ ] 💚 Add event to [CorrelAid website event calendar](https://www.correlaid.org/veranstaltungen/?viewType=list) (if you need an account, please contact [info@correlaid.org](mailto:info@correlaid.org))
 * [ ] :office: [Create Zoom link](https://docs.correlaid.org/wiki/infrastructure/zoom#creating-a-zoom-event)
-* [ ] :office: Add event to [CorrelAid website event calendar](https://www.correlaid.org/veranstaltungen/?viewType=list)
 * [ ] :office: Create an entry in public calendars (if workshop is not only targeted at the CorrelAid-Community):
   * [D64](https://kontakt.d-64.org/ticker/veranstaltungsliste-d64-ticker/)
   * [CDL Civic Data Cafe Calendar](https://app.gitbook.com/u/yypxJZaOYGWiBTx0gsjoJxOUEC12)
