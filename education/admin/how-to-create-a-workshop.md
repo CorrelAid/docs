@@ -20,7 +20,7 @@ description: Step-by-step guide to having a workshop event at CorrelAid
   * Teaser (1-2 sentences)
   * Short description (e.g. relevance, topic, and  learning objectives)
   * Picture of the speaker
-* [ ] 💚 Think about how to collect feedback for your event! Is there a [kobo form](https://kobo.correlaid.org/) that you can reuse?
+* [ ] 💚 Think about how to collect feedback for your event! Is there a [kobo form](https://kobo.correlaid.org/) that you can reuse? (if you need an account, please contact [info@correlaid.org](mailto:info@correlaid.org))
 * [ ] :office: Create cards in PM-tool (milestone for workshop itself as well as to do's for creating and reviewing materials)
 * [ ] :office: Share Canva-Slide-template and (if necessary) Github-Repo with the speaker(s)
 
