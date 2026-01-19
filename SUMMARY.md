@@ -47,7 +47,7 @@
   * [Toolbox: Methods in live sessions](education/for-educational-volunteers/toolbox-methods-in-live-sessions.md)
   * [Guide to source citation and licences](education/for-educational-volunteers/guide-to-source-citation-and-licences.md)
 * [Admin](education/admin/README.md)
-  * [How to create a workshop](education/admin/how-to-create-a-workshop.md)
+  * [How to: Workshops at CorrelAid](education/admin/how-to-create-a-workshop.md)
 
 ## Community
 
