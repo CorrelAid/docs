@@ -33,7 +33,16 @@ If you have any ethical concerns regarding your project (idea), the ethics commi
 
 _coming soon._&#x20;
 
-## Onboarding - Tools and data
+## Onboarding & Kickoff
+
+Once you have found volunteers to work on your project, you need to get them ready for the project. Your team is ready to work if:
+
+* everyone joined the Slack channel
+* everyone has access to data (depends on the project, see Q\&A below)
+* you had a kickoff meeting
+* you have established some sort of project management and everyone has access to it
+* everyone has access to a tool to work on code (depends on project, GitHub for code projects)
+* everyone has read and signed the _data protection and confidentiality agreement_ if necessary
 
 #### :question:Do volunteers need to sign anything before they start the project?
 
