@@ -9,19 +9,6 @@ description: >-
 
 You can use this page to learn more about the criteria that we have used _mostly implicitly_ for the past years when deciding on whether we want to do a project with a potential partner organisation. We have tried to put into words the informal thought and decision processes that have evolved over the past few years. If something is unclear, please let the ethics committee (#ask-the-ethics-committee on Slack) know.
 
-{% hint style="info" %}
-Relevant documents:
-
-* [Code of Ethics](https://correlaid.org/about/ethics/)
-* [Our Values](https://correlaid.org/about/#our-values)
-* [Code of Condu](https://correlaid.org/en/about/codeofconduct/)[ct](https://pad.correlaid.org/q8nnfNimT3Shj9\_wUp-kvQ)
-* [Template for Ideation Phase](https://pad.correlaid.org/q8nnfNimT3Shj9\_wUp-kvQ) (Questions that help guide talks with NPOs)
-
-Relevant other pages:
-
-* [Ideation phase](project-coordinators/scoping.md#ideation)
-{% endhint %}
-
 ## How to use this guide
 
 1. Go through the criteria and answer the questions: they'll either be recognisable because they're followed by one or more of the emojis ✅, ❓, :x:or because they are printed in **bold**.
@@ -131,7 +118,7 @@ That being said, a project should not _**only**_ consist of mundane tasks like d
 ### 2.2. For-good factor and ethical considerations
 
 {% hint style="warning" %}
-If you have any questions / doubts about the for-good factor or ethical considerations of the potential project (you answered at least once with a ❓to one of the questions below) you should [contact the ethics committee](https://www.correlaid.org/en/about/ethics/).&#x20;
+If you have any questions / doubts about the for-good factor or ethical considerations of the potential project (you answered at least once with a ❓to one of the questions below) you should read about the tools of the [ethics committee](the-ethics-questionnaire-and-its-companion-document.md).
 {% endhint %}
 
 **Does the project have a for-good factor**? Will it positively impact and improve the organisation's work? Most often, this will be the case with NPOs - most NPOs just don't do data for the sake of it but come with a clear goal in mind.
@@ -173,12 +160,6 @@ GDPR related questions:
 > Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation shall be prohibited.
 
 (Source: General Data Protection Regulation, Official Journal of the European Union, accessed on April, 16th 2021 [here](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679\&from=DE#d1e2051-1-1))
-
-You can also refer to the following presentation (in German):
-
-{% file src="../.gitbook/assets/datenschutz_und_datenethik.pdf" %}
-Datenschutz und Datenethik
-{% endfile %}
 
 ### 2.3. Sustainability
 

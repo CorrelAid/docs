@@ -2,26 +2,6 @@
 
 Our Data4Good projects are at the core of our work. In our skilled volunteering projects, we connect data scientist volunteers from our network network of over 2000 volunteers with nonprofit organisations. Through the projects, our volunteers have the opportunity to apply their existing skills and gain new knowledge. At the same time, they support nonprofit organisations with solving their data-related challenges. Over 2-8 months and in teams from 2-7 data scientists, CorrelAid volunteers have tackled diverse data challenges of nonprofits: from data collection, data visualization and exploratory data analysis to automation, reporting and advanced statistical analyses using machine learning and deep learning techniques.
 
-Learn more about our projects so far here:
-
-* [past projects on our website](https://www.correlaid.org/en/using-data/project-database/)
-* [Project examples](https://docs.google.com/presentation/d/12dlmWxYxYqk1iedmSk48DwNiaomr45UM0jMUGblDQdQ/edit?usp=sharing) slide deck
-
-## Actors
-
-Several actors are involved in a CorrelAid Data4Good project. Here is a small overview with the most important terminology.
-
-| Who                         | Description                                                                                                                                                                                                                                                                                                                                        |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| NPO / the organization      | our non-profit partner organization                                                                                                                                                                                                                                                                                                                |
-| Contact person              | the contact person at the NPO. Usually we have one or two contact persons who we will talk with.                                                                                                                                                                                                                                                   |
-| CorrelAid                   | CorrelAid as an organization                                                                                                                                                                                                                                                                                                                       |
-| Project coordinator         | someone who oversees the project from the time of acquisition to the final follow-up. Is not part of the project team, i.e. does not do data analysis. During the project work phase, the Project Coordinator is responsible for getting updates from the project team. Typically either Frie from the remote office or a CorrelAidX chapter lead. |
-| Project lead / team lead    | Leads the implementation of the project as part and primus inter pares of the project team. Typically also actively contributes to code or other outputs of the project (not solely 'team management' role).                                                                                                                                       |
-| Project team / team members | Volunteers of the CorrelAid network who are involved in the implementation of the project                                                                                                                                                                                                                                                          |
-| Team trainee                | a team member who is not as experienced yet.                                                                                                                                                                                                                                                                                                       |
-| Team mentor / reviewer      | someone who (temporarily) consults the team on the project, giving tips on tools and best practices and reviewing existing work.                                                                                                                                                                                                                   |
-
 ## Project phases
 
 A typical CorrelAid project goes through 6 stages. Those are sketched out here to give a high-level overview. More detailed content can be found in the rest of the manual.
@@ -35,78 +15,61 @@ CorrelAid has come in contact with a potential partner organization / NPO:
 * we have approached them
 * someone else put us into contact with them
 
-#### Scoping/Ideation
+#### Scoping
 
 The project coordinator has established communication with the organization. Together with the contact person(s) from the NPO, they figure out whether and if so, how CorrelAid volunteers could support the NPO with their data challenge. Based on this information, the project coordinator develops the project call for applications in close coordination with the contact person(s) of the NPO.
 
-{% content-ref url="project-coordinators/scoping.md" %}
-[scoping.md](project-coordinators/scoping.md)
+{% content-ref url="scoping.md" %}
+[scoping.md](scoping.md)
 {% endcontent-ref %}
 
 #### Team selection
 
 The project coordinator sends out the call for applications via the newsletter and collects the applications. Once the application deadline has passed, the project coordinator looks for a selection committee who then select a team.
 
-{% content-ref url="project-coordinators/team-selection.md" %}
-[team-selection.md](project-coordinators/team-selection.md)
+{% content-ref url="team-selection.md" %}
+[team-selection.md](team-selection.md)
 {% endcontent-ref %}
 
-#### Onboarding
+#### Onboarding & Kickoff
 
 The project lead together with the project coordinator and the support of the relevant tool administrators sets up the project tooling and communication channels. The project coordinator together with the project lead and the NPO starts planning the kickoff.
 
-{% content-ref url="project-coordinators/onboarding.md" %}
-[onboarding.md](project-coordinators/onboarding.md)
+{% content-ref url="onboarding.md" %}
+[onboarding.md](onboarding.md)
 {% endcontent-ref %}
-
-#### Kickoff
 
 The kickoff marks the official start of the project. Here, the NPO, the project coordinator, the project lead and the project team come together for a weekend (or an online event) to get to know each other, learn more about the background of the project and plan the project.
 
-{% content-ref url="project-coordinators/kickoff.md" %}
-[kickoff.md](project-coordinators/kickoff.md)
+{% content-ref url="kickoff.md" %}
+[kickoff.md](kickoff.md)
 {% endcontent-ref %}
 
 #### Project work
 
 The project team works on the project, with regular feedback loops with the organization. The project team leader leads the team as primus inter pares and is responsible for keeping the project running. From time to time, the team gives an update to the project coordinator to ensure that no problems exist and that the project is running smoothly.
 
-{% content-ref url="project-coordinators/project-work.md" %}
-[project-work.md](project-coordinators/project-work.md)
+{% content-ref url="project-work.md" %}
+[project-work.md](project-work.md)
 {% endcontent-ref %}
 
 #### Handover
 
 The project team hands over the finished analysis / visualization / .. to the NPO.
 
-{% content-ref url="project-coordinators/handover-workshop.md" %}
-[handover-workshop.md](project-coordinators/handover-workshop.md)
+{% content-ref url="handover.md" %}
+[handover.md](handover.md)
 {% endcontent-ref %}
 
 #### Follow-up
 
 Feedback is collected by the project coordinator from both the NPO and the project team members.
 
-{% content-ref url="project-coordinators/follow-up.md" %}
-[follow-up.md](project-coordinators/follow-up.md)
+{% content-ref url="/broken/pages/-MBdlBrjw71Cwoh7V0Cb" %}
+[Broken link](/broken/pages/-MBdlBrjw71Cwoh7V0Cb)
 {% endcontent-ref %}
 
-## Actors in project phases
 
-|                     | Scoping & Call for Applications | Team selection | Onboarding & Kickoff | Project work | Handover  | Follow-up |
-| ------------------- | ------------------------------- | -------------- | -------------------- | ------------ | --------- | --------- |
-| NPO                 | ✅                               |                | ✅                    | ✅            | ✅         | ✅         |
-| Project coordinator | ✅                               | ✅              | ✅                    | 🟨$$^1$$     | 🟨 $$^1$$ | ✅         |
-| Project lead        | 🟨 $$^2$$                       | 🟨 $$^2$$      | ✅                    | ✅            | ✅         | ✅         |
-| Selection committee |                                 | ✅              |                      |              |           |           |
-| Project team        |                                 |                | ✅                    | ✅            | ✅         | ✅         |
-
-✅: involved
-
-🟨: optional / in reduced capacity
-
-* $$^1$$ during the project work phase, the project coordinator regularly checks in with the project team to make sure everything is going smoothly. They are also available for support.
-* $$^2$$ Ideally the project coordinator should find a project team lead during the scoping phase by directly asking people whether they'd be interested in the role. In this case, the team lead can be involved in the scoping and team selection processes.
 
 ## FAQ
 
@@ -129,7 +92,7 @@ Expert = I know my way around very well / I write my own functions and packages.
 
 ### How does CorrelAid select team members? What are the criteria? How can I increase the chances of being selected?
 
-You can review the criteria for team selection [here.](project-coordinators/team-selection.md#team-selection-criteria)
+You can review the criteria for team selection [here.](team-selection.md#team-selection-criteria)
 
 Here are some practical tips:&#x20;
 

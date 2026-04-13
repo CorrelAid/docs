@@ -6,4 +6,4 @@ It is also possible to carry out projects at the local level via CorrelAid. Howe
 [project-decision-guide.md](../projects/project-decision-guide.md)
 {% endcontent-ref %}
 
-Also make sure to check out the [toolbox](../projects/toolbox.md) for more resources and the [project coordination subpages](../projects/project-coordinators/) for more information on how to organize your own project.
+Also make sure to check out the [toolbox](/broken/pages/-MMKcyJY6etdpq45QfyK) for more resources and the [project coordination subpages](../projects/project-coordinators/) for more information on how to organize your own project.

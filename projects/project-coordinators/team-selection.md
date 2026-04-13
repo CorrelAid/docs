@@ -12,7 +12,6 @@
 
 1. find a diverse, capable team
 
-
 ## Team selection criteria
 
 {% hint style="info" %}
@@ -21,7 +20,11 @@
 
 ### Score
 
-We try to rank applicants on the following dimensions using a **score** that we generate using qualitative coding of open ended and closed ended answers. See [below](team-selection.md#reading-applications-and-filling-the-google-sheet) for details.&#x20;
+{% hint style="warning" %}
+This is currently being developed/iterated upon. details might be different but the overall concept (motivation + skills + previous opportunity + additional guidelines) is still the same
+{% endhint %}
+
+We try to rank applicants on the following dimensions using a **score** that we generate using qualitative coding of open ended and closed ended answers. See [below](team-selection.md#reading-applications-and-filling-the-google-sheet) for details.
 
 * interest in topic / motivation for the project
   * can the person learn something on the project?
@@ -36,13 +39,13 @@ We try to rank applicants on the following dimensions using a **score** that we 
 The score is not the definite selection criterium though. It is a helper to support team selection committee members to make decisions that follow the **following additional guidelines**:
 
 * Overall, at least 50% of team seats are filled with applicants with genders currently underrepresented in tech (currently everyone who's not a cisgender man; cisgender = people whose gender identity matches their sex assigned at birth)
-* applicants belonging to groups currently underrepresented in tech should be given priority, especially when the project affects is relevant to their community/ies (e.g. in the motivation text it becomes apparent that a Black person is applying for a project working on anti-discrimination)&#x20;
-* All team role seats ("lead", "member", "trainee" ) are filled. Typically, one spot in the team is reserved for a beginner ("trainee" role).&#x20;
+* applicants belonging to groups currently underrepresented in tech should be given priority, especially when the project affects is relevant to their community/ies (e.g. in the motivation text it becomes apparent that a Black person is applying for a project working on anti-discrimination)
+* All team role seats ("lead", "member", "trainee" ) are filled. Typically, one spot in the team is reserved for a beginner ("trainee" role).
 * unofficial roles: When making a selection, the selection committee should aim to select people who have different areas of expertise so that they can help out each other. Here are some unofficial team "roles" that can be useful to think about when selecting team members beyond the "lead", "member", "trainee" distinction:
   * methods specialist: this is someone who has a high (theoretical) expertise in statistical and machine learning methods that are relevant to the project. They can give input when deciding on which model to use for specific use case.
   * programmer: they are quite experienced in the programming language used for the project and know different tooling and best practices that will help with code quality (e.g. how to setup a Python project). Ideally, this person is also quite good at git and can help other team members with merge conflicts and other git problems.
   * domain specialist: this person already knows a lot about the domain of the project (e.g. they've worked a lot with environmental data). They can give valuable input about the intricacies of the problem at hand.
-  * project manager: this person has experience managing (data) project. They can help the team be as productive as possible. Ideally, this coincides with the team lead but also team members or even team trainees can be good "project managers"&#x20;
+  * project manager: this person has experience managing (data) project. They can help the team be as productive as possible. Ideally, this coincides with the team lead but also team members or even team trainees can be good "project managers"
   * data wrangler: this person is quite good at and enjoys cleaning and wrangling all sorts of data. They can speed up the process in the beginning of the project to get to a state where analysis / modelling / visualization can be done.
 
 ## Process
@@ -53,7 +56,7 @@ After the call for applications is sent out to the network, you can start lookin
 
 * the project coordinator(s)
 * optional: 1-2 people from the CorrelAid core or crew (e.g. board or ethics committee or other teams)
-* if available: the future team lead&#x20;
+* if available: the future team lead
 
 The selection committee should be comprised so that gender parity is respected. In addition, it makes sense to include people with differing levels of experience. At least 1-2 of the members should be able to judge applications with regards to technical skills. People who have applied to the project cannot be part of the team selection committee.
 
@@ -63,9 +66,9 @@ You can find members for your committee by posting on Slack in #crew-directory o
 
 ### Create Slack channel
 
-Create a Slack Channel on the CorrelAid slack for the project. Give it a meaningful name that team members can remember.&#x20;
+Create a Slack Channel on the CorrelAid slack for the project. Give it a meaningful name that team members can remember.
 
-The visibility of the channel should be private by default to give team members a sense of team-internal privacy. If the project is an open source project, you can also discuss with the team later whether they want to create a public channel.&#x20;
+The visibility of the channel should be private by default to give team members a sense of team-internal privacy. If the project is an open source project, you can also discuss with the team later whether they want to create a public channel.
 
 {% hint style="info" %}
 **Why is it important that project teams communicate on Slack?**
@@ -77,21 +80,13 @@ The visibility of the channel should be private by default to give team members 
 
 ### Prepare team selection
 
+{% hint style="warning" %}
+this whole process/setup is currently being iterated upon. please check back with Leo directly for current template & instructions.
+{% endhint %}
+
 #### Set up Google Sheet <a href="#set-up-sheet" id="set-up-sheet"></a>
 
-We have a [google sheet template](https://docs.google.com/spreadsheets/d/1xtLJ9vDSiMRa3DEs5w4ruyZtKbimAoUShYCNzYA5oxc/edit?usp=sharing) that - together with the HTML report (see below) facilitates the team selection process. This google sheet contains only pseudo-anonymized data (numeric ID, gender, role the person applied for, whether the person participated in a project before) of the applicants to keep the selection process as anonymized as possible. &#x20;
-
-1. Go to your project subfolder in the [project coordination drive](https://drive.google.com/drive/u/0/folders/0ADQIkb8r9cK-Uk9PVA)
-2. Click New -> Google Sheets -> From template, then select the template `team_selection_template_projectcycle`
-3. A new file will open. Give it a meaningful title, e.g "Team selection project cycle Q4 2023"
-
-For each project that you want to do team selection for:
-
-1. Duplicate the tab/sheet "Template"
-2. important: name each project sheet with the project id, e.g `2022-04-LAU`
-3. important: in each project sheet, fill in the project id into cell B1 (will be highlighted in yellow), e.g `2022-04-LAU`
-
-The main work will happen in the project specific sheets, "Main table" is just for overview and later for exporting the results of the team selection.
+We have a google sheet template that - together with the HTML report (see below) facilitates the team selection process.&#x20;
 
 #### Generate HTML report(s) <a href="#generate-html-reports" id="generate-html-reports"></a>
 
@@ -114,37 +109,20 @@ Once finished for all projects, go to **Data -> Split text to columns**. This sh
 
 ### Reading applications and filling the Google Sheet
 
-Members of the team selection committee should then read the applications asynchronously. How to approach this depends on the number of applications. If there are many, it helps to do a first filter based on the answers provided to the open questions regarding skills and motivation.&#x20;
+{% hint style="warning" %}
+this whole process/setup is currently being iterated upon. please check back with Leo directly for current template & instructions.
+{% endhint %}
 
-In the process, team members should take first notes and score applicants in the project-specific tab of the Google Sheet. This helps to  maker decisions quicker in the call.&#x20;
+Members of the team selection committee should then read the applications asynchronously. How to approach this depends on the number of applications. If there are many, it helps to do a first filter based on the answers provided to the open questions regarding skills and motivation.
 
-#### Columns of the project tab for ranking&#x20;
+In the process, team members should take first notes and score applicants in the project-specific tab of the Google Sheet. This helps to maker decisions quicker in the call.
 
-<table><thead><tr><th>Column Name</th><th>Content</th><th width="113">Prefilled</th><th>How it affects selection</th></tr></thead><tbody><tr><td><code>applicant_id</code></td><td>id of applicant from Kobo</td><td>Yes</td><td>/</td></tr><tr><td><code>Gender</code></td><td>Gender of applicant</td><td>Yes</td><td>via gender quota</td></tr><tr><td><code>Desired Role</code></td><td>the role the applicant applied for for this project</td><td>Yes</td><td>via team roles / team size </td></tr><tr><td><code>Past Application Status</code></td><td>Whether the applicant has already successfully applied, not applied or unsuccessfully applied</td><td>Yes</td><td><p>via Score</p><ul><li>0: has successfully applied in the past  / was part of a CorrelAid project</li><li>1: new applicant</li><li>2: unsuccessfully applied in the past</li></ul></td></tr><tr><td><code>Motivation</code> </td><td>Qualitative assessment of the "what motivates you to participate" question</td><td>No</td><td><p>via Score</p><ul><li>0: Nothing written</li><li>1: only skills motivation ("want to improve my skills")</li><li>2: some interest in helping / giving back</li><li>3: general interest to help NPOs  / do Data4Good</li><li>4: specific interest to help the project / organization  </li><li>5: special interest in or relationship to the project and/or the organization</li></ul></td></tr><tr><td><code>Skills</code></td><td>Qualitative assessment of the "what skills do you bring to the project" question</td><td>No</td><td><p>via Score</p><ul><li>0: Nothing written</li><li>1: only very short &#x26; vague description, no reference to required skills</li><li>2: skills are described concisely and can be linked to required skills</li><li>3: not a lot of relevant skills but described how they fit / can learn.</li><li>4: good fit of skills and past experience to required skills.</li><li>5: exceptional fit of skills and past experience to required skills. </li></ul></td></tr><tr><td><code>Relevant self rated experience</code></td><td>Mean of <strong>relevant</strong> self-assessed technologies, topics and techniques.</td><td>No</td><td><p>via Score</p><p>Calculated manually. <br>Values to use for calculation of mean:</p><ul><li>Beginner: 0</li><li>User: 1</li><li>Advanced: 2</li><li>Expert: 3</li></ul><p>Round to next integer.</p></td></tr><tr><td><code>Score</code></td><td><code>Score</code> = <code>Relevant self rated experience + Motivation + Skills + Past Application Status</code></td><td>Calculated automatically once columns are filled in</td><td>the score is one criterium for team selection (see above)</td></tr><tr><td><code>Comments</code></td><td>written comments by team selection committee members</td><td>No</td><td>/ </td></tr><tr><td><code>Corrected Role</code></td><td>The role you deem correct for the applicant. For example, a lot of women often apply for "lower" positions that they'd be suitable for.</td><td>No</td><td>/</td></tr><tr><td><code>Selected</code></td><td>The role the applicant is selected for. Only fill in for selected team members.</td><td>No</td><td>/</td></tr></tbody></table>
+#### Columns of the project tab for ranking
 
-### Team selection call&#x20;
-
-Once you have found 2-4 people and have shared the tools (report and google sheet) with them, arrange with them for a video call. Depending on the number of applications
-
-Notes for the process:
-
-* unless in specific circumstances, interviews with applicants are not conducted
-* the selection committee tries to come to a consensus decision. If a consensus cannot be reached, the majority decides. If there is no majority, the project coordinator decides.
-* Roles can be adapted, i.e. when you feel a person is "overqualified" for their role, you can "upgrade" their role
-* If you feel like two applications are really equally good, you can also increase the team size ad-hoc.&#x20;
+<table><thead><tr><th>Column Name</th><th>Content</th><th width="113">Prefilled</th><th>How it affects selection</th></tr></thead><tbody><tr><td><code>applicant_id</code></td><td>id of applicant from Kobo</td><td>Yes</td><td>/</td></tr><tr><td><code>Gender</code></td><td>Gender of applicant</td><td>Yes</td><td>via gender quota</td></tr><tr><td><code>Desired Role</code></td><td>the role the applicant applied for for this project</td><td>Yes</td><td>via team roles / team size</td></tr><tr><td><code>Past Application Status</code></td><td>Whether the applicant has already successfully applied, not applied or unsuccessfully applied</td><td>Yes</td><td><p>via Score</p><ul><li>0: has successfully applied in the past / was part of a CorrelAid project</li><li>1: new applicant</li><li>2: unsuccessfully applied in the past</li></ul></td></tr><tr><td><code>Motivation</code></td><td>Qualitative assessment of the "what motivates you to participate" question</td><td>No</td><td><p>via Score</p><ul><li>0: Nothing written</li><li>1: only skills motivation ("want to improve my skills")</li><li>2: some interest in helping / giving back</li><li>3: general interest to help NPOs / do Data4Good</li><li>4: specific interest to help the project / organization</li><li>5: special interest in or relationship to the project and/or the organization</li></ul></td></tr><tr><td><code>Skills</code></td><td>Qualitative assessment of the "what skills do you bring to the project" question</td><td>No</td><td><p>via Score</p><ul><li>0: Nothing written</li><li>1: only very short &#x26; vague description, no reference to required skills</li><li>2: skills are described concisely and can be linked to required skills</li><li>3: not a lot of relevant skills but described how they fit / can learn.</li><li>4: good fit of skills and past experience to required skills.</li><li>5: exceptional fit of skills and past experience to required skills.</li></ul></td></tr><tr><td><code>Relevant self rated experience</code></td><td>Mean of <strong>relevant</strong> self-assessed technologies, topics and techniques.</td><td>No</td><td><p>via Score</p><p>Calculated manually.<br>Values to use for calculation of mean:</p><ul><li>Beginner: 0</li><li>User: 1</li><li>Advanced: 2</li><li>Expert: 3</li></ul><p>Round to next integer.</p></td></tr><tr><td><code>Score</code></td><td><code>Score</code> = <code>Relevant self rated experience + Motivation + Skills + Past Application Status</code></td><td>Calculated automatically once columns are filled in</td><td>the score is one criterium for team selection (see above)</td></tr><tr><td><code>Comments</code></td><td>written comments by team selection committee members</td><td>No</td><td>/</td></tr><tr><td><code>Corrected Role</code></td><td>The role you deem correct for the applicant. For example, a lot of women often apply for "lower" positions that they'd be suitable for.</td><td>No</td><td>/</td></tr><tr><td><code>Selected</code></td><td>The role the applicant is selected for. Only fill in for selected team members.</td><td>No</td><td>/</td></tr></tbody></table>
 
 ### Confirming team members
 
-{% hint style="info" %}
-[Templates on Google Drive](https://docs.google.com/document/d/13CBLKgnwY60fQ8qDCgRYESbsn6sm5KB94eSEiOXUup4/edit#heading=h.9j69oi8w8krl)
-{% endhint %}
+Before you send out rejection emails to all those applicants who were not selected for the team you should make sure that everyone is still interested in participating in the project. After all, 1-3 weeks might have passed since they applied and they could've changed their minds. You can use the acceptance email templates to get the confirmation. You can use BCC to send the emails to all accepted applicants at once.
 
-Before you send out rejection emails to all those applicants who were not selected for the team you should make sure that everyone is still interested in participating in the project. After all, 1-3 weeks might have passed since they applied and they could've changed their minds. You can use the [acceptance email templates to get the confirmation](https://docs.google.com/document/d/13CBLKgnwY60fQ8qDCgRYESbsn6sm5KB94eSEiOXUup4/edit#heading=h.8goee9mp18es). You can use BCC to send the emails to all accepted applicants at once.
-
-After everyone has confirmed their interest, you can send out the emails to the applicants who could not be considered. You can use the rejection email template to do this. If you want to send out multiple rejections at once, please make sure to **use blind copy** (BCC). You can find [the templates here](https://docs.google.com/document/d/13CBLKgnwY60fQ8qDCgRYESbsn6sm5KB94eSEiOXUup4/edit#heading=h.lipo8m9lsphc).
-
-### Confirming team lead
-
-#### Promoting a team member/team trainee
-
-Sometimes, no team lead applied. Then you can ask a qualified applicant to fill this role. You can find an email template here: [https://docs.google.com/document/d/13CBLKgnwY60fQ8qDCgRYESbsn6sm5KB94eSEiOXUup4/edit#heading=h.pzeh5l53r93l](https://docs.google.com/document/d/13CBLKgnwY60fQ8qDCgRYESbsn6sm5KB94eSEiOXUup4/edit#heading=h.pzeh5l53r93l)&#x20;
+After everyone has confirmed their interest, you can send out the emails to the applicants who could not be considered. You can use the rejection email template to do this. If you want to send out multiple rejections at once, please make sure to **use blind copy** (BCC). You can find the templates here.

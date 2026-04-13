@@ -1,60 +1,28 @@
 # Scoping & Call for Applications
 
-Quick links
-
-{% hint style="info" %}
-The most important links from this section in one handy little box:
-
-* [Scoping Phase Google Docs Template](https://docs.google.com/document/d/10m0qPGRNbGi0LYyMc6LYTxner5WSMYtUAIHkIHZwHTg/edit) _currently under evaluation._
-* [Data Maturity Framework](https://www.dataorchard.org.uk/resources/data-maturity-framework)
-* [Call for Applications Google Docs Templates (🇬🇧 🇩🇪)](https://drive.google.com/drive/u/0/folders/1KR7dxTdLRhtDEsQspLnEEtA2vsYM7gan) _currently under evaluation._
-* [Ethics questionnaire and companion ](../the-ethics-questionnaire-and-its-companion-document.md)
-{% endhint %}
-
-
-
-{% hint style="info" %}
-**Relevant CorrelAid actors**
-
-* project coordinator
-* project lead (if found early)
-{% endhint %}
-
 #### **Goals**
 
 1. decide **whether** we should do a project with the organization
-2. if yes, scope the project
-
+2. if yes, **scope** the project
 
 ## Setting up the project
 
-### Add project to Kanban Board
-
-_currently under evaluation. ask in #team-project-coordination._
-
-<!-- We have a Kanban board in  to track the progress of all projects. Make sure to enter the project into the Kanban board to make the progress visible to everyone.
-
-Data on metadata of projects - mostly for finished projects - is maintained separately in Directus.&#x20; -->
-
-
-
 ### Communication and Note Taking
-
 
 In the scoping phase, you should aim to communicate regularly and repeatedly with the NPO to make sure that we a) really want to do a project with them and b) can define a project which will work for both the NPO and the CorrelAid team. Usually, **2-4 iterations over 1-4 weeks** are necessary to define a project so that we can send it out via our newsletter.
 
-In principle, you are free in how you communicate with the NPO: email, phone, video call or in-person are all valid choices. However, aim for **at least one personal conversation** (i.e. not email). It's a good idea to start sharing notes from the scoping process early with the NPO so that you can have a shared record of what your plans and ideas are. &#x20;
+In principle, you are free in how you communicate with the NPO: email, phone, video call or in-person are all valid choices. However, aim for **at least one personal conversation** (i.e. not email). It's a good idea to start sharing notes from the scoping process early with the NPO so that you can have a shared record of what your plans and ideas are.
 
 Write down initial discussions and ideas and then move towards formulating a call for applications. To do so, it makes sense to create two Google docs based on the templates in this [Google Drive](https://drive.google.com/drive/u/0/folders/1KR7dxTdLRhtDEsQspLnEEtA2vsYM7gan) folder.
 
-1. Create a subfolder for the project in the [`project-coordination` drive](https://drive.google.com/drive/u/0/folders/0ADQIkb8r9cK-Uk9PVA)&#x20;
-2. Create one Google doc for taking notes during the initial call(s) --> `template_scoping`.&#x20;
-3. Create another Google doc for the call for applications --> `template_call_for_applications` (there are German and English versions and a version for the projectcycle which would include multiple calls)&#x20;
+1. Create a subfolder for the project in the [`project-coordination` drive](https://drive.google.com/drive/u/0/folders/0ADQIkb8r9cK-Uk9PVA)
+2. Create one Google doc for taking notes during the initial call(s) --> `template_scoping`.
+3. Create another Google doc for the call for applications --> `template_call_for_applications` (there are German and English versions and a version for the projectcycle which would include multiple calls)
 
 To create the docs from the templates:
 
 1. open the [template folder](https://drive.google.com/drive/u/0/folders/1KR7dxTdLRhtDEsQspLnEEtA2vsYM7gan) and open the template you want. Select all content and copy to a new Google doc. **OR:**
-2. in the folder where you want to create the google doc (see step 1 above), right-click --> Google Docs --> From Template and then select the template from the gallery.&#x20;
+2. in the folder where you want to create the google doc (see step 1 above), right-click --> Google Docs --> From Template and then select the template from the gallery.
 
 ## Scoping
 
@@ -71,8 +39,6 @@ There are several things you need to discuss with the NPO over the course of the
 This is arguably the most interesting part. Here, you and the NPO should elaborate together what should be part of the project and how CorrelAid volunteers can help the NPO while at the same time having a good learning experience.
 
 **What's a good CorrelAid project? When should we do a project? When not?**
-
-
 
 The ethics questionnaire is a great place to get an overview over criteria and potential ethical no-gos that could prevent a project.
 
@@ -106,8 +72,6 @@ Another important part of the ideation phase is expectation management. You shou
 * ... CorrelAid is a **volunteer-based organization**. That means that the project team members are volunteers who will usually spend 3-5 hours per week on the project. It also means that rarely volunteers might drop out of the project because they're suddenly faced with other, unforeseen challenges in their life. CorrelAid is not a service provider or a business that can guarantee deliverables nor timelines.
 
 {% hint style="info" %}
-
-
 If the organization requires:
 
 * a certain quality of the output
@@ -128,7 +92,7 @@ In addition to those "soft" expectation management issues, you should also get t
 ### Data privacy & data access
 
 {% hint style="info" %}
-We have a data security and protection team which is happy to help you navigate this sometimes complex topic. You can find them in the [#data-protection-security](https://correlaid.slack.com/archives/C04TN7Y01LP) Slack channel.&#x20;
+We have a data security and protection team which is happy to help you navigate this sometimes complex topic. You can find them in the [#data-protection-security](https://correlaid.slack.com/archives/C04TN7Y01LP) Slack channel.
 {% endhint %}
 
 Data protection and privacy is very important to CorrelAid. Hence, you should find out early what kind of data is to be collected and/or analysed in the project so that the project lead and project team can take on appropriate measures to correctly store and process the data.
@@ -151,8 +115,8 @@ Most of the times, CorrelAid teams will get a pseudonymized version of the data 
 **Project setup**
 
 * DO: encrypt the data on local machines (see [howto](../data-security-and-privacy.md#data-encryption))
-* DO NOT: upload data to GitHub / GitLab&#x20;
-* DO: team members need to sign the _declaration on data protection and security_ (de: Datenschutzverpflichtungserklärung) (templates are [here](https://drive.google.com/drive/u/0/folders/1NR3bHoPWrzvR3pySiRQ61l\_BelMXksA\_))
+* DO NOT: upload data to GitHub / GitLab
+* DO: team members need to sign the _declaration on data protection and security_ (de: Datenschutzverpflichtungserklärung) (templates are [here](https://drive.google.com/drive/u/0/folders/1NR3bHoPWrzvR3pySiRQ61l_BelMXksA_))
 * DO (if very sensitive data): team members create separate user account on their machine just for the project
 {% endhint %}
 
@@ -186,8 +150,8 @@ If the NPO decides that they are ok with open sourcing code + data, you should h
 | ----------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Can the data be stored unencryped on the local machines?          | ✅      | Team members _**do not need**_ to use VeraCrypt or encrypt their home folder.                                                                                                                                                                                                                                                                |
 | Can the data be stored unencrypted on the local machines?         | ❌      | Team members _**need**_ to use VeraCrypt or encrypt their home folder.                                                                                                                                                                                                                                                                       |
-| Can the data be uploaded to a private GitHub  repository?         | ✅      | Team members _**can**_ _**upload**_ raw and all kinds of processed data to GitHub. The initial data transfer to the project team can be done using GitHub.                                                                                                                                                                                   |
-| Can the data be uploaded to a private GitHub  repository?         | ❌      | Team members _**cannot**_ _**upload**_ raw and processed data to GitHub. Instead, they should document relevant folder structures in the README of the repository and put the data folder in .gitignore. The initial data transfer to the project team _**needs**_ to be done via the [CorrelCloud](../../wiki/infrastructure/nextcloud.md). |
+| Can the data be uploaded to a private GitHub repository?          | ✅      | Team members _**can**_ _**upload**_ raw and all kinds of processed data to GitHub. The initial data transfer to the project team can be done using GitHub.                                                                                                                                                                                   |
+| Can the data be uploaded to a private GitHub repository?          | ❌      | Team members _**cannot**_ _**upload**_ raw and processed data to GitHub. Instead, they should document relevant folder structures in the README of the repository and put the data folder in .gitignore. The initial data transfer to the project team _**needs**_ to be done via the [CorrelCloud](../../wiki/infrastructure/nextcloud.md). |
 | Can the code and data be published to a public GitHub repository? | ✅      | The repository _**can be public**_. Appropriate licences for code and data _**need**_ to be chosen.                                                                                                                                                                                                                                          |
 | Can the code and data be published to a public GitHub repository? | ❌      | The repository _**cannot be public.**_                                                                                                                                                                                                                                                                                                       |
 
@@ -213,7 +177,7 @@ Finally, you should also agree on a rough **timeline**. A usual project can look
 | Final closing event                  | 1 hour (CorrelAid) public event where the team and the NPO present their result to interested CorrelAiders (or even the public) |
 | Follow-up                            | immediately after handover workshop and after several months                                                                    |
 
-Please always add in a bit of buffer. Holidays etc. are a thing, so you shouldn't plan with all volunteers working 3-5 hours on the project all weeks. &#x20;
+Please always add in a bit of buffer. Holidays etc. are a thing, so you shouldn't plan with all volunteers working 3-5 hours on the project all weeks.
 
 {% hint style="info" %}
 **Deadlines can be helpful!**
@@ -310,18 +274,18 @@ This depends on the project. To be as inclusive as possible, the English one sho
 
 ### Add project to KoboToolbox form
 
-For project applications, we have a [Kobotoolbox form](https://ee.correlaid.org/x/8ZibAmdq) that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form.&#x20;
+For project applications, we have a [Kobotoolbox form](https://ee.correlaid.org/x/8ZibAmdq) that we use for all projects. At the beginning of the survey, applicants are asked to select which project they want to apply to. Hence, you need to add your project to this sign-up form.
 
 1. Log into [https://kobo.correlaid.org/](https://kobo.correlaid.org/)
 2. Open the [form builder](https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/edithttps://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/edit) for the form "Applications for CorrelAid Projects".
-3. Click "add another response" under the question "Für welche Projekte möchtest Du dich bewerben?"&#x20;
+3. Click "add another response" under the question "Für welche Projekte möchtest Du dich bewerben?"
 
 * add the response option in the format {project\_id}: title of the project, e.g. _2022-04-LAU: A project title._ The : is important!
 * under XML value, add the project id, e.g _2022-04-LAU_. This is important for data cleaning to work when generating the HTML reports.
 
 {% embed url="https://youtu.be/qb8NMeEoK10" %}
 
-4. The question "Welche Rolle möchtest Du im jeweiligen Projekt einnehmen?" is a matrix question so the first block of its settings are the general configuration. Skip this and duplicate the block of one of the previous projects. You need to edit the title of the block but then also go to the settings (cog wheel) to edit the "data column name" there as well. &#x20;
+4. The question "Welche Rolle möchtest Du im jeweiligen Projekt einnehmen?" is a matrix question so the first block of its settings are the general configuration. Skip this and duplicate the block of one of the previous projects. You need to edit the title of the block but then also go to the settings (cog wheel) to edit the "data column name" there as well.
 
 {% embed url="https://youtu.be/Y9E8Ub93-eI" %}
 
@@ -329,17 +293,17 @@ For project applications, we have a [Kobotoolbox form](https://ee.correlaid.org/
 
 {% embed url="https://youtu.be/DIs_nHJGRm0" %}
 
-6. Save the current state and exit the form builder with the "X".&#x20;
+6. Save the current state and exit the form builder with the "X".
 7. Update the translations by going to the Form tab and clicking on the Globe emoji next to Languages. Click again on the globe emoji next to English and find the two entries that you added in the form. You can just copy-paste whatever you put into the form builder because we do not translate the call for applications either. Important: the project ID stays the same, regardless of language.
 
 {% embed url="https://youtu.be/QVQy9qB7lQk" %}
 
-8. Click "Redeploy" in the  ["Form" tab](https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/landing) to publish your changes
+8. Click "Redeploy" in the ["Form" tab](https://kobo.correlaid.org/#/forms/acsManbGEreNqC5NDDBMmy/landing) to publish your changes
 9. Now your project is live and you an send out the call for applications to our newsletter linking to the form with this link: [https://ee.correlaid.org/single/07382b4791fb16cf9bc1193c03848835](https://ee.correlaid.org/single/07382b4791fb16cf9bc1193c03848835) (this is the "online-only once per respondent" link)
 
 ### Send with Mailerlite
 
-Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our [Mailerlite](../../wiki/infrastructure/newsletter-mailerlite.md) newsletter list.&#x20;
+Once you're finished drafting your call for applications and have checked back with the organization to get a go-ahead, you can send it out to our network using our [Mailerlite](../../wiki/infrastructure/newsletter-mailerlite.md) newsletter list.
 
 {% hint style="info" %}
 **How can I only send to a local chapter?**
@@ -347,8 +311,8 @@ Once you're finished drafting your call for applications and have checked back w
 Local chapters are stored in Mailerlite as groups. When building your Mailerlite campaign, you can select specific group(s) at the end of the process.
 {% endhint %}
 
-1. log in to mailerlite using the projects@correlaid.org account&#x20;
-2. create a mailerlite campaign&#x20;
+1. log in to mailerlite using the projects@correlaid.org account
+2. create a mailerlite campaign
 3. content of the campaign:
 
 * if only one project: you can insert the whole call for applications into the mail

@@ -28,5 +28,3 @@ Peer reviewing someone else's code involves three things:
 Whenever the skills of the team allow for it, you should use [branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) and [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for this. [Pull request reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) are a great way to directly suggest changes.
 
 If a team member is still quite new to Git, a file-driven "review process" (e.g. `data_cleaning_jack.R`) is also acceptable as to not overwhelm them with Git. You can leave comments in the file and commit it back to Git or discuss your feedback in a GitHub issue. Always be kind to team members with less experience.
-
-##
