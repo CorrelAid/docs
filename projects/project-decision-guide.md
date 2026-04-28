@@ -7,6 +7,12 @@ description: >-
 
 # When do we do a project? When not?
 
+{% hint style="warning" %}
+This guide was written by Leo some years ago before the ethics commission was established. The document owned by the ethics committee is the [Companion Document](the-ethics-questionnaire-and-its-companion-document.md) which should be considered the Source of Truth.
+
+This document here will be phased out and deleted in a couple of months.&#x20;
+{% endhint %}
+
 You can use this page to learn more about the criteria that we have used _mostly implicitly_ for the past years when deciding on whether we want to do a project with a potential partner organisation. We have tried to put into words the informal thought and decision processes that have evolved over the past few years. If something is unclear, please let the ethics committee (#ask-the-ethics-committee on Slack) know.
 
 ## How to use this guide
