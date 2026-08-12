@@ -65,6 +65,12 @@ To create a layout for a certificate of attendance, you upload the pdf as a back
 {% endcolumn %}
 {% endcolumns %}
 
+
+
+You can configure the plugin so that participants can download their certificate after the event on the ticket page. The setting is under Einstellungen -> Teilnahmebescheinigungen.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-08-12 at 11.31.05 AM.png" alt=""><figcaption></figcaption></figure>
+
 ### Cancel an Event on Pretix
 
 Events that are created as independent events, can be cancelled via settings and "Cancel or Delete Event":

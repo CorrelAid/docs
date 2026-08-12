@@ -40,11 +40,12 @@ description: Step-by-step guide to having a workshop event at CorrelAid
 
 ### 4. During the Event &#x20;
 
-* [ ] :green\_heart: Document participants (e.g. screenshot and asap after the workshop in Pretix)
+* [ ] :green\_heart: Document participants (e.g. screenshot and check-in asap after the workshop in Pretix)
 * [ ] :green\_heart: Share feedback link with participants
 
-### 5. Follow-up&#x20;
+### 5. Follow-up &#x20;
 
-* [ ] :green\_heart: Send materials and feedback link to participants (either template in Education Mail or directly via Pretix)&#x20;
+* [ ] :green\_heart:Send materials and feedback link to participants (either template in Education Mail or directly via Pretix) &#x20;
+* [ ] :green\_heart: Configure certificate of attendance in [Pretix](../../wiki/infrastructure/pretix.md#certificates-of-attendance) (if relevant)
 * [ ] :green\_heart: Forward feedback to speakers
 * [ ] :office: Document number of participants and feedback in our [monitoring overview](https://docs.google.com/spreadsheets/d/17EuFJD0flqb1JKbsXo4PgCCs4JMYKiPEwwLIM8mSKhU/edit?usp=sharing)
