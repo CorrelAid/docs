@@ -37,13 +37,46 @@ A few things to know about the preview environment:
 * It runs in **dev mode**, which makes the site noticeably slower than production — the server is small and pages are rendered on demand. This is expected.
 * Because content is fetched live, you can also preview edits to pages authored in MDX (see below) directly from [cms.correlaid.org/admin/content/pages](https://cms.correlaid.org/admin/content/pages).
 
-### Editing MDX content
+### Pages
 
-Pages are stored as [mdx](https://mdxjs.com/) Markdown with embedded JSX components. There is a learning curve compared to a WYSIWYG editor, but you see everything at a glance and it is easier for developers to work with.
+* Almost every page on the website (meaning smth that as a url, like [https://correlaid.org/ueber/wirkung](https://correlaid.org/ueber/wirkung)) has a corresponding entry in the collection called `Pages` . Exceptions are pages that contain lists or are entirely generated from an entry in a collection like Events.
+* You can identify a page by its page key. This is an english identifier you an search the collection for (e.g. Wirkung -> search for impact). Use the search bar in the top right of the collection view: [https://cms.correlaid.org/admin/content/pages](https://cms.correlaid.org/admin/content/pages)
+* The pages collection contains content mainly in .mdx (a form of markdown, see below)
+
+#### Editing MDX content
+
+**Pages** are stored as [mdx](https://mdxjs.com/) Markdown with embedded JSX components. There is a learning curve compared to a WYSIWYG editor, but you see everything at a glance and it is easier for developers to work with.
 
 To make MDX easier to author inside Directus, we use a CorrelAid-developed extension: [`directus-extension-mdx-editor`](https://github.com/CorrelAid/directus-extension-mdx-editor). The editor replaces the plain textarea on MDX fields with a CodeMirror-based editor and gives you syntax highlighting, autocomplete and other things.
 
 If you see an orange squiggle under a component name, it usually means you mistyped the component or that the component does not exist — check the autocomplete suggestions. If you see a red squiggle, the MDX won't render at all on the website; fix the syntax before saving.
+
+### Uploading and referencing files&#x20;
+
+* Directus includes a built in file manager: [https://cms.correlaid.org/admin/files](https://cms.correlaid.org/admin/files)&#x20;
+* **All files uploaded there are public**
+* We try to organize files by associated collection or purpose (see folder in the side bar)
+* If you want to upload a pdf-document, go to the folder called `Documents` , and click on `upload file` to upload a file
+  *   Note: We configured Directus to enforce specific file types and file sizes, so contact an admin if u run into those or try to adjust your file (compress it etc.). These are the settings:
+
+      ```yaml
+            - FILES_MAX_UPLOAD_SIZE=10mb
+            - 'FILES_MIME_TYPE_ALLOW_LIST=image/*,application/pdf'
+      ```
+
+
+* To get a public URL for the file, go to the image you uploaded and check out the section "Image Details" in the left sidebar. It contains the link \*Open in New Window\*. The URL you will be forwarded to when you click on this, is the URL you can use to reference a file.
+  * Example: [https://cms.correlaid.org/assets/f36e5667-e20d-4af6-aeac-0c5ccf08ca7f](https://cms.correlaid.org/assets/f36e5667-e20d-4af6-aeac-0c5ccf08ca7f)&#x20;
+  * Always make sure to use a URL that contains \*assets\* to make sure people are not forwarded to the CMS itself.
+*   To add the URL to the website, for example on a page, go to the page entry you would like to edit and add that link to the mdx.&#x20;
+
+    * Example:
+
+
+
+    ```markdown
+    ‌Unseren Wirkungsbericht findet ihr [hier](https://cms.correlaid.org/assets/f36e5667-e20d-4af6-aeac-0c5ccf08ca7f).
+    ```
 
 ### Removing empty translations
 
