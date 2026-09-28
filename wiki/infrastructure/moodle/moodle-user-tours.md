@@ -54,4 +54,6 @@ The screenshot below shows the edit form of the step "Inhaltsverzeichnis" (table
 
 ## Testing
 
-You can test the tour as often as you like: click the question mark on the course page and select "Reset user tour on this page" ("Tour erneut anzeigen" in the German interface).
+You can test the tour as often as you like: click the question mark on the course page (in the bottom right corner) and select "Reset user tour on this page" ("Tour erneut anzeigen" in the German interface).
+
+<figure><img src="../../../.gitbook/assets/07_ut_test.png" alt=""><figcaption></figcaption></figure>
