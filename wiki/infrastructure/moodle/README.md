@@ -85,6 +85,65 @@ To create a new quiz yourself, you can either click on the gear icon next to the
 
 Once you have created and saved a content page, you can add further content pages under “Actions.” There you will also find an overview of the jumps from each content page, and you can edit each content page individually (pencil icon) and change the order (arrow icon).
 
+**Embedding external content with HTML**
+
+Besides Canva slides or H5P content, you can embed other web content on a content page and combine it with text and H5P using the HTML source code view of the editor.
+
+_**Example 1**_: A part of an external interaktive webpage is embedded with an `<iframe>` and combined with plain text and an H5P quiz.
+
+<figure><img src="../../../.gitbook/assets/content_moodle_webpage.png" alt="" width="293"><figcaption></figcaption></figure>
+
+_How the cropping works:_ The iframe loads the whole webpage, and a surrounding `<div>` shows only a small window of it:
+
+````
+```html
+<div style="width: 100%; height: 430px; overflow: hidden;">
+  <iframe
+    title="Histogram with adjustable bin size"
+    style="width: 2200px; height: 5000px; border: 0;
+           transform-origin: 0 0;
+           transform: translate(-395px, -1310px) scale(0.723);"
+    src="https://www.react-graph-gallery.com/example/histogram-slider-bin-size"
+    scrolling="no" loading="lazy">
+  </iframe>
+</div>
+```
+````
+
+* **`height`** of the di&#x76;**:** height of the visible window
+* **`overflow: hidden`:** hides everything outside the window
+* **`scale()`:** shrinks the page (0.723 = 72.3 %)
+* **`translate()`:** moves the page so the part you want lies inside the window. Negative values move it left and up.
+
+The main challenge is finding the right values.&#x20;
+
+_**Example 2: Custom buttons**_
+
+Using the same approach, you can design custom buttons in the HTML source code view to make navigation clearer and more user-friendly, as shown in the screenshot.
+
+<figure><img src="../../../.gitbook/assets/content_moodle_button.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Code:
+
+```
+<p>Bitte bearbeite nun den folgenden Selbsttest (öffnet sich in einem neuen Browser-Tab):</p>
+
+<p style="text-align: center;">
+  <a style="background: #68aabe; color: white; font-weight: bold;
+            padding: 14px 22px; text-decoration: none; border-radius: 8px;
+            display: inline-block; font-size: 18px;"
+     href="https://correlaid.lernerfolg.info/mod/h5pactivity/view.php?id=484"
+     target="_blank" rel="noopener">👉 Selbsttest starten</a>
+</p>
+
+<p style="margin-top: 6px;">Danach kommst du hierher zurück und klickst auf „Nächstes Kapitel“.</p>
+```
+
+* **`background` / `color`:** button and text color
+* **`padding`, `border-radius`, `font-size`:** size and shape of the button
+* **`href`:** target of the button. Adjust the link when you reuse the code in another course, otherwise it points to the old activity.
+* **`target="_blank"`:** opens the link in a new tab
+
 ### 4. Test
 
 To test if everything is displayed the right way, you can switch your role to “participant.”
